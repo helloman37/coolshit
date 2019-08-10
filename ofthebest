@@ -1,496 +1,494 @@
 #EXTM3U
 #My Channels Bitch
-#EXTINF:-1 tvg-id="ae.east.USA" tvg-name="ae.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/ae.east.USA.png",A&E USA (203844)
+#EXTINF:-1 group-title="USA CHANNELS",A&E US (203844)
 https://api.vpnmate.com/play/?vlc=1&channel=203844&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="ae.east.USA" tvg-name="ae.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/ae.east.USA.png",A&E USA (200410)
+#EXTINF:-1 group-title="USA CHANNELS",A&E USA (200410)
 https://api.vpnmate.com/play/?vlc=1&channel=200410&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="ae.east.USA" tvg-name="ae.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/ae.east.USA.png",A&E USA (1018515)
+#EXTINF:-1 group-title="USA CHANNELS",A&E USA (1018515)
 https://api.vpnmate.com/play/?vlc=1&channel=1018515&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="abc.USA" tvg-name="abc.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/abc.USA.png",ABC USA (206053)
+#EXTINF:-1 group-title="USA CHANNELS",ABC USA (206053)
 https://api.vpnmate.com/play/?vlc=1&channel=206053&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="adult.swim.east.USA" tvg-name="adult.swim.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/adult.swim.east.USA.png",Adult Swim (east) USA (100066)
+#EXTINF:-1 group-title="USA CHANNELS",Adult Swim (east) USA (100066)
 https://api.vpnmate.com/play/?vlc=1&channel=100066&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="adult.swim.east.USA" tvg-name="adult.swim.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/adult.swim.east.USA.png",Adult Swim (east) USA (100067)
+#EXTINF:-1 group-title="USA CHANNELS",Adult Swim (east) USA (100067)
 https://api.vpnmate.com/play/?vlc=1&channel=100067&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="amc.ps.USA" tvg-name="amc.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/amc.ps.USA.png",AMC (5025182)
+#EXTINF:-1 group-title="USA CHANNELS",AMC (5025182)
 https://api.vpnmate.com/play/?vlc=1&channel=5025182&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="amc.east.USA" tvg-name="amc.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/amc.east.USA.png",AMC (East) USA (406510)
+#EXTINF:-1 group-title="USA CHANNELS",AMC (East) USA (406510)
 https://api.vpnmate.com/play/?vlc=1&channel=406510&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="amc.east.USA" tvg-name="amc.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/amc.east.USA.png",AMC (East) USA (200418)
+#EXTINF:-1 group-title="USA CHANNELS",AMC (East) USA (200418)
 https://api.vpnmate.com/play/?vlc=1&channel=200418&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="amc.east.USA" tvg-name="amc.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/amc.east.USA.png",AMC (East) USA (3005883)
+#EXTINF:-1 group-title="USA CHANNELS",AMC (East) USA (3005883)
 https://api.vpnmate.com/play/?vlc=1&channel=3005883&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="american.heroes.channel.USA" tvg-name="american.heroes.channel.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/american.heroes.channel.USA.png",American Heroes Channel (1018493)
+#EXTINF:-1 group-title="USA CHANNELS",American Heroes Channel (1018493)
 https://api.vpnmate.com/play/?vlc=1&channel=1018493&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="ahc.ps.USA" tvg-name="ahc.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/ahc.ps.USA.png",American Heroes Channel (5025109)
+#EXTINF:-1 group-title="USA CHANNELS",American Heroes Channel (5025109)
 https://api.vpnmate.com/play/?vlc=1&channel=5025109&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="apl.ps.USA" tvg-name="apl.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/apl.ps.USA.png",Animal Planet (5025077)
+#EXTINF:-1 group-title="USA CHANNELS",Animal Planet (5025077)
 https://api.vpnmate.com/play/?vlc=1&channel=5025077&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="animal.planet.east.USA" tvg-name="animal.planet.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/animal.planet.east.USA.png",Animal Planet USA (200433)
+#EXTINF:-1 group-title="USA CHANNELS",Animal Planet USA (200433)
 https://api.vpnmate.com/play/?vlc=1&channel=200433&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="antenna.network.USA" tvg-name="antenna.network.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/antenna.network.USA.png",Antenna Network (232559)
+#EXTINF:-1 group-title="USA CHANNELS",Antenna Network (232559)
 https://api.vpnmate.com/play/?vlc=1&channel=232559&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="aspire.tv.USA" tvg-name="aspire.tv.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/aspire.tv.USA.png",ASPiRE TV (1123531)
+#EXTINF:-1 group-title="USA CHANNELS",ASPiRE TV (1123531)
 https://api.vpnmate.com/play/?vlc=1&channel=1123531&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="axs.tv.USA" tvg-name="axs.tv.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/axs.tv.USA.png",AXS TV (1076022)
+#EXTINF:-1 group-title="USA CHANNELS",AXS TV (1076022)
 https://api.vpnmate.com/play/?vlc=1&channel=1076022&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="baby.first.tv.USA" tvg-name="baby.first.tv.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/baby.first.tv.USA.png",Baby Tv USA (213296)
+#EXTINF:-1 group-title="USA CHANNELS",Baby Tv USA (213296)
 https://api.vpnmate.com/play/?vlc=1&channel=213296&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="bbca.ps.USA" tvg-name="bbca.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/bbca.ps.USA.png",BBC America (5025389)
+#EXTINF:-1 group-title="USA CHANNELS",BBC America (5025389)
 https://api.vpnmate.com/play/?vlc=1&channel=5025389&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="bbc.america.east.USA" tvg-name="bbc.america.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/bbc.america.east.USA.png",BBC America (1018489)
+#EXTINF:-1 group-title="USA CHANNELS",BBC America (1018489)
 https://api.vpnmate.com/play/?vlc=1&channel=1018489&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="bbcnahd.ps.USA" tvg-name="bbcnahd.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/bbcnahd.ps.USA.png",BBC World News (5025464)
+#EXTINF:-1 group-title="USA CHANNELS",BBC World News (5025464)
 https://api.vpnmate.com/play/?vlc=1&channel=5025464&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="bet.east.USA" tvg-name="bet.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/bet.east.USA.png",Bet (east) USA (204163)
+#EXTINF:-1 group-title="USA CHANNELS",Bet (east) USA (204163)
 https://api.vpnmate.com/play/?vlc=1&channel=204163&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="bet.west.USA" tvg-name="bet.west.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/bet.west.USA.png",Bet (west) USA (206079)
+#EXTINF:-1 group-title="USA CHANNELS",Bet (west) USA (206079)
 https://api.vpnmate.com/play/?vlc=1&channel=206079&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="bet.her.USA" tvg-name="bet.her.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/bet.her.USA.png",Bet Her USA (1018484)
+#EXTINF:-1 group-title="USA CHANNELS",Bet Her USA (1018484)
 https://api.vpnmate.com/play/?vlc=1&channel=1018484&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="bloomberg.tv.USA" tvg-name="bloomberg.tv.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/bloomberg.tv.USA.png",Bloomberg USA (200250)
+#EXTINF:-1 group-title="USA CHANNELS",Bloomberg USA (200250)
 https://api.vpnmate.com/play/?vlc=1&channel=200250&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="boomerang.USA" tvg-name="boomerang.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/boomerang.USA.png",Boomerang (3005808)
+#EXTINF:-1 group-title="USA CHANNELS",Boomerang (3005808)
 https://api.vpnmate.com/play/?vlc=1&channel=3005808&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="boomerang.USA" tvg-name="boomerang.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/boomerang.USA.png",Boomerang (206260)
+#EXTINF:-1 group-title="USA CHANNELS",Boomerang (206260)
 https://api.vpnmate.com/play/?vlc=1&channel=206260&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="boom.ps.USA" tvg-name="boom.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/boom.ps.USA.png",Boomerang (5007177)
+#EXTINF:-1 group-title="USA CHANNELS",Boomerang (5007177)
 https://api.vpnmate.com/play/?vlc=1&channel=5007177&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="bounce.network.USA" tvg-name="bounce.network.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/bounce.network.USA.png",Bounce Network (1018479)
+#EXTINF:-1 group-title="USA CHANNELS",Bounce Network (1018479)
 https://api.vpnmate.com/play/?vlc=1&channel=1018479&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="bravo.ps.USA" tvg-name="bravo.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/bravo.ps.USA.png",Bravo (5013461)
+#EXTINF:-1 group-title="USA CHANNELS",Bravo (5013461)
 https://api.vpnmate.com/play/?vlc=1&channel=5013461&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="bravo.east.USA" tvg-name="bravo.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/bravo.east.USA.png",Bravo (East) (3005893)
+#EXTINF:-1 group-title="USA CHANNELS",Bravo (East) (3005893)
 https://api.vpnmate.com/play/?vlc=1&channel=3005893&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="bravo.east.USA" tvg-name="bravo.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/bravo.east.USA.png",Bravo (East) (1024210)
+#EXTINF:-1 group-title="USA CHANNELS",Bravo (East) (1024210)
 https://api.vpnmate.com/play/?vlc=1&channel=1024210&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="bravo.west.USA" tvg-name="bravo.west.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/bravo.west.USA.png",Bravo USA (6060)
+#EXTINF:-1 group-title="USA CHANNELS",Bravo USA (6060)
 https://api.vpnmate.com/play/?vlc=1&channel=6060&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="bravo.west.USA" tvg-name="bravo.west.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/bravo.west.USA.png",Bravo USA (1059451)
+#EXTINF:-1 group-title="USA CHANNELS",Bravo USA (1059451)
 https://api.vpnmate.com/play/?vlc=1&channel=1059451&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="bigten.ps.USA" tvg-name="bigten.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/bigten.ps.USA.png",BTN (5025017)
+#EXTINF:-1 group-title="USA CHANNELS",BTN (5025017)
 https://api.vpnmate.com/play/?vlc=1&channel=5025017&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="buzzr.tv.USA" tvg-name="buzzr.tv.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/buzzr.tv.USA.png",Buzzr TV (1018476)
+#EXTINF:-1 group-title="USA CHANNELS",Buzzr TV (1018476)
 https://api.vpnmate.com/play/?vlc=1&channel=1018476&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cspan.USA" tvg-name="cspan.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cspan.USA.png",C-SPAN (288771)
+#EXTINF:-1 group-title="USA CHANNELS",C-SPAN (288771)
 https://api.vpnmate.com/play/?vlc=1&channel=288771&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cspan.2.USA" tvg-name="cspan.2.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cspan.2.USA.png",C-SPAN 2 (288769)
+#EXTINF:-1 group-title="USA CHANNELS",C-SPAN 2 (288769)
 https://api.vpnmate.com/play/?vlc=1&channel=288769&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cspan.3.USA" tvg-name="cspan.3.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cspan.3.USA.png",C-SPAN 3 (288770)
+#EXTINF:-1 group-title="USA CHANNELS",C-SPAN 3 (288770)
 https://api.vpnmate.com/play/?vlc=1&channel=288770&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="toonp.ps.USA" tvg-name="toonp.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/toonp.ps.USA.png",Cartoon Network (5025164)
+#EXTINF:-1 group-title="USA CHANNELS",Cartoon Network (5025164)
 https://api.vpnmate.com/play/?vlc=1&channel=5025164&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cartoon.network.west.USA" tvg-name="cartoon.network.west.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cartoon.network.west.USA.png",Cartoon Network USA (200498)
+#EXTINF:-1 group-title="USA CHANNELS",Cartoon Network USA (200498)
 https://api.vpnmate.com/play/?vlc=1&channel=200498&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cbs.kcal.9.USA" tvg-name="cbs.kcal.9.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cbs.kcal.9.USA.png",CBS KCAL9 (3006498)
+#EXTINF:-1 group-title="USA CHANNELS",CBS KCAL9 (3006498)
 https://api.vpnmate.com/play/?vlc=1&channel=3006498&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cbs.kcop.USA" tvg-name="cbs.kcop.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cbs.kcop.USA.png",CBS KCOP (1119676)
+#EXTINF:-1 group-title="USA CHANNELS",CBS KCOP (1119676)
 https://api.vpnmate.com/play/?vlc=1&channel=1119676&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cbssn.ps.USA" tvg-name="cbssn.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cbssn.ps.USA.png",CBS Sports Network (5025069)
+#EXTINF:-1 group-title="USA CHANNELS",CBS Sports Network (5025069)
 https://api.vpnmate.com/play/?vlc=1&channel=5025069&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="max.ps.USA" tvg-name="max.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/max.ps.USA.png",Cinemax (5025353)
+#EXTINF:-1 group-title="USA CHANNELS",Cinemax (5025353)
 https://api.vpnmate.com/play/?vlc=1&channel=5025353&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cinemax.east.USA" tvg-name="cinemax.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cinemax.east.USA.png",Cinemax (East) USA (200470)
+#EXTINF:-1 group-title="USA CHANNELS",Cinemax (East) USA (200470)
 https://api.vpnmate.com/play/?vlc=1&channel=200470&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cinemax.west.USA" tvg-name="cinemax.west.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cinemax.west.USA.png",Cinemax (West) USA (215023)
+#EXTINF:-1 group-title="USA CHANNELS",Cinemax (West) USA (215023)
 https://api.vpnmate.com/play/?vlc=1&channel=215023&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cinemax.action.USA" tvg-name="cinemax.action.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cinemax.action.USA.png",CineMax Action USA (1018459)
+#EXTINF:-1 group-title="USA CHANNELS",CineMax Action USA (1018459)
 https://api.vpnmate.com/play/?vlc=1&channel=1018459&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cmt.east.USA" tvg-name="cmt.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cmt.east.USA.png",CMT (3005913)
+#EXTINF:-1 group-title="USA CHANNELS",CMT (3005913)
 https://api.vpnmate.com/play/?vlc=1&channel=3005913&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cnbc.ps.USA" tvg-name="cnbc.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cnbc.ps.USA.png",CNBC (5004336)
+#EXTINF:-1 group-title="USA CHANNELS",CNBC (5004336)
 https://api.vpnmate.com/play/?vlc=1&channel=5004336&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cnbc.USA" tvg-name="cnbc.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cnbc.USA.png",CNBC USA (6081)
+#EXTINF:-1 group-title="USA CHANNELS",CNBC USA (6081)
 https://api.vpnmate.com/play/?vlc=1&channel=6081&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cnbcwld.ps.USA" tvg-name="cnbcwld.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cnbcwld.ps.USA.png",CNBC World (5007320)
+#EXTINF:-1 group-title="USA CHANNELS",CNBC World (5007320)
 https://api.vpnmate.com/play/?vlc=1&channel=5007320&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cnn.ps.USA" tvg-name="cnn.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cnn.ps.USA.png",CNN (5013468)
+#EXTINF:-1 group-title="USA CHANNELS",CNN (5013468)
 https://api.vpnmate.com/play/?vlc=1&channel=5013468&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cnn.USA" tvg-name="cnn.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cnn.USA.png",CNN USA (3005807)
+#EXTINF:-1 group-title="USA CHANNELS",CNN USA (3005807)
 https://api.vpnmate.com/play/?vlc=1&channel=3005807&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cnn.USA" tvg-name="cnn.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cnn.USA.png",CNN USA (201039)
+#EXTINF:-1 group-title="USA CHANNELS",CNN USA (201039)
 https://api.vpnmate.com/play/?vlc=1&channel=201039&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cnn.USA" tvg-name="cnn.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cnn.USA.png",CNN USA (200503)
+#EXTINF:-1 group-title="USA CHANNELS",CNN USA (200503)
 https://api.vpnmate.com/play/?vlc=1&channel=200503&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cnn.USA" tvg-name="cnn.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cnn.USA.png",CNN USA (203910)
+#EXTINF:-1 group-title="USA CHANNELS",CNN USA (203910)
 https://api.vpnmate.com/play/?vlc=1&channel=203910&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="comedy.central.east.USA" tvg-name="comedy.central.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/comedy.central.east.USA.png",Comedy Central USA (200412)
+#EXTINF:-1 group-title="USA CHANNELS",Comedy Central USA (200412)
 https://api.vpnmate.com/play/?vlc=1&channel=200412&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="comedy.central.east.USA" tvg-name="comedy.central.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/comedy.central.east.USA.png",Comedy Central USA (206060)
+#EXTINF:-1 group-title="USA CHANNELS",Comedy Central USA (206060)
 https://api.vpnmate.com/play/?vlc=1&channel=206060&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cook.ps.USA" tvg-name="cook.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cook.ps.USA.png",Cooking Channel (5003714)
+#EXTINF:-1 group-title="USA CHANNELS",Cooking Channel (5003714)
 https://api.vpnmate.com/play/?vlc=1&channel=5003714&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="the.cooking.channel.USA" tvg-name="the.cooking.channel.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/the.cooking.channel.USA.png",Cooking Channel USA (200640)
+#EXTINF:-1 group-title="USA CHANNELS",Cooking Channel USA (200640)
 https://api.vpnmate.com/play/?vlc=1&channel=200640&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="the.cowboy.channel.USA" tvg-name="the.cowboy.channel.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/the.cowboy.channel.USA.png",Cowboy Channel (1108734)
+#EXTINF:-1 group-title="USA CHANNELS",Cowboy Channel (1108734)
 https://api.vpnmate.com/play/?vlc=1&channel=1108734&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cozi.network.USA" tvg-name="cozi.network.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cozi.network.USA.png",COZI Network (200556)
+#EXTINF:-1 group-title="USA CHANNELS",COZI Network (200556)
 https://api.vpnmate.com/play/?vlc=1&channel=200556&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="crime.investigation.USA" tvg-name="crime.investigation.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/crime.investigation.USA.png",Crime and Investigation (1018444)
+#EXTINF:-1 group-title="USA CHANNELS",Crime and Investigation (1018444)
 https://api.vpnmate.com/play/?vlc=1&channel=1018444&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="cw.wpsg.philadelphia.pa.USA" tvg-name="cw.wpsg.philadelphia.pa.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/cw.wpsg.philadelphia.pa.USA.png",CW PA USA (200600)
+#EXTINF:-1 group-title="USA CHANNELS",CW PA USA (200600)
 https://api.vpnmate.com/play/?vlc=1&channel=200600&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="dest.ps.USA" tvg-name="dest.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/dest.ps.USA.png",Destination America (5007830)
+#EXTINF:-1 group-title="USA CHANNELS",Destination America (5007830)
 https://api.vpnmate.com/play/?vlc=1&channel=5007830&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="destination.america.USA" tvg-name="destination.america.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/destination.america.USA.png",Destination America USA (204220)
+#EXTINF:-1 group-title="USA CHANNELS",Destination America USA (204220)
 https://api.vpnmate.com/play/?vlc=1&channel=204220&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="dsc.ps.USA" tvg-name="dsc.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/dsc.ps.USA.png",Discovery (5025076)
+#EXTINF:-1 group-title="USA CHANNELS",Discovery (5025076)
 https://api.vpnmate.com/play/?vlc=1&channel=5025076&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="discovery.channel.east.USA" tvg-name="discovery.channel.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/discovery.channel.east.USA.png",Discovery Channel USA (200428)
+#EXTINF:-1 group-title="USA CHANNELS",Discovery Channel USA (200428)
 https://api.vpnmate.com/play/?vlc=1&channel=200428&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="dfc.ps.USA" tvg-name="dfc.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/dfc.ps.USA.png",Discovery Family (5025095)
+#EXTINF:-1 group-title="USA CHANNELS",Discovery Family (5025095)
 https://api.vpnmate.com/play/?vlc=1&channel=5025095&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="discovery.family.channel.USA" tvg-name="discovery.family.channel.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/discovery.family.channel.USA.png",Discovery Family USA (206062)
+#EXTINF:-1 group-title="USA CHANNELS",Discovery Family USA (206062)
 https://api.vpnmate.com/play/?vlc=1&channel=206062&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="discovery.life.channel.USA" tvg-name="discovery.life.channel.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/discovery.life.channel.USA.png",Discovery Life (244568)
+#EXTINF:-1 group-title="USA CHANNELS",Discovery Life (244568)
 https://api.vpnmate.com/play/?vlc=1&channel=244568&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="dlc.ps.USA" tvg-name="dlc.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/dlc.ps.USA.png",Discovery Life Channel (5025209)
+#EXTINF:-1 group-title="USA CHANNELS",Discovery Life Channel (5025209)
 https://api.vpnmate.com/play/?vlc=1&channel=5025209&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="disnp.ps.USA" tvg-name="disnp.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/disnp.ps.USA.png",Disney Channel (5025023)
+#EXTINF:-1 group-title="USA CHANNELS",Disney Channel (5025023)
 https://api.vpnmate.com/play/?vlc=1&channel=5025023&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="disney.east.USA" tvg-name="disney.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/disney.east.USA.png",Disney Channel USA (200585)
+#EXTINF:-1 group-title="USA CHANNELS",Disney Channel USA (200585)
 https://api.vpnmate.com/play/?vlc=1&channel=200585&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="disney.junior.east.USA" tvg-name="disney.junior.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/disney.junior.east.USA.png",Disney Jr USA (201064)
+#EXTINF:-1 group-title="USA CHANNELS",Disney Jr USA (201064)
 https://api.vpnmate.com/play/?vlc=1&channel=201064&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="djch.ps.USA" tvg-name="djch.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/djch.ps.USA.png",Disney Junior (5025272)
+#EXTINF:-1 group-title="USA CHANNELS",Disney Junior (5025272)
 https://api.vpnmate.com/play/?vlc=1&channel=5025272&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="dxd.ps.USA" tvg-name="dxd.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/dxd.ps.USA.png",Disney XD (5012865)
+#EXTINF:-1 group-title="USA CHANNELS",Disney XD (5012865)
 https://api.vpnmate.com/play/?vlc=1&channel=5012865&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="disney.xd.east.USA" tvg-name="disney.xd.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/disney.xd.east.USA.png",Disney Xd USA (205901)
-https://api.vpnmate.com/play/?vlc=1&channel=205901&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="disney.xd.east.USA" tvg-name="disney.xd.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/disney.xd.east.USA.png",Disney Xd USA (201063)
+#EXTINF:-1 group-title="USA CHANNELS",Disney Xd USA (201063)
 https://api.vpnmate.com/play/?vlc=1&channel=201063&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="diy.ps.USA" tvg-name="diy.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/diy.ps.USA.png",DIY (5025093)
+#EXTINF:-1 group-title="USA CHANNELS",DIY (5025093)
 https://api.vpnmate.com/play/?vlc=1&channel=5025093&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="do.it.yourself.network.east.USA" tvg-name="do.it.yourself.network.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/do.it.yourself.network.east.USA.png",DIY Network USA (206527)
+#EXTINF:-1 group-title="USA CHANNELS",DIY Network USA (206527)
 https://api.vpnmate.com/play/?vlc=1&channel=206527&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="do.it.yourself.network.USA" tvg-name="do.it.yourself.network.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/do.it.yourself.network.USA.png",Do It Yourself Network (1018425)
+#EXTINF:-1 group-title="USA CHANNELS",Do It Yourself Network (1018425)
 https://api.vpnmate.com/play/?vlc=1&channel=1018425&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="dog.tv.USA" tvg-name="dog.tv.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/dog.tv.USA.png",Dog TV (1120659)
+#EXTINF:-1 group-title="USA CHANNELS",Dog TV (1120659)
 https://api.vpnmate.com/play/?vlc=1&channel=1120659&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="e.ps.USA" tvg-name="e.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/e.ps.USA.png",E! Entertainment (5000441)
+#EXTINF:-1 group-title="USA CHANNELS",E! Entertainment (5000441)
 https://api.vpnmate.com/play/?vlc=1&channel=5000441&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="e.entertainment.east.USA" tvg-name="e.entertainment.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/e.entertainment.east.USA.png",E! Entertainment (Eest) (200529)
+#EXTINF:-1 group-title="USA CHANNELS",E! Entertainment (Eest) (200529)
 https://api.vpnmate.com/play/?vlc=1&channel=200529&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="e.entertainment.west.USA" tvg-name="e.entertainment.west.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/e.entertainment.west.USA.png",E! Entertainment (West) (1018422)
+#EXTINF:-1 group-title="USA CHANNELS",E! Entertainment (West) (1018422)
 https://api.vpnmate.com/play/?vlc=1&channel=1018422&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="epix.east.USA" tvg-name="epix.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/epix.east.USA.png",EPIX (East) (3005858)
+#EXTINF:-1 group-title="USA CHANNELS",EPIX (East) (3005858)
 https://api.vpnmate.com/play/?vlc=1&channel=3005858&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="epix2.east.USA" tvg-name="epix2.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/epix2.east.USA.png",Epix 2 (3008644)
+#EXTINF:-1 group-title="USA CHANNELS",Epix 2 (3008644)
 https://api.vpnmate.com/play/?vlc=1&channel=3008644&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="epix.hits.USA" tvg-name="epix.hits.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/epix.hits.USA.png",EPIX Hits (3005857)
+#EXTINF:-1 group-title="USA CHANNELS",EPIX Hits (3005857)
 https://api.vpnmate.com/play/?vlc=1&channel=3005857&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="food.ps.USA" tvg-name="food.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/food.ps.USA.png",Food Network (5005414)
+#EXTINF:-1 group-title="USA CHANNELS",Food Network (5005414)
 https://api.vpnmate.com/play/?vlc=1&channel=5005414&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="food.network.east.USA" tvg-name="food.network.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/food.network.east.USA.png",Food Network (East) (6070)
+#EXTINF:-1 group-title="USA CHANNELS",Food Network (East) (6070)
 https://api.vpnmate.com/play/?vlc=1&channel=6070&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="food.network.east.USA" tvg-name="food.network.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/food.network.east.USA.png",Food Network (East) (3005826)
+#EXTINF:-1 group-title="USA CHANNELS",Food Network (East) (3005826)
 https://api.vpnmate.com/play/?vlc=1&channel=3005826&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="fbn.ps.USA" tvg-name="fbn.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/fbn.ps.USA.png",FOX BUSAiness Network (5012378)
+#EXTINF:-1 group-title="USA CHANNELS",FOX BUSAiness Network (5012378)
 https://api.vpnmate.com/play/?vlc=1&channel=5012378&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="foxbUSAiness.USA" tvg-name="foxbUSAiness.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/foxbUSAiness.USA.png",Fox BUSAiness USA (203857)
+#EXTINF:-1 group-title="USA CHANNELS",Fox BUSAiness USA (203857)
 https://api.vpnmate.com/play/?vlc=1&channel=203857&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="fnc.ps.USA" tvg-name="fnc.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/fnc.ps.USA.png",FOX News Channel (5013239)
+#EXTINF:-1 group-title="USA CHANNELS",FOX News Channel (5013239)
 https://api.vpnmate.com/play/?vlc=1&channel=5013239&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="foxnews.USA" tvg-name="foxnews.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/foxnews.USA.png",Fox News USA (200551)
+#EXTINF:-1 group-title="USA CHANNELS",Fox News USA (200551)
 https://api.vpnmate.com/play/?vlc=1&channel=200551&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="fox.news.USA" tvg-name="fox.news.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/fox.news.USA.png",FOX News USA (6077)
+#EXTINF:-1 group-title="USA CHANNELS",FOX News USA (6077)
 https://api.vpnmate.com/play/?vlc=1&channel=6077&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="fs1.ps.USA" tvg-name="fs1.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/fs1.ps.USA.png",Fox Sports 1 (5025039)
+#EXTINF:-1 group-title="USA CHANNELS",Fox Sports 1 (5025039)
 https://api.vpnmate.com/play/?vlc=1&channel=5025039&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="freeform.east.USA" tvg-name="freeform.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/freeform.east.USA.png",Freeform (3005892)
+#EXTINF:-1 group-title="USA CHANNELS",Freeform (3005892)
 https://api.vpnmate.com/play/?vlc=1&channel=3005892&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="fUSAe.tv.west.USA" tvg-name="fUSAe.tv.west.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/fUSAe.tv.west.USA.png",FUSAE TV (West) (3005891)
+#EXTINF:-1 group-title="USA CHANNELS",FUSAE TV (West) (3005891)
 https://api.vpnmate.com/play/?vlc=1&channel=3005891&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="fx.ps.USA" tvg-name="fx.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/fx.ps.USA.png",FX (5016256)
+#EXTINF:-1 group-title="USA CHANNELS",FX (5016256)
 https://api.vpnmate.com/play/?vlc=1&channel=5016256&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="fx.movie.channel.USA" tvg-name="fx.movie.channel.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/fx.movie.channel.USA.png",FX Movie Channel (200421)
+#EXTINF:-1 group-title="USA CHANNELS",FX Movie Channel (200421)
 https://api.vpnmate.com/play/?vlc=1&channel=200421&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="fxm.ps.USA" tvg-name="fxm.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/fxm.ps.USA.png",FXM (5025097)
+#EXTINF:-1 group-title="USA CHANNELS",FXM (5025097)
 https://api.vpnmate.com/play/?vlc=1&channel=5025097&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="fxx.ps.USA" tvg-name="fxx.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/fxx.ps.USA.png",FXX (5013435)
+#EXTINF:-1 group-title="USA CHANNELS",FXX (5013435)
 https://api.vpnmate.com/play/?vlc=1&channel=5013435&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="fyi.east.USA" tvg-name="fyi.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/fyi.east.USA.png",FYI (East) (3005827)
+#EXTINF:-1 group-title="USA CHANNELS",FYI (East) (3005827)
 https://api.vpnmate.com/play/?vlc=1&channel=3005827&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="gac.great.american.country.USA" tvg-name="gac.great.american.country.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/gac.great.american.country.USA.png",GAC Great American Country (1120057)
+#EXTINF:-1 group-title="USA CHANNELS",GAC Great American Country (1120057)
 https://api.vpnmate.com/play/?vlc=1&channel=1120057&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="game.show.network.east.USA" tvg-name="game.show.network.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/game.show.network.east.USA.png",Game Show Network (East) (3005973)
+#EXTINF:-1 group-title="USA CHANNELS",Game Show Network (East) (3005973)
 https://api.vpnmate.com/play/?vlc=1&channel=3005973&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="grit.network.USA" tvg-name="grit.network.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/grit.network.USA.png",Grit Network (1022164)
+#EXTINF:-1 group-title="USA CHANNELS",Grit Network (1022164)
 https://api.vpnmate.com/play/?vlc=1&channel=1022164&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hall.ps.USA" tvg-name="hall.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hall.ps.USA.png",Hallmark Channel (5025747)
+#EXTINF:-1 group-title="USA CHANNELS",Hallmark Channel (5025747)
 https://api.vpnmate.com/play/?vlc=1&channel=5025747&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hallmark.channel.east.USA" tvg-name="hallmark.channel.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hallmark.channel.east.USA.png",Hallmark Channel USA (3005920)
+#EXTINF:-1 group-title="USA CHANNELS",Hallmark Channel USA (3005920)
 https://api.vpnmate.com/play/?vlc=1&channel=3005920&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="halldr.ps.USA" tvg-name="halldr.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/halldr.ps.USA.png",Hallmark Drama (5025736)
+#EXTINF:-1 group-title="USA CHANNELS",Hallmark Drama (5025736)
 https://api.vpnmate.com/play/?vlc=1&channel=5025736&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hallmark.drama.USA" tvg-name="hallmark.drama.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hallmark.drama.USA.png",Hallmark Drama USA (3005879)
+#EXTINF:-1 group-title="USA CHANNELS",Hallmark Drama USA (3005879)
 https://api.vpnmate.com/play/?vlc=1&channel=3005879&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hmm.ps.USA" tvg-name="hmm.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hmm.ps.USA.png",Hallmark Movies & Mysteries (5025746)
+#EXTINF:-1 group-title="USA CHANNELS",Hallmark Movies & Mysteries (5025746)
 https://api.vpnmate.com/play/?vlc=1&channel=5025746&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hallmark.movies.mysteries.east.USA" tvg-name="hallmark.movies.mysteries.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hallmark.movies.mysteries.east.USA.png",Hallmark Movies Mysteries USA (3005853)
+#EXTINF:-1 group-title="USA CHANNELS",Hallmark Movies Mysteries USA (3005853)
 https://api.vpnmate.com/play/?vlc=1&channel=3005853&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hallmark.movies.mysteries.east.USA" tvg-name="hallmark.movies.mysteries.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hallmark.movies.mysteries.east.USA.png",Hallmark Movies Mysteries USA (6067)
+#EXTINF:-1 group-title="USA CHANNELS",Hallmark Movies Mysteries USA (6067)
 https://api.vpnmate.com/play/?vlc=1&channel=6067&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hbo.ps.USA" tvg-name="hbo.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hbo.ps.USA.png",HBO (5025349)
+#EXTINF:-1 group-title="USA CHANNELS",HBO (5025349)
 https://api.vpnmate.com/play/?vlc=1&channel=5025349&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hbo.east.USA" tvg-name="hbo.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hbo.east.USA.png",HBO (East) (3005871)
+#EXTINF:-1 group-title="USA CHANNELS",HBO (East) (3005871)
 https://api.vpnmate.com/play/?vlc=1&channel=3005871&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hbo.east.USA" tvg-name="hbo.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hbo.east.USA.png",HBO (East) (1044296)
+#EXTINF:-1 group-title="USA CHANNELS",HBO (East) (1044296)
 https://api.vpnmate.com/play/?vlc=1&channel=1044296&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hbo.west.USA" tvg-name="hbo.west.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hbo.west.USA.png",HBO (West) (3005874)
+#EXTINF:-1 group-title="USA CHANNELS",HBO (West) (3005874)
 https://api.vpnmate.com/play/?vlc=1&channel=3005874&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hbo.west.USA" tvg-name="hbo.west.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hbo.west.USA.png",HBO (West) (1025818)
+#EXTINF:-1 group-title="USA CHANNELS",HBO (West) (1025818)
 https://api.vpnmate.com/play/?vlc=1&channel=1025818&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hbo.2.east.USA" tvg-name="hbo.2.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hbo.2.east.USA.png",HBO 2 (East) (1018358)
+#EXTINF:-1 group-title="USA CHANNELS",HBO 2 (East) (1018358)
 https://api.vpnmate.com/play/?vlc=1&channel=1018358&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hbo.comedy.east.USA" tvg-name="hbo.comedy.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hbo.comedy.east.USA.png",HBO Comedy (East) (1018357)
+#EXTINF:-1 group-title="USA CHANNELS",HBO Comedy (East) (1018357)
 https://api.vpnmate.com/play/?vlc=1&channel=1018357&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hbo.family.east.USA" tvg-name="hbo.family.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hbo.family.east.USA.png",HBO Family (East) (1018356)
+#EXTINF:-1 group-title="USA CHANNELS",HBO Family (East) (1018356)
 https://api.vpnmate.com/play/?vlc=1&channel=1018356&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hbo.signature.east.USA" tvg-name="hbo.signature.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hbo.signature.east.USA.png",HBO Signature (East) (1018355)
+#EXTINF:-1 group-title="USA CHANNELS",HBO Signature (East) (1018355)
 https://api.vpnmate.com/play/?vlc=1&channel=1018355&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hbo.zone.east.USA" tvg-name="hbo.zone.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hbo.zone.east.USA.png",HBO Zone (East) USA (1018354)
+#EXTINF:-1 group-title="USA CHANNELS",HBO Zone (East) USA (1018354)
 https://api.vpnmate.com/play/?vlc=1&channel=1018354&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hbo.zone.east.USA" tvg-name="hbo.zone.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hbo.zone.east.USA.png",HBO Zone (East) USA (204614)
+#EXTINF:-1 group-title="USA CHANNELS",HBO Zone (East) USA (204614)
 https://api.vpnmate.com/play/?vlc=1&channel=204614&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hi.heroes.icons.network.USA" tvg-name="hi.heroes.icons.network.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hi.heroes.icons.network.USA.png",Heroes & Icons Network (1124597)
+#EXTINF:-1 group-title="USA CHANNELS",Heroes & Icons Network (1124597)
 https://api.vpnmate.com/play/?vlc=1&channel=1124597&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hgtv.ps.USA" tvg-name="hgtv.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hgtv.ps.USA.png",HGTV (5025075)
+#EXTINF:-1 group-title="USA CHANNELS",HGTV (5025075)
 https://api.vpnmate.com/play/?vlc=1&channel=5025075&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hgtv.east.USA" tvg-name="hgtv.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hgtv.east.USA.png",HGTV (East) (6069)
+#EXTINF:-1 group-title="USA CHANNELS",HGTV (East) (6069)
 https://api.vpnmate.com/play/?vlc=1&channel=6069&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hgtv.east.USA" tvg-name="hgtv.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hgtv.east.USA.png",HGTV (East) (1018349)
+#EXTINF:-1 group-title="USA CHANNELS",HGTV (East) (1018349)
 https://api.vpnmate.com/play/?vlc=1&channel=1018349&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hgtv.west.USA" tvg-name="hgtv.west.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hgtv.west.USA.png",HGTV (West) (1044606)
+#EXTINF:-1 group-title="USA CHANNELS",HGTV (West) (1044606)
 https://api.vpnmate.com/play/?vlc=1&channel=1044606&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="history.channel.east.USA" tvg-name="history.channel.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/history.channel.east.USA.png",History Channel USA (200584)
+#EXTINF:-1 group-title="USA CHANNELS",History Channel USA (200584)
 https://api.vpnmate.com/play/?vlc=1&channel=200584&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hln.USA" tvg-name="hln.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hln.USA.png",HLN (3005797)
+#EXTINF:-1 group-title="USA CHANNELS",HLN (3005797)
 https://api.vpnmate.com/play/?vlc=1&channel=3005797&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="hln.ps.USA" tvg-name="hln.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/hln.ps.USA.png",HLN (5025167)
+#EXTINF:-1 group-title="USA CHANNELS",HLN (5025167)
 https://api.vpnmate.com/play/?vlc=1&channel=5025167&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="ifc.ps.USA" tvg-name="ifc.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/ifc.ps.USA.png",IFC (5025180)
+#EXTINF:-1 group-title="USA CHANNELS",IFC (5025180)
 https://api.vpnmate.com/play/?vlc=1&channel=5025180&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="ifc.USA" tvg-name="ifc.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/ifc.USA.png",IFC USA (3005875)
+#EXTINF:-1 group-title="USA CHANNELS",IFC USA (3005875)
 https://api.vpnmate.com/play/?vlc=1&channel=3005875&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="insp.fubo.USA" tvg-name="insp.fubo.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/insp.fubo.USA.png",INSP (215691)
+#EXTINF:-1 group-title="USA CHANNELS",INSP (215691)
 https://api.vpnmate.com/play/?vlc=1&channel=215691&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="id.ps.USA" tvg-name="id.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/id.ps.USA.png",Investigation Discovery (5025091)
+#EXTINF:-1 group-title="USA CHANNELS",Investigation Discovery (5025091)
 https://api.vpnmate.com/play/?vlc=1&channel=5025091&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="investigation.discovery.east.USA" tvg-name="investigation.discovery.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/investigation.discovery.east.USA.png",Investigation Discovery USA (200524)
+#EXTINF:-1 group-title="USA CHANNELS",Investigation Discovery USA (200524)
 https://api.vpnmate.com/play/?vlc=1&channel=200524&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="ion.east.USA" tvg-name="ion.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/ion.east.USA.png",ION USA (1018341)
+#EXTINF:-1 group-title="USA CHANNELS",ION USA (1018341)
 https://api.vpnmate.com/play/?vlc=1&channel=1018341&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="ktla.USA" tvg-name="ktla.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/ktla.USA.png",KTLA (1102037)
+#EXTINF:-1 group-title="USA CHANNELS",KTLA (1102037)
 https://api.vpnmate.com/play/?vlc=1&channel=1102037&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="ktvu.plUSA.USA.rand" tvg-name="ktvu.plUSA.USA.rand" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/ktvu.plUSA.USA.rand.png",KTVU PlUSA (215699)
+#EXTINF:-1 group-title="USA CHANNELS",KTVU PlUSA (215699)
 https://api.vpnmate.com/play/?vlc=1&channel=215699&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="lifetime.movies.east.USA" tvg-name="lifetime.movies.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/lifetime.movies.east.USA.png",Lifetime Movies (East) (3005852)
+#EXTINF:-1 group-title="USA CHANNELS",Lifetime Movies (East) (3005852)
 https://api.vpnmate.com/play/?vlc=1&channel=3005852&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="lifetime.network.east.USA" tvg-name="lifetime.network.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/lifetime.network.east.USA.png",Lifetime Network (East) (3005921)
+#EXTINF:-1 group-title="USA CHANNELS",Lifetime Network (East) (3005921)
 https://api.vpnmate.com/play/?vlc=1&channel=3005921&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="logo.east.USA" tvg-name="logo.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/logo.east.USA.png",LOGO (East) (3005916)
+#EXTINF:-1 group-title="USA CHANNELS",LOGO (East) (3005916)
 https://api.vpnmate.com/play/?vlc=1&channel=3005916&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="mavtv.USA" tvg-name="mavtv.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/mavtv.USA.png",MAVtv (3009584)
+#EXTINF:-1 group-title="USA CHANNELS",MAVtv (3009584)
 https://api.vpnmate.com/play/?vlc=1&channel=3009584&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="metv.network.USA" tvg-name="metv.network.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/metv.network.USA.png",MeTV (1018335)
+#EXTINF:-1 group-title="USA CHANNELS",MeTV (1018335)
 https://api.vpnmate.com/play/?vlc=1&channel=1018335&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="mgm.USA" tvg-name="mgm.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/mgm.USA.png",MGM USA (1130259)
+#EXTINF:-1 group-title="USA CHANNELS",MGM USA (1130259)
 https://api.vpnmate.com/play/?vlc=1&channel=1130259&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="motortrend.USA" tvg-name="motortrend.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/motortrend.USA.png",MotorTrend USA (200487)
+#EXTINF:-1 group-title="USA CHANNELS",MotorTrend USA (200487)
 https://api.vpnmate.com/play/?vlc=1&channel=200487&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="motortrend.USA" tvg-name="motortrend.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/motortrend.USA.png",MotorTrend USA (5012092)
+#EXTINF:-1 group-title="USA CHANNELS",MotorTrend USA (5012092)
 https://api.vpnmate.com/play/?vlc=1&channel=5012092&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="movieplex.USA" tvg-name="movieplex.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/movieplex.USA.png",MOVIEplex (1102882)
+#EXTINF:-1 group-title="USA CHANNELS",MOVIEplex (1102882)
 https://api.vpnmate.com/play/?vlc=1&channel=1102882&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="msnbc.ps.USA" tvg-name="msnbc.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/msnbc.ps.USA.png",MSNBC (5010283)
+#EXTINF:-1 group-title="USA CHANNELS",MSNBC (5010283)
 https://api.vpnmate.com/play/?vlc=1&channel=5010283&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="msnbc.USA" tvg-name="msnbc.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/msnbc.USA.png",MSNBC USA (6079)
+#EXTINF:-1 group-title="USA CHANNELS",MSNBC USA (6079)
 https://api.vpnmate.com/play/?vlc=1&channel=6079&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="mtv.2.east.USA" tvg-name="mtv.2.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/mtv.2.east.USA.png",MTV 2 USA (3005911)
+#EXTINF:-1 group-title="USA CHANNELS",MTV 2 USA (3005911)
 https://api.vpnmate.com/play/?vlc=1&channel=3005911&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="mtv.classic.east.USA" tvg-name="mtv.classic.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/mtv.classic.east.USA.png",MTV Classic USA (3005908)
+#EXTINF:-1 group-title="USA CHANNELS",MTV Classic USA (3005908)
 https://api.vpnmate.com/play/?vlc=1&channel=3005908&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="mtvlive.USA" tvg-name="mtvlive.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/mtvlive.USA.png",Mtv Live USA (200726)
+#EXTINF:-1 group-title="USA CHANNELS",Mtv Live USA (200726)
 https://api.vpnmate.com/play/?vlc=1&channel=200726&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="mtv.USA" tvg-name="mtv.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/mtv.USA.png",MTV USA (200557)
+#EXTINF:-1 group-title="USA CHANNELS",MTV USA (200557)
 https://api.vpnmate.com/play/?vlc=1&channel=200557&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="nasa.USA" tvg-name="nasa.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/nasa.USA.png",NASA (1120656)
+#EXTINF:-1 group-title="USA CHANNELS",NASA (1120656)
 https://api.vpnmate.com/play/?vlc=1&channel=1120656&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="national.geographic.east.USA" tvg-name="national.geographic.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/national.geographic.east.USA.png",Nat Geo USA (3005838)
+#EXTINF:-1 group-title="USA CHANNELS",Nat Geo USA (3005838)
 https://api.vpnmate.com/play/?vlc=1&channel=3005838&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="national.geographic.east.USA" tvg-name="national.geographic.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/national.geographic.east.USA.png",Nat Geo USA (2728274)
+#EXTINF:-1 group-title="USA CHANNELS",Nat Geo USA (2728274)
 https://api.vpnmate.com/play/?vlc=1&channel=2728274&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="national.geographic.wild.USA" tvg-name="national.geographic.wild.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/national.geographic.wild.USA.png",Nat Geo Wild USA (3005837)
+#EXTINF:-1 group-title="USA CHANNELS",Nat Geo Wild USA (3005837)
 https://api.vpnmate.com/play/?vlc=1&channel=3005837&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="ngc.ps.USA" tvg-name="ngc.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/ngc.ps.USA.png",National Geographic (5007427)
+#EXTINF:-1 group-title="USA CHANNELS",National Geographic (5007427)
 https://api.vpnmate.com/play/?vlc=1&channel=5007427&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="ngwild.ps.USA" tvg-name="ngwild.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/ngwild.ps.USA.png",National Geographic Wild (5015801)
+#EXTINF:-1 group-title="USA CHANNELS",National Geographic Wild (5015801)
 https://api.vpnmate.com/play/?vlc=1&channel=5015801&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="nbcsn.ps.USA" tvg-name="nbcsn.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/nbcsn.ps.USA.png",NBC Sports Network (5025159)
+#EXTINF:-1 group-title="USA CHANNELS",NBC Sports Network (5025159)
 https://api.vpnmate.com/play/?vlc=1&channel=5025159&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="nick.jr.USA" tvg-name="nick.jr.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/nick.jr.USA.png",Nick Jr USA (3005814)
+#EXTINF:-1 group-title="USA CHANNELS",Nick Jr USA (3005814)
 https://api.vpnmate.com/play/?vlc=1&channel=3005814&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="nickelodeon.east.USA" tvg-name="nickelodeon.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/nickelodeon.east.USA.png",Nickelodeon USA (200560)
+#EXTINF:-1 group-title="USA CHANNELS",Nickelodeon USA (200560)
 https://api.vpnmate.com/play/?vlc=1&channel=200560&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="nickmUSAic.USA" tvg-name="nickmUSAic.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/nickmUSAic.USA.png",NickMUSAic USA (3005902)
+#EXTINF:-1 group-title="USA CHANNELS",NickMUSAic USA (3005902)
 https://api.vpnmate.com/play/?vlc=1&channel=3005902&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="nicktoons.east.USA" tvg-name="nicktoons.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/nicktoons.east.USA.png",Nicktoons USA (3005813)
+#EXTINF:-1 group-title="USA CHANNELS",Nicktoons USA (3005813)
 https://api.vpnmate.com/play/?vlc=1&channel=3005813&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="tv.oan.USA" tvg-name="tv.oan.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/tv.oan.USA.png",ONE AMERICAN NEWS (OAN) (1119494)
+#EXTINF:-1 group-title="USA CHANNELS",ONE AMERICAN NEWS (OAN) (1119494)
 https://api.vpnmate.com/play/?vlc=1&channel=1119494&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="outdoor.channel.USA" tvg-name="outdoor.channel.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/outdoor.channel.USA.png",Outdoor Channel (8002142)
+#EXTINF:-1 group-title="USA CHANNELS",Outdoor Channel (8002142)
 https://api.vpnmate.com/play/?vlc=1&channel=8002142&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="own.ps.USA" tvg-name="own.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/own.ps.USA.png",OWN (5025098)
+#EXTINF:-1 group-title="USA CHANNELS",OWN (5025098)
 https://api.vpnmate.com/play/?vlc=1&channel=5025098&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="oprahwinfreynetwork.USA" tvg-name="oprahwinfreynetwork.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/oprahwinfreynetwork.USA.png",OWN USA (203864)
+#EXTINF:-1 group-title="USA CHANNELS",OWN USA (203864)
 https://api.vpnmate.com/play/?vlc=1&channel=203864&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="oxygen.ps.USA" tvg-name="oxygen.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/oxygen.ps.USA.png",Oxygen (5025099)
+#EXTINF:-1 group-title="USA CHANNELS",Oxygen (5025099)
 https://api.vpnmate.com/play/?vlc=1&channel=5025099&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="oxygen.east.USA" tvg-name="oxygen.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/oxygen.east.USA.png",Oxygen (203723)
+#EXTINF:-1 group-title="USA CHANNELS",Oxygen (203723)
 https://api.vpnmate.com/play/?vlc=1&channel=203723&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="paramount.network.east.USA" tvg-name="paramount.network.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/paramount.network.east.USA.png",Paramount Network (203900)
+#EXTINF:-1 group-title="USA CHANNELS",Paramount Network (203900)
 https://api.vpnmate.com/play/?vlc=1&channel=203900&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="pbs.kids.247.USA" tvg-name="pbs.kids.247.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/pbs.kids.247.USA.png",PBS Kids USA (3006513)
+#EXTINF:-1 group-title="USA CHANNELS",PBS Kids USA (3006513)
 https://api.vpnmate.com/play/?vlc=1&channel=3006513&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="pop.east.USA" tvg-name="pop.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/pop.east.USA.png",POP (East) (5025261)
+#EXTINF:-1 group-title="USA CHANNELS",POP (East) (5025261)
 https://api.vpnmate.com/play/?vlc=1&channel=5025261&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="pursuit.channel.USA" tvg-name="pursuit.channel.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/pursuit.channel.USA.png",Pursuit Channel (1119407)
+#EXTINF:-1 group-title="USA CHANNELS",Pursuit Channel (1119407)
 https://api.vpnmate.com/play/?vlc=1&channel=1119407&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="reelzchannel.USA" tvg-name="reelzchannel.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/reelzchannel.USA.png",ReelzChannel (1131227)
+#EXTINF:-1 group-title="USA CHANNELS",ReelzChannel (1131227)
 https://api.vpnmate.com/play/?vlc=1&channel=1131227&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="rfdtv.USA" tvg-name="rfdtv.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/rfdtv.USA.png",RFD TV (1119495)
+#EXTINF:-1 group-title="USA CHANNELS",RFD TV (1119495)
 https://api.vpnmate.com/play/?vlc=1&channel=1119495&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="science.ps.USA" tvg-name="science.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/science.ps.USA.png",Science Channel (5002754)
+#EXTINF:-1 group-title="USA CHANNELS",Science Channel (5002754)
 https://api.vpnmate.com/play/?vlc=1&channel=5002754&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="science.USA" tvg-name="science.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/science.USA.png",Science USA (200383)
+#EXTINF:-1 group-title="USA CHANNELS",Science USA (200383)
 https://api.vpnmate.com/play/?vlc=1&channel=200383&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="show.ps.USA" tvg-name="show.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/show.ps.USA.png",Showtime (5025174)
+#EXTINF:-1 group-title="USA CHANNELS",Showtime (5025174)
 https://api.vpnmate.com/play/?vlc=1&channel=5025174&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="showtime.east.USA" tvg-name="showtime.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/showtime.east.USA.png",Showtime (east) USA (3005866)
+#EXTINF:-1 group-title="USA CHANNELS",Showtime (east) USA (3005866)
 https://api.vpnmate.com/play/?vlc=1&channel=3005866&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="showtime.east.USA" tvg-name="showtime.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/showtime.east.USA.png",Showtime (east) USA (1018264)
+#EXTINF:-1 group-title="USA CHANNELS",Showtime (east) USA (1018264)
 https://api.vpnmate.com/play/?vlc=1&channel=1018264&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="showtime.west.USA" tvg-name="showtime.west.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/showtime.west.USA.png",Showtime (west) USA (1018263)
+#EXTINF:-1 group-title="USA CHANNELS",Showtime (west) USA (1018263)
 https://api.vpnmate.com/play/?vlc=1&channel=1018263&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="showtime.west.USA" tvg-name="showtime.west.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/showtime.west.USA.png",Showtime (west) USA (1102832)
+#EXTINF:-1 group-title="USA CHANNELS",Showtime (west) USA (1102832)
 https://api.vpnmate.com/play/?vlc=1&channel=1102832&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="showtime.west.USA" tvg-name="showtime.west.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/showtime.west.USA.png",Showtime (west) USA (3005864)
+#EXTINF:-1 group-title="USA CHANNELS",Showtime (west) USA (3005864)
 https://api.vpnmate.com/play/?vlc=1&channel=3005864&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="showtime.2.east.USA" tvg-name="showtime.2.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/showtime.2.east.USA.png",Showtime 2 (east) USA (1018262)
+#EXTINF:-1 group-title="USA CHANNELS",Showtime 2 (east) USA (1018262)
 https://api.vpnmate.com/play/?vlc=1&channel=1018262&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="showtime.2.west.USA" tvg-name="showtime.2.west.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/showtime.2.west.USA.png",Showtime 2 (west) USA (1018261)
+#EXTINF:-1 group-title="USA CHANNELS",Showtime 2 (west) USA (1018261)
 https://api.vpnmate.com/play/?vlc=1&channel=1018261&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="showtime.beyond.east.USA" tvg-name="showtime.beyond.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/showtime.beyond.east.USA.png",Showtime Beyond USA (1102879)
+#EXTINF:-1 group-title="USA CHANNELS",Showtime Beyond USA (1102879)
 https://api.vpnmate.com/play/?vlc=1&channel=1102879&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="showtime.extreme.east.USA" tvg-name="showtime.extreme.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/showtime.extreme.east.USA.png",Showtime Extreme (1018260)
+#EXTINF:-1 group-title="USA CHANNELS",Showtime Extreme (1018260)
 https://api.vpnmate.com/play/?vlc=1&channel=1018260&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="showtime.family.zone.east.USA" tvg-name="showtime.family.zone.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/showtime.family.zone.east.USA.png",Showtime Family Zone (East) (1102880)
+#EXTINF:-1 group-title="USA CHANNELS",Showtime Family Zone (East) (1102880)
 https://api.vpnmate.com/play/?vlc=1&channel=1102880&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="showtime.showcase.east.USA" tvg-name="showtime.showcase.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/showtime.showcase.east.USA.png",Showtime Showcase USA (1018258)
+#EXTINF:-1 group-title="USA CHANNELS",Showtime Showcase USA (1018258)
 https://api.vpnmate.com/play/?vlc=1&channel=1018258&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="showtime.women.east.USA" tvg-name="showtime.women.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/showtime.women.east.USA.png",Showtime Woman USA (1102881)
+#EXTINF:-1 group-title="USA CHANNELS",Showtime Woman USA (1102881)
 https://api.vpnmate.com/play/?vlc=1&channel=1102881&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="smithsonian.channel.USA" tvg-name="smithsonian.channel.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/smithsonian.channel.USA.png",Smithsonian Channel (5016067)
+#EXTINF:-1 group-title="USA CHANNELS",Smithsonian Channel (5016067)
 https://api.vpnmate.com/play/?vlc=1&channel=5016067&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="smithsonian.channel.USA" tvg-name="smithsonian.channel.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/smithsonian.channel.USA.png",Smithsonian Channel (1023637)
+#EXTINF:-1 group-title="USA CHANNELS",Smithsonian Channel (1023637)
 https://api.vpnmate.com/play/?vlc=1&channel=1023637&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="start.tv.USA" tvg-name="start.tv.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/start.tv.USA.png",Start TV (3005887)
+#EXTINF:-1 group-title="USA CHANNELS",Start TV (3005887)
 https://api.vpnmate.com/play/?vlc=1&channel=3005887&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="starz.east.USA" tvg-name="starz.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/starz.east.USA.png",Starz (East) (3005856)
+#EXTINF:-1 group-title="USA CHANNELS",Starz (East) (3005856)
 https://api.vpnmate.com/play/?vlc=1&channel=3005856&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="starz.east.USA" tvg-name="starz.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/starz.east.USA.png",Starz (East) (1018247)
+#EXTINF:-1 group-title="USA CHANNELS",Starz (East) (1018247)
 https://api.vpnmate.com/play/?vlc=1&channel=1018247&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="starz.west.USA" tvg-name="starz.west.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/starz.west.USA.png",Starz (West) (3005855)
+#EXTINF:-1 group-title="USA CHANNELS",Starz (West) (3005855)
 https://api.vpnmate.com/play/?vlc=1&channel=3005855&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="starz.cinema.USA" tvg-name="starz.cinema.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/starz.cinema.USA.png",Starz Cinema USA (200536)
+#EXTINF:-1 group-title="USA CHANNELS",Starz Cinema USA (200536)
 https://api.vpnmate.com/play/?vlc=1&channel=200536&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="starz.comedy.east.USA" tvg-name="starz.comedy.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/starz.comedy.east.USA.png",Starz Comedy (East) (1018254)
+#EXTINF:-1 group-title="USA CHANNELS",Starz Comedy (East) (1018254)
 https://api.vpnmate.com/play/?vlc=1&channel=1018254&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="starz.comedy.USA" tvg-name="starz.comedy.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/starz.comedy.USA.png",Starz Comedy USA (200535)
+#EXTINF:-1 group-title="USA CHANNELS",Starz Comedy USA (200535)
 https://api.vpnmate.com/play/?vlc=1&channel=200535&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="starz.edge.USA" tvg-name="starz.edge.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/starz.edge.USA.png",Starz Edge USA (1018253)
+#EXTINF:-1 group-title="USA CHANNELS",Starz Edge USA (1018253)
 https://api.vpnmate.com/play/?vlc=1&channel=1018253&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="starz.encore.east.USA" tvg-name="starz.encore.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/starz.encore.east.USA.png",Starz Encore (East) (1018252)
+#EXTINF:-1 group-title="USA CHANNELS",Starz Encore (East) (1018252)
 https://api.vpnmate.com/play/?vlc=1&channel=1018252&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="starzencore.USA" tvg-name="starzencore.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/starzencore.USA.png",Starz Encore USA (200468)
+#EXTINF:-1 group-title="USA CHANNELS",Starz Encore USA (200468)
 https://api.vpnmate.com/play/?vlc=1&channel=200468&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="starz.in.black.USA" tvg-name="starz.in.black.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/starz.in.black.USA.png",Starz In Black (1105194)
+#EXTINF:-1 group-title="USA CHANNELS",Starz In Black (1105194)
 https://api.vpnmate.com/play/?vlc=1&channel=1105194&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="starz.kids.family.USA" tvg-name="starz.kids.family.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/starz.kids.family.USA.png",Starz Kids Family USA (1018250)
+#EXTINF:-1 group-title="USA CHANNELS",Starz Kids Family USA (1018250)
 https://api.vpnmate.com/play/?vlc=1&channel=1018250&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="starz.encore.sUSApense.east.USA" tvg-name="starz.encore.sUSApense.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/starz.encore.sUSApense.east.USA.png",Starz SUSApense (East) (1018248)
+#EXTINF:-1 group-title="USA CHANNELS",Starz SUSApense (East) (1018248)
 https://api.vpnmate.com/play/?vlc=1&channel=1018248&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="starz.encore.westerns.east.USA" tvg-name="starz.encore.westerns.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/starz.encore.westerns.east.USA.png",Starz Westerns USA (1102883)
+#EXTINF:-1 group-title="USA CHANNELS",Starz Westerns USA (1102883)
 https://api.vpnmate.com/play/?vlc=1&channel=1102883&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="sundanc.ps.USA" tvg-name="sundanc.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/sundanc.ps.USA.png",SundanceTV (5025179)
+#EXTINF:-1 group-title="USA CHANNELS",SundanceTV (5025179)
 https://api.vpnmate.com/play/?vlc=1&channel=5025179&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="sundancetv.USA" tvg-name="sundancetv.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/sundancetv.USA.png",SundanceTV (1018245)
+#EXTINF:-1 group-title="USA CHANNELS",SundanceTV (1018245)
 https://api.vpnmate.com/play/?vlc=1&channel=1018245&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="syfy.USA" tvg-name="syfy.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/syfy.USA.png",SYFY (200598)
+#EXTINF:-1 group-title="USA CHANNELS",SYFY (200598)
 https://api.vpnmate.com/play/?vlc=1&channel=200598&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="syfy.USA" tvg-name="syfy.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/syfy.USA.png",SYFY (3005894)
+#EXTINF:-1 group-title="USA CHANNELS",SYFY (3005894)
 https://api.vpnmate.com/play/?vlc=1&channel=3005894&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="syfy.ps.USA" tvg-name="syfy.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/syfy.ps.USA.png",SYFY (5013460)
+#EXTINF:-1 group-title="USA CHANNELS",SYFY (5013460)
 https://api.vpnmate.com/play/?vlc=1&channel=5013460&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="syfy.USA" tvg-name="syfy.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/syfy.USA.png",SYFY (6063)
+#EXTINF:-1 group-title="USA CHANNELS",SYFY (6063)
 https://api.vpnmate.com/play/?vlc=1&channel=6063&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="tbs.ps.USA" tvg-name="tbs.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/tbs.ps.USA.png",TBS (5005375)
+#EXTINF:-1 group-title="USA CHANNELS",TBS (5005375)
 https://api.vpnmate.com/play/?vlc=1&channel=5005375&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="tbs.east.USA" tvg-name="tbs.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/tbs.east.USA.png",TBS (200576)
+#EXTINF:-1 group-title="USA CHANNELS",TBS (200576)
 https://api.vpnmate.com/play/?vlc=1&channel=200576&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="tcm.ps.USA" tvg-name="tcm.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/tcm.ps.USA.png",TCM (5010510)
+#EXTINF:-1 group-title="USA CHANNELS",TCM (5010510)
 https://api.vpnmate.com/play/?vlc=1&channel=5010510&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="teennick.east.USA" tvg-name="teennick.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/teennick.east.USA.png",TeenNick USA (1023814)
+#EXTINF:-1 group-title="USA CHANNELS",TeenNick USA (1023814)
 https://api.vpnmate.com/play/?vlc=1&channel=1023814&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="the.weather.channel.USA" tvg-name="the.weather.channel.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/the.weather.channel.USA.png",The Weather Channel USA (1018226)
+#EXTINF:-1 group-title="USA CHANNELS",The Weather Channel USA (1018226)
 https://api.vpnmate.com/play/?vlc=1&channel=1018226&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="the.weather.channel.USA" tvg-name="the.weather.channel.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/the.weather.channel.USA.png",The Weather Channel USA (3005796)
+#EXTINF:-1 group-title="USA CHANNELS",The Weather Channel USA (3005796)
 https://api.vpnmate.com/play/?vlc=1&channel=3005796&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="thrillermax.east.USA" tvg-name="thrillermax.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/thrillermax.east.USA.png",ThrillerMax (East) (200534)
+#EXTINF:-1 group-title="USA CHANNELS",ThrillerMax (East) (200534)
 https://api.vpnmate.com/play/?vlc=1&channel=200534&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="tlc.ps.USA" tvg-name="tlc.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/tlc.ps.USA.png",TLC (5002755)
+#EXTINF:-1 group-title="USA CHANNELS",TLC (5002755)
 https://api.vpnmate.com/play/?vlc=1&channel=5002755&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="tlc.east.USA" tvg-name="tlc.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/tlc.east.USA.png",TLC USA (203903)
+#EXTINF:-1 group-title="USA CHANNELS",TLC USA (203903)
 https://api.vpnmate.com/play/?vlc=1&channel=203903&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="tnt.ps.USA" tvg-name="tnt.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/tnt.ps.USA.png",TNT (5024998)
+#EXTINF:-1 group-title="USA CHANNELS",TNT (5024998)
 https://api.vpnmate.com/play/?vlc=1&channel=5024998&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="tnt.east.USA" tvg-name="tnt.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/tnt.east.USA.png",TNT USA (200525)
+#EXTINF:-1 group-title="USA CHANNELS",TNT USA (200525)
 https://api.vpnmate.com/play/?vlc=1&channel=200525&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="travel.east.USA" tvg-name="travel.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/travel.east.USA.png",Travel (200993)
+#EXTINF:-1 group-title="USA CHANNELS",Travel (200993)
 https://api.vpnmate.com/play/?vlc=1&channel=200993&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="trav.ps.USA" tvg-name="trav.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/trav.ps.USA.png",Travel Channel (5025081)
+#EXTINF:-1 group-title="USA CHANNELS",Travel Channel (5025081)
 https://api.vpnmate.com/play/?vlc=1&channel=5025081&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="trutv.east.USA" tvg-name="trutv.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/trutv.east.USA.png",truTV (200634)
+#EXTINF:-1 group-title="USA CHANNELS",truTV (200634)
 https://api.vpnmate.com/play/?vlc=1&channel=200634&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="trutv.ps.USA" tvg-name="trutv.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/trutv.ps.USA.png",truTV (5025030)
+#EXTINF:-1 group-title="USA CHANNELS",truTV (5025030)
 https://api.vpnmate.com/play/?vlc=1&channel=5025030&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="tv.land.east.USA" tvg-name="tv.land.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/tv.land.east.USA.png",Tv Land USA (212307)
+#EXTINF:-1 group-title="USA CHANNELS",Tv Land USA (212307)
 https://api.vpnmate.com/play/?vlc=1&channel=212307&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="tv.one.USA" tvg-name="tv.one.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/tv.one.USA.png",TV One (1018228)
+#EXTINF:-1 group-title="USA CHANNELS",TV One (1018228)
 https://api.vpnmate.com/play/?vlc=1&channel=1018228&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="universalkids.USA" tvg-name="universalkids.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/universalkids.USA.png",Universal Kids USA (6076)
+#EXTINF:-1 group-title="USA CHANNELS",Universal Kids USA (6076)
 https://api.vpnmate.com/play/?vlc=1&channel=6076&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="up.USA" tvg-name="up.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/up.USA.png",UP (1124596)
+#EXTINF:-1 group-title="USA CHANNELS",UP (1124596)
 https://api.vpnmate.com/play/?vlc=1&channel=1124596&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="USAa.ps.USA" tvg-name="USAa.ps.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/USAa.ps.USA.png",USAA (5025078)
+#EXTINF:-1 group-title="USA CHANNELS",USAA (5025078)
 https://api.vpnmate.com/play/?vlc=1&channel=5025078&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="USAa.network.east.USA" tvg-name="USAa.network.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/USAa.network.east.USA.png",USAA Network (East) (1018221)
+#EXTINF:-1 group-title="USA CHANNELS",USAA Network (East) (1018221)
 https://api.vpnmate.com/play/?vlc=1&channel=1018221&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="USAa.network.west.USA" tvg-name="USAa.network.west.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/USAa.network.west.USA.png",USAA Network (West) (1023819)
+#EXTINF:-1 group-title="USA CHANNELS",USAA Network (West) (1023819)
 https://api.vpnmate.com/play/?vlc=1&channel=1023819&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="vh1.east.USA" tvg-name="vh1.east.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/vh1.east.USA.png",VH1 USA (3005907)
+#EXTINF:-1 group-title="USA CHANNELS",VH1 USA (3005907)
 https://api.vpnmate.com/play/?vlc=1&channel=3005907&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="vh1.USA" tvg-name="vh1.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/vh1.USA.png",VH1 USA (200539)
+#EXTINF:-1 group-title="USA CHANNELS",VH1 USA (200539)
 https://api.vpnmate.com/play/?vlc=1&channel=200539&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="viceland.USA" tvg-name="viceland.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/viceland.USA.png",Viceland USA (200434)
+#EXTINF:-1 group-title="USA CHANNELS",Viceland USA (200434)
 https://api.vpnmate.com/play/?vlc=1&channel=200434&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="we.USA" tvg-name="we.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/we.USA.png",WE TV (200521)
+#EXTINF:-1 group-title="USA CHANNELS",WE TV (200521)
 https://api.vpnmate.com/play/?vlc=1&channel=200521&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="wfnworld.fishing.network.USA" tvg-name="wfnworld.fishing.network.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/wfnworld.fishing.network.USA.png",World Fishing Network (3005998)
+#EXTINF:-1 group-title="USA CHANNELS",World Fishing Network (3005998)
 https://api.vpnmate.com/play/?vlc=1&channel=3005998&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
-#EXTINF:-1 tvg-id="wpix.new.york.superstation.USA" tvg-name="wpix.new.york.superstation.USA" tvg-type="live" group-title="USA" tvg-logo="https://raw.githubUSAercontent.com/Apollo2000/TVLogos/master/wpix.new.york.superstation.USA.png",WPIX New York (3008162)
+#EXTINF:-1 group-title="USA CHANNELS",WPIX New York (3008162)
 https://api.vpnmate.com/play/?vlc=1&channel=3008162&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
 #EXTINF:-1 group-title="24/7",HOLYWOOD SUITE
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
