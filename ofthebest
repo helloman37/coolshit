@@ -1,5 +1,7 @@
 #EXTM3U
 #My Channels Bitch
+#EXTINF:-1 tvg-id="ae.east.us" tvg-name="ae.east.us" tvg-type="live" group-title="US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/ae.east.us.png",A&E US (1018515)
+https://api.vpnmate.com/play/?vlc=1&channel=1018515&token=vj3Q0LJjp9lZ:OTVjOWFkMDAwYTllZjhkODg2NzUzNjU3ZmQ1ZmE4NmE3NzcwYzNiMw==
 #EXTINF:-1 group-title="USA CHANNELS",A&E(203844)
 https://api.vpnmate.com/play/?vlc=1&channel=203844&token=9w7Ae7SQq-by:N2E5NWFkZWVlMmY4YThmZDAyNzFmZWYyNmI0ZjA5OGNhOTVmYzEwMA==
 #EXTINF:-1 group-title="USA CHANNELS",A&E(200410)
