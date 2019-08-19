@@ -519,6 +519,8 @@ http://gatoriptv.co:80/913725889439/6233807710/34797
 http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
 #EXTINF:-1 group-title="MUSIC",THE COUNTRY NETWORK
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1 group-title="MUSIC",COUNTRY MUSIC 4 U
+https://rpcdn.tulix.tv/36bay2/gusa-countrymusic4u/index.m3u8
 #EXTINF:-1 group-title="MUSIC",MTV ROCKS
 http://api.vpnmate.com/play/?vlc=1&channel=7000058&token=vj3Q0LJjp9lZ:OTVjOWFkMDAwYTllZjhkODg2NzUzNjU3ZmQ1ZmE4NmE3NzcwYzNiMw==
 #EXTINF:-1 group-title="MUSIC",MTV OMG
