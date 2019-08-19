@@ -502,7 +502,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u
 #EXTINF:-1 group-title="24/7",FAMILY GUY
 http://62.210.70.119:80/live.ts?channelId=424&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 #EXTINF:-1 group-title="24/7",SIMPSONS
-http://hhhshop.co:83/3QpVC7EG/U6Daaz7G/268820
+http://root.events:83/64955543288/3746113360/268820
 #EXTINF:-1 group-title="24/7",KITTENS
 http://stitcher.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&USAerId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 group-title="WWE",WWE Network (1018210)
