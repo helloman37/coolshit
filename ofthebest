@@ -541,22 +541,32 @@ http://iptvaction.xyz:8080/EYrXFsIBY6/xfFnTHIeGa/77657
 http://tv.latintvweb.com:25461/garciar/pmGp3U9GhN/17147
 #EXTINF:-1 group-title="PPV",CINEMA 16
 http://iptv.wtf:25461/feligfra/bkQ5k2r9A2/8537
-#EXTINF:-1 group-title="PPV",EVENTS 4
-https://api.vpnmate.com/play/?vlc=1&channel=264962&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
-#EXTINF:-1 group-title="PPV",EVENTS 3
-https://api.vpnmate.com/play/?vlc=1&channel=264963&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
-#EXTINF:-1 group-title="PPV",PPV 7
-https://api.vpnmate.com/play/?vlc=1&channel=1106488&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
-#EXTINF:-1 group-title="PPV",PPV 8
-https://api.vpnmate.com/play/?vlc=1&channel=1106487&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
-#EXTINF:-1 group-title="PPV",PPV 9
-https://api.vpnmate.com/play/?vlc=1&channel=1106486&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
+#EXTINF:-1 group-title="PPV EVENTS",PPV 1
+http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/355953.m3u8
+#EXTINF:-1 group-title="PPV EVENTS",PPV 2
+http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/355952.m3u8
+#EXTINF:-1 group-title="PPV EVENTS",PPV 3
+http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/355951.m3u8
+#EXTINF:-1 group-title="PPV EVENTS",PPV 4
+http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/355950.m3u8
+#EXTINF:-1 group-title="PPV EVENTS",PPV 5
+http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/355949.m3u8
+#EXTINF:-1 group-title="PPV EVENTS",ITV BOX OFFICE
+http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/338058.m3u8
 #EXTINF:-1 group-title="UFC",UFC TV
 http://tv.latintvweb.com:25461/mjbrenda23/sfdCSvKtPZ/121618
 #EXTINF:-1 group-title="UFC",UFC PPV
 http://jammy.today:83/live/ByN90XRm/0KBtjG3k/363854.m3u8
 #EXTINF:-1 group-title="SKY CINEMA",SKY PREMIER
 http://king-tv.net:8080/emmanuel.asafo/OEojV2DTgv/81887
+#EXTINF:-1 group-title="BIG BROTHER",CAMERA 1
+http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/361871.m3u8
+#EXTINF:-1 group-title="BIG BROTHER",CAMERA 2
+http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/361870.m3u8
+#EXTINF:-1 group-title="BIG BROTHER",CAMERA 3
+http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/361869.m3u8
+#EXTINF:-1 group-title="BIG BROTHER",CAMERA 4
+http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/361868.m3u8
 #EXTINF:-1 group-title="SKY CINEMA",SKY COMEDY
 http://vtpi.club:27373/k13584/awhhx/20092
 #EXTINF:-1 group-title="SKY CINEMA",SKY THRILLER
