@@ -555,8 +555,6 @@ https://api.vpnmate.com/play/?vlc=1&channel=1106486&token=XXO2KFZn35M9:OWU0NGZkY
 http://tv.latintvweb.com:25461/mjbrenda23/sfdCSvKtPZ/121618
 #EXTINF:-1 group-title="UFC",UFC PPV
 http://jammy.today:83/live/ByN90XRm/0KBtjG3k/363854.m3u8
-#EXTINF:-1 group-title="SKY CINEMA",SKY FAMILY
-http://dynaiptv.tv:8010/Ci9KE004VF/V19goyPUxr/7750
 #EXTINF:-1 group-title="SKY CINEMA",SKY PREMIER
 http://king-tv.net:8080/emmanuel.asafo/OEojV2DTgv/81887
 #EXTINF:-1 group-title="SKY CINEMA",SKY COMEDY
@@ -683,6 +681,10 @@ http://iptv.wtf:80/vcwxaoxr/1Fzzg1yL45/20202
 http://tele-live.dnsup.net:23000/live/angelolongone/mFeM2B38LG/26627.ts
 #EXTINF:-1 group-title="XxX CHANNELS",Secret Circle
 http://landiptv.live:8080/ItFneSlP11/T5IeSsMWkX/135076
+#EXTINF:-1 group-title="XxX CHANNELS",DUSK
+http://rocksat.ddns.net:25461/mbgstbwa/xnHpBhDJBi/28595
+#EXTINF:-1 group-title="XxX CHANNELS",XY MIX
+http://danatv.streamtv.to:8080/RenateBoehn/BF5HoJUCZj/13586
 #EXTINF:-1 group-title="XxX VOD",Amateure Lesbos
 http://iptv.rent:8080/movie/qno7vdte29/cpkn8vkyoe/49623.mp4
 #EXTINF:-1 group-title="XxX VOD",Elegant Angel
