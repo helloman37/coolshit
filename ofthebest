@@ -496,7 +496,7 @@ https://api.vpnmate.com/play/?vlc=1&channel=3008162&token=nEpfrSJQWTyD:NzZhODg0N
 #EXTINF:-1 group-title="USA CHANNELS",MORE MAX
 http://kstv.xyz:8080/Sayhay10/1867385835/23342
 #EXTINF:-1 tvg-id="laff.us" tvg-name="laff.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bf/LAFF_%28You_Know_You_Want_To%29.png/revision/latest?cb=20150810143650",LAFF TV
-http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/268896.m3u8
+http://server2.kproxy.com/servlet/redirect.srv/s56/s46/s812/s261/d83/p1/live/ByN90XRm/0KBtjG3k/268896.m3u8
 #EXTINF:-1 group-title="USA CHANNELS",CARTOONS
 http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/355234.m3u8
 #EXTINF:-1 group-title="24/7",HOLYWOOD SUITE
