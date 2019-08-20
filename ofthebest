@@ -495,7 +495,7 @@ https://api.vpnmate.com/play/?vlc=1&channel=3005998&token=nEpfrSJQWTyD:NzZhODg0N
 https://api.vpnmate.com/play/?vlc=1&channel=3008162&token=nEpfrSJQWTyD:NzZhODg0NTQyYTU2NDM2ZGM1NWYxNjY0NmQ2NWI3ZWFlYjY0ZGU4Yg==
 #EXTINF:-1 group-title="USA CHANNELS",MORE MAX
 http://kstv.xyz:8080/Sayhay10/1867385835/23342
-#EXTINF:-1 group-title="USA CHANNELS",LAFF TVS
+#EXTINF:-1 group-title="USA CHANNELS",LAFF TV
 http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/268896.m3u8
 #EXTINF:-1 group-title="USA CHANNELS",CARTOONS
 http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/355234.m3u8
@@ -511,6 +511,14 @@ http://root.events:83/64955543288/3746113360/268820
 http://a.srvbr.me:8880/74148211/74148211/5115
 #EXTINF:-1 group-title="24/7",KITTENS
 http://stitcher.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&USAerId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 group-title="PLUTO TV",MOVIES 1
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=false
+#EXTINF:-1 group-title="PLUTO TV",MOVIES 2
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=false
+#EXTINF:-1 group-title="PLUTO TV",ACTION MOVIES
+https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=false
+#EXTINF:-1 group-title="PLUTO TV",MTV SHOWS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=false
 #EXTINF:-1 group-title="WWE",WWE Network (1018210)
 https://api.vpnmate.com/play/?vlc=1&channel=1018210&token=vj3Q0LJjp9lZ:OTVjOWFkMDAwYTllZjhkODg2NzUzNjU3ZmQ1ZmE4NmE3NzcwYzNiMw==
 #EXTINF:-1 group-title="WWE",WWE Network (2)
@@ -608,7 +616,7 @@ http://maghum-ott.com:80/harharoukhou/nskbU5Urn2/63790
 #EXTINF:-1 group-title="XxX CHANNELS",O-LALA
 http://50.7.127.60:8081/olala/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggbefca61272eaa503c30d490fc9d7adb1T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1 group-title="XxX CHANNELS",FAP TV PARODY
-http://50.7.127.60:8081/fap_parody/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg0c8d0749ce33f8cb5d6d244363699905T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+http://50.7.127.60:8081/fap_parody/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg2a753e5b900b54ece7b734ee828379d9T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1 group-title="XxX CHANNELS",FAP TV TEENS
 http://50.7.127.60:8081/fap_teens/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg57461be8a8ef882b7c6a224b674f52edT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1 group-title="XxX CHANNELS",FAP TV LESBIANS
