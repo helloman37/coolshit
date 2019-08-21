@@ -648,18 +648,36 @@ http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/361870.m3u8
 http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/361869.m3u8
 #EXTINF:-1 group-title="BIG BROTHER",CAMERA 4
 http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/361868.m3u8
-#EXTINF:-1 group-title="SKY CINEMA",SKY COMEDY
-http://vtpi.club:27373/k13584/awhhx/20092
-#EXTINF:-1 group-title="SKY CINEMA",SKY THRILLER
-http://iptv.rent:8080/u8ixwo7kyi/6kqn9ryr6j/15718
-#EXTINF:-1 group-title="SKY CINEMA",SKY ACTION
-http://iptv4u.link:25461/knighty1987@googlemail.com/6NLO7zxGfr/18833
-#EXTINF:-1 group-title="SKY CINEMA",SKY HITS
-http://tvservice.pro:80/918438703599/ZsBQbjKcmCcXxQO/33533
-#EXTINF:-1 group-title="SKY CINEMA",SKY Drama
-http://iptv4u.link:25461/knighty1987@googlemail.com/6NLO7zxGfr/18825
-#EXTINF:-1 group-title="SKY CINEMA",Sci-Fi Horror
-http://mu02.v2iptv.com:8880/HJNM142/AnQJLxmC2L/28912
+#EXTINF:-1 group-title="SKY CINEMA",Sky Cinema Action (2765)
+https://api.vpnmate.com/play/?vlc=1&channel=2765&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
+#EXTINF:-1 group-title="SKY CINEMA",Sky Cinema Action (7000188)
+https://api.vpnmate.com/play/?vlc=1&channel=7000188&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
+#EXTINF:-1 group-title="SKY CINEMA",Sky Cinema Comedy (7000187)
+https://api.vpnmate.com/play/?vlc=1&channel=7000187&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
+#EXTINF:-1 group-title="SKY CINEMA",Sky Cinema Disney (7000190)
+https://api.vpnmate.com/play/?vlc=1&channel=7000190&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
+#EXTINF:-1 group-title="SKY CINEMA",Sky Cinema Disney (2767)
+https://api.vpnmate.com/play/?vlc=1&channel=2767&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
+#EXTINF:-1 group-title="SKY CINEMA",Sky Cinema Drama (7000185)
+https://api.vpnmate.com/play/?vlc=1&channel=7000185&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
+#EXTINF:-1 group-title="SKY CINEMA",Sky Cinema Family (7000189)
+https://api.vpnmate.com/play/?vlc=1&channel=7000189&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
+#EXTINF:-1 group-title="SKY CINEMA",Sky Cinema Family (2769)
+https://api.vpnmate.com/play/?vlc=1&channel=2769&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
+#EXTINF:-1 group-title="SKY CINEMA",Sky Cinema Hits (7000192)
+https://api.vpnmate.com/play/?vlc=1&channel=7000192&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
+#EXTINF:-1 group-title="SKY CINEMA",Sky Cinema Premiere (7000193)
+https://api.vpnmate.com/play/?vlc=1&channel=7000193&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
+#EXTINF:-1 group-title="SKY CINEMA",Sky Cinema Sci-fi Horror (7000184)
+https://api.vpnmate.com/play/?vlc=1&channel=7000184&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
+#EXTINF:-1 group-title="SKY CINEMA",Sky Cinema Sci-fi Horror (2771)
+https://api.vpnmate.com/play/?vlc=1&channel=2771&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
+#EXTINF:-1 group-title="SKY CINEMA",Sky Cinema Select (7000183)
+https://api.vpnmate.com/play/?vlc=1&channel=7000183&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
+#EXTINF:-1 group-title="SKY CINEMA",Sky Cinema Select (2772)
+https://api.vpnmate.com/play/?vlc=1&channel=2772&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
+#EXTINF:-1 group-title="SKY CINEMA",Sky Cinema Thriller (7000186)
+https://api.vpnmate.com/play/?vlc=1&channel=7000186&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
 #EXTINF:-1 group-title="XxX CHANNELS",ALBA (1)
 http://apli.mine.nu:8000/Altadmur/uyt654kkkj98uiy/66585
 #EXTINF:-1 group-title="XxX CHANNELS",ALBA (2)
