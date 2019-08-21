@@ -499,6 +499,16 @@ http://kstv.xyz:8080/Sayhay10/1867385835/23342
 http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/268896.m3u8
 #EXTINF:-1 group-title="USA CHANNELS",CARTOONS
 http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/355234.m3u8
+#EXTINF:-1 group-title="OSN MOVIES",MOVIES FIRST
+http://onlinetv.vip:2500/ferozbinsu/binsu1234/31311
+#EXTINF:-1 group-title="OSN MOVIES",ACTION
+http://universeiptv.com:8000/hassanegy/736638282/52
+#EXTINF:-1 group-title="OSN MOVIES",BINGE
+http://tptv.cz:80/12chen0129x5x/ae4feYaQEy/42983
+#EXTINF:-1 group-title="OSN MOVIES",MOVIES
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8868
+#EXTINF:-1 group-title="OSN MOVIES",BOX OFFICE
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5895
 #EXTINF:-1 group-title="24/7",HOLYWOOD SUITE
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="24/7",HORROR 24/7
