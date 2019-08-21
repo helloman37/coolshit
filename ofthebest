@@ -499,259 +499,73 @@ http://kstv.xyz:8080/Sayhay10/1867385835/23342
 http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/268896.m3u8
 #EXTINF:-1 group-title="USA CHANNELS",CARTOONS
 http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/355234.m3u8
-#EXTINF:-1 group-title="OSN",===CHANNEL===
-http://universeiptv.com:8000/hassanegy/736638282/2990
-#EXTINF:-1 group-title="OSN",AD-Drama-HD
-http://universeiptv.com:8000/hassanegy/736638282/3644
-#EXTINF:-1 group-title="OSN",AD-Drama-Plus-HD
-http://universeiptv.com:8000/hassanegy/736638282/41241
-#EXTINF:-1 group-title="OSN",Alfa-Al-Safwa
-http://universeiptv.com:8000/hassanegy/736638282/2575
-#EXTINF:-1 group-title="OSN",Alfa-ALYoum-HD
-http://universeiptv.com:8000/hassanegy/736638282/33
-#EXTINF:-1 group-title="OSN",Alfa-Cinema-1-HD
-http://universeiptv.com:8000/hassanegy/736638282/34
-#EXTINF:-1 group-title="OSN",Alfa-Cinema-1-HD_(Backup)
-http://universeiptv.com:8000/hassanegy/736638282/9250
-#EXTINF:-1 group-title="OSN",Alfa-Cinema-2-HD
-http://universeiptv.com:8000/hassanegy/736638282/35
-#EXTINF:-1 group-title="OSN",Alfa-Cinema-2-HD_(Backup)
-http://universeiptv.com:8000/hassanegy/736638282/7528
-#EXTINF:-1 group-title="OSN",Alfa-Fann-HD
-http://universeiptv.com:8000/hassanegy/736638282/57
-#EXTINF:-1 group-title="OSN",Alfa-Musalsalat
-http://universeiptv.com:8000/hassanegy/736638282/2576
-#EXTINF:-1 group-title="OSN",Alfa-Musalsalat_(Backup)
-http://universeiptv.com:8000/hassanegy/736638282/8625
-#EXTINF:-1 group-title="OSN",Alfa-Musalsalat-2
-http://universeiptv.com:8000/hassanegy/736638282/3270
-#EXTINF:-1 group-title="OSN",Alfa-Music-Now
-http://universeiptv.com:8000/hassanegy/736638282/35064
-#EXTINF:-1 group-title="OSN",Animal-Planet-HD
-http://universeiptv.com:8000/hassanegy/736638282/59
-#EXTINF:-1 group-title="OSN",BBC-First
-http://universeiptv.com:8000/hassanegy/736638282/3302
-#EXTINF:-1 group-title="OSN",Boomerang
-http://universeiptv.com:8000/hassanegy/736638282/3231
-#EXTINF:-1 group-title="OSN",CNN-HD
-http://universeiptv.com:8000/hassanegy/736638282/6965
-#EXTINF:-1 group-title="OSN",Comedy-Central
-http://universeiptv.com:8000/hassanegy/736638282/2613
-#EXTINF:-1 group-title="OSN",Comedy-Central_(Backup)
-http://universeiptv.com:8000/hassanegy/736638282/7298
-#EXTINF:-1 group-title="OSN",Crime-Investigation-Network
-http://universeiptv.com:8000/hassanegy/736638282/3226
-#EXTINF:-1 group-title="OSN",Discovery-HD
-http://universeiptv.com:8000/hassanegy/736638282/58
-#EXTINF:-1 group-title="OSN",Discovery-HD_(Backup)
-http://universeiptv.com:8000/hassanegy/736638282/6895
-#EXTINF:-1 group-title="OSN",Discovery-Family
-http://universeiptv.com:8000/hassanegy/736638282/3024
-#EXTINF:-1 group-title="OSN",Discovery-IDX
-http://universeiptv.com:8000/hassanegy/736638282/3011
-#EXTINF:-1 group-title="OSN",Discovery-IDX_(Audio-AR)
-http://universeiptv.com:8000/hassanegy/736638282/8526
-#EXTINF:-1 group-title="OSN",Discovery-SC
-http://universeiptv.com:8000/hassanegy/736638282/2470
-#EXTINF:-1 group-title="OSN",Disney
-http://universeiptv.com:8000/hassanegy/736638282/2560
-#EXTINF:-1 group-title="OSN",Disney-Junior_(Audio-AR)
-http://universeiptv.com:8000/hassanegy/736638282/3267
-#EXTINF:-1 group-title="OSN",Disney-Junior_(Audio-EN)
-http://universeiptv.com:8000/hassanegy/736638282/3508
-#EXTINF:-1 group-title="OSN",Disney-XD
-http://universeiptv.com:8000/hassanegy/736638282/3349
-#EXTINF:-1 group-title="OSN",Docu-Box
-http://universeiptv.com:8000/hassanegy/736638282/3049
-#EXTINF:-1 group-title="OSN",OSN_E-HD
-http://universeiptv.com:8000/hassanegy/736638282/61
-#EXTINF:-1 group-title="OSN",Fast-And-Fun
-http://universeiptv.com:8000/hassanegy/736638282/3050
-#EXTINF:-1 group-title="OSN",Fight-Box
-http://universeiptv.com:8000/hassanegy/736638282/3507
-#EXTINF:-1 group-title="OSN",Fight-Network
-http://universeiptv.com:8000/hassanegy/736638282/2471
-#EXTINF:-1 group-title="OSN",Living-HD
-http://universeiptv.com:8000/hassanegy/736638282/3022
-#EXTINF:-1 group-title="OSN",Fix-Foxi
-http://universeiptv.com:8000/hassanegy/736638282/3051
-#EXTINF:-1 group-title="OSN",Fox-News
-http://universeiptv.com:8000/hassanegy/736638282/3352
-#EXTINF:-1 group-title="OSN",Fuel-TV
-http://universeiptv.com:8000/hassanegy/736638282/3228
-#EXTINF:-1 group-title="OSN",TDC-HD
-http://universeiptv.com:8000/hassanegy/736638282/3047
-#EXTINF:-1 group-title="OSN",OSN_Fox_Action
-http://universeiptv.com:8000/hassanegy/736638282/2581
-#EXTINF:-1 group-title="OSN",OSN_Fox_Family
-http://universeiptv.com:8000/hassanegy/736638282/2580
-#EXTINF:-1 group-title="OSN",OSN_History
-http://universeiptv.com:8000/hassanegy/736638282/2661
-#EXTINF:-1 group-title="OSN",H2-UK
-http://universeiptv.com:8000/hassanegy/736638282/3021
-#EXTINF:-1 group-title="OSN",ITV-Choice
-http://universeiptv.com:8000/hassanegy/736638282/3020
-#EXTINF:-1 group-title="OSN",Kids-Zone
-http://universeiptv.com:8000/hassanegy/736638282/2614
-#EXTINF:-1 group-title="OSN",MBC-Drama
-http://universeiptv.com:8000/hassanegy/736638282/39
-#EXTINF:-1 group-title="OSN",Movies-HD
+#EXTINF:-1 group-title="OSN MOVIES",Movies-HD
 http://universeiptv.com:8000/hassanegy/736638282/48
-#EXTINF:-1 group-title="OSN",Movies-HD_(Backup)
+#EXTINF:-1 group-title="OSN MOVIES",Movies-HD_(Backup)
 http://universeiptv.com:8000/hassanegy/736638282/6612
-#EXTINF:-1 group-title="OSN",Movies-Action-HD
+#EXTINF:-1 group-title="OSN MOVIES",Movies-Action-HD
 http://universeiptv.com:8000/hassanegy/736638282/52
-#EXTINF:-1 group-title="OSN",Movies-Action-HD_(Backup)
+#EXTINF:-1 group-title="OSN MOVIES",Movies-Action-HD_(Backup)
 http://universeiptv.com:8000/hassanegy/736638282/6609
-#EXTINF:-1 group-title="OSN",Movies-Disney
+#EXTINF:-1 group-title="OSN MOVIES",Movies-Disney
 http://universeiptv.com:8000/hassanegy/736638282/2611
-#EXTINF:-1 group-title="OSN",Movies-Disney_(Backup)
+#EXTINF:-1 group-title="OSN MOVIES",Movies-Disney_(Backup)
 http://universeiptv.com:8000/hassanegy/736638282/6614
-#EXTINF:-1 group-title="OSN",Movies-First-HD
+#EXTINF:-1 group-title="OSN MOVIES",Movies-First-HD
 http://universeiptv.com:8000/hassanegy/736638282/47
-#EXTINF:-1 group-title="OSN",Movies-First-HD_(Backup)
+#EXTINF:-1 group-title="OSN MOVIES",Movies-First-HD_(Backup)
 http://universeiptv.com:8000/hassanegy/736638282/6613
-#EXTINF:-1 group-title="OSN",Movies-First-2-HD
+#EXTINF:-1 group-title="OSN MOVIES",Movies-First-2-HD
 http://universeiptv.com:8000/hassanegy/736638282/3019
-#EXTINF:-1 group-title="OSN",Movies-Kids-HD
+#EXTINF:-1 group-title="OSN MOVIES",Movies-Kids-HD
 http://universeiptv.com:8000/hassanegy/736638282/54
-#EXTINF:-1 group-title="OSN",Movies-Kids-HD_(Backup)
+#EXTINF:-1 group-title="OSN MOVIES",Movies-Kids-HD_(Backup)
 http://universeiptv.com:8000/hassanegy/736638282/9251
-#EXTINF:-1 group-title="OSN",Movies-Enigma-HD
+#EXTINF:-1 group-title="OSN MOVIES",Movies-Enigma-HD
 http://universeiptv.com:8000/hassanegy/736638282/50
-#EXTINF:-1 group-title="OSN",Movies-Enigma-HD_(Backup)
+#EXTINF:-1 group-title="OSN MOVIES",Movies-Enigma-HD_(Backup)
 http://universeiptv.com:8000/hassanegy/736638282/6610
-#EXTINF:-1 group-title="OSN",Series-Binge-HD
-http://universeiptv.com:8000/hassanegy/736638282/36
-#EXTINF:-1 group-title="OSN",Series-First-HD
-http://universeiptv.com:8000/hassanegy/736638282/55
-#EXTINF:-1 group-title="OSN",Series-Comedy-HD
-http://universeiptv.com:8000/hassanegy/736638282/56
-#EXTINF:-1 group-title="OSN",Series-Comedy-HD_(Backup)
-http://universeiptv.com:8000/hassanegy/736638282/7530
-#EXTINF:-1 group-title="OSN",Star-Movies-HD
-http://universeiptv.com:8000/hassanegy/736638282/44
-#EXTINF:-1 group-title="OSN",Star-World-HD
-http://universeiptv.com:8000/hassanegy/736638282/43
-#EXTINF:-1 group-title="OSN",Ten-Cricket
-http://universeiptv.com:8000/hassanegy/736638282/3269
-#EXTINF:-1 group-title="OSN",SUNDANCE-TV
-http://universeiptv.com:8000/hassanegy/736638282/3350
-#EXTINF:-1 group-title="OSN",MTV-LIVE-HD
-http://universeiptv.com:8000/hassanegy/736638282/3268
-#EXTINF:-1 group-title="OSN",National-Geographic
-http://universeiptv.com:8000/hassanegy/736638282/3276
-#EXTINF:-1 group-title="OSN",National-Geographic_(Backup)
-http://universeiptv.com:8000/hassanegy/736638282/6998
-#EXTINF:-1 group-title="OSN",Nat-Geo-People
-http://universeiptv.com:8000/hassanegy/736638282/2473
-#EXTINF:-1 group-title="OSN",Nat-Geo-Wild-HD
-http://universeiptv.com:8000/hassanegy/736638282/46
-#EXTINF:-1 group-title="OSN",Nat-Geo-Wild-HD_(Backup)
-http://universeiptv.com:8000/hassanegy/736638282/8525
-#EXTINF:-1 group-title="OSN",Nautical
-http://universeiptv.com:8000/hassanegy/736638282/6967
-#EXTINF:-1 group-title="OSN",News
-http://universeiptv.com:8000/hassanegy/736638282/3018
-#EXTINF:-1 group-title="OSN",OSN_Nickelodeon_(Audio-AR)
-http://universeiptv.com:8000/hassanegy/736638282/2664
-#EXTINF:-1 group-title="OSN",OSN_Nickelodeon_(Audio-EN)
-http://universeiptv.com:8000/hassanegy/736638282/3509
-#EXTINF:-1 group-title="OSN",OSN_Nickelodeon_Leaab_W_Jad_(Audio-AR)
-http://universeiptv.com:8000/hassanegy/736638282/2663
-#EXTINF:-1 group-title="OSN",OSN_Nickelodeon_Junior
-http://universeiptv.com:8000/hassanegy/736638282/3510
-#EXTINF:-1 group-title="OSN",Outdoor
-http://universeiptv.com:8000/hassanegy/736638282/3017
-#EXTINF:-1 group-title="OSN",Paramount-Channel
-http://universeiptv.com:8000/hassanegy/736638282/5226
-#EXTINF:-1 group-title="OSN",Planet-Earth-HD
-http://universeiptv.com:8000/hassanegy/736638282/6615
-#EXTINF:-1 group-title="OSN",Philipine-AKSYON-and-Kapatid-TV5
-http://universeiptv.com:8000/hassanegy/736638282/6974
-#EXTINF:-1 group-title="OSN",Philipine-ANC
-http://universeiptv.com:8000/hassanegy/736638282/6973
-#EXTINF:-1 group-title="OSN",Philipine-CINEMAONE
-http://universeiptv.com:8000/hassanegy/736638282/6972
-#EXTINF:-1 group-title="OSN",Philipine-CNN
-http://universeiptv.com:8000/hassanegy/736638282/6968
-#EXTINF:-1 group-title="OSN",Philipine-DZMM
-http://universeiptv.com:8000/hassanegy/736638282/6971
-#EXTINF:-1 group-title="OSN",Philipine-GMA-Life-TV
-http://universeiptv.com:8000/hassanegy/736638282/3457
-#EXTINF:-1 group-title="OSN",Philipine-GMA-News-TV
-http://universeiptv.com:8000/hassanegy/736638282/3458
-#EXTINF:-1 group-title="OSN",Philipine-GMA-Pinoy-TV
-http://universeiptv.com:8000/hassanegy/736638282/3459
-#EXTINF:-1 group-title="OSN",Philipine-MYX-TV
-http://universeiptv.com:8000/hassanegy/736638282/6969
-#EXTINF:-1 group-title="OSN",Philipine-TFC
-http://universeiptv.com:8000/hassanegy/736638282/6970
-#EXTINF:-1 group-title="OSN",SeeVii-Prime-1-HD
-http://universeiptv.com:8000/hassanegy/736638282/3700
-#EXTINF:-1 group-title="OSN",SeeVii-Prime-2-HD
-http://universeiptv.com:8000/hassanegy/736638282/3701
-#EXTINF:-1 group-title="OSN",Syfy
-http://universeiptv.com:8000/hassanegy/736638282/2474
-#EXTINF:-1 group-title="OSN",TLC-HD
-http://universeiptv.com:8000/hassanegy/736638282/3009
-#EXTINF:-1 group-title="OSN",Trace-Urban
-http://universeiptv.com:8000/hassanegy/736638282/3227
-#EXTINF:-1 group-title="OSN",VH-1
-http://universeiptv.com:8000/hassanegy/736638282/6966
-#EXTINF:-1 group-title="OSN",YaHala-HD
-http://universeiptv.com:8000/hassanegy/736638282/38
-#EXTINF:-1 group-title="OSN",YaHala-HD_(Backup)
-http://universeiptv.com:8000/hassanegy/736638282/6607
-#EXTINF:-1 group-title="OSN",YaHala-First-HD
-http://universeiptv.com:8000/hassanegy/736638282/37
-#EXTINF:-1 group-title="OSN",YaHala-First-HD_(Backup)
-http://universeiptv.com:8000/hassanegy/736638282/6608
-#EXTINF:-1 group-title="OSN",YAHALA-CINEMA
-http://universeiptv.com:8000/hassanegy/736638282/2043
-#EXTINF:-1 group-title="OSN",YAHALA-CINEMA_(Backup)
-http://universeiptv.com:8000/hassanegy/736638282/37235
-#EXTINF:-1 group-title="OSN",OSN_On_Demand
+#EXTINF:-1 group-title="OSN MOVIES",OSN_On_Demand
 http://universeiptv.com:8000/hassanegy/736638282/2166
-#EXTINF:-1 group-title="OSN",CINEMA1
+#EXTINF:-1 group-title="OSN MOVIES",CINEMA1
 http://universeiptv.com:8000/hassanegy/736638282/1565
-#EXTINF:-1 group-title="OSN",CINEMA2
+#EXTINF:-1 group-title="OSN MOVIES",CINEMA2
 http://universeiptv.com:8000/hassanegy/736638282/1566
-#EXTINF:-1 group-title="OSN",CINEMA3
+#EXTINF:-1 group-title="OSN MOVIES",CINEMA3
 http://universeiptv.com:8000/hassanegy/736638282/1581
-#EXTINF:-1 group-title="OSN",CINEMA4
+#EXTINF:-1 group-title="OSN MOVIES",CINEMA4
 http://universeiptv.com:8000/hassanegy/736638282/1582
-#EXTINF:-1 group-title="OSN",CINEMA5
+#EXTINF:-1 group-title="OSN MOVIES",CINEMA5
 http://universeiptv.com:8000/hassanegy/736638282/1583
-#EXTINF:-1 group-title="OSN",CINEMA6
+#EXTINF:-1 group-title="OSN MOVIES",CINEMA6
 http://universeiptv.com:8000/hassanegy/736638282/1584
-#EXTINF:-1 group-title="OSN",CINEMA7
+#EXTINF:-1 group-title="OSN MOVIES",CINEMA7
 http://universeiptv.com:8000/hassanegy/736638282/1585
-#EXTINF:-1 group-title="OSN",CINEMA8
+#EXTINF:-1 group-title="OSN MOVIES",CINEMA8
 http://universeiptv.com:8000/hassanegy/736638282/1586
-#EXTINF:-1 group-title="OSN",CINEMA9
+#EXTINF:-1 group-title="OSN MOVIES",CINEMA9
 http://universeiptv.com:8000/hassanegy/736638282/1587
-#EXTINF:-1 group-title="OSN",CINEMA10
+#EXTINF:-1 group-title="OSN MOVIES",CINEMA10
 http://universeiptv.com:8000/hassanegy/736638282/1588
-#EXTINF:-1 group-title="OSN",PLAY-CINEMA1
+#EXTINF:-1 group-title="OSN MOVIES",PLAY-CINEMA1
 http://universeiptv.com:8000/hassanegy/736638282/1759
-#EXTINF:-1 group-title="OSN",PLAY-CINEMA2
+#EXTINF:-1 group-title="OSN MOVIES",PLAY-CINEMA2
 http://universeiptv.com:8000/hassanegy/736638282/1762
-#EXTINF:-1 group-title="OSN",PLAY-CINEMA3
+#EXTINF:-1 group-title="OSN MOVIES",PLAY-CINEMA3
 http://universeiptv.com:8000/hassanegy/736638282/1764
-#EXTINF:-1 group-title="OSN",PLAY-CINEMA4
+#EXTINF:-1 group-title="OSN MOVIES",PLAY-CINEMA4
 http://universeiptv.com:8000/hassanegy/736638282/1765
-#EXTINF:-1 group-title="OSN",PLAY-CINEMA5
+#EXTINF:-1 group-title="OSN MOVIES",PLAY-CINEMA5
 http://universeiptv.com:8000/hassanegy/736638282/1766
-#EXTINF:-1 group-title="OSN",PLAY-CINEMA6
+#EXTINF:-1 group-title="OSN MOVIES",PLAY-CINEMA6
 http://universeiptv.com:8000/hassanegy/736638282/1767
-#EXTINF:-1 group-title="OSN",PLAY-CINEMA7
+#EXTINF:-1 group-title="OSN MOVIES",PLAY-CINEMA7
 http://universeiptv.com:8000/hassanegy/736638282/1768
-#EXTINF:-1 group-title="OSN",PLAY-CINEMA8
+#EXTINF:-1 group-title="OSN MOVIES",PLAY-CINEMA8
 http://universeiptv.com:8000/hassanegy/736638282/1769
-#EXTINF:-1 group-title="OSN",
+#EXTINF:-1 group-title="OSN MOVIES",
 http://universeiptv.com:8000/hassanegy/736638282/1770
-#EXTINF:-1 group-title="OSN",PLAY-CINEMA10
+#EXTINF:-1 group-title="OSN MOVIES",PLAY-CINEMA10
 http://universeiptv.com:8000/hassanegy/736638282/1771
 #EXTINF:-1 group-title="24/7",HOLYWOOD SUITE
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
