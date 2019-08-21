@@ -379,7 +379,7 @@ http://api.vpnmate.com/play/?vlc=1&channel=3005864&token=t5FDiO8bRJXn:MjlhZTY0OG
 http://api.vpnmate.com/play/?vlc=1&channel=1102832&token=t5FDiO8bRJXn:MjlhZTY0OGEyZTIxN2ZkNDFlYTg1NmUwYTU1YjM1ZjUzZmU2ODBmMA==
 #EXTINF:-1 tvg-id="showtime.west.us" tvg-name="showtime.west.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/showtime.west.us.png",Showtime (west) US (1018263)
 http://api.vpnmate.com/play/?vlc=1&channel=1018263&token=t5FDiO8bRJXn:MjlhZTY0OGEyZTIxN2ZkNDFlYTg1NmUwYTU1YjM1ZjUzZmU2ODBmMA==
-#EXTINF:-1 tvg-id="showtime.2.east.us" tvg-name="showtime.2.east.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/showtime.2.east.us.png",Showtime 2 (east) US (1018262)
+#EXTINF:-1 tvg-id="showtime.2.east.us" tvg-name="showtime.2.east.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/showtime.2.east.us.png",Showtime 2 (east) US (1018262)
 http://api.vpnmate.com/play/?vlc=1&channel=1018262&token=t5FDiO8bRJXn:MjlhZTY0OGEyZTIxN2ZkNDFlYTg1NmUwYTU1YjM1ZjUzZmU2ODBmMA==
 #EXTINF:-1 tvg-id="showtime.2.west.us" tvg-name="showtime.2.west.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/showtime.2.west.us.png",Showtime 2 (west) US (1018261)
 http://api.vpnmate.com/play/?vlc=1&channel=1018261&token=t5FDiO8bRJXn:MjlhZTY0OGEyZTIxN2ZkNDFlYTg1NmUwYTU1YjM1ZjUzZmU2ODBmMA==
@@ -508,7 +508,7 @@ http://62.210.70.119:80/live.ts?channelId=424&deviceMac=00:1A:79:BE:2F:F6&uid=16
 #EXTINF:-1 group-title="24/7",SIMPSONS
 http://root.events:83/64955543288/3746113360/268820
 #EXTINF:-1 group-title="24/7",TOM & JERRY
-http://a.srvbr.me:8880/74148211/74148211/5115
+http://tv.latintvweb.com:25461/jose1guate/cVgmNx7Y0t/17007
 #EXTINF:-1 group-title="24/7",KITTENS
 http://stitcher.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&USAerId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 group-title="PLUTO TV",MOVIES 1
