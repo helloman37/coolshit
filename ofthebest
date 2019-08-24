@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="US: INVESTIGATION DISCOVERY" tvg-logo="http://miabox.net/logo_picture/INVESTIGATION_DISCOVERY.png" group-title="USA ENTERTAINMENT",US: INVESTIGATION DISCOVERY
+http://its.streamsforus.net:8000/5877808/9888090/3425
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="US: INVESTIGATION DISCOVERY (West) | HD" tvg-logo="http://miabox.net/logo_picture/INVESTIGATION_DISCOVERY.png" group-title="USA ENTERTAINMENT",US: INVESTIGATION DISCOVERY (West) | HD
+http://its.streamsforus.net:8000/5877808/9888090/82874
 #My Channels Bitch
 #EXTINF:-1 tvg-id="ae.east.us" tvg-name="ae.east.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/ae.east.us.png",A&E US (200410)
 https://api.vpnmate.com/play/?vlc=1&channel=200410&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
