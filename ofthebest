@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ae.east.us" tvg-name="ae.east.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/ae.east.us.png",A&E US (1018515)
 https://api.vpnmate.com/play/?vlc=1&channel=1018515&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
 #EXTINF:-1 tvg-id="ae.east.us" tvg-name="ae.east.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/ae.east.us.png",A&E US (200410)
 https://api.vpnmate.com/play/?vlc=1&channel=200410&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
