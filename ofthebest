@@ -606,79 +606,79 @@ http://api.vpnmate.com/play/?vlc=1&channel=7000062&token=vj3Q0LJjp9lZ:OTVjOWFkMD
 http://api.vpnmate.com/play/?vlc=1&channel=7000055&token=vj3Q0LJjp9lZ:OTVjOWFkMDAwYTllZjhkODg2NzUzNjU3ZmQ1ZmE4NmE3NzcwYzNiMw==
 #EXTINF:-1 group-title="MUSIC",MUSIC CHOICE
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 01 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 01 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 01 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84832
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 02 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 02 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 02 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84831
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 03 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 03 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 03 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84830
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 04 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 04 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 04 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84829
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 05 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 05 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 05 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84828
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 06 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 06 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 06 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84827
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 07 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 07 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 07 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84826
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 08 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 08 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 08 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84825
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 09 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 09 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 09 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84824
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 10 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 10 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 10 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84823
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 11 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 11 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 11 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84822
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 12 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 12 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 12 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84821
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 13 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 13 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 13 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84820
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 14 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 14 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 14 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84819
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 15 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 15 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 15 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84818
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 16 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 16 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 16 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84817
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 17 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 17 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 17 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84816
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 18 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 18 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 18 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84815
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 19 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 19 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 19 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84814
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 20 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 20 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 20 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84813
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 21 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 21 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 21 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84812
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 22 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 22 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 22 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84811
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 23 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 23 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 23 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84810
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 24 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 24 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 24 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84809
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 26 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 26 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 26 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84808
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 27 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 27 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 27 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84807
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 28 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 28 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 28 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84806
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 29 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 29 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 29 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84805
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 30 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 30 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 30 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84804
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 31 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 31 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 31 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84803
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 33 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 33 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 33 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84802
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 35 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 35 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 35 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84801
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 36 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 36 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 36 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84800
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 37 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 37 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 37 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84799
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 38 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 38 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 38 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84798
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 39 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 39 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 39 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84797
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 40 PPV" tvg-logo="" group-title="USA PPV MOVIES",US:Cinema 40 PPV
+#EXTINF:-1 group-title="PPV MOVIES",US:Cinema 40 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84796
 #EXTINF:-1 group-title="PPV EVENTS",PPV 1
 http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/355953.m3u8
@@ -885,7 +885,7 @@ http://rocksat.ddns.net:25461/mbgstbwa/xnHpBhDJBi/28595
 #EXTINF:-1 group-title="XxX CHANNELS",XY MIX
 http://danatv.streamtv.to:8080/RenateBoehn/BF5HoJUCZj/13586
 #EXTINF:-1 group-title="XxX CHANNELS",SUPER ONE
-
+http://iptv4k.ddns.me:28000/denvand/den46vand/247
 #EXTINF:-1 group-title="XxX VOD",Amateure Lesbos
 http://iptv.rent:8080/movie/qno7vdte29/cpkn8vkyoe/49623.mp4
 #EXTINF:-1 group-title="XxX VOD",Elegant Angel
