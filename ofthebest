@@ -847,6 +847,1530 @@ http://383873.xyz:2095/live/jesusaguilar/1977/229.ts
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="x24xUN SHOW MAS" tvg-logo="http://i.imgur.com/qZe4dor.png" group-title="INFANTIL",x24xUN SHOW MAS
 http://383873.xyz:2095/live/jesusaguilar/1977/311.ts
 ##DELETE ABOVE FOR NEW CHANNELS
+##ALTERNATES
+#EXTINF:-1 group-title="USA ALTERNATES",A&E
+http://a.srvbr.me:8880/bruno11957949190/102030/898
+#EXTINF:-1 group-title="USA ALTERNATES",A&E HD
+http://a.srvbr.me:8880/bruno11957949190/102030/4203
+#EXTINF:-1 group-title="USA ALTERNATES",A&E HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4167
+#EXTINF:-1 group-title="USA ALTERNATES",AMC
+http://a.srvbr.me:8880/bruno11957949190/102030/5077
+#EXTINF:-1 group-title="USA ALTERNATES",AMC HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5076
+#EXTINF:-1 group-title="USA ALTERNATES",AMC HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4644
+#EXTINF:-1 group-title="USA ALTERNATES",AXN
+http://a.srvbr.me:8880/bruno11957949190/102030/893
+#EXTINF:-1 group-title="USA ALTERNATES",AXN HD
+http://a.srvbr.me:8880/bruno11957949190/102030/892
+#EXTINF:-1 group-title="USA ALTERNATES",AXN HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4165
+#EXTINF:-1 group-title="USA ALTERNATES",Animal Planet
+http://a.srvbr.me:8880/bruno11957949190/102030/897
+#EXTINF:-1 group-title="USA ALTERNATES",Animal Planet HD
+http://a.srvbr.me:8880/bruno11957949190/102030/896
+#EXTINF:-1 group-title="USA ALTERNATES",Animal Planet Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5436
+#EXTINF:-1 group-title="USA ALTERNATES",Animal Planet HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4166
+#EXTINF:-1 group-title="USA ALTERNATES",Arte 1
+http://a.srvbr.me:8880/bruno11957949190/102030/894
+#EXTINF:-1 group-title="USA ALTERNATES",Arte 1 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5329
+#EXTINF:-1 group-title="USA ALTERNATES",Baby TV
+http://a.srvbr.me:8880/bruno11957949190/102030/5078
+#EXTINF:-1 group-title="USA ALTERNATES",BIS
+http://a.srvbr.me:8880/bruno11957949190/102030/886
+#EXTINF:-1 group-title="USA ALTERNATES",BIS HD
+http://a.srvbr.me:8880/bruno11957949190/102030/885
+#EXTINF:-1 group-title="USA ALTERNATES",BIS Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5447
+#EXTINF:-1 group-title="USA ALTERNATES",BIS HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4162
+#EXTINF:-1 group-title="USA ALTERNATES",Band
+http://a.srvbr.me:8880/bruno11957949190/102030/887
+#EXTINF:-1 group-title="USA ALTERNATES",Band HD
+http://a.srvbr.me:8880/bruno11957949190/102030/891
+#EXTINF:-1 group-title="USA ALTERNATES",Band Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5475
+#EXTINF:-1 group-title="USA ALTERNATES",Band HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4164
+#EXTINF:-1 group-title="USA ALTERNATES",Band News
+http://a.srvbr.me:8880/bruno11957949190/102030/890
+#EXTINF:-1 group-title="USA ALTERNATES",Band News HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5162
+#EXTINF:-1 group-title="USA ALTERNATES",Band News Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5435
+#EXTINF:-1 group-title="USA ALTERNATES",Band News HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4163
+#EXTINF:-1 group-title="USA ALTERNATES",Band Sports
+http://a.srvbr.me:8880/bruno11957949190/102030/889
+#EXTINF:-1 group-title="USA ALTERNATES",Band Sports HD
+http://a.srvbr.me:8880/bruno11957949190/102030/888
+#EXTINF:-1 group-title="USA ALTERNATES",Band Sports HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1831
+#EXTINF:-1 group-title="USA ALTERNATES",Canal Brasil
+http://a.srvbr.me:8880/bruno11957949190/102030/883
+#EXTINF:-1 group-title="USA ALTERNATES",Canal Novo Tempo
+http://a.srvbr.me:8880/bruno11957949190/102030/786
+#EXTINF:-1 group-title="USA ALTERNATES",Rede Boa Vontade
+http://a.srvbr.me:8880/bruno11957949190/102030/5328
+#EXTINF:-1 group-title="USA ALTERNATES",Boomerang
+http://a.srvbr.me:8880/bruno11957949190/102030/884
+#EXTINF:-1 group-title="USA ALTERNATES",Boomerang HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5327
+#EXTINF:-1 group-title="USA ALTERNATES",Boomerang Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5434
+#EXTINF:-1 group-title="USA ALTERNATES",Canção Nova
+http://a.srvbr.me:8880/bruno11957949190/102030/879
+#EXTINF:-1 group-title="USA ALTERNATES",Cartoon Network
+http://a.srvbr.me:8880/bruno11957949190/102030/878
+#EXTINF:-1 group-title="USA ALTERNATES",Cartoon Network HD
+http://a.srvbr.me:8880/bruno11957949190/102030/877
+#EXTINF:-1 group-title="USA ALTERNATES",Cartoon Network HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4159
+#EXTINF:-1 group-title="USA ALTERNATES",Cinemax
+http://a.srvbr.me:8880/bruno11957949190/102030/876
+#EXTINF:-1 group-title="USA ALTERNATES",Cinemax HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1495
+#EXTINF:-1 group-title="USA ALTERNATES",Cinemax HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/5124
+#EXTINF:-1 group-title="USA ALTERNATES",Comedy Central
+http://a.srvbr.me:8880/bruno11957949190/102030/873
+#EXTINF:-1 group-title="USA ALTERNATES",Comedy Central HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5326
+#EXTINF:-1 group-title="USA ALTERNATES",Comedy Central HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1833
+#EXTINF:-1 group-title="USA ALTERNATES",Combate
+http://a.srvbr.me:8880/bruno11957949190/102030/875
+#EXTINF:-1 group-title="USA ALTERNATES",Combate HD
+http://a.srvbr.me:8880/bruno11957949190/102030/874
+#EXTINF:-1 group-title="USA ALTERNATES",Combate Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5474
+#EXTINF:-1 group-title="USA ALTERNATES",Combate HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1832
+#EXTINF:-1 group-title="USA ALTERNATES",COPA LIBERTADORES HD
+http://a.srvbr.me:8880/bruno11957949190/102030/11444
+#EXTINF:-1 group-title="USA ALTERNATES",COPA SULAMERICANA HD (DAZN)
+http://a.srvbr.me:8880/bruno11957949190/102030/11443
+#EXTINF:-1 group-title="USA ALTERNATES",Curta!
+http://a.srvbr.me:8880/bruno11957949190/102030/872
+#EXTINF:-1 group-title="USA ALTERNATES",Curta! HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5325
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Home & Health
+http://a.srvbr.me:8880/bruno11957949190/102030/868
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Home & Health HD
+http://a.srvbr.me:8880/bruno11957949190/102030/867
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Home & Health Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5433
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Home & Health HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4156
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Civilization
+http://a.srvbr.me:8880/bruno11957949190/102030/869
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Civilization HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5324
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Civilization HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4157
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Channel
+http://a.srvbr.me:8880/bruno11957949190/102030/871
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Channel HD
+http://a.srvbr.me:8880/bruno11957949190/102030/870
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Channel Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5448
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Channel HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1834
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Kids
+http://a.srvbr.me:8880/bruno11957949190/102030/866
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Kids HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1494
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery kids Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5432
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Kids HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1835
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Science
+http://a.srvbr.me:8880/bruno11957949190/102030/865
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Science HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5075
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Science HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4154
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Theater
+http://a.srvbr.me:8880/bruno11957949190/102030/5323
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Theater HD
+http://a.srvbr.me:8880/bruno11957949190/102030/864
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Theater HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4153
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery World
+http://a.srvbr.me:8880/bruno11957949190/102030/5322
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery World HD
+http://a.srvbr.me:8880/bruno11957949190/102030/861
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery World Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5430
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery World HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4151
+#EXTINF:-1 group-title="USA ALTERNATES",Disney Channel
+http://a.srvbr.me:8880/bruno11957949190/102030/860
+#EXTINF:-1 group-title="USA ALTERNATES",Disney Channel HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1493
+#EXTINF:-1 group-title="USA ALTERNATES",Disney Channel Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5446
+#EXTINF:-1 group-title="USA ALTERNATES",Disney Channel HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4150
+#EXTINF:-1 group-title="USA ALTERNATES",Disney Junior
+http://a.srvbr.me:8880/bruno11957949190/102030/859
+#EXTINF:-1 group-title="USA ALTERNATES",Disney Junior HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5562
+#EXTINF:-1 group-title="USA ALTERNATES",Disney XD
+http://a.srvbr.me:8880/bruno11957949190/102030/858
+#EXTINF:-1 group-title="USA ALTERNATES",Disney XD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4149
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Turbo
+http://a.srvbr.me:8880/bruno11957949190/102030/863
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Turbo HD
+http://a.srvbr.me:8880/bruno11957949190/102030/862
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Turbo Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5431
+#EXTINF:-1 group-title="USA ALTERNATES",Discovery Turbo HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4152
+#EXTINF:-1 group-title="USA ALTERNATES",E!
+http://a.srvbr.me:8880/bruno11957949190/102030/857
+#EXTINF:-1 group-title="USA ALTERNATES",E! HD
+http://a.srvbr.me:8880/bruno11957949190/102030/4204
+#EXTINF:-1 group-title="USA ALTERNATES",EI PLUS SD
+http://a.srvbr.me:8880/bruno11957949190/102030/11483
+#EXTINF:-1 group-title="USA ALTERNATES",EI PLUS HD
+http://a.srvbr.me:8880/bruno11957949190/102030/11484
+#EXTINF:-1 group-title="USA ALTERNATES",ESPN
+http://a.srvbr.me:8880/bruno11957949190/102030/4643
+#EXTINF:-1 group-title="USA ALTERNATES",ESPN HD
+http://a.srvbr.me:8880/bruno11957949190/102030/848
+#EXTINF:-1 group-title="USA ALTERNATES",ESPN Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5458
+#EXTINF:-1 group-title="USA ALTERNATES",ESPN HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1839
+#EXTINF:-1 group-title="USA ALTERNATES",ESPN +  HD
+http://a.srvbr.me:8880/bruno11957949190/102030/851
+#EXTINF:-1 group-title="USA ALTERNATES",ESPN + HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1837
+#EXTINF:-1 group-title="USA ALTERNATES",ESPN Brasil
+http://a.srvbr.me:8880/bruno11957949190/102030/850
+#EXTINF:-1 group-title="USA ALTERNATES",ESPN Brasil HD
+http://a.srvbr.me:8880/bruno11957949190/102030/849
+#EXTINF:-1 group-title="USA ALTERNATES",ESPN Brasil Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5459
+#EXTINF:-1 group-title="USA ALTERNATES",ESPN Brasil HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1838
+#EXTINF:-1 group-title="USA ALTERNATES",Espn Extra
+http://a.srvbr.me:8880/bruno11957949190/102030/5321
+#EXTINF:-1 group-title="USA ALTERNATES",Espn Extra HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5320
+#EXTINF:-1 group-title="USA ALTERNATES",ESPN Extra Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5457
+#EXTINF:-1 group-title="USA ALTERNATES",Fish TV
+http://a.srvbr.me:8880/bruno11957949190/102030/846
+#EXTINF:-1 group-title="USA ALTERNATES",Fish TV HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5319
+#EXTINF:-1 group-title="USA ALTERNATES",Food Network
+http://a.srvbr.me:8880/bruno11957949190/102030/845
+#EXTINF:-1 group-title="USA ALTERNATES",Food Network HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1491
+#EXTINF:-1 group-title="USA ALTERNATES",Food Network HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4145
+#EXTINF:-1 group-title="USA ALTERNATES",FOX
+http://a.srvbr.me:8880/bruno11957949190/102030/844
+#EXTINF:-1 group-title="USA ALTERNATES",FOX HD
+http://a.srvbr.me:8880/bruno11957949190/102030/841
+#EXTINF:-1 group-title="USA ALTERNATES",Fox Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5473
+#EXTINF:-1 group-title="USA ALTERNATES",FOX HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1842
+#EXTINF:-1 group-title="USA ALTERNATES",Fox Premium
+http://a.srvbr.me:8880/bruno11957949190/102030/5318
+#EXTINF:-1 group-title="USA ALTERNATES",FOX Premium HD
+http://a.srvbr.me:8880/bruno11957949190/102030/843
+#EXTINF:-1 group-title="USA ALTERNATES",FOX Premium HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4144
+#EXTINF:-1 group-title="USA ALTERNATES",Fox Premium 2
+http://a.srvbr.me:8880/bruno11957949190/102030/5317
+#EXTINF:-1 group-title="USA ALTERNATES",FOX Premium 2 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/842
+#EXTINF:-1 group-title="USA ALTERNATES",Fox Premium 2 Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5429
+#EXTINF:-1 group-title="USA ALTERNATES",FOX Premium 2 HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4143
+#EXTINF:-1 group-title="USA ALTERNATES",Fox Life
+http://a.srvbr.me:8880/bruno11957949190/102030/840
+#EXTINF:-1 group-title="USA ALTERNATES",FOX Life HD
+http://a.srvbr.me:8880/bruno11957949190/102030/839
+#EXTINF:-1 group-title="USA ALTERNATES",Fox Sports
+http://a.srvbr.me:8880/bruno11957949190/102030/837
+#EXTINF:-1 group-title="USA ALTERNATES",Fox Sports HD
+http://a.srvbr.me:8880/bruno11957949190/102030/838
+#EXTINF:-1 group-title="USA ALTERNATES",Fox Sports Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5418
+#EXTINF:-1 group-title="USA ALTERNATES",Fox Sports HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1844
+#EXTINF:-1 group-title="USA ALTERNATES",Fox Sports 2
+http://a.srvbr.me:8880/bruno11957949190/102030/836
+#EXTINF:-1 group-title="USA ALTERNATES",FOX Sports 2 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/835
+#EXTINF:-1 group-title="USA ALTERNATES",Fox Sports 2 Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5456
+#EXTINF:-1 group-title="USA ALTERNATES",FOX Sports 2 HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1843
+#EXTINF:-1 group-title="USA ALTERNATES",Futura
+http://a.srvbr.me:8880/bruno11957949190/102030/834
+#EXTINF:-1 group-title="USA ALTERNATES",Futura HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5316
+#EXTINF:-1 group-title="USA ALTERNATES",FX
+http://a.srvbr.me:8880/bruno11957949190/102030/833
+#EXTINF:-1 group-title="USA ALTERNATES",FX HD
+http://a.srvbr.me:8880/bruno11957949190/102030/832
+#EXTINF:-1 group-title="USA ALTERNATES",FX HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1845
+#EXTINF:-1 group-title="USA ALTERNATES",Gazeta HD
+http://a.srvbr.me:8880/bruno11957949190/102030/400
+#EXTINF:-1 group-title="USA ALTERNATES",Globo Brasília
+http://a.srvbr.me:8880/bruno11957949190/102030/831
+#EXTINF:-1 group-title="USA ALTERNATES",Globo Brasilia HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5315
+#EXTINF:-1 group-title="USA ALTERNATES",Globo TV Centro America
+http://a.srvbr.me:8880/bruno11957949190/102030/5127
+#EXTINF:-1 group-title="USA ALTERNATES",Globo EPTV Campinas
+http://a.srvbr.me:8880/bruno11957949190/102030/5130
+#EXTINF:-1 group-title="USA ALTERNATES",Globo EPTV Campinas HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5314
+#EXTINF:-1 group-title="USA ALTERNATES",Globo EPTV Sao Carlos
+http://a.srvbr.me:8880/bruno11957949190/102030/5129
+#EXTINF:-1 group-title="USA ALTERNATES",Globo Ribeirão Preto
+http://a.srvbr.me:8880/bruno11957949190/102030/5312
+#EXTINF:-1 group-title="USA ALTERNATES",Globo Ribeirão Preto HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5313
+#EXTINF:-1 group-title="USA ALTERNATES",Globo - TV Bahia
+http://a.srvbr.me:8880/bruno11957949190/102030/5071
+#EXTINF:-1 group-title="USA ALTERNATES",Globo - TV Bahia HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5309
+#EXTINF:-1 group-title="USA ALTERNATES",Globo Minas
+http://a.srvbr.me:8880/bruno11957949190/102030/830
+#EXTINF:-1 group-title="USA ALTERNATES",Globo Minas HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5093
+#EXTINF:-1 group-title="USA ALTERNATES",Globo Minas Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5472
+#EXTINF:-1 group-title="USA ALTERNATES",Globo News
+http://a.srvbr.me:8880/bruno11957949190/102030/826
+#EXTINF:-1 group-title="USA ALTERNATES",Globo News HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1498
+#EXTINF:-1 group-title="USA ALTERNATES",Globo News Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5442
+#EXTINF:-1 group-title="USA ALTERNATES",Globo News HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1846
+#EXTINF:-1 group-title="USA ALTERNATES",Globo Nordeste
+http://a.srvbr.me:8880/bruno11957949190/102030/5067
+#EXTINF:-1 group-title="USA ALTERNATES",Globo Nordeste HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5073
+#EXTINF:-1 group-title="USA ALTERNATES",Globo - RBS TV
+http://a.srvbr.me:8880/bruno11957949190/102030/764
+#EXTINF:-1 group-title="USA ALTERNATES",Globo - RBS TV HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5311
+#EXTINF:-1 group-title="USA ALTERNATES",Globo RJ
+http://a.srvbr.me:8880/bruno11957949190/102030/829
+#EXTINF:-1 group-title="USA ALTERNATES",Globo RJ HD
+http://a.srvbr.me:8880/bruno11957949190/102030/828
+#EXTINF:-1 group-title="USA ALTERNATES",Globo RJ Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5471
+#EXTINF:-1 group-title="USA ALTERNATES",Globo Rede HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1847
+#EXTINF:-1 group-title="USA ALTERNATES",Globo NSC TV Florianopolis
+http://a.srvbr.me:8880/bruno11957949190/102030/5421
+#EXTINF:-1 group-title="USA ALTERNATES",Globo NSC TV Florianopolis HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5420
+#EXTINF:-1 group-title="USA ALTERNATES",Globo Curitiba
+http://a.srvbr.me:8880/bruno11957949190/102030/5128
+#EXTINF:-1 group-title="USA ALTERNATES",Globo Curitiba HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5310
+#EXTINF:-1 group-title="USA ALTERNATES",Globo RPC Curitiba Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5469
+#EXTINF:-1 group-title="USA ALTERNATES",Globo SP
+http://a.srvbr.me:8880/bruno11957949190/102030/827
+#EXTINF:-1 group-title="USA ALTERNATES",Globo SP HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5095
+#EXTINF:-1 group-title="USA ALTERNATES",Globo SP Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5470
+#EXTINF:-1 group-title="USA ALTERNATES",Globo SP HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/5528
+#EXTINF:-1 group-title="USA ALTERNATES",Globo Anhaguera Goiania
+http://a.srvbr.me:8880/bruno11957949190/102030/5074
+#EXTINF:-1 group-title="USA ALTERNATES",Globo Goias - TV Anhanguera HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5072
+#EXTINF:-1 group-title="USA ALTERNATES",Globo TV Tribuna Santos
+http://a.srvbr.me:8880/bruno11957949190/102030/5126
+#EXTINF:-1 group-title="USA ALTERNATES",TV Vanguarda Sao Jose dos Campos
+http://a.srvbr.me:8880/bruno11957949190/102030/5125
+#EXTINF:-1 group-title="USA ALTERNATES",Globo Para (Belem) - TV Liberal
+http://a.srvbr.me:8880/bruno11957949190/102030/5069
+#EXTINF:-1 group-title="USA ALTERNATES",Globo TV TEM S.J. Rio Preto
+http://a.srvbr.me:8880/bruno11957949190/102030/5307
+#EXTINF:-1 group-title="USA ALTERNATES",Globo TV TEM S.J. Rio Preto HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5308
+#EXTINF:-1 group-title="USA ALTERNATES",Globo - TV TEM Bauru
+http://a.srvbr.me:8880/bruno11957949190/102030/714
+#EXTINF:-1 group-title="USA ALTERNATES",Globo - TV TEM Sorocaba
+http://a.srvbr.me:8880/bruno11957949190/102030/713
+#EXTINF:-1 group-title="USA ALTERNATES",Globo - TV Verdes Mares
+http://a.srvbr.me:8880/bruno11957949190/102030/5068
+#EXTINF:-1 group-title="USA ALTERNATES",+Globosat
+http://a.srvbr.me:8880/bruno11957949190/102030/804
+#EXTINF:-1 group-title="USA ALTERNATES",+Globosat HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1488
+#EXTINF:-1 group-title="USA ALTERNATES",+Globosat HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4135
+#EXTINF:-1 group-title="USA ALTERNATES",Gloob
+http://a.srvbr.me:8880/bruno11957949190/102030/825
+#EXTINF:-1 group-title="USA ALTERNATES",Gloob HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1490
+#EXTINF:-1 group-title="USA ALTERNATES",Gloob Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5441
+#EXTINF:-1 group-title="USA ALTERNATES",Gloob HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1848
+#EXTINF:-1 group-title="USA ALTERNATES",Gloobinho
+http://a.srvbr.me:8880/bruno11957949190/102030/5306
+#EXTINF:-1 group-title="USA ALTERNATES",Gloobinho HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5305
+#EXTINF:-1 group-title="USA ALTERNATES",GNT
+http://a.srvbr.me:8880/bruno11957949190/102030/824
+#EXTINF:-1 group-title="USA ALTERNATES",GNT HD
+http://a.srvbr.me:8880/bruno11957949190/102030/823
+#EXTINF:-1 group-title="USA ALTERNATES",GNT HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4142
+#EXTINF:-1 group-title="USA ALTERNATES",H2
+http://a.srvbr.me:8880/bruno11957949190/102030/822
+#EXTINF:-1 group-title="USA ALTERNATES",H2 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/821
+#EXTINF:-1 group-title="USA ALTERNATES",H2 HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4141
+#EXTINF:-1 group-title="USA ALTERNATES",HBO
+http://a.srvbr.me:8880/bruno11957949190/102030/820
+#EXTINF:-1 group-title="USA ALTERNATES",HBO HD
+http://a.srvbr.me:8880/bruno11957949190/102030/816
+#EXTINF:-1 group-title="USA ALTERNATES",HBO Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5467
+#EXTINF:-1 group-title="USA ALTERNATES",HBO HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1850
+#EXTINF:-1 group-title="USA ALTERNATES",HBO 2
+http://a.srvbr.me:8880/bruno11957949190/102030/810
+#EXTINF:-1 group-title="USA ALTERNATES",HBO 2 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/819
+#EXTINF:-1 group-title="USA ALTERNATES",HBO 2 Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5468
+#EXTINF:-1 group-title="USA ALTERNATES",HBO 2 HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1849
+#EXTINF:-1 group-title="USA ALTERNATES",HBO Family
+http://a.srvbr.me:8880/bruno11957949190/102030/818
+#EXTINF:-1 group-title="USA ALTERNATES",HBO Family HD
+http://a.srvbr.me:8880/bruno11957949190/102030/817
+#EXTINF:-1 group-title="USA ALTERNATES",HBO Family HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4140
+#EXTINF:-1 group-title="USA ALTERNATES",HBO Plus
+http://a.srvbr.me:8880/bruno11957949190/102030/815
+#EXTINF:-1 group-title="USA ALTERNATES",HBO Plus HD
+http://a.srvbr.me:8880/bruno11957949190/102030/813
+#EXTINF:-1 group-title="USA ALTERNATES",HBO Plus HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4139
+#EXTINF:-1 group-title="USA ALTERNATES",HBO Plus *e
+http://a.srvbr.me:8880/bruno11957949190/102030/814
+#EXTINF:-1 group-title="USA ALTERNATES",HBO Signature
+http://a.srvbr.me:8880/bruno11957949190/102030/812
+#EXTINF:-1 group-title="USA ALTERNATES",HBO Signature HD
+http://a.srvbr.me:8880/bruno11957949190/102030/811
+#EXTINF:-1 group-title="USA ALTERNATES",HBO Signature HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4138
+#EXTINF:-1 group-title="USA ALTERNATES",History
+http://a.srvbr.me:8880/bruno11957949190/102030/726
+#EXTINF:-1 group-title="USA ALTERNATES",History HD
+http://a.srvbr.me:8880/bruno11957949190/102030/809
+#EXTINF:-1 group-title="USA ALTERNATES",History Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5424
+#EXTINF:-1 group-title="USA ALTERNATES",History HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4137
+#EXTINF:-1 group-title="USA ALTERNATES",ID
+http://a.srvbr.me:8880/bruno11957949190/102030/807
+#EXTINF:-1 group-title="USA ALTERNATES",ID HD
+http://a.srvbr.me:8880/bruno11957949190/102030/806
+#EXTINF:-1 group-title="USA ALTERNATES",ID HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4155
+#EXTINF:-1 group-title="USA ALTERNATES",Ideal TV
+http://a.srvbr.me:8880/bruno11957949190/102030/703
+#EXTINF:-1 group-title="USA ALTERNATES",I-SAT
+http://a.srvbr.me:8880/bruno11957949190/102030/808
+#EXTINF:-1 group-title="USA ALTERNATES",Lifetime
+http://a.srvbr.me:8880/bruno11957949190/102030/805
+#EXTINF:-1 group-title="USA ALTERNATES",Lifetime HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1489
+#EXTINF:-1 group-title="USA ALTERNATES",Lifetime HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4136
+#EXTINF:-1 group-title="USA ALTERNATES",MAX
+http://a.srvbr.me:8880/bruno11957949190/102030/803
+#EXTINF:-1 group-title="USA ALTERNATES",MAX HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1497
+#EXTINF:-1 group-title="USA ALTERNATES",MAX Prime
+http://a.srvbr.me:8880/bruno11957949190/102030/802
+#EXTINF:-1 group-title="USA ALTERNATES",Sony
+http://a.srvbr.me:8880/bruno11957949190/102030/881
+#EXTINF:-1 group-title="USA ALTERNATES",Sony HD
+http://a.srvbr.me:8880/bruno11957949190/102030/880
+#EXTINF:-1 group-title="USA ALTERNATES",Sony HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4115
+#EXTINF:-1 group-title="USA ALTERNATES",MAX Prime HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1487
+#EXTINF:-1 group-title="USA ALTERNATES",MAX UP
+http://a.srvbr.me:8880/bruno11957949190/102030/800
+#EXTINF:-1 group-title="USA ALTERNATES",Max UP HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1486
+#EXTINF:-1 group-title="USA ALTERNATES",Maxup HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4134
+#EXTINF:-1 group-title="USA ALTERNATES",Max Prime *e
+http://a.srvbr.me:8880/bruno11957949190/102030/801
+#EXTINF:-1 group-title="USA ALTERNATES",MegaPix
+http://a.srvbr.me:8880/bruno11957949190/102030/799
+#EXTINF:-1 group-title="USA ALTERNATES",Megapix HD
+http://a.srvbr.me:8880/bruno11957949190/102030/798
+#EXTINF:-1 group-title="USA ALTERNATES",Megapix HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1851
+#EXTINF:-1 group-title="USA ALTERNATES",MTV
+http://a.srvbr.me:8880/bruno11957949190/102030/797
+#EXTINF:-1 group-title="USA ALTERNATES",MTV HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1485
+#EXTINF:-1 group-title="USA ALTERNATES",MTV HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4133
+#EXTINF:-1 group-title="USA ALTERNATES",Multishow
+http://a.srvbr.me:8880/bruno11957949190/102030/796
+#EXTINF:-1 group-title="USA ALTERNATES",Multishow HD
+http://a.srvbr.me:8880/bruno11957949190/102030/795
+#EXTINF:-1 group-title="USA ALTERNATES",Multishow HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4131
+#EXTINF:-1 group-title="USA ALTERNATES",Music Box Brasil
+http://a.srvbr.me:8880/bruno11957949190/102030/794
+#EXTINF:-1 group-title="USA ALTERNATES",Music Box Brasil HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5304
+#EXTINF:-1 group-title="USA ALTERNATES",NatGeo Wild
+http://a.srvbr.me:8880/bruno11957949190/102030/793
+#EXTINF:-1 group-title="USA ALTERNATES",NatGeo Wild HD
+http://a.srvbr.me:8880/bruno11957949190/102030/702
+#EXTINF:-1 group-title="USA ALTERNATES",Nat Geo Wild Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5428
+#EXTINF:-1 group-title="USA ALTERNATES",Natgeo Kids
+http://a.srvbr.me:8880/bruno11957949190/102030/5303
+#EXTINF:-1 group-title="USA ALTERNATES",Natgeo Kids HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5302
+#EXTINF:-1 group-title="USA ALTERNATES",National Geographic
+http://a.srvbr.me:8880/bruno11957949190/102030/792
+#EXTINF:-1 group-title="USA ALTERNATES",National Geographic HD
+http://a.srvbr.me:8880/bruno11957949190/102030/791
+#EXTINF:-1 group-title="USA ALTERNATES",National Geographic HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4129
+#EXTINF:-1 group-title="USA ALTERNATES",NBR
+http://a.srvbr.me:8880/bruno11957949190/102030/790
+#EXTINF:-1 group-title="USA ALTERNATES",NHK
+http://a.srvbr.me:8880/bruno11957949190/102030/789
+#EXTINF:-1 group-title="USA ALTERNATES",Nickelodeon
+http://a.srvbr.me:8880/bruno11957949190/102030/787
+#EXTINF:-1 group-title="USA ALTERNATES",Nickelodeon HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1484
+#EXTINF:-1 group-title="USA ALTERNATES",Nicklodeon Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5426
+#EXTINF:-1 group-title="USA ALTERNATES",Nickelodeon HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4128
+#EXTINF:-1 group-title="USA ALTERNATES",Nick Jr.
+http://a.srvbr.me:8880/bruno11957949190/102030/788
+#EXTINF:-1 group-title="USA ALTERNATES",Nick Jr. HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5301
+#EXTINF:-1 group-title="USA ALTERNATES",Nick JR Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5427
+#EXTINF:-1 group-title="USA ALTERNATES",OFF
+http://a.srvbr.me:8880/bruno11957949190/102030/785
+#EXTINF:-1 group-title="USA ALTERNATES",OFF HD
+http://a.srvbr.me:8880/bruno11957949190/102030/784
+#EXTINF:-1 group-title="USA ALTERNATES",OFF HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4125
+#EXTINF:-1 group-title="USA ALTERNATES",Paramount Channel
+http://a.srvbr.me:8880/bruno11957949190/102030/783
+#EXTINF:-1 group-title="USA ALTERNATES",Paramount Channel HD
+http://a.srvbr.me:8880/bruno11957949190/102030/782
+#EXTINF:-1 group-title="USA ALTERNATES",Paramount HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4124
+#EXTINF:-1 group-title="USA ALTERNATES",Premiere Clubes
+http://a.srvbr.me:8880/bruno11957949190/102030/767
+#EXTINF:-1 group-title="USA ALTERNATES",Premiere Clubes HD
+http://a.srvbr.me:8880/bruno11957949190/102030/780
+#EXTINF:-1 group-title="USA ALTERNATES",Premiere Clubes Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5455
+#EXTINF:-1 group-title="USA ALTERNATES",Premiere Clubes HD [ALTERNATIVO]
+http://a.srvbr.me:8880/bruno11957949190/102030/1852
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 2
+http://a.srvbr.me:8880/bruno11957949190/102030/779
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 2 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/778
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 2 Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5454
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 2 HD [ALTERNATIVO]
+http://a.srvbr.me:8880/bruno11957949190/102030/1853
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 3
+http://a.srvbr.me:8880/bruno11957949190/102030/777
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 3 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/776
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 3 Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5453
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 3 HD [ALTERNATIVO]
+http://a.srvbr.me:8880/bruno11957949190/102030/1854
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 4
+http://a.srvbr.me:8880/bruno11957949190/102030/775
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 4 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/774
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 4 Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5452
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 4 HD [ALTERNATIVO]
+http://a.srvbr.me:8880/bruno11957949190/102030/1855
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 5
+http://a.srvbr.me:8880/bruno11957949190/102030/773
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 5 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/772
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 5 Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5451
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 5 HD [ALTERNATIVO]
+http://a.srvbr.me:8880/bruno11957949190/102030/1856
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 6
+http://a.srvbr.me:8880/bruno11957949190/102030/771
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 6 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/4123
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 6 Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5450
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 6 HD [ALTERNATIVO]
+http://a.srvbr.me:8880/bruno11957949190/102030/5330
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 7
+http://a.srvbr.me:8880/bruno11957949190/102030/770
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 7 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/4122
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 7 Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5449
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 7 HD [ALTERNATIVO]
+http://a.srvbr.me:8880/bruno11957949190/102030/5331
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 8
+http://a.srvbr.me:8880/bruno11957949190/102030/769
+#EXTINF:-1 group-title="USA ALTERNATES",PFC 9
+http://a.srvbr.me:8880/bruno11957949190/102030/768
+#EXTINF:-1 group-title="USA ALTERNATES",Prime Box Brasil
+http://a.srvbr.me:8880/bruno11957949190/102030/766
+#EXTINF:-1 group-title="USA ALTERNATES",Prime Box Brasil HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5300
+#EXTINF:-1 group-title="USA ALTERNATES",RBI
+http://a.srvbr.me:8880/bruno11957949190/102030/765
+#EXTINF:-1 group-title="USA ALTERNATES",Record
+http://a.srvbr.me:8880/bruno11957949190/102030/761
+#EXTINF:-1 group-title="USA ALTERNATES",Record HD
+http://a.srvbr.me:8880/bruno11957949190/102030/763
+#EXTINF:-1 group-title="USA ALTERNATES",Record Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5466
+#EXTINF:-1 group-title="USA ALTERNATES",Globo Internacional
+http://a.srvbr.me:8880/bruno11957949190/102030/604
+#EXTINF:-1 group-title="USA ALTERNATES",Record HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1857
+#EXTINF:-1 group-title="USA ALTERNATES",Record BA
+http://a.srvbr.me:8880/bruno11957949190/102030/11072
+#EXTINF:-1 group-title="USA ALTERNATES",Record BA HD
+http://a.srvbr.me:8880/bruno11957949190/102030/11071
+#EXTINF:-1 group-title="USA ALTERNATES",Record BA Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/11070
+#EXTINF:-1 group-title="USA ALTERNATES",Record DF
+http://a.srvbr.me:8880/bruno11957949190/102030/11069
+#EXTINF:-1 group-title="USA ALTERNATES",Record DF HD
+http://a.srvbr.me:8880/bruno11957949190/102030/11068
+#EXTINF:-1 group-title="USA ALTERNATES",Record DF Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/11067
+#EXTINF:-1 group-title="USA ALTERNATES",Record MG
+http://a.srvbr.me:8880/bruno11957949190/102030/7565
+#EXTINF:-1 group-title="USA ALTERNATES",Record MG HD
+http://a.srvbr.me:8880/bruno11957949190/102030/7566
+#EXTINF:-1 group-title="USA ALTERNATES",Record MG Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/11061
+#EXTINF:-1 group-title="USA ALTERNATES",Record RJ
+http://a.srvbr.me:8880/bruno11957949190/102030/7567
+#EXTINF:-1 group-title="USA ALTERNATES",Record RJ HD
+http://a.srvbr.me:8880/bruno11957949190/102030/7568
+#EXTINF:-1 group-title="USA ALTERNATES",Record RJ Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/11060
+#EXTINF:-1 group-title="USA ALTERNATES",Record RS
+http://a.srvbr.me:8880/bruno11957949190/102030/11066
+#EXTINF:-1 group-title="USA ALTERNATES",Record RS HD
+http://a.srvbr.me:8880/bruno11957949190/102030/11065
+#EXTINF:-1 group-title="USA ALTERNATES",Record RS Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/11064
+#EXTINF:-1 group-title="USA ALTERNATES",Record SP Interior
+http://a.srvbr.me:8880/bruno11957949190/102030/5298
+#EXTINF:-1 group-title="USA ALTERNATES",Record SP Interior HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5333
+#EXTINF:-1 group-title="USA ALTERNATES",Record Internacional
+http://a.srvbr.me:8880/bruno11957949190/102030/899
+#EXTINF:-1 group-title="USA ALTERNATES",Record News
+http://a.srvbr.me:8880/bruno11957949190/102030/762
+#EXTINF:-1 group-title="USA ALTERNATES",Rede Brasil
+http://a.srvbr.me:8880/bruno11957949190/102030/760
+#EXTINF:-1 group-title="USA ALTERNATES",RedeTV!
+http://a.srvbr.me:8880/bruno11957949190/102030/759
+#EXTINF:-1 group-title="USA ALTERNATES",RedeTV! HD
+http://a.srvbr.me:8880/bruno11957949190/102030/758
+#EXTINF:-1 group-title="USA ALTERNATES",RedeTV! HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4119
+#EXTINF:-1 group-title="USA ALTERNATES",Rede Vida
+http://a.srvbr.me:8880/bruno11957949190/102030/757
+#EXTINF:-1 group-title="USA ALTERNATES",Rede Vida HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5653
+#EXTINF:-1 group-title="USA ALTERNATES",SBT
+http://a.srvbr.me:8880/bruno11957949190/102030/756
+#EXTINF:-1 group-title="USA ALTERNATES",SBT HD
+http://a.srvbr.me:8880/bruno11957949190/102030/755
+#EXTINF:-1 group-title="USA ALTERNATES",SBT Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5465
+#EXTINF:-1 group-title="USA ALTERNATES",SBT HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1858
+#EXTINF:-1 group-title="USA ALTERNATES",SBT SP Interior
+http://a.srvbr.me:8880/bruno11957949190/102030/5297
+#EXTINF:-1 group-title="USA ALTERNATES",Smithsonian Channel
+http://a.srvbr.me:8880/bruno11957949190/102030/11419
+#EXTINF:-1 group-title="USA ALTERNATES",Smithsonian Channel HD
+http://a.srvbr.me:8880/bruno11957949190/102030/11420
+#EXTINF:-1 group-title="USA ALTERNATES",RTP Internacional
+http://a.srvbr.me:8880/bruno11957949190/102030/574
+#EXTINF:-1 group-title="USA ALTERNATES",SIC Internacional
+http://a.srvbr.me:8880/bruno11957949190/102030/754
+#EXTINF:-1 group-title="USA ALTERNATES",Space
+http://a.srvbr.me:8880/bruno11957949190/102030/753
+#EXTINF:-1 group-title="USA ALTERNATES",Space HD
+http://a.srvbr.me:8880/bruno11957949190/102030/752
+#EXTINF:-1 group-title="USA ALTERNATES",Space HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4114
+#EXTINF:-1 group-title="USA ALTERNATES",SporTV
+http://a.srvbr.me:8880/bruno11957949190/102030/748
+#EXTINF:-1 group-title="USA ALTERNATES",SporTV HD
+http://a.srvbr.me:8880/bruno11957949190/102030/749
+#EXTINF:-1 group-title="USA ALTERNATES",Sportv Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5438
+#EXTINF:-1 group-title="USA ALTERNATES",SporTV HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1859
+#EXTINF:-1 group-title="USA ALTERNATES",SporTV2
+http://a.srvbr.me:8880/bruno11957949190/102030/747
+#EXTINF:-1 group-title="USA ALTERNATES",SporTV2 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/751
+#EXTINF:-1 group-title="USA ALTERNATES",Sportv 2 Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5439
+#EXTINF:-1 group-title="USA ALTERNATES",SporTV2 HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1860
+#EXTINF:-1 group-title="USA ALTERNATES",SporTV3
+http://a.srvbr.me:8880/bruno11957949190/102030/745
+#EXTINF:-1 group-title="USA ALTERNATES",SporTV3 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/750
+#EXTINF:-1 group-title="USA ALTERNATES",Sportv 3 Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5440
+#EXTINF:-1 group-title="USA ALTERNATES",SporTV3 HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1861
+#EXTINF:-1 group-title="USA ALTERNATES",Studio Universal
+http://a.srvbr.me:8880/bruno11957949190/102030/743
+#EXTINF:-1 group-title="USA ALTERNATES",Studio Universal HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1480
+#EXTINF:-1 group-title="USA ALTERNATES",Studio Universal HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4113
+#EXTINF:-1 group-title="USA ALTERNATES",SundanceTV
+http://a.srvbr.me:8880/bruno11957949190/102030/5296
+#EXTINF:-1 group-title="USA ALTERNATES",SundanceTV HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5295
+#EXTINF:-1 group-title="USA ALTERNATES",Syfy
+http://a.srvbr.me:8880/bruno11957949190/102030/742
+#EXTINF:-1 group-title="USA ALTERNATES",Syfy HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1483
+#EXTINF:-1 group-title="USA ALTERNATES",SyFy HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4111
+#EXTINF:-1 group-title="USA ALTERNATES",TBS
+http://a.srvbr.me:8880/bruno11957949190/102030/741
+#EXTINF:-1 group-title="USA ALTERNATES",TBS HD
+http://a.srvbr.me:8880/bruno11957949190/102030/740
+#EXTINF:-1 group-title="USA ALTERNATES",TBS HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4110
+#EXTINF:-1 group-title="USA ALTERNATES",TCM
+http://a.srvbr.me:8880/bruno11957949190/102030/734
+#EXTINF:-1 group-title="USA ALTERNATES",TCM HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4109
+#EXTINF:-1 group-title="USA ALTERNATES",TCV INTERNACIONAL
+http://a.srvbr.me:8880/bruno11957949190/102030/983
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Action
+http://a.srvbr.me:8880/bruno11957949190/102030/733
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Action HD
+http://a.srvbr.me:8880/bruno11957949190/102030/739
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Action Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5464
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Action HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1862
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Cult
+http://a.srvbr.me:8880/bruno11957949190/102030/732
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Cult HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1482
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Cult HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4108
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Fun
+http://a.srvbr.me:8880/bruno11957949190/102030/731
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Fun HD
+http://a.srvbr.me:8880/bruno11957949190/102030/738
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Fun Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5463
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Fun HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1863
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Pipoca
+http://a.srvbr.me:8880/bruno11957949190/102030/730
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Pipoca HD
+http://a.srvbr.me:8880/bruno11957949190/102030/737
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Pipoca Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5462
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Pipoca HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1864
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Premium
+http://a.srvbr.me:8880/bruno11957949190/102030/729
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Premium HD
+http://a.srvbr.me:8880/bruno11957949190/102030/736
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Premium Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5461
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Premium HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1865
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Touch
+http://a.srvbr.me:8880/bruno11957949190/102030/728
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Touch HD
+http://a.srvbr.me:8880/bruno11957949190/102030/735
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Touch Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5460
+#EXTINF:-1 group-title="USA ALTERNATES",Telecine Touch HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1866
+#EXTINF:-1 group-title="USA ALTERNATES",Terra Viva
+http://a.srvbr.me:8880/bruno11957949190/102030/727
+#EXTINF:-1 group-title="USA ALTERNATES",TLC
+http://a.srvbr.me:8880/bruno11957949190/102030/725
+#EXTINF:-1 group-title="USA ALTERNATES",TLC HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1481
+#EXTINF:-1 group-title="USA ALTERNATES",TLC HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1867
+#EXTINF:-1 group-title="USA ALTERNATES",TV Senado
+http://a.srvbr.me:8880/bruno11957949190/102030/5294
+#EXTINF:-1 group-title="USA ALTERNATES",TV Justica
+http://a.srvbr.me:8880/bruno11957949190/102030/5293
+#EXTINF:-1 group-title="USA ALTERNATES",TNT
+http://a.srvbr.me:8880/bruno11957949190/102030/724
+#EXTINF:-1 group-title="USA ALTERNATES",TNT HD
+http://a.srvbr.me:8880/bruno11957949190/102030/723
+#EXTINF:-1 group-title="USA ALTERNATES",TNT HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/1868
+#EXTINF:-1 group-title="USA ALTERNATES",TNT Séries
+http://a.srvbr.me:8880/bruno11957949190/102030/722
+#EXTINF:-1 group-title="USA ALTERNATES",TNT Séries HD
+http://a.srvbr.me:8880/bruno11957949190/102030/721
+#EXTINF:-1 group-title="USA ALTERNATES",TNT Series HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4107
+#EXTINF:-1 group-title="USA ALTERNATES",PlayKids
+http://a.srvbr.me:8880/bruno11957949190/102030/7563
+#EXTINF:-1 group-title="USA ALTERNATES",PlayKids HD
+http://a.srvbr.me:8880/bruno11957949190/102030/7564
+#EXTINF:-1 group-title="USA ALTERNATES",Tooncast
+http://a.srvbr.me:8880/bruno11957949190/102030/720
+#EXTINF:-1 group-title="USA ALTERNATES",Tooncast HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4106
+#EXTINF:-1 group-title="USA ALTERNATES",TruTV
+http://a.srvbr.me:8880/bruno11957949190/102030/719
+#EXTINF:-1 group-title="USA ALTERNATES",TruTV HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5291
+#EXTINF:-1 group-title="USA ALTERNATES",TV Aparecida
+http://a.srvbr.me:8880/bruno11957949190/102030/895
+#EXTINF:-1 group-title="USA ALTERNATES",TV Cultura
+http://a.srvbr.me:8880/bruno11957949190/102030/5161
+#EXTINF:-1 group-title="USA ALTERNATES",TV Cultura HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5656
+#EXTINF:-1 group-title="USA ALTERNATES",TV Brasil
+http://a.srvbr.me:8880/bruno11957949190/102030/717
+#EXTINF:-1 group-title="USA ALTERNATES",TV Câmara
+http://a.srvbr.me:8880/bruno11957949190/102030/602
+#EXTINF:-1 group-title="USA ALTERNATES",TV Diário Fortaleza
+http://a.srvbr.me:8880/bruno11957949190/102030/11063
+#EXTINF:-1 group-title="USA ALTERNATES",TV Diário Fortaleza HD
+http://a.srvbr.me:8880/bruno11957949190/102030/11062
+#EXTINF:-1 group-title="USA ALTERNATES",TV Rá Tim Bum
+http://a.srvbr.me:8880/bruno11957949190/102030/715
+#EXTINF:-1 group-title="USA ALTERNATES",TV Ra Tim Bum HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5292
+#EXTINF:-1 group-title="USA ALTERNATES",TVE - TV Educativa Jundiaí
+http://a.srvbr.me:8880/bruno11957949190/102030/712
+#EXTINF:-1 group-title="USA ALTERNATES",Universal Channel
+http://a.srvbr.me:8880/bruno11957949190/102030/711
+#EXTINF:-1 group-title="USA ALTERNATES",Universal Channel HD
+http://a.srvbr.me:8880/bruno11957949190/102030/710
+#EXTINF:-1 group-title="USA ALTERNATES",Universal Channel HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4103
+#EXTINF:-1 group-title="USA ALTERNATES",VH1
+http://a.srvbr.me:8880/bruno11957949190/102030/5290
+#EXTINF:-1 group-title="USA ALTERNATES",VH1 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1479
+#EXTINF:-1 group-title="USA ALTERNATES",VH1 HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4101
+#EXTINF:-1 group-title="USA ALTERNATES",VH1 Mega Hits
+http://a.srvbr.me:8880/bruno11957949190/102030/709
+#EXTINF:-1 group-title="USA ALTERNATES",Viva
+http://a.srvbr.me:8880/bruno11957949190/102030/708
+#EXTINF:-1 group-title="USA ALTERNATES",Viva HD
+http://a.srvbr.me:8880/bruno11957949190/102030/707
+#EXTINF:-1 group-title="USA ALTERNATES",Viva Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5437
+#EXTINF:-1 group-title="USA ALTERNATES",Viva HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4100
+#EXTINF:-1 group-title="USA ALTERNATES",Warner Channel
+http://a.srvbr.me:8880/bruno11957949190/102030/706
+#EXTINF:-1 group-title="USA ALTERNATES",Warner Channel HD
+http://a.srvbr.me:8880/bruno11957949190/102030/705
+#EXTINF:-1 group-title="USA ALTERNATES",Warner Full HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5425
+#EXTINF:-1 group-title="USA ALTERNATES",Warner Channel HD [PLUS]
+http://a.srvbr.me:8880/bruno11957949190/102030/4099
+#EXTINF:-1 group-title="USA ALTERNATES",Woohoo
+http://a.srvbr.me:8880/bruno11957949190/102030/704
+#EXTINF:-1 group-title="USA ALTERNATES",Woohoo HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5657
+#EXTINF:-1 group-title="USA ALTERNATES",Anos 70
+http://a.srvbr.me:8880/bruno11957949190/102030/932
+#EXTINF:-1 group-title="USA ALTERNATES",Anos 80
+http://a.srvbr.me:8880/bruno11957949190/102030/931
+#EXTINF:-1 group-title="USA ALTERNATES",Anos 90
+http://a.srvbr.me:8880/bruno11957949190/102030/930
+#EXTINF:-1 group-title="USA ALTERNATES",Bossa Nova
+http://a.srvbr.me:8880/bruno11957949190/102030/929
+#EXTINF:-1 group-title="USA ALTERNATES",Eletrônica
+http://a.srvbr.me:8880/bruno11957949190/102030/928
+#EXTINF:-1 group-title="USA ALTERNATES",Festa
+http://a.srvbr.me:8880/bruno11957949190/102030/927
+#EXTINF:-1 group-title="USA ALTERNATES",Forró
+http://a.srvbr.me:8880/bruno11957949190/102030/926
+#EXTINF:-1 group-title="USA ALTERNATES",Gospel
+http://a.srvbr.me:8880/bruno11957949190/102030/925
+#EXTINF:-1 group-title="USA ALTERNATES",Hip Hop
+http://a.srvbr.me:8880/bruno11957949190/102030/924
+#EXTINF:-1 group-title="USA ALTERNATES",Jazz
+http://a.srvbr.me:8880/bruno11957949190/102030/923
+#EXTINF:-1 group-title="USA ALTERNATES",Kids
+http://a.srvbr.me:8880/bruno11957949190/102030/922
+#EXTINF:-1 group-title="USA ALTERNATES",Lounge
+http://a.srvbr.me:8880/bruno11957949190/102030/921
+#EXTINF:-1 group-title="USA ALTERNATES",MPB
+http://a.srvbr.me:8880/bruno11957949190/102030/920
+#EXTINF:-1 group-title="USA ALTERNATES",Pagode
+http://a.srvbr.me:8880/bruno11957949190/102030/919
+#EXTINF:-1 group-title="USA ALTERNATES",Pop Hits
+http://a.srvbr.me:8880/bruno11957949190/102030/918
+#EXTINF:-1 group-title="USA ALTERNATES",Rock Clássico
+http://a.srvbr.me:8880/bruno11957949190/102030/916
+#EXTINF:-1 group-title="USA ALTERNATES",Reggae
+http://a.srvbr.me:8880/bruno11957949190/102030/917
+#EXTINF:-1 group-title="USA ALTERNATES",Românticas
+http://a.srvbr.me:8880/bruno11957949190/102030/915
+#EXTINF:-1 group-title="USA ALTERNATES",Samba de Raiz
+http://a.srvbr.me:8880/bruno11957949190/102030/914
+#EXTINF:-1 group-title="USA ALTERNATES",Sertanejo Universitário
+http://a.srvbr.me:8880/bruno11957949190/102030/913
+#EXTINF:-1 group-title="USA ALTERNATES",Pica Pau
+http://a.srvbr.me:8880/bruno11957949190/102030/5114
+#EXTINF:-1 group-title="USA ALTERNATES",Pokemon Sun and Moon 1º Temporada 2018
+http://a.srvbr.me:8880/bruno11957949190/102030/5275
+#EXTINF:-1 group-title="USA ALTERNATES",Dragon Ball Super
+http://a.srvbr.me:8880/bruno11957949190/102030/5277
+#EXTINF:-1 group-title="USA ALTERNATES",A.I.C.O. Incarnation 2018
+http://a.srvbr.me:8880/bruno11957949190/102030/5276
+#EXTINF:-1 group-title="USA ALTERNATES",Tom & Jerry
+http://a.srvbr.me:8880/bruno11957949190/102030/5115
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)24 KITCHEN
+http://a.srvbr.me:8880/bruno11957949190/102030/987
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)A Bola TV
+http://a.srvbr.me:8880/bruno11957949190/102030/664
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)A&E
+http://a.srvbr.me:8880/bruno11957949190/102030/399
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)AMC HD
+http://a.srvbr.me:8880/bruno11957949190/102030/398
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)AXN
+http://a.srvbr.me:8880/bruno11957949190/102030/1011
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)AXN HD
+http://a.srvbr.me:8880/bruno11957949190/102030/396
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)AXN BLACK
+http://a.srvbr.me:8880/bruno11957949190/102030/1010
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)AXN Black HD
+http://a.srvbr.me:8880/bruno11957949190/102030/397
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)AXN WHITE
+http://a.srvbr.me:8880/bruno11957949190/102030/1009
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)AXN White HD
+http://a.srvbr.me:8880/bruno11957949190/102030/395
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)BABY FIRST
+http://a.srvbr.me:8880/bruno11957949190/102030/996
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)Baby TV
+http://a.srvbr.me:8880/bruno11957949190/102030/1046
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)BENFICA TV 1
+http://a.srvbr.me:8880/bruno11957949190/102030/1019
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)BENFICA TV 1 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1018
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)BIGGS
+http://a.srvbr.me:8880/bruno11957949190/102030/998
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)Caça e Pesca
+http://a.srvbr.me:8880/bruno11957949190/102030/392
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)Cartoon Network
+http://a.srvbr.me:8880/bruno11957949190/102030/1047
+#EXTINF:-1 group-title="USA ALTERNATES",MTV Live
+http://a.srvbr.me:8880/bruno11957949190/102030/5654
+#EXTINF:-1 group-title="USA ALTERNATES",MTV Live HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5655
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)CMTV HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1027
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)CANAL PANDA
+http://a.srvbr.me:8880/bruno11957949190/102030/1001
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)CANAL Q
+http://a.srvbr.me:8880/bruno11957949190/102030/991
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)CANÇÃO NOVA
+http://a.srvbr.me:8880/bruno11957949190/102030/981
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)CINEMUNDO HD
+http://a.srvbr.me:8880/bruno11957949190/102030/391
+#EXTINF:-1 group-title="USA ALTERNATES",CUBAVISION
+http://a.srvbr.me:8880/bruno11957949190/102030/984
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)CAÇAVISION
+http://a.srvbr.me:8880/bruno11957949190/102030/989
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)Discovery Channel
+http://a.srvbr.me:8880/bruno11957949190/102030/390
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)DISNEY CHANNEL
+http://a.srvbr.me:8880/bruno11957949190/102030/1002
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)DISNEY JUNIOR
+http://a.srvbr.me:8880/bruno11957949190/102030/1000
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)Discovery Showcase
+http://a.srvbr.me:8880/bruno11957949190/102030/1048
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)DOG TV
+http://a.srvbr.me:8880/bruno11957949190/102030/986
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)E! ENTERTAINMENT
+http://a.srvbr.me:8880/bruno11957949190/102030/988
+#EXTINF:-1 group-title="USA ALTERNATES",(PT) Eleven Sports 1
+http://a.srvbr.me:8880/bruno11957949190/102030/5676
+#EXTINF:-1 group-title="USA ALTERNATES",(PT) Eleven Sports 1 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5675
+#EXTINF:-1 group-title="USA ALTERNATES",(PT) Eleven Sports 2
+http://a.srvbr.me:8880/bruno11957949190/102030/5674
+#EXTINF:-1 group-title="USA ALTERNATES",(PT) Eleven Sports 2 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5673
+#EXTINF:-1 group-title="USA ALTERNATES",(PT) Eleven Sports 3
+http://a.srvbr.me:8880/bruno11957949190/102030/7575
+#EXTINF:-1 group-title="USA ALTERNATES",(PT) Eleven Sports 3 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5672
+#EXTINF:-1 group-title="USA ALTERNATES",(PT) Eleven Sports 4
+http://a.srvbr.me:8880/bruno11957949190/102030/7574
+#EXTINF:-1 group-title="USA ALTERNATES",(PT) Eleven Sports 4 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/7573
+#EXTINF:-1 group-title="USA ALTERNATES",(PT) Eleven Sports 5
+http://a.srvbr.me:8880/bruno11957949190/102030/7572
+#EXTINF:-1 group-title="USA ALTERNATES",(PT) Eleven Sports 5 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/7571
+#EXTINF:-1 group-title="USA ALTERNATES",(PT) Eleven Sports 6
+http://a.srvbr.me:8880/bruno11957949190/102030/7570
+#EXTINF:-1 group-title="USA ALTERNATES",(PT) Eleven Sports 6 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/7569
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)EuroSport
+http://a.srvbr.me:8880/bruno11957949190/102030/420
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)EuroSport 2
+http://a.srvbr.me:8880/bruno11957949190/102030/388
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)EuroNews
+http://a.srvbr.me:8880/bruno11957949190/102030/648
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)EUROSPORT 1 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1013
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)Food Network
+http://a.srvbr.me:8880/bruno11957949190/102030/1049
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)Fuel TV
+http://a.srvbr.me:8880/bruno11957949190/102030/383
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)GLOBO PORTUGAL
+http://a.srvbr.me:8880/bruno11957949190/102030/355
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)Globo Premium
+http://a.srvbr.me:8880/bruno11957949190/102030/1518
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)HISTÓRIA
+http://a.srvbr.me:8880/bruno11957949190/102030/1003
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)Hollywood
+http://a.srvbr.me:8880/bruno11957949190/102030/382
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)Hollywood HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1050
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)JIMJAM
+http://a.srvbr.me:8880/bruno11957949190/102030/997
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)Kombat Sport
+http://a.srvbr.me:8880/bruno11957949190/102030/1051
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)LOCALVISION
+http://a.srvbr.me:8880/bruno11957949190/102030/980
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)MCM POP
+http://a.srvbr.me:8880/bruno11957949190/102030/995
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)MOTORS TV
+http://a.srvbr.me:8880/bruno11957949190/102030/1012
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)MTV
+http://a.srvbr.me:8880/bruno11957949190/102030/994
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)MOTORSVISION HD
+http://a.srvbr.me:8880/bruno11957949190/102030/381
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)National Geographic Channel
+http://a.srvbr.me:8880/bruno11957949190/102030/380
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)NATIONAL GEOGRAPHIC HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1005
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)NATIONAL GEOGRAPHIC WILD
+http://a.srvbr.me:8880/bruno11957949190/102030/1004
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)Odisseia
+http://a.srvbr.me:8880/bruno11957949190/102030/377
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)PFC
+http://a.srvbr.me:8880/bruno11957949190/102030/992
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)PORTO CANAL
+http://a.srvbr.me:8880/bruno11957949190/102030/1015
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)PORTO CANAL HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1014
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)REGIÕES TV
+http://a.srvbr.me:8880/bruno11957949190/102030/982
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)RTP 1
+http://a.srvbr.me:8880/bruno11957949190/102030/375
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)RTP 2
+http://a.srvbr.me:8880/bruno11957949190/102030/374
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)RTP 3
+http://a.srvbr.me:8880/bruno11957949190/102030/373
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)RTP Açores
+http://a.srvbr.me:8880/bruno11957949190/102030/372
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)RTP África
+http://a.srvbr.me:8880/bruno11957949190/102030/371
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)RTP Madeira
+http://a.srvbr.me:8880/bruno11957949190/102030/370
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)RTP Memória
+http://a.srvbr.me:8880/bruno11957949190/102030/369
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)RECORD NEWS
+http://a.srvbr.me:8880/bruno11957949190/102030/993
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SIC NOTICIAS
+http://a.srvbr.me:8880/bruno11957949190/102030/1032
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SPORT TV
+http://a.srvbr.me:8880/bruno11957949190/102030/1020
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SPORT TV 1
+http://a.srvbr.me:8880/bruno11957949190/102030/1026
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SPORT.TV 1 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/367
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SPORT TV 1 FULL HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1025
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SPORT TV 2
+http://a.srvbr.me:8880/bruno11957949190/102030/1024
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SPORT.TV 2 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/366
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SPORT TV 3
+http://a.srvbr.me:8880/bruno11957949190/102030/1023
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SPORT.TV 3 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/365
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SPORT TV 4
+http://a.srvbr.me:8880/bruno11957949190/102030/1022
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SPORT.TV 4 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/364
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SPORT TV 5
+http://a.srvbr.me:8880/bruno11957949190/102030/1021
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SPORT.TV 5 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/363
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SPORT.TV Mais HD
+http://a.srvbr.me:8880/bruno11957949190/102030/362
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SIC CARAS
+http://a.srvbr.me:8880/bruno11957949190/102030/1030
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SIC MULHER
+http://a.srvbr.me:8880/bruno11957949190/102030/1031
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SIC HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1033
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SIC K
+http://a.srvbr.me:8880/bruno11957949190/102030/999
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SIC Radical
+http://a.srvbr.me:8880/bruno11957949190/102030/662
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)Sporting TV
+http://a.srvbr.me:8880/bruno11957949190/102030/368
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SPORTING TV HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1016
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SyFy
+http://a.srvbr.me:8880/bruno11957949190/102030/361
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)SYFY HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1006
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)TLC
+http://a.srvbr.me:8880/bruno11957949190/102030/985
+#EXTINF:-1 group-title="USA ALTERNATES",TPA
+http://a.srvbr.me:8880/bruno11957949190/102030/979
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)TVC 1
+http://a.srvbr.me:8880/bruno11957949190/102030/353
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)TVCINE 1 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/359
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)TVC 2
+http://a.srvbr.me:8880/bruno11957949190/102030/352
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)TVC 3
+http://a.srvbr.me:8880/bruno11957949190/102030/351
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)TVC 4
+http://a.srvbr.me:8880/bruno11957949190/102030/350
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)TVI 1
+http://a.srvbr.me:8880/bruno11957949190/102030/650
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)TV Record HD
+http://a.srvbr.me:8880/bruno11957949190/102030/676
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)TVSéries
+http://a.srvbr.me:8880/bruno11957949190/102030/348
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)TVSéries HD
+http://a.srvbr.me:8880/bruno11957949190/102030/354
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)TVI 24
+http://a.srvbr.me:8880/bruno11957949190/102030/649
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)TVI FICÇÃO
+http://a.srvbr.me:8880/bruno11957949190/102030/1029
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)TVI REALITY
+http://a.srvbr.me:8880/bruno11957949190/102030/1028
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)TOROS TV
+http://a.srvbr.me:8880/bruno11957949190/102030/990
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)VH1 Classic
+http://a.srvbr.me:8880/bruno11957949190/102030/347
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)FOX HD
+http://a.srvbr.me:8880/bruno11957949190/102030/385
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)FOX Comedy HD
+http://a.srvbr.me:8880/bruno11957949190/102030/387
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)FOX Crime
+http://a.srvbr.me:8880/bruno11957949190/102030/386
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)FOX CRIME HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1008
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)FOX Life
+http://a.srvbr.me:8880/bruno11957949190/102030/23
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)FOX LIFE HD
+http://a.srvbr.me:8880/bruno11957949190/102030/1007
+#EXTINF:-1 group-title="USA ALTERNATES",(PT)FOX Movies
+http://a.srvbr.me:8880/bruno11957949190/102030/384
+#EXTINF:-1 group-title="USA ALTERNATES",USA: A&E HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5846
+#EXTINF:-1 group-title="USA ALTERNATES",USA: ABC HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5862
+#EXTINF:-1 group-title="USA ALTERNATES",USA: AL JAZEERA ENGLISH
+http://a.srvbr.me:8880/bruno11957949190/102030/5837
+#EXTINF:-1 group-title="USA ALTERNATES",USA: AMC HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5863
+#EXTINF:-1 group-title="USA ALTERNATES",USA: BBC AMERICA HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5855
+#EXTINF:-1 group-title="USA ALTERNATES",USA: BLOOMBERG
+http://a.srvbr.me:8880/bruno11957949190/102030/5836
+#EXTINF:-1 group-title="USA ALTERNATES",USA: BRAVO HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5861
+#EXTINF:-1 group-title="USA ALTERNATES",USA: C-SPAN 1 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5832
+#EXTINF:-1 group-title="USA ALTERNATES",USA: C-SPAN 2 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5831
+#EXTINF:-1 group-title="USA ALTERNATES",USA: C-SPAN 3 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5830
+#EXTINF:-1 group-title="USA ALTERNATES",USA: CARTOON NETWORK HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5834
+#EXTINF:-1 group-title="USA ALTERNATES",USA: CBS SPORTS NETWORK HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5815
+#EXTINF:-1 group-title="USA ALTERNATES",USA: CNN HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5857
+#EXTINF:-1 group-title="USA ALTERNATES",USA: COZI HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5852
+#EXTINF:-1 group-title="USA ALTERNATES",USA: DISCOVERY CHANNEL HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5845
+#EXTINF:-1 group-title="USA ALTERNATES",USA: DISNEY CHANNEL HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5835
+#EXTINF:-1 group-title="USA ALTERNATES",USA: ESCAPE HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5839
+#EXTINF:-1 group-title="USA ALTERNATES",USA: ESPN 1 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5829
+#EXTINF:-1 group-title="USA ALTERNATES",USA: ESPN 2 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5828
+#EXTINF:-1 group-title="USA ALTERNATES",USA: ESPN GOAL LINE
+http://a.srvbr.me:8880/bruno11957949190/102030/5825
+#EXTINF:-1 group-title="USA ALTERNATES",USA: ESPN NEWS HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5826
+#EXTINF:-1 group-title="USA ALTERNATES",USA: ESPN U HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5827
+#EXTINF:-1 group-title="USA ALTERNATES",USA: ESTRELLA TV HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5842
+#EXTINF:-1 group-title="USA ALTERNATES",USA: FOX 29 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5856
+#EXTINF:-1 group-title="USA ALTERNATES",USA: FOX DEPORTES HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5820
+#EXTINF:-1 group-title="USA ALTERNATES",USA: FOX NEWS HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5858
+#EXTINF:-1 group-title="USA ALTERNATES",USA: FOX SPORTS 1 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5819
+#EXTINF:-1 group-title="USA ALTERNATES",USA: FX HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5854
+#EXTINF:-1 group-title="USA ALTERNATES",USA: FXX HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5853
+#EXTINF:-1 group-title="USA ALTERNATES",USA: GALAVISION HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5864
+#EXTINF:-1 group-title="USA ALTERNATES",USA: HALLMARK HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5841
+#EXTINF:-1 group-title="USA ALTERNATES",USA: HALLMARK MOVIES HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5840
+#EXTINF:-1 group-title="USA ALTERNATES",USA: HISTORY CHANNEL HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5844
+#EXTINF:-1 group-title="USA ALTERNATES",USA: HSN 2
+http://a.srvbr.me:8880/bruno11957949190/102030/5809
+#EXTINF:-1 group-title="USA ALTERNATES",USA: HSN HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5810
+#EXTINF:-1 group-title="USA ALTERNATES",USA: ION LIFE
+http://a.srvbr.me:8880/bruno11957949190/102030/5803
+#EXTINF:-1 group-title="USA ALTERNATES",USA: JUSTICE
+http://a.srvbr.me:8880/bruno11957949190/102030/5806
+#EXTINF:-1 group-title="USA ALTERNATES",USA: LAFF
+http://a.srvbr.me:8880/bruno11957949190/102030/5805
+#EXTINF:-1 group-title="USA ALTERNATES",USA: MLB NETWORK HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5824
+#EXTINF:-1 group-title="USA ALTERNATES",USA: MSNBC HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5860
+#EXTINF:-1 group-title="USA ALTERNATES",USA: MTV
+http://a.srvbr.me:8880/bruno11957949190/102030/5807
+#EXTINF:-1 group-title="USA ALTERNATES",USA: NATIONAL GEOGRAPHIC CHANNEL HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5843
+#EXTINF:-1 group-title="USA ALTERNATES",USA: NBA
+http://a.srvbr.me:8880/bruno11957949190/102030/5813
+#EXTINF:-1 group-title="USA ALTERNATES",USA: NBC 6 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5859
+#EXTINF:-1 group-title="USA ALTERNATES",USA: NFL NETWORK HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5822
+#EXTINF:-1 group-title="USA ALTERNATES",USA: NFL RED ZONE HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5823
+#EXTINF:-1 group-title="USA ALTERNATES",USA: NHL NETWORK HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5821
+#EXTINF:-1 group-title="USA ALTERNATES",USA: NICKELODEAN HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5833
+#EXTINF:-1 group-title="USA ALTERNATES",USA: OXYGEN
+http://a.srvbr.me:8880/bruno11957949190/102030/5851
+#EXTINF:-1 group-title="USA ALTERNATES",USA: PAC-12
+http://a.srvbr.me:8880/bruno11957949190/102030/5811
+#EXTINF:-1 group-title="USA ALTERNATES",USA: SCIENCE CHANNEL
+http://a.srvbr.me:8880/bruno11957949190/102030/5804
+#EXTINF:-1 group-title="USA ALTERNATES",USA: SPORTSMAN CHANNEL
+http://a.srvbr.me:8880/bruno11957949190/102030/5816
+#EXTINF:-1 group-title="USA ALTERNATES",USA: SYFY HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5850
+#EXTINF:-1 group-title="USA ALTERNATES",USA: TBS
+http://a.srvbr.me:8880/bruno11957949190/102030/5838
+#EXTINF:-1 group-title="USA ALTERNATES",USA: TELEMUNDO HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5865
+#EXTINF:-1 group-title="USA ALTERNATES",USA: TELEXISTOS
+http://a.srvbr.me:8880/bruno11957949190/102030/5849
+#EXTINF:-1 group-title="USA ALTERNATES",USA: THE GOLF CHANNEL HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5814
+#EXTINF:-1 group-title="USA ALTERNATES",USA: TLC HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5848
+#EXTINF:-1 group-title="USA ALTERNATES",USA: TRAVEL HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5847
+#EXTINF:-1 group-title="USA ALTERNATES",USA: UNIMÁS HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5866
+#EXTINF:-1 group-title="USA ALTERNATES",USA: USA NETWORK HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5812
+#EXTINF:-1 group-title="USA ALTERNATES",USA: VH1
+http://a.srvbr.me:8880/bruno11957949190/102030/5808
+#EXTINF:-1 group-title="USA ALTERNATES",CA: ABC HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5694
+#EXTINF:-1 group-title="USA ALTERNATES",CA: BBC WORLD NEWS
+http://a.srvbr.me:8880/bruno11957949190/102030/5696
+#EXTINF:-1 group-title="USA ALTERNATES",CA: BOUNCE
+http://a.srvbr.me:8880/bruno11957949190/102030/5689
+#EXTINF:-1 group-title="USA ALTERNATES",CA: CBC HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5701
+#EXTINF:-1 group-title="USA ALTERNATES",CA: CBC NEWS
+http://a.srvbr.me:8880/bruno11957949190/102030/5700
+#EXTINF:-1 group-title="USA ALTERNATES",CA: CBC VANCOUVER
+http://a.srvbr.me:8880/bruno11957949190/102030/5699
+#EXTINF:-1 group-title="USA ALTERNATES",CA: CBS WEST
+http://a.srvbr.me:8880/bruno11957949190/102030/5698
+#EXTINF:-1 group-title="USA ALTERNATES",CA: CHCH HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5712
+#EXTINF:-1 group-title="USA ALTERNATES",CA: CITYTV HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5709
+#EXTINF:-1 group-title="USA ALTERNATES",CA: CNBC
+http://a.srvbr.me:8880/bruno11957949190/102030/5697
+#EXTINF:-1 group-title="USA ALTERNATES",CA: CP24
+http://a.srvbr.me:8880/bruno11957949190/102030/5714
+#EXTINF:-1 group-title="USA ALTERNATES",CA: CTV 2 VANCOUVER
+http://a.srvbr.me:8880/bruno11957949190/102030/5702
+#EXTINF:-1 group-title="USA ALTERNATES",CA: CTV HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5704
+#EXTINF:-1 group-title="USA ALTERNATES",CA: CTV VANCOUVER
+http://a.srvbr.me:8880/bruno11957949190/102030/5703
+#EXTINF:-1 group-title="USA ALTERNATES",CA: CW23 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5688
+#EXTINF:-1 group-title="USA ALTERNATES",CA: FOX
+http://a.srvbr.me:8880/bruno11957949190/102030/5695
+#EXTINF:-1 group-title="USA ALTERNATES",CA: FOX WEST
+http://a.srvbr.me:8880/bruno11957949190/102030/5693
+#EXTINF:-1 group-title="USA ALTERNATES",CA: FX
+http://a.srvbr.me:8880/bruno11957949190/102030/5692
+#EXTINF:-1 group-title="USA ALTERNATES",CA: FXX
+http://a.srvbr.me:8880/bruno11957949190/102030/5691
+#EXTINF:-1 group-title="USA ALTERNATES",CA: GLOBAL TORONTO HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5706
+#EXTINF:-1 group-title="USA ALTERNATES",CA: GLOBAL VANCOUVER
+http://a.srvbr.me:8880/bruno11957949190/102030/5705
+#EXTINF:-1 group-title="USA ALTERNATES",CA: HBO
+http://a.srvbr.me:8880/bruno11957949190/102030/5690
+#EXTINF:-1 group-title="USA ALTERNATES",CA: NBC HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5686
+#EXTINF:-1 group-title="USA ALTERNATES",CA: OMNI 1 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5711
+#EXTINF:-1 group-title="USA ALTERNATES",CA: OMNI 2 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5710
+#EXTINF:-1 group-title="USA ALTERNATES",CA: PBS KIDS HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5687
+#EXTINF:-1 group-title="USA ALTERNATES",CA: SPORTSNET 360 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5680
+#EXTINF:-1 group-title="USA ALTERNATES",CA: SPORTSNET ONE HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5679
+#EXTINF:-1 group-title="USA ALTERNATES",CA: SPORTSNET WEST HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5678
+#EXTINF:-1 group-title="USA ALTERNATES",CA: SPORTSNET WORLD HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5677
+#EXTINF:-1 group-title="USA ALTERNATES",CA: TELE HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5707
+#EXTINF:-1 group-title="USA ALTERNATES",CA: TSN 1 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5685
+#EXTINF:-1 group-title="USA ALTERNATES",CA: TSN 2 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5684
+#EXTINF:-1 group-title="USA ALTERNATES",CA: TSN 3 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5683
+#EXTINF:-1 group-title="USA ALTERNATES",CA: TSN 4 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5682
+#EXTINF:-1 group-title="USA ALTERNATES",CA: TSN 5 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5681
+#EXTINF:-1 group-title="USA ALTERNATES",CA: TVO HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5708
+#EXTINF:-1 group-title="USA ALTERNATES",CA: WEATHER NETWORK
+http://a.srvbr.me:8880/bruno11957949190/102030/5713
+#EXTINF:-1 group-title="USA ALTERNATES",ES: 24 HORAS
+http://a.srvbr.me:8880/bruno11957949190/102030/5722
+#EXTINF:-1 group-title="USA ALTERNATES",ES: ANTENA 3
+http://a.srvbr.me:8880/bruno11957949190/102030/5725
+#EXTINF:-1 group-title="USA ALTERNATES",ES: AXN
+http://a.srvbr.me:8880/bruno11957949190/102030/5719
+#EXTINF:-1 group-title="USA ALTERNATES",ES: CANAL SUR
+http://a.srvbr.me:8880/bruno11957949190/102030/5715
+#EXTINF:-1 group-title="USA ALTERNATES",ES: CLAN TV
+http://a.srvbr.me:8880/bruno11957949190/102030/5724
+#EXTINF:-1 group-title="USA ALTERNATES",ES: CUATRO
+http://a.srvbr.me:8880/bruno11957949190/102030/5728
+#EXTINF:-1 group-title="USA ALTERNATES",ES: DISCOVERY CHANNEL
+http://a.srvbr.me:8880/bruno11957949190/102030/5718
+#EXTINF:-1 group-title="USA ALTERNATES",ES: DISNEY
+http://a.srvbr.me:8880/bruno11957949190/102030/5716
+#EXTINF:-1 group-title="USA ALTERNATES",ES: FDF MEDIASET TV
+http://a.srvbr.me:8880/bruno11957949190/102030/5723
+#EXTINF:-1 group-title="USA ALTERNATES",ES: HIST?RIA
+http://a.srvbr.me:8880/bruno11957949190/102030/5717
+#EXTINF:-1 group-title="USA ALTERNATES",ES: LA 1
+http://a.srvbr.me:8880/bruno11957949190/102030/5730
+#EXTINF:-1 group-title="USA ALTERNATES",ES: LA 2
+http://a.srvbr.me:8880/bruno11957949190/102030/5729
+#EXTINF:-1 group-title="USA ALTERNATES",ES: LA SEXTA
+http://a.srvbr.me:8880/bruno11957949190/102030/5726
+#EXTINF:-1 group-title="USA ALTERNATES",ES: MotoGP
+http://a.srvbr.me:8880/bruno11957949190/102030/603
+#EXTINF:-1 group-title="USA ALTERNATES",ES: Real Madrid TV
+http://a.srvbr.me:8880/bruno11957949190/102030/45
+#EXTINF:-1 group-title="USA ALTERNATES",ES: TELECINCO
+http://a.srvbr.me:8880/bruno11957949190/102030/5727
+#EXTINF:-1 group-title="USA ALTERNATES",ES: TELEDEPORTE
+http://a.srvbr.me:8880/bruno11957949190/102030/5721
+#EXTINF:-1 group-title="USA ALTERNATES",ES: TNT
+http://a.srvbr.me:8880/bruno11957949190/102030/5720
+#EXTINF:-1 group-title="USA ALTERNATES",FR: 6TER
+http://a.srvbr.me:8880/bruno11957949190/102030/5755
+#EXTINF:-1 group-title="USA ALTERNATES",FR: AB MOTEURS
+http://a.srvbr.me:8880/bruno11957949190/102030/5753
+#EXTINF:-1 group-title="USA ALTERNATES",FR: AB1
+http://a.srvbr.me:8880/bruno11957949190/102030/5754
+#EXTINF:-1 group-title="USA ALTERNATES",FR: ARTE
+http://a.srvbr.me:8880/bruno11957949190/102030/5752
+#EXTINF:-1 group-title="USA ALTERNATES",FR: CANAL 8
+http://a.srvbr.me:8880/bruno11957949190/102030/5748
+#EXTINF:-1 group-title="USA ALTERNATES",FR: CINE FX
+http://a.srvbr.me:8880/bruno11957949190/102030/5751
+#EXTINF:-1 group-title="USA ALTERNATES",FR: CINE POLAR
+http://a.srvbr.me:8880/bruno11957949190/102030/5750
+#EXTINF:-1 group-title="USA ALTERNATES",FR: CSTAR
+http://a.srvbr.me:8880/bruno11957949190/102030/5749
+#EXTINF:-1 group-title="USA ALTERNATES",FR: FRANCE O
+http://a.srvbr.me:8880/bruno11957949190/102030/5743
+#EXTINF:-1 group-title="USA ALTERNATES",FR: FRANCE 2
+http://a.srvbr.me:8880/bruno11957949190/102030/5747
+#EXTINF:-1 group-title="USA ALTERNATES",FR: FRANCE 24
+http://a.srvbr.me:8880/bruno11957949190/102030/5742
+#EXTINF:-1 group-title="USA ALTERNATES",FR: FRANCE 3
+http://a.srvbr.me:8880/bruno11957949190/102030/5746
+#EXTINF:-1 group-title="USA ALTERNATES",FR: FRANCE 4
+http://a.srvbr.me:8880/bruno11957949190/102030/5745
+#EXTINF:-1 group-title="USA ALTERNATES",FR: FRANCE 5
+http://a.srvbr.me:8880/bruno11957949190/102030/5744
+#EXTINF:-1 group-title="USA ALTERNATES",FR: I24 NEWS
+http://a.srvbr.me:8880/bruno11957949190/102030/5731
+#EXTINF:-1 group-title="USA ALTERNATES",FR: L EQUIPE 21
+http://a.srvbr.me:8880/bruno11957949190/102030/5740
+#EXTINF:-1 group-title="USA ALTERNATES",FR: M6
+http://a.srvbr.me:8880/bruno11957949190/102030/5739
+#EXTINF:-1 group-title="USA ALTERNATES",FR: NRJ12
+http://a.srvbr.me:8880/bruno11957949190/102030/5738
+#EXTINF:-1 group-title="USA ALTERNATES",FR: NT1 (TFX)
+http://a.srvbr.me:8880/bruno11957949190/102030/5737
+#EXTINF:-1 group-title="USA ALTERNATES",FR: RTL9
+http://a.srvbr.me:8880/bruno11957949190/102030/5736
+#EXTINF:-1 group-title="USA ALTERNATES",FR: TF1
+http://a.srvbr.me:8880/bruno11957949190/102030/5735
+#EXTINF:-1 group-title="USA ALTERNATES",FR: TF1 SERIES FILMS
+http://a.srvbr.me:8880/bruno11957949190/102030/5741
+#EXTINF:-1 group-title="USA ALTERNATES",FR: TMC
+http://a.srvbr.me:8880/bruno11957949190/102030/5734
+#EXTINF:-1 group-title="USA ALTERNATES",FR: TV5 MONDE
+http://a.srvbr.me:8880/bruno11957949190/102030/5732
+#EXTINF:-1 group-title="USA ALTERNATES",FR: W9
+http://a.srvbr.me:8880/bruno11957949190/102030/5733
+#EXTINF:-1 group-title="USA ALTERNATES",IT: 20 MEDIASET HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5761
+#EXTINF:-1 group-title="USA ALTERNATES",IT: CANALE 5 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5760
+#EXTINF:-1 group-title="USA ALTERNATES",IT: ITALIA 1 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5759
+#EXTINF:-1 group-title="USA ALTERNATES",IT: RAI 1
+http://a.srvbr.me:8880/bruno11957949190/102030/5766
+#EXTINF:-1 group-title="USA ALTERNATES",IT: RAI 2
+http://a.srvbr.me:8880/bruno11957949190/102030/5765
+#EXTINF:-1 group-title="USA ALTERNATES",IT: RAI 3
+http://a.srvbr.me:8880/bruno11957949190/102030/5764
+#EXTINF:-1 group-title="USA ALTERNATES",IT: RAI 4
+http://a.srvbr.me:8880/bruno11957949190/102030/5763
+#EXTINF:-1 group-title="USA ALTERNATES",IT: RAI MOVIE
+http://a.srvbr.me:8880/bruno11957949190/102030/5757
+#EXTINF:-1 group-title="USA ALTERNATES",IT: RAI NEWS 24
+http://a.srvbr.me:8880/bruno11957949190/102030/5762
+#EXTINF:-1 group-title="USA ALTERNATES",IT: RETE 4 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5756
+#EXTINF:-1 group-title="USA ALTERNATES",UK: BBC 1 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5802
+#EXTINF:-1 group-title="USA ALTERNATES",UK: BBC 2 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5801
+#EXTINF:-1 group-title="USA ALTERNATES",UK: BBC 3 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5800
+#EXTINF:-1 group-title="USA ALTERNATES",UK: BBC 4 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5799
+#EXTINF:-1 group-title="USA ALTERNATES",UK: BBC CBEBBIES
+http://a.srvbr.me:8880/bruno11957949190/102030/5795
+#EXTINF:-1 group-title="USA ALTERNATES",UK: BBC CHANNEL ISLANDS
+http://a.srvbr.me:8880/bruno11957949190/102030/5797
+#EXTINF:-1 group-title="USA ALTERNATES",UK: BBC NEWS
+http://a.srvbr.me:8880/bruno11957949190/102030/5798
+#EXTINF:-1 group-title="USA ALTERNATES",UK: BBC WORLD
+http://a.srvbr.me:8880/bruno11957949190/102030/5796
+#EXTINF:-1 group-title="USA ALTERNATES",UK: BOX HITS
+http://a.srvbr.me:8880/bruno11957949190/102030/5794
+#EXTINF:-1 group-title="USA ALTERNATES",UK: BOX NATION
+http://a.srvbr.me:8880/bruno11957949190/102030/5793
+#EXTINF:-1 group-title="USA ALTERNATES",UK: CHANNEL 4 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5788
+#EXTINF:-1 group-title="USA ALTERNATES",UK: ITV 1 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5784
+#EXTINF:-1 group-title="USA ALTERNATES",UK: ITV 2 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5783
+#EXTINF:-1 group-title="USA ALTERNATES",UK: ITV 3 HD
+http://a.srvbr.me:8880/bruno11957949190/102030/5782
+#EXTINF:-1 group-title="USA ALTERNATES",UK: ITV 4
+http://a.srvbr.me:8880/bruno11957949190/102030/5781
+##ALTERNATES
 #EXTINF:-1 group-title="USA CHANNELS",MORE MAX
 http://kstv.xyz:8080/Sayhay10/1867385835/23342
 #EXTINF:-1 group-title="USA CHANNELS",STAR MOVIES HD
