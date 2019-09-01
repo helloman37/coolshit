@@ -4172,7 +4172,9 @@ http://its.streamsforus.net:8000/5877808/9888090/84797
 #EXTINF:-1 tvg-id="" tvg-name="US:Cinema 40 PPV" tvg-logo="" group-title="ALTERNATE 3",US:Cinema 40 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84796
 ###ALTERNATES
+###VOD
 #EXTINF:-1 tvg-id="" tvg-name="US:Cinema 40 PPV" tvg-logo="" group-title="VOD",Secret Life of Pets 2
 http://hd1.dlmania.com/Hollywood/The%20Secret%20Life%20of%20Pets%202%20-%20BRRip/The%20Secret%20Life%20of%20Pets%202%20-%20BRRip%20HD%20(HDMp4Mania).mp4
 #EXTINF:-1 tvg-id="" tvg-name="US:Cinema 40 PPV" tvg-logo="" group-title="VOD",Lion King 2019
 https://openload.co/stream/ucOFOL8y1RE~1567468021~2601:5c9::~BBZyqskT?mime=true
+###VOD
