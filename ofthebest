@@ -2567,7 +2567,7 @@ http://its.streamsforus.net:8000/5877808/9888090/38477
 http://its.streamsforus.net:8000/5877808/9888090/38476
 #EXTINF:-1 tvg-id="3ABNProclime.us" tvg-name="3ABN PROCLAIM | HD" tvg-logo="" group-title="ALT 3",3ABN PROCLAIM | HD
 http://its.streamsforus.net:8000/5877808/9888090/38475
-#EXTINF:-1 tvg-id="5starmax.us" tvg-name="5 STAR MAX | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/5-max.png" group-title="USA MOVIES",5 STAR MAX | HD
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="5 STAR MAX | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/5-max.png" group-title="ALT 3",5 STAR MAX | HD
 http://its.streamsforus.net:8000/5877808/9888090/82859
 #EXTINF:-1 tvg-id="aande.us" tvg-name="A&E | HD" tvg-logo="http://miabox.net/logo_picture/AandE.png" group-title="ALT 3",A&E | HD
 http://its.streamsforus.net:8000/5877808/9888090/33098
@@ -2677,7 +2677,7 @@ http://its.streamsforus.net:8000/5877808/9888090/5832
 http://its.streamsforus.net:8000/5877808/9888090/89721
 #EXTINF:-1 tvg-id="AccentTV.md" tvg-name="ACC TV | HD" tvg-logo="" group-title="ALT 3",ACC TV | HD
 http://its.streamsforus.net:8000/5877808/9888090/38474
-#EXTINF:-1 tvg-id="actionmax.us" tvg-name="ACTION MAX | HD" tvg-logo="http://miabox.net/logo_picture/Action_Max.png" group-title="USA MOVIES",ACTION MAX | HD
+#EXTINF:-1 tvg-id="actionmax.us" tvg-name="ACTION MAX | HD" tvg-logo="http://miabox.net/logo_picture/Action_Max.png" group-title="ALT 3",ACTION MAX | HD
 http://its.streamsforus.net:8000/5877808/9888090/65701
 #EXTINF:-1 tvg-id="adultswim.us" tvg-name="Adult Swim Channel" tvg-logo="http://miabox.net/logo_picture/AdultSwimLiveStream.png" group-title="ALT 3",Adult Swim Channel
 http://its.streamsforus.net:8000/5877808/9888090/3462
@@ -2701,9 +2701,9 @@ http://its.streamsforus.net:8000/5877808/9888090/69054
 http://its.streamsforus.net:8000/5877808/9888090/81641
 #EXTINF:-1 tvg-id="axstv.us" tvg-name="AXS TV | HD" tvg-logo="http://miabox.net/logo_picture/AXSTV.us.png" group-title="ALT 3",AXS TV | HD
 http://its.streamsforus.net:8000/5877808/9888090/27484
-#EXTINF:-1 tvg-id="babyfirsttv.us" tvg-name="BABY TV | HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/2d151bf3c3b690668bc0684bd1190d5a.png" group-title="KIDS",BABY TV | HD
+#EXTINF:-1 tvg-id="babyfirsttv.us" tvg-name="BABY TV | HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/2d151bf3c3b690668bc0684bd1190d5a.png" group-title="ALT 3",BABY TV | HD
 http://its.streamsforus.net:8000/5877808/9888090/9770
-#EXTINF:-1 tvg-id="babyfirsttv.us" tvg-name="BABYFIRST TV" tvg-logo="http://miabox.net/logo_picture/BabyFirst_TV.png" group-title="KIDS",BABYFIRST TV
+#EXTINF:-1 tvg-id="babyfirsttv.us" tvg-name="BABYFIRST TV" tvg-logo="http://miabox.net/logo_picture/BabyFirst_TV.png" group-title="ALT 3",BABYFIRST TV
 http://its.streamsforus.net:8000/5877808/9888090/73097
 #EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC AMERICA | HD" tvg-logo="http://miabox.net/logo_picture/BBCAmerica.us.png" group-title="ALT 3",BBC AMERICA | HD
 http://its.streamsforus.net:8000/5877808/9888090/27481
@@ -2737,7 +2737,7 @@ http://its.streamsforus.net:8000/5877808/9888090/6388
 http://its.streamsforus.net:8000/5877808/9888090/5831
 #EXTINF:-1 tvg-id="boomerang.us" tvg-name="BOOMERANG" tvg-logo="http://miabox.net/logo_picture/Boomerang.png" group-title="ALT 3",BOOMERANG
 http://its.streamsforus.net:8000/5877808/9888090/3457
-#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="BOOMERANG | HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/002e9faffa69af1a3014394eb74ac6f5.png" group-title="KIDS",BOOMERANG | HD
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="BOOMERANG | HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/002e9faffa69af1a3014394eb74ac6f5.png" group-title="ALT 3",BOOMERANG | HD
 http://its.streamsforus.net:8000/5877808/9888090/9769
 #EXTINF:-1 tvg-id="bouncetv.us" tvg-name="BOUNCE TV | SD" tvg-logo="http://miabox.net/logo_picture/BounceTV.png" group-title="ALT 3",BOUNCE TV | SD
 http://its.streamsforus.net:8000/5877808/9888090/7838
@@ -2893,17 +2893,17 @@ http://its.streamsforus.net:8000/5877808/9888090/5829
 http://its.streamsforus.net:8000/5877808/9888090/5828
 #EXTINF:-1 tvg-id="CTSChristianTV.kr" tvg-name="CHRISTIAN TV NETWORK | HD" tvg-logo="" group-title="ALT 3",CHRISTIAN TV NETWORK | HD
 http://its.streamsforus.net:8000/5877808/9888090/38472
-#EXTINF:-1 tvg-id="cinemax.us" tvg-name="CINEMAX (East) | HD" tvg-logo="http://miabox.net/logo_picture/Cinemax.png" group-title="USA MOVIES",CINEMAX (East) | HD
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="CINEMAX (East) | HD" tvg-logo="http://miabox.net/logo_picture/Cinemax.png" group-title="ALT 3",CINEMAX (East) | HD
 http://its.streamsforus.net:8000/5877808/9888090/40499
-#EXTINF:-1 tvg-id="cinemax.west.us" tvg-name="CINEMAX (West) | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/CINEmax-e.png" group-title="USA MOVIES",CINEMAX (West) | HD
+#EXTINF:-1 tvg-id="cinemax.west.us" tvg-name="CINEMAX (West) | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/CINEmax-e.png" group-title="ALT 3",CINEMAX (West) | HD
 http://its.streamsforus.net:8000/5877808/9888090/82857
-#EXTINF:-1 tvg-id="actionmax.us" tvg-name="CINEMAX ACTION | HD" tvg-logo="http://miabox.net/logo_picture/Action_Max.png" group-title="USA MOVIES",CINEMAX ACTION | HD
+#EXTINF:-1 tvg-id="actionmax.us" tvg-name="CINEMAX ACTION | HD" tvg-logo="http://miabox.net/logo_picture/Action_Max.png" group-title="ALT 3",CINEMAX ACTION | HD
 http://its.streamsforus.net:8000/5877808/9888090/40497
-#EXTINF:-1 tvg-id="moremax.us" tvg-name="CINEMAX MOREMAX | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/CINEMAX-MOMAX.png" group-title="USA MOVIES",CINEMAX MOREMAX | UHD
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="CINEMAX MOREMAX | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/CINEMAX-MOMAX.png" group-title="ALT 3",CINEMAX MOREMAX | UHD
 http://its.streamsforus.net:8000/5877808/9888090/65700
-#EXTINF:-1 tvg-id="outermax.us" tvg-name="CINEMAX OUTERMAX | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/medium.png" group-title="USA MOVIES",CINEMAX OUTERMAX | UHD
+#EXTINF:-1 tvg-id="outermax.us" tvg-name="CINEMAX OUTERMAX | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/medium.png" group-title="ALT 3",CINEMAX OUTERMAX | UHD
 http://its.streamsforus.net:8000/5877808/9888090/65699
-#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="CINEMAX THRILLER | HD" tvg-logo="http://miabox.net/logo_picture/Thriller_Max.png" group-title="USA MOVIES",CINEMAX THRILLER | HD
+#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="CINEMAX THRILLER | HD" tvg-logo="http://miabox.net/logo_picture/Thriller_Max.png" group-title="ALT 3",CINEMAX THRILLER | HD
 http://its.streamsforus.net:8000/5877808/9888090/65698
 #EXTINF:-1 tvg-id="" tvg-name="Classic Arts Showcase | SD" tvg-logo="http://miabox.net/logo_picture/Artschannel.png" group-title="ALT 3",Classic Arts Showcase | SD
 http://its.streamsforus.net:8000/5877808/9888090/76684
@@ -2973,7 +2973,7 @@ http://its.streamsforus.net:8000/5877808/9888090/82882
 http://its.streamsforus.net:8000/5877808/9888090/3447
 #EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="Discovery Family" tvg-logo="http://miabox.net/logo_picture/Discovery_Family.png" group-title="ALT 3",Discovery Family
 http://its.streamsforus.net:8000/5877808/9888090/3389
-#EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="DISCOVERY FAMILY | HD" tvg-logo="https://photos.prnewswire.com/prnfull/20151013/276409LOGO?max=200" group-title="KIDS",DISCOVERY FAMILY | HD
+#EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="DISCOVERY FAMILY | HD" tvg-logo="https://photos.prnewswire.com/prnfull/20151013/276409LOGO?max=200" group-title="ALT 3",DISCOVERY FAMILY | HD
 http://its.streamsforus.net:8000/5877808/9888090/9767
 #EXTINF:-1 tvg-id="discoverylife.us" tvg-name="Discovery Life HD" tvg-logo="http://miabox.net/logo_picture/Discovery_Life.png" group-title="ALT 3",Discovery Life HD
 http://its.streamsforus.net:8000/5877808/9888090/40360
@@ -2981,15 +2981,15 @@ http://its.streamsforus.net:8000/5877808/9888090/40360
 http://its.streamsforus.net:8000/5877808/9888090/3446
 #EXTINF:-1 tvg-id="disneychannel.us" tvg-name="Disney Channel" tvg-logo="http://miabox.net/logo_picture/DisneyChannel.png" group-title="ALT 3",Disney Channel
 http://its.streamsforus.net:8000/5877808/9888090/3388
-#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="DISNEY CHANNEL (East) | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/DisneyChannelLogo.png" group-title="KIDS",DISNEY CHANNEL (East) | HD
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="DISNEY CHANNEL (East) | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/DisneyChannelLogo.png" group-title="ALT 3",DISNEY CHANNEL (East) | HD
 http://its.streamsforus.net:8000/5877808/9888090/9766
-#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-name="DISNEY CHANNEL (West) | HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/416027089f689cfb57ac96a838c0b941.png" group-title="KIDS",DISNEY CHANNEL (West) | HD
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-name="DISNEY CHANNEL (West) | HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/416027089f689cfb57ac96a838c0b941.png" group-title="ALT 3",DISNEY CHANNEL (West) | HD
 http://its.streamsforus.net:8000/5877808/9888090/9765
-#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="DISNEY CHANNEL | UHD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/416027089f689cfb57ac96a838c0b941.png" group-title="KIDS",DISNEY CHANNEL | UHD
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="DISNEY CHANNEL | UHD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/416027089f689cfb57ac96a838c0b941.png" group-title="ALT 3",DISNEY CHANNEL | UHD
 http://its.streamsforus.net:8000/5877808/9888090/9764
 #EXTINF:-1 tvg-id="disneychannel.us" tvg-name="Disney Channel Paficic" tvg-logo="http://miabox.net/logo_picture/DisneyChannel.png" group-title="ALT 3",Disney Channel Paficic
 http://its.streamsforus.net:8000/5877808/9888090/3387
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="DISNEY JR (East) | HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/65637db03a22b7d7e82221720d1bacda.png" group-title="KIDS",DISNEY JR (East) | HD
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="DISNEY JR (East) | HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/65637db03a22b7d7e82221720d1bacda.png" group-title="ALT 3",DISNEY JR (East) | HD
 http://its.streamsforus.net:8000/5877808/9888090/9763
 #EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="Disney Junior (West) | HD" tvg-logo="http://miabox.net/logo_picture/Disney_Junior.png" group-title="ALT 3",Disney Junior (West) | HD
 http://its.streamsforus.net:8000/5877808/9888090/40361
@@ -2997,9 +2997,9 @@ http://its.streamsforus.net:8000/5877808/9888090/40361
 http://its.streamsforus.net:8000/5877808/9888090/3386
 #EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD" tvg-logo="http://miabox.net/logo_picture/DisneyXD.png" group-title="ALT 3",Disney XD
 http://its.streamsforus.net:8000/5877808/9888090/3385
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD (East) | HD" tvg-logo="https://www.clipartmax.com/png/middle/189-1892788_disney-xd-logo-playhouse-disney-original-logo-disney-xd.png" group-title="KIDS",DISNEY XD (East) | HD
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD (East) | HD" tvg-logo="https://www.clipartmax.com/png/middle/189-1892788_disney-xd-logo-playhouse-disney-original-logo-disney-xd.png" group-title="ALT 3",DISNEY XD (East) | HD
 http://its.streamsforus.net:8000/5877808/9888090/9761
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD (West) | HD" tvg-logo="" group-title="KIDS",DISNEY XD (West) | HD
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD (West) | HD" tvg-logo="" group-title="ALT 3",DISNEY XD (West) | HD
 http://its.streamsforus.net:8000/5877808/9888090/9759
 #EXTINF:-1 tvg-id="" tvg-name="DIVINE VISION NETWORK | SD" tvg-logo="" group-title="ALT 3",DIVINE VISION NETWORK | SD
 http://its.streamsforus.net:8000/5877808/9888090/38467
@@ -3007,7 +3007,7 @@ http://its.streamsforus.net:8000/5877808/9888090/38467
 http://its.streamsforus.net:8000/5877808/9888090/3445
 #EXTINF:-1 tvg-id="dogtv.us" tvg-name="DOG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/DOGTV_Logo.png/200px-DOGTV_Logo.png" group-title="ALT 3",DOG TV
 http://its.streamsforus.net:8000/5877808/9888090/83639
-#EXTINF:-1 tvg-id="" tvg-name="DUCK TV" tvg-logo="https://www.seekclipart.com/clipng/big/365-3652947_goose-clipart-history-canadian-duck-tv-png.png" group-title="KIDS",DUCK TV
+#EXTINF:-1 tvg-id="" tvg-name="DUCK TV" tvg-logo="https://www.seekclipart.com/clipng/big/365-3652947_goose-clipart-history-canadian-duck-tv-png.png" group-title="ALT 3",DUCK TV
 http://its.streamsforus.net:8000/5877808/9888090/88774
 #EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E! (West) | HD" tvg-logo="http://miabox.net/logo_picture/Entertainment.png" group-title="ALT 3",E! (West) | HD
 http://its.streamsforus.net:8000/5877808/9888090/82881
@@ -3017,13 +3017,13 @@ http://its.streamsforus.net:8000/5877808/9888090/3443
 http://its.streamsforus.net:8000/5877808/9888090/89722
 #EXTINF:-1 tvg-id="11399.stations.xmltv.tvmedia.ca" tvg-name="EL REY NETWORK" tvg-logo="http://miabox.net/logo_picture/El_Rey_Network.png" group-title="ALT 3",EL REY NETWORK
 http://its.streamsforus.net:8000/5877808/9888090/59581
-#EXTINF:-1 tvg-id="epix.us" tvg-name="EPIX" tvg-logo="http://miabox.net/logo_picture/EPIX.png" group-title="USA MOVIES",EPIX
+#EXTINF:-1 tvg-id="epix.us" tvg-name="EPIX" tvg-logo="http://miabox.net/logo_picture/EPIX.png" group-title="ALT 3",EPIX
 http://its.streamsforus.net:8000/5877808/9888090/40496
-#EXTINF:-1 tvg-id="epix2.us" tvg-name="EPIX 2 | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/EPIX2HD.png" group-title="USA MOVIES",EPIX 2 | HD
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="EPIX 2 | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/EPIX2HD.png" group-title="ALT 3",EPIX 2 | HD
 http://its.streamsforus.net:8000/5877808/9888090/82856
-#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="EPIX DRIVE IN | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Epix-Drive-In_2400_Color_Dark.png" group-title="USA MOVIES",EPIX DRIVE IN | HD
+#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="EPIX DRIVE IN | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Epix-Drive-In_2400_Color_Dark.png" group-title="ALT 3",EPIX DRIVE IN | HD
 http://its.streamsforus.net:8000/5877808/9888090/82855
-#EXTINF:-1 tvg-id="epixhits.us" tvg-name="EPIX HITS | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/EpixHits.png" group-title="USA MOVIES",EPIX HITS | HD
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="EPIX HITS | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/EpixHits.png" group-title="ALT 3",EPIX HITS | HD
 http://its.streamsforus.net:8000/5877808/9888090/82854
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN | HD" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAkFBMVEXNJC7////NISvTSE/KAAv56+vKABTKABH12tvy0NHMBxrMFiPdg4b33+DJAADMHSjLER/lnqH23N3VVlzsurz++vrvxMbJAAbnp6rZaW7gio778vLPMjvxy8367e7bcXbjl5rqtLbdfIDRO0PYY2jikpXmo6XcdXrXXWPUT1XTTFLpra/QNT7PKjTRQEfstrlXHGYhAAAFqElEQVR4nO2da1viMBCF21hbaIUEoaAgF++srO7//3eboq62E0xP3eju85z3I3ZIZppMTiZRoyPSmkiR1kSEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghYckzhOLNUBV5Ctn6SXOj8a5Zqy/6Iw35tAcwmL9ES5nh9Xy3RGxb0J+MtsP81fP88rSl1e3TrDjo4V8kLWOEq+dOGbM5huzaU+70i+MJ0MTxVRJ+dCmFuXKznyazEyzEGOV5vu/bELLq6eDR0k+YI49Vj4ZTzAhmXY0tpTGjVfDMVdxjPRpam2SJ2XSgeid6DBotk9DBuoX6s7L9yUegEx2Ypvh7jOOx9jv8GfId1J1eFqkL1Icu2ARkNqjRJA8brBRLP7Y7+SXqQxds1sIbWmVhg5UNoO6cmWgYciH8w8hEaR+2isKm+NkC6s1JoR9gF7qwy6MEe48V12GDlWG9udHFFexCFy5tsPAh/BQ0WAqUWT+V+YK10HJn1CNudRE0WMU51psuabcT8y7zvQy7QQRl1iLrkna7YOc7LLPiRVhVakaL4/aslrkN1gqw6MriSRVzpGsVq2lgnWUShKozKWTRFZt8CtgocKwIId+OTiGshWn5aKOajrWTWlslPlS+vgeO1bjXR9CR2bR8dDLaZm/V9F9QM/3eWqunZtd6dX2uz0XfTdBgFXNIx5QzSGa9VdNn6M5lXThkVn2bLLcStnshMXeQC70synqY0/vVHC0Qx/GRknJ5UVcG+aT5wGnYCk2OVbOs6AODFd9XU0MfYUZxnDmqksd1fS7HeGBNCrp+1qHIVFVNNLgDjRd2votC/7KewOVB2VnYYCVYNWveYR+9zODUGMf91FGVvGxMQ5EH54H30ZgP5zrCy1lKReYMtLl1FWQ3tcXOcRRwHvS8Qv3EfKjWbgP6XZ1hg4X+/XFF6vqidzgOysLWSfUN5kOVNOCDMJvoslPMZG4iJdeEH7WB4xjiYRfD4gTyYbHXMTPQ8192CcVS48Que8VafFwvg8qDstDVLExmDfavTuXYgfQkB2XWpnonUmaV9YEjZdYgsMwSDX7I8nk5UrM1ojh2ubpu//Rq97hvxS+zxCv7cpnVvzo5zPY1aRSZGt+7n7kS8d8Yh8w6YLy9SF72k3JN6Ptk1i6wzFo1GxwlxWHeJVilDzyTiBFxX0iZVSbG3cKftCTXhO+WWTP5xj/boJwdYy1l1rE3F8vD31FdZsl7ZeugwXKczG0/q+uk8FZKpsa+r/TkWBMaMuuHeCDsCatDZn1a18lj5KFjSnmvuzi23lufzAr7r9Jkg+UwOXwpuHLQd384EcLbzriZTI2+Mp1jTYh8MitsodQhs04Hh7FLcz794OfPNL9xmTruhnpTo2PrPaw9IDf0g7CaFJVZaZfrRlZmyS2v94qed03wVnD+NmA1a4dK8T3zoktqlFXJpswSQzi0zMKust8avOJZDSLHDtR7siDfY2NNkGP8NuxxBXg3a13AFc+4uncjp9TKe7Igt94NmSXHeGCZBVazHjR456bC7m5laux5t7yyKumVWQ9BS396i/n9qHK04lldSvNPKYnjPTZklqzgfLXM+pAywSuee3UkZdZdB5n16JFZoQ8NsZqn1TFoxdNmXTuGcvFpB5lV1uMrKzj/nMwCD4OsjVWSjmrWDS6zVt8ss8AjwA4ya1pNDUdq9N6TdWy962vC18sskUs+ZGOQimfFfJ9GHDLLO2O8W2+5X9+ElVkG27uAMmtxp5+7L1PjyhssR1WyLrMi0d59WJkF/sKSleItD5bLwXI0Hr7+9p9DZnnTSyK+s74mKHntO6zMsm5AVHcW2j05S9L3N9mK5s9bTBjxnY1QKFf3CCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgj53/gNSD2HVjxzIaQAAAAASUVORK5CYII=" group-title="ALT 3",ESPN | HD
 http://its.streamsforus.net:8000/5877808/9888090/6378
@@ -3077,149 +3077,149 @@ http://its.streamsforus.net:8000/5877808/9888090/82880
 http://its.streamsforus.net:8000/5877808/9888090/3437
 #EXTINF:-1 tvg-id="fox11kttv.us" tvg-name="FOX (WEST) | HD" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/6b/62/b0/6b62b013-2e14-79dd-069d-f5ae76223ba4/AppIcon-1x_U007emarketing-85-220-6.png/246x0w.jpg" group-title="ALT 3",FOX (WEST) | HD
 http://its.streamsforus.net:8000/5877808/9888090/82879
-#EXTINF:-1 tvg-id="" tvg-name="FOX 10 Arizona" tvg-logo="http://miabox.net/logo_picture/FOX_10_Arizona.png" group-title="USA LOCAL FOX",FOX 10 Arizona
+#EXTINF:-1 tvg-id="" tvg-name="FOX 10 Arizona" tvg-logo="http://miabox.net/logo_picture/FOX_10_Arizona.png" group-title="ALT 3",FOX 10 Arizona
 http://its.streamsforus.net:8000/5877808/9888090/60054
-#EXTINF:-1 tvg-id="fox.ksaz.phoenix.az.us" tvg-name="FOX 10 Phoenix" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/WWM_phoenix2013_sponsor_FOX.jpg" group-title="USA LOCAL FOX",FOX 10 Phoenix
+#EXTINF:-1 tvg-id="fox.ksaz.phoenix.az.us" tvg-name="FOX 10 Phoenix" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/WWM_phoenix2013_sponsor_FOX.jpg" group-title="ALT 3",FOX 10 Phoenix
 http://its.streamsforus.net:8000/5877808/9888090/59928
-#EXTINF:-1 tvg-id="fox.ksaz.phoenix.az.us" tvg-name="FOX 10 Xtra Phoenix" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/KUTP_2018_Logo.png" group-title="USA LOCAL FOX",FOX 10 Xtra Phoenix
+#EXTINF:-1 tvg-id="fox.ksaz.phoenix.az.us" tvg-name="FOX 10 Xtra Phoenix" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/KUTP_2018_Logo.png" group-title="ALT 3",FOX 10 Xtra Phoenix
 http://its.streamsforus.net:8000/5877808/9888090/60052
-#EXTINF:-1 tvg-id="fox.wluk.green.bay.wi.us" tvg-name="Fox 11 Greenbay" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/FOX-WLUK-GBA.png" group-title="USA LOCAL FOX",Fox 11 Greenbay
+#EXTINF:-1 tvg-id="fox.wluk.green.bay.wi.us" tvg-name="Fox 11 Greenbay" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/FOX-WLUK-GBA.png" group-title="ALT 3",Fox 11 Greenbay
 http://its.streamsforus.net:8000/5877808/9888090/59927
-#EXTINF:-1 tvg-id="fox.kttv.los.angeles.ca.us" tvg-name="FOX 11 Los Angeles" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Fox_logo.png" group-title="USA LOCAL FOX",FOX 11 Los Angeles
+#EXTINF:-1 tvg-id="fox.kttv.los.angeles.ca.us" tvg-name="FOX 11 Los Angeles" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Fox_logo.png" group-title="ALT 3",FOX 11 Los Angeles
 http://its.streamsforus.net:8000/5877808/9888090/59926
-#EXTINF:-1 tvg-id="fox.kptv.portland.or.us" tvg-name="FOX 12 Portland" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/FOX12.png" group-title="USA LOCAL FOX",FOX 12 Portland
+#EXTINF:-1 tvg-id="fox.kptv.portland.or.us" tvg-name="FOX 12 Portland" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/FOX12.png" group-title="ALT 3",FOX 12 Portland
 http://its.streamsforus.net:8000/5877808/9888090/59925
-#EXTINF:-1 tvg-id="fox.kstu.salt.lake.city.ut.us" tvg-name="FOX 12 Salt Lake City" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/FOX-12.jpg" group-title="USA LOCAL FOX",FOX 12 Salt Lake City
+#EXTINF:-1 tvg-id="fox.kstu.salt.lake.city.ut.us" tvg-name="FOX 12 Salt Lake City" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/FOX-12.jpg" group-title="ALT 3",FOX 12 Salt Lake City
 http://its.streamsforus.net:8000/5877808/9888090/60051
-#EXTINF:-1 tvg-id="fox.whbq.memphis.tn.us" tvg-name="FOX 13 Memphis" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/08/WHBQ_Fox_13_Memphis.pnghttps://themediaboxx.com/wp-content/uploads/2018/08/WHBQ_Fox_13_Memphis.png" group-title="USA LOCAL FOX",FOX 13 Memphis
+#EXTINF:-1 tvg-id="fox.whbq.memphis.tn.us" tvg-name="FOX 13 Memphis" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/08/WHBQ_Fox_13_Memphis.pnghttps://themediaboxx.com/wp-content/uploads/2018/08/WHBQ_Fox_13_Memphis.png" group-title="ALT 3",FOX 13 Memphis
 http://its.streamsforus.net:8000/5877808/9888090/59924
-#EXTINF:-1 tvg-id="fox.kstu.salt.lake.city.ut.us" tvg-name="FOX 13 Salt Lake City" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/fox13-540x405-channelposter.png" group-title="USA LOCAL FOX",FOX 13 Salt Lake City
+#EXTINF:-1 tvg-id="fox.kstu.salt.lake.city.ut.us" tvg-name="FOX 13 Salt Lake City" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/fox13-540x405-channelposter.png" group-title="ALT 3",FOX 13 Salt Lake City
 http://its.streamsforus.net:8000/5877808/9888090/59923
-#EXTINF:-1 tvg-id="fox.kzjodt2.seattle.wa.us" tvg-name="FOX 13 Seattle" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/Q13Fox_Seattle-Logo.jpg" group-title="USA LOCAL FOX",FOX 13 Seattle
+#EXTINF:-1 tvg-id="fox.kzjodt2.seattle.wa.us" tvg-name="FOX 13 Seattle" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/Q13Fox_Seattle-Logo.jpg" group-title="ALT 3",FOX 13 Seattle
 http://its.streamsforus.net:8000/5877808/9888090/59922
-#EXTINF:-1 tvg-id="fox.kcpq.tacoma.wa.us" tvg-name="FOX 13 Tacoma" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/12/Tacoma-FOX.png" group-title="USA LOCAL FOX",FOX 13 Tacoma
+#EXTINF:-1 tvg-id="fox.kcpq.tacoma.wa.us" tvg-name="FOX 13 Tacoma" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/12/Tacoma-FOX.png" group-title="ALT 3",FOX 13 Tacoma
 http://its.streamsforus.net:8000/5877808/9888090/59921
-#EXTINF:-1 tvg-id="fox.wtvt.tampa.bay.fl.us" tvg-name="FOX 13 Tampa" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/fox13_tampa.jpg" group-title="USA LOCAL FOX",FOX 13 Tampa
+#EXTINF:-1 tvg-id="fox.wtvt.tampa.bay.fl.us" tvg-name="FOX 13 Tampa" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/fox13_tampa.jpg" group-title="ALT 3",FOX 13 Tampa
 http://its.streamsforus.net:8000/5877808/9888090/59920
-#EXTINF:-1 tvg-id="fox.wztv.nashville.tn.us" tvg-name="FOX 17 Nashville" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/fox17_nashville.png" group-title="USA LOCAL FOX",FOX 17 Nashville
+#EXTINF:-1 tvg-id="fox.wztv.nashville.tn.us" tvg-name="FOX 17 Nashville" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/fox17_nashville.png" group-title="ALT 3",FOX 17 Nashville
 http://its.streamsforus.net:8000/5877808/9888090/59919
-#EXTINF:-1 tvg-id="fox.wxix.cincinnati.oh.us" tvg-name="FOX 19 Cincinnati" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/fox19_now-white.png" group-title="USA LOCAL FOX",FOX 19 Cincinnati
+#EXTINF:-1 tvg-id="fox.wxix.cincinnati.oh.us" tvg-name="FOX 19 Cincinnati" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/fox19_now-white.png" group-title="ALT 3",FOX 19 Cincinnati
 http://its.streamsforus.net:8000/5877808/9888090/59918
 #EXTINF:-1 tvg-id="" tvg-name="FOX 19 NOW (CINY/KY) | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/fox19_now-white.png" group-title="",FOX 19 NOW (CINY/KY) | HD
 http://its.streamsforus.net:8000/5877808/9888090/84302
-#EXTINF:-1 tvg-id="fox.wxix.cincinnati.oh.us" tvg-name="FOX 19 NOW CINY/KY" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/fox19_now-white.png" group-title="USA LOCAL FOX",FOX 19 NOW CINY/KY
+#EXTINF:-1 tvg-id="fox.wxix.cincinnati.oh.us" tvg-name="FOX 19 NOW CINY/KY" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/fox19_now-white.png" group-title="ALT 3",FOX 19 NOW CINY/KY
 http://its.streamsforus.net:8000/5877808/9888090/60050
-#EXTINF:-1 tvg-id="" tvg-name="FOX 2" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/FOX-2.jpg" group-title="USA LOCAL FOX",FOX 2
+#EXTINF:-1 tvg-id="" tvg-name="FOX 2" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/FOX-2.jpg" group-title="ALT 3",FOX 2
 http://its.streamsforus.net:8000/5877808/9888090/60049
-#EXTINF:-1 tvg-id="" tvg-name="FOX 2 Bay Area" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/FOX-2.jpg" group-title="USA LOCAL FOX",FOX 2 Bay Area
+#EXTINF:-1 tvg-id="" tvg-name="FOX 2 Bay Area" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/FOX-2.jpg" group-title="ALT 3",FOX 2 Bay Area
 http://its.streamsforus.net:8000/5877808/9888090/60048
-#EXTINF:-1 tvg-id="fox.wbff.baltimore.md.us" tvg-name="FOX 2 Detroit" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/detroit-grooming-co-fox-2-detroit-news-logo.jpg" group-title="USA LOCAL FOX",FOX 2 Detroit
+#EXTINF:-1 tvg-id="fox.wbff.baltimore.md.us" tvg-name="FOX 2 Detroit" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/detroit-grooming-co-fox-2-detroit-news-logo.jpg" group-title="ALT 3",FOX 2 Detroit
 http://its.streamsforus.net:8000/5877808/9888090/59944
-#EXTINF:-1 tvg-id="fox.ktvi.st.louis.mo.us" tvg-name="FOX 2 St Louis" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/fox2-stl-300.png" group-title="USA LOCAL FOX",FOX 2 St Louis
+#EXTINF:-1 tvg-id="fox.ktvi.st.louis.mo.us" tvg-name="FOX 2 St Louis" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/fox2-stl-300.png" group-title="ALT 3",FOX 2 St Louis
 http://its.streamsforus.net:8000/5877808/9888090/59945
-#EXTINF:-1 tvg-id="fox.wdaf.kansas.city.mo.us" tvg-name="FOX 24 Baltimore" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/usssntitled.png" group-title="USA LOCAL FOX",FOX 24 Baltimore
+#EXTINF:-1 tvg-id="fox.wdaf.kansas.city.mo.us" tvg-name="FOX 24 Baltimore" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/usssntitled.png" group-title="ALT 3",FOX 24 Baltimore
 http://its.streamsforus.net:8000/5877808/9888090/59943
-#EXTINF:-1 tvg-id="fox.wbff.baltimore.md.us" tvg-name="FOX 24 Wisconsin" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/FOX-24-Wisconsin.jpg" group-title="USA LOCAL FOX",FOX 24 Wisconsin
+#EXTINF:-1 tvg-id="fox.wbff.baltimore.md.us" tvg-name="FOX 24 Wisconsin" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/FOX-24-Wisconsin.jpg" group-title="ALT 3",FOX 24 Wisconsin
 http://its.streamsforus.net:8000/5877808/9888090/59917
-#EXTINF:-1 tvg-id="" tvg-name="FOX 25 Boston" tvg-logo="http://miabox.net/logo_picture/WFXT_Boston_25_logo.png" group-title="USA LOCAL FOX",FOX 25 Boston
+#EXTINF:-1 tvg-id="" tvg-name="FOX 25 Boston" tvg-logo="http://miabox.net/logo_picture/WFXT_Boston_25_logo.png" group-title="ALT 3",FOX 25 Boston
 http://its.streamsforus.net:8000/5877808/9888090/68879
-#EXTINF:-1 tvg-id="fox.kriv.houston.tx.us" tvg-name="FOX 26 Houston" tvg-logo="https://goatyogahouston.com/images/logos/fox26.png" group-title="USA LOCAL FOX",FOX 26 Houston
+#EXTINF:-1 tvg-id="fox.kriv.houston.tx.us" tvg-name="FOX 26 Houston" tvg-logo="https://goatyogahouston.com/images/logos/fox26.png" group-title="ALT 3",FOX 26 Houston
 http://its.streamsforus.net:8000/5877808/9888090/90394
-#EXTINF:-1 tvg-id="fox.wsfx.wilmington.nc.us" tvg-name="FOX 26 Wilmington" tvg-logo="" group-title="USA LOCAL FOX",FOX 26 Wilmington
+#EXTINF:-1 tvg-id="fox.wsfx.wilmington.nc.us" tvg-name="FOX 26 Wilmington" tvg-logo="" group-title="ALT 3",FOX 26 Wilmington
 http://its.streamsforus.net:8000/5877808/9888090/59915
-#EXTINF:-1 tvg-id="fox.wtte.columbus.oh.us" tvg-name="FOX 28 Columbus" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WTTE28newlogo.png" group-title="USA LOCAL FOX",FOX 28 Columbus
+#EXTINF:-1 tvg-id="fox.wtte.columbus.oh.us" tvg-name="FOX 28 Columbus" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WTTE28newlogo.png" group-title="ALT 3",FOX 28 Columbus
 http://its.streamsforus.net:8000/5877808/9888090/59914
-#EXTINF:-1 tvg-id="fox.wutv.buffalo.ny.us" tvg-name="FOX 29 Buffalo" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/logo-fox-29.png" group-title="USA LOCAL FOX",FOX 29 Buffalo
+#EXTINF:-1 tvg-id="fox.wutv.buffalo.ny.us" tvg-name="FOX 29 Buffalo" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/logo-fox-29.png" group-title="ALT 3",FOX 29 Buffalo
 http://its.streamsforus.net:8000/5877808/9888090/60046
-#EXTINF:-1 tvg-id="fox.wutv.buffalo.ny.us" tvg-name="FOX 29 Buffalo NY" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WUTV_Logo.png" group-title="USA LOCAL FOX",FOX 29 Buffalo NY
+#EXTINF:-1 tvg-id="fox.wutv.buffalo.ny.us" tvg-name="FOX 29 Buffalo NY" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WUTV_Logo.png" group-title="ALT 3",FOX 29 Buffalo NY
 http://its.streamsforus.net:8000/5877808/9888090/59913
-#EXTINF:-1 tvg-id="fox.wtxf.philadelphia.pa.us" tvg-name="FOX 29 Philadelphia" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/FOX29.png" group-title="USA LOCAL FOX",FOX 29 Philadelphia
+#EXTINF:-1 tvg-id="fox.wtxf.philadelphia.pa.us" tvg-name="FOX 29 Philadelphia" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/FOX29.png" group-title="ALT 3",FOX 29 Philadelphia
 http://its.streamsforus.net:8000/5877808/9888090/59912
-#EXTINF:-1 tvg-id="fox.wtxf.philadelphia.pa.us" tvg-name="FOX 29 Philadelphia PA" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/logo-fox-29-philadelphia-wtxf-alt.png" group-title="USA LOCAL FOX",FOX 29 Philadelphia PA
+#EXTINF:-1 tvg-id="fox.wtxf.philadelphia.pa.us" tvg-name="FOX 29 Philadelphia PA" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/logo-fox-29-philadelphia-wtxf-alt.png" group-title="ALT 3",FOX 29 Philadelphia PA
 http://its.streamsforus.net:8000/5877808/9888090/60045
-#EXTINF:-1 tvg-id="fox.kabb.san.antonio.tx.us" tvg-name="FOX 29 San Antonio" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/logo-fox-29.png" group-title="USA LOCAL FOX",FOX 29 San Antonio
+#EXTINF:-1 tvg-id="fox.kabb.san.antonio.tx.us" tvg-name="FOX 29 San Antonio" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/logo-fox-29.png" group-title="ALT 3",FOX 29 San Antonio
 http://its.streamsforus.net:8000/5877808/9888090/59911
-#EXTINF:-1 tvg-id="fox.wfox.jacksonville.fl.us" tvg-name="FOX 30 Jacksonville" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/WFOX-TV_logo.png" group-title="USA LOCAL FOX",FOX 30 Jacksonville
+#EXTINF:-1 tvg-id="fox.wfox.jacksonville.fl.us" tvg-name="FOX 30 Jacksonville" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/WFOX-TV_logo.png" group-title="ALT 3",FOX 30 Jacksonville
 http://its.streamsforus.net:8000/5877808/9888090/59910
-#EXTINF:-1 tvg-id="fox.kdvr.denver.co.us" tvg-name="FOX 31 Denver" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/Fox-31-Denver.png" group-title="USA LOCAL FOX",FOX 31 Denver
+#EXTINF:-1 tvg-id="fox.kdvr.denver.co.us" tvg-name="FOX 31 Denver" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/Fox-31-Denver.png" group-title="ALT 3",FOX 31 Denver
 http://its.streamsforus.net:8000/5877808/9888090/59909
-#EXTINF:-1 tvg-id="fox.wfld.chicago.il.us" tvg-name="FOX 32 Chicago" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/FOX32.jpg" group-title="USA LOCAL FOX",FOX 32 Chicago
+#EXTINF:-1 tvg-id="fox.wfld.chicago.il.us" tvg-name="FOX 32 Chicago" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/FOX32.jpg" group-title="ALT 3",FOX 32 Chicago
 http://its.streamsforus.net:8000/5877808/9888090/59908
-#EXTINF:-1 tvg-id="fox.wofl.orlando.fl.us" tvg-name="FOX 35 Orlando" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WOFL_FOX35_4c_BOXKITE_LOGO_Orlando.png" group-title="USA LOCAL FOX",FOX 35 Orlando
+#EXTINF:-1 tvg-id="fox.wofl.orlando.fl.us" tvg-name="FOX 35 Orlando" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WOFL_FOX35_4c_BOXKITE_LOGO_Orlando.png" group-title="ALT 3",FOX 35 Orlando
 http://its.streamsforus.net:8000/5877808/9888090/59907
-#EXTINF:-1 tvg-id="fox.kdfw.dallas.tx.us" tvg-name="FOX 4 Dallas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/KDFW_Logo.png" group-title="USA LOCAL FOX",FOX 4 Dallas
+#EXTINF:-1 tvg-id="fox.kdfw.dallas.tx.us" tvg-name="FOX 4 Dallas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/KDFW_Logo.png" group-title="ALT 3",FOX 4 Dallas
 http://its.streamsforus.net:8000/5877808/9888090/59941
-#EXTINF:-1 tvg-id="fox.kdfw.dallas.tx.us" tvg-name="Fox 4 Kansas City" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/fox4more.jpg" group-title="USA LOCAL FOX",Fox 4 Kansas City
+#EXTINF:-1 tvg-id="fox.kdfw.dallas.tx.us" tvg-name="Fox 4 Kansas City" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/fox4more.jpg" group-title="ALT 3",Fox 4 Kansas City
 http://its.streamsforus.net:8000/5877808/9888090/59942
-#EXTINF:-1 tvg-id="" tvg-name="FOX 4 KANSAS CITY" tvg-logo="" group-title="USA LOCAL FOX",FOX 4 KANSAS CITY
+#EXTINF:-1 tvg-id="" tvg-name="FOX 4 KANSAS CITY" tvg-logo="" group-title="ALT 3",FOX 4 KANSAS CITY
 http://its.streamsforus.net:8000/5877808/9888090/60041
-#EXTINF:-1 tvg-id="fox.ktxl.sacramento.ca.us" tvg-name="FOX 40 Sacramento" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/Liquidology-Press-Fox-40.png" group-title="USA LOCAL FOX",FOX 40 Sacramento
+#EXTINF:-1 tvg-id="fox.ktxl.sacramento.ca.us" tvg-name="FOX 40 Sacramento" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/Liquidology-Press-Fox-40.png" group-title="ALT 3",FOX 40 Sacramento
 http://its.streamsforus.net:8000/5877808/9888090/59906
-#EXTINF:-1 tvg-id="fox.wpmt.harrisburg.pa.us" tvg-name="FOX 43 PA" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/FOX43.png" group-title="USA LOCAL FOX",FOX 43 PA
+#EXTINF:-1 tvg-id="fox.wpmt.harrisburg.pa.us" tvg-name="FOX 43 PA" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/FOX43.png" group-title="ALT 3",FOX 43 PA
 http://its.streamsforus.net:8000/5877808/9888090/59905
-#EXTINF:-1 tvg-id="fox.wgmb.baton.rouge.la.us" tvg-name="FOX 44 Baton Rouge" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/Fox44_NewsWGMB-TV.png" group-title="USA LOCAL FOX",FOX 44 Baton Rouge
+#EXTINF:-1 tvg-id="fox.wgmb.baton.rouge.la.us" tvg-name="FOX 44 Baton Rouge" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/Fox44_NewsWGMB-TV.png" group-title="ALT 3",FOX 44 Baton Rouge
 http://its.streamsforus.net:8000/5877808/9888090/59904
-#EXTINF:-1 tvg-id="fox.wbff.baltimore.md.us" tvg-name="FOX 45 Baltimore" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/Wbff_2008-1.png" group-title="USA LOCAL FOX",FOX 45 Baltimore
+#EXTINF:-1 tvg-id="fox.wbff.baltimore.md.us" tvg-name="FOX 45 Baltimore" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/Wbff_2008-1.png" group-title="ALT 3",FOX 45 Baltimore
 http://its.streamsforus.net:8000/5877808/9888090/59902
-#EXTINF:-1 tvg-id="fox.wbff.baltimore.md.us" tvg-name="FOX 45 Baltimore" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/logo-fox-46-charlotte-wjzy-alt.png" group-title="USA LOCAL FOX",FOX 45 Baltimore
+#EXTINF:-1 tvg-id="fox.wbff.baltimore.md.us" tvg-name="FOX 45 Baltimore" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/logo-fox-46-charlotte-wjzy-alt.png" group-title="ALT 3",FOX 45 Baltimore
 http://its.streamsforus.net:8000/5877808/9888090/59903
-#EXTINF:-1 tvg-id="fox.wjzy.charlotte.nc.us" tvg-name="FOX 46 Belmont/Charlotte" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/FOX46.png" group-title="USA LOCAL FOX",FOX 46 Belmont/Charlotte
+#EXTINF:-1 tvg-id="fox.wjzy.charlotte.nc.us" tvg-name="FOX 46 Belmont/Charlotte" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/FOX46.png" group-title="ALT 3",FOX 46 Belmont/Charlotte
 http://its.streamsforus.net:8000/5877808/9888090/59901
-#EXTINF:-1 tvg-id="fox.wjzy.charlotte.nc.us" tvg-name="FOX 46 Charlotte" tvg-logo="http://miabox.net/logo_picture/FOX_46_Charlotte.png" group-title="USA LOCAL FOX",FOX 46 Charlotte
+#EXTINF:-1 tvg-id="fox.wjzy.charlotte.nc.us" tvg-name="FOX 46 Charlotte" tvg-logo="http://miabox.net/logo_picture/FOX_46_Charlotte.png" group-title="ALT 3",FOX 46 Charlotte
 http://its.streamsforus.net:8000/5877808/9888090/60060
-#EXTINF:-1 tvg-id="fox.wjzy.charlotte.nc.us" tvg-name="FOX 46 Charlotte" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/logo-fox-46-charlotte-wjzy-alt.png" group-title="USA LOCAL FOX",FOX 46 Charlotte
+#EXTINF:-1 tvg-id="fox.wjzy.charlotte.nc.us" tvg-name="FOX 46 Charlotte" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/logo-fox-46-charlotte-wjzy-alt.png" group-title="ALT 3",FOX 46 Charlotte
 http://its.streamsforus.net:8000/5877808/9888090/59900
-#EXTINF:-1 tvg-id="fox.wkbndt2.youngstown.oh.us" tvg-name="Fox 46 Charlotte OH" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/logo-fox-46-charlotte-wjzy-alt.png" group-title="USA LOCAL FOX",Fox 46 Charlotte OH
+#EXTINF:-1 tvg-id="fox.wkbndt2.youngstown.oh.us" tvg-name="Fox 46 Charlotte OH" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/logo-fox-46-charlotte-wjzy-alt.png" group-title="ALT 3",Fox 46 Charlotte OH
 http://its.streamsforus.net:8000/5877808/9888090/59899
-#EXTINF:-1 tvg-id="fox.wsym.lansing.mi.us" tvg-name="FOX 47 Lansing MI" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/FOX-47-Lansing-MI.png" group-title="USA LOCAL FOX",FOX 47 Lansing MI
+#EXTINF:-1 tvg-id="fox.wsym.lansing.mi.us" tvg-name="FOX 47 Lansing MI" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/FOX-47-Lansing-MI.png" group-title="ALT 3",FOX 47 Lansing MI
 http://its.streamsforus.net:8000/5877808/9888090/59898
-#EXTINF:-1 tvg-id="fox.waga.atlanta.ga.us" tvg-name="FOX 5 Atlanta" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/placeholder-square.jpg" group-title="USA LOCAL FOX",FOX 5 Atlanta
+#EXTINF:-1 tvg-id="fox.waga.atlanta.ga.us" tvg-name="FOX 5 Atlanta" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/placeholder-square.jpg" group-title="ALT 3",FOX 5 Atlanta
 http://its.streamsforus.net:8000/5877808/9888090/59940
-#EXTINF:-1 tvg-id="fox.waga.atlanta.ga.us" tvg-name="FOX 5 Atlanta Waga" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/FOX-WAGA-ATL.jpg" group-title="USA LOCAL FOX",FOX 5 Atlanta Waga
+#EXTINF:-1 tvg-id="fox.waga.atlanta.ga.us" tvg-name="FOX 5 Atlanta Waga" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/FOX-WAGA-ATL.jpg" group-title="ALT 3",FOX 5 Atlanta Waga
 http://its.streamsforus.net:8000/5877808/9888090/59936
-#EXTINF:-1 tvg-id="fox.kvvu.las.vegas.nv.us" tvg-name="FOX 5 Las Vegas" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/f5.png" group-title="USA LOCAL FOX",FOX 5 Las Vegas
+#EXTINF:-1 tvg-id="fox.kvvu.las.vegas.nv.us" tvg-name="FOX 5 Las Vegas" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/f5.png" group-title="ALT 3",FOX 5 Las Vegas
 http://its.streamsforus.net:8000/5877808/9888090/59939
-#EXTINF:-1 tvg-id="fox.wnyw.new.york.ny.us" tvg-name="FOX 5 New York" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/fox5_ny.jpg" group-title="USA LOCAL FOX",FOX 5 New York
+#EXTINF:-1 tvg-id="fox.wnyw.new.york.ny.us" tvg-name="FOX 5 New York" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/fox5_ny.jpg" group-title="ALT 3",FOX 5 New York
 http://its.streamsforus.net:8000/5877808/9888090/59938
-#EXTINF:-1 tvg-id="fox.kswb.san.diego.ca.us" tvg-name="FOX 5 San Diego" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/FOX-5-San-Diego.png" group-title="USA LOCAL FOX",FOX 5 San Diego
+#EXTINF:-1 tvg-id="fox.kswb.san.diego.ca.us" tvg-name="FOX 5 San Diego" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/FOX-5-San-Diego.png" group-title="ALT 3",FOX 5 San Diego
 http://its.streamsforus.net:8000/5877808/9888090/59937
-#EXTINF:-1 tvg-id="fox.wttg.district.of.columbia.us" tvg-name="FOX 5 Wash DC" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/Abc7-1.png" group-title="USA LOCAL FOX",FOX 5 Wash DC
+#EXTINF:-1 tvg-id="fox.wttg.district.of.columbia.us" tvg-name="FOX 5 Wash DC" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/Abc7-1.png" group-title="ALT 3",FOX 5 Wash DC
 http://its.streamsforus.net:8000/5877808/9888090/59935
-#EXTINF:-1 tvg-id="fox.wraz.raleighdurham.nc.us" tvg-name="FOX 50 Raleigh" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/WRALNews_FOX50.png" group-title="USA LOCAL FOX",FOX 50 Raleigh
+#EXTINF:-1 tvg-id="fox.wraz.raleighdurham.nc.us" tvg-name="FOX 50 Raleigh" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/WRALNews_FOX50.png" group-title="ALT 3",FOX 50 Raleigh
 http://its.streamsforus.net:8000/5877808/9888090/59897
-#EXTINF:-1 tvg-id="fox.wogx.gainesville.fl.us" tvg-name="Fox 51 Gainesville" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/FOX_51_WOGX.png" group-title="USA LOCAL FOX",Fox 51 Gainesville
+#EXTINF:-1 tvg-id="fox.wogx.gainesville.fl.us" tvg-name="Fox 51 Gainesville" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/FOX_51_WOGX.png" group-title="ALT 3",Fox 51 Gainesville
 http://its.streamsforus.net:8000/5877808/9888090/59896
-#EXTINF:-1 tvg-id="fox.wpgh.pittsburgh.pa.us" tvg-name="FOX 53 Pittsburg" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/FOX-53-Pittsburg-PA-.png" group-title="USA LOCAL FOX",FOX 53 Pittsburg
+#EXTINF:-1 tvg-id="fox.wpgh.pittsburgh.pa.us" tvg-name="FOX 53 Pittsburg" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/FOX-53-Pittsburg-PA-.png" group-title="ALT 3",FOX 53 Pittsburg
 http://its.streamsforus.net:8000/5877808/9888090/59895
-#EXTINF:-1 tvg-id="" tvg-name="Fox 53 Pittsburgh" tvg-logo="" group-title="USA LOCAL FOX",Fox 53 Pittsburgh
+#EXTINF:-1 tvg-id="" tvg-name="Fox 53 Pittsburgh" tvg-logo="" group-title="ALT 3",Fox 53 Pittsburgh
 http://its.streamsforus.net:8000/5877808/9888090/59894
-#EXTINF:-1 tvg-id="" tvg-name="FOX 59 INDIANAPOLIS" tvg-logo="" group-title="USA LOCAL FOX",FOX 59 INDIANAPOLIS
+#EXTINF:-1 tvg-id="" tvg-name="FOX 59 INDIANAPOLIS" tvg-logo="" group-title="ALT 3",FOX 59 INDIANAPOLIS
 http://its.streamsforus.net:8000/5877808/9888090/60038
-#EXTINF:-1 tvg-id="fox.wxin.indianapolis.in.us" tvg-name="Fox 59 Indianapolis" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/xxz.png" group-title="USA LOCAL FOX",Fox 59 Indianapolis
+#EXTINF:-1 tvg-id="fox.wxin.indianapolis.in.us" tvg-name="Fox 59 Indianapolis" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/xxz.png" group-title="ALT 3",Fox 59 Indianapolis
 http://its.streamsforus.net:8000/5877808/9888090/59893
-#EXTINF:-1 tvg-id="fox.witi.milwaukee.wi.us" tvg-name="FOX 6 Milwaukee" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/FOX-6-Milwaukee-WI-.png" group-title="USA LOCAL FOX",FOX 6 Milwaukee
+#EXTINF:-1 tvg-id="fox.witi.milwaukee.wi.us" tvg-name="FOX 6 Milwaukee" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/FOX-6-Milwaukee-WI-.png" group-title="ALT 3",FOX 6 Milwaukee
 http://its.streamsforus.net:8000/5877808/9888090/59934
-#EXTINF:-1 tvg-id="" tvg-name="FOX 6 MILWAUKEE" tvg-logo="" group-title="USA LOCAL FOX",FOX 6 MILWAUKEE
+#EXTINF:-1 tvg-id="" tvg-name="FOX 6 MILWAUKEE" tvg-logo="" group-title="ALT 3",FOX 6 MILWAUKEE
 http://its.streamsforus.net:8000/5877808/9888090/60037
-#EXTINF:-1 tvg-id="" tvg-name="FOX 61 CONNECTICUT" tvg-logo="" group-title="USA LOCAL FOX",FOX 61 CONNECTICUT
+#EXTINF:-1 tvg-id="" tvg-name="FOX 61 CONNECTICUT" tvg-logo="" group-title="ALT 3",FOX 61 CONNECTICUT
 http://its.streamsforus.net:8000/5877808/9888090/60036
-#EXTINF:-1 tvg-id="fox.wtic.hartford.ct.us" tvg-name="Fox 61 Hartford CT" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Wtic_2008.png" group-title="USA LOCAL FOX",Fox 61 Hartford CT
+#EXTINF:-1 tvg-id="fox.wtic.hartford.ct.us" tvg-name="Fox 61 Hartford CT" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Wtic_2008.png" group-title="ALT 3",Fox 61 Hartford CT
 http://its.streamsforus.net:8000/5877808/9888090/59892
-#EXTINF:-1 tvg-id="fox.ktbc.austin.tx.us" tvg-name="FOX 7 Austin TX" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/FOX-7-Austin-TX-.jpg" group-title="USA LOCAL FOX",FOX 7 Austin TX
+#EXTINF:-1 tvg-id="fox.ktbc.austin.tx.us" tvg-name="FOX 7 Austin TX" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/FOX-7-Austin-TX-.jpg" group-title="ALT 3",FOX 7 Austin TX
 http://its.streamsforus.net:8000/5877808/9888090/59933
-#EXTINF:-1 tvg-id="fox.wsvn.miami.fl.us" tvg-name="FOX 7 Miami" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/WSVN_7_logo.png" group-title="USA LOCAL FOX",FOX 7 Miami
+#EXTINF:-1 tvg-id="fox.wsvn.miami.fl.us" tvg-name="FOX 7 Miami" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/WSVN_7_logo.png" group-title="ALT 3",FOX 7 Miami
 http://its.streamsforus.net:8000/5877808/9888090/59932
-#EXTINF:-1 tvg-id="fox.wjw.cleveland.oh.us" tvg-name="FOX 8 Cleveland" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/WJW-TV_logo_1985-92.png" group-title="USA LOCAL FOX",FOX 8 Cleveland
+#EXTINF:-1 tvg-id="fox.wjw.cleveland.oh.us" tvg-name="FOX 8 Cleveland" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/WJW-TV_logo_1985-92.png" group-title="ALT 3",FOX 8 Cleveland
 http://its.streamsforus.net:8000/5877808/9888090/59930
-#EXTINF:-1 tvg-id="" tvg-name="FOX 8 CLEVELAND" tvg-logo="" group-title="USA LOCAL FOX",FOX 8 CLEVELAND
+#EXTINF:-1 tvg-id="" tvg-name="FOX 8 CLEVELAND" tvg-logo="" group-title="ALT 3",FOX 8 CLEVELAND
 http://its.streamsforus.net:8000/5877808/9888090/60035
-#EXTINF:-1 tvg-id="fox.wvue.new.orleans.la.us" tvg-name="FOX 8 New Orleans" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/FOX-8-New-Orleans-LA-.png" group-title="USA LOCAL FOX",FOX 8 New Orleans
+#EXTINF:-1 tvg-id="fox.wvue.new.orleans.la.us" tvg-name="FOX 8 New Orleans" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/FOX-8-New-Orleans-LA-.png" group-title="ALT 3",FOX 8 New Orleans
 http://its.streamsforus.net:8000/5877808/9888090/59931
-#EXTINF:-1 tvg-id="fox.wvue.new.orleans.la.us" tvg-name="FOX 8 New Orleans LA" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WVUE-station-logo.png" group-title="USA LOCAL FOX",FOX 8 New Orleans LA
+#EXTINF:-1 tvg-id="fox.wvue.new.orleans.la.us" tvg-name="FOX 8 New Orleans LA" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WVUE-station-logo.png" group-title="ALT 3",FOX 8 New Orleans LA
 http://its.streamsforus.net:8000/5877808/9888090/60034
-#EXTINF:-1 tvg-id="fox.kmspdt9.minneapolis.mn.us" tvg-name="FOX 9 Minneapolis" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/logo-fox-9-minneapolis-kmsp-alt.png" group-title="USA LOCAL FOX",FOX 9 Minneapolis
+#EXTINF:-1 tvg-id="fox.kmspdt9.minneapolis.mn.us" tvg-name="FOX 9 Minneapolis" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/logo-fox-9-minneapolis-kmsp-alt.png" group-title="ALT 3",FOX 9 Minneapolis
 http://its.streamsforus.net:8000/5877808/9888090/59929
-#EXTINF:-1 tvg-id="fox.wftc.minneapolis.mn.us" tvg-name="FOX 9 Minneapolis MN" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WFTC_UPN29.png" group-title="USA LOCAL FOX",FOX 9 Minneapolis MN
+#EXTINF:-1 tvg-id="fox.wftc.minneapolis.mn.us" tvg-name="FOX 9 Minneapolis MN" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WFTC_UPN29.png" group-title="ALT 3",FOX 9 Minneapolis MN
 http://its.streamsforus.net:8000/5877808/9888090/60033
 #EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="FOX BUSINESS | HD" tvg-logo="http://miabox.net/logo_picture/Fox_Business.png" group-title="ALT 3",FOX BUSINESS | HD
 http://its.streamsforus.net:8000/5877808/9888090/5823
@@ -3229,25 +3229,25 @@ http://its.streamsforus.net:8000/5877808/9888090/6357
 http://its.streamsforus.net:8000/5877808/9888090/6356
 #EXTINF:-1 tvg-id="foxcollegesportspacific.us" tvg-name="FOX COLLEGE SPORTS PACIFIC | HD" tvg-logo="http://miabox.net/logo_picture/FCS.png" group-title="ALT 3",FOX COLLEGE SPORTS PACIFIC | HD
 http://its.streamsforus.net:8000/5877808/9888090/6355
-#EXTINF:-1 tvg-id="fox.us" tvg-name="FOX East" tvg-logo="" group-title="USA LOCAL FOX",FOX East
+#EXTINF:-1 tvg-id="fox.us" tvg-name="FOX East" tvg-logo="" group-title="ALT 3",FOX East
 http://its.streamsforus.net:8000/5877808/9888090/60032
-#EXTINF:-1 tvg-id="" tvg-name="FOX Life" tvg-logo="http://miabox.net/logo_picture/FOX_Life.png" group-title="USA LOCAL FOX",FOX Life
+#EXTINF:-1 tvg-id="" tvg-name="FOX Life" tvg-logo="http://miabox.net/logo_picture/FOX_Life.png" group-title="ALT 3",FOX Life
 http://its.streamsforus.net:8000/5877808/9888090/60059
-#EXTINF:-1 tvg-id="" tvg-name="FOX Minneapolis" tvg-logo="http://miabox.net/logo_picture/FOX_Minneapolis.png" group-title="USA LOCAL FOX",FOX Minneapolis
+#EXTINF:-1 tvg-id="" tvg-name="FOX Minneapolis" tvg-logo="http://miabox.net/logo_picture/FOX_Minneapolis.png" group-title="ALT 3",FOX Minneapolis
 http://its.streamsforus.net:8000/5877808/9888090/60058
-#EXTINF:-1 tvg-id="" tvg-name="FOX MY13 Los Angeles" tvg-logo="" group-title="USA LOCAL FOX",FOX MY13 Los Angeles
+#EXTINF:-1 tvg-id="" tvg-name="FOX MY13 Los Angeles" tvg-logo="" group-title="ALT 3",FOX MY13 Los Angeles
 http://its.streamsforus.net:8000/5877808/9888090/60031
-#EXTINF:-1 tvg-id="" tvg-name="FOX MY20 Houston" tvg-logo="" group-title="USA LOCAL FOX",FOX MY20 Houston
+#EXTINF:-1 tvg-id="" tvg-name="FOX MY20 Houston" tvg-logo="" group-title="ALT 3",FOX MY20 Houston
 http://its.streamsforus.net:8000/5877808/9888090/60030
-#EXTINF:-1 tvg-id="" tvg-name="FOX MY50" tvg-logo="" group-title="USA LOCAL FOX",FOX MY50
+#EXTINF:-1 tvg-id="" tvg-name="FOX MY50" tvg-logo="" group-title="ALT 3",FOX MY50
 http://its.streamsforus.net:8000/5877808/9888090/60029
-#EXTINF:-1 tvg-id="" tvg-name="FOX MY65 Orlando" tvg-logo="" group-title="USA LOCAL FOX",FOX MY65 Orlando
+#EXTINF:-1 tvg-id="" tvg-name="FOX MY65 Orlando" tvg-logo="" group-title="ALT 3",FOX MY65 Orlando
 http://its.streamsforus.net:8000/5877808/9888090/60028
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="FOX NEWS | HD*" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Fox_News_Channel_logo.png" group-title="ALT 3",FOX NEWS | HD*
 http://its.streamsforus.net:8000/5877808/9888090/5821
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News Channel" tvg-logo="http://miabox.net/logo_picture/FoxNews.png" group-title="ALT 3",Fox News Channel
 http://its.streamsforus.net:8000/5877808/9888090/6396
-#EXTINF:-1 tvg-id="fox.wuhf.rochester.ny.us" tvg-name="FOX Rochester" tvg-logo="http://miabox.net/logo_picture/FOX_Rochester.png" group-title="USA LOCAL FOX",FOX Rochester
+#EXTINF:-1 tvg-id="fox.wuhf.rochester.ny.us" tvg-name="FOX Rochester" tvg-logo="http://miabox.net/logo_picture/FOX_Rochester.png" group-title="ALT 3",FOX Rochester
 http://its.streamsforus.net:8000/5877808/9888090/60057
 #EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="FOX SOCCER PLUS | HD" tvg-logo="http://miabox.net/logo_picture/FOX_SoccerPlus.png" group-title="ALT 3",FOX SOCCER PLUS | HD
 http://its.streamsforus.net:8000/5877808/9888090/6354
@@ -3321,7 +3321,7 @@ http://its.streamsforus.net:8000/5877808/9888090/6323
 http://its.streamsforus.net:8000/5877808/9888090/6322
 #EXTINF:-1 tvg-id="foxsportswisconsin.us" tvg-name="FOX SPORTS WISCONSIN | HD" tvg-logo="http://miabox.net/logo_picture/FOX-Sports-WISCONSIN.png" group-title="ALT 3",FOX SPORTS WISCONSIN | HD
 http://its.streamsforus.net:8000/5877808/9888090/6321
-#EXTINF:-1 tvg-id="fox.west.us" tvg-name="FOX WEST" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/6b/62/b0/6b62b013-2e14-79dd-069d-f5ae76223ba4/AppIcon-1x_U007emarketing-85-220-6.png/246x0w.jpg" group-title="USA LOCAL FOX",FOX WEST
+#EXTINF:-1 tvg-id="fox.west.us" tvg-name="FOX WEST" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/6b/62/b0/6b62b013-2e14-79dd-069d-f5ae76223ba4/AppIcon-1x_U007emarketing-85-220-6.png/246x0w.jpg" group-title="ALT 3",FOX WEST
 http://its.streamsforus.net:8000/5877808/9888090/60055
 #EXTINF:-1 tvg-id="freeform.us" tvg-name="FREEFORM" tvg-logo="http://miabox.net/logo_picture/Freeform_LOGO.png" group-title="ALT 3",FREEFORM
 http://its.streamsforus.net:8000/5877808/9888090/3436
@@ -3367,21 +3367,21 @@ http://its.streamsforus.net:8000/5877808/9888090/3430
 http://its.streamsforus.net:8000/5877808/9888090/27303
 #EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="HALLMARK M&M" tvg-logo="http://miabox.net/logo_picture/HallmarkMM.png" group-title="ALT 3",HALLMARK M&M
 http://its.streamsforus.net:8000/5877808/9888090/3428
-#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="HALLMARK MOVIES & MYSTERIES | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Hallmark_movies_mysteries.png" group-title="USA MOVIES",HALLMARK MOVIES & MYSTERIES | HD
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="HALLMARK MOVIES & MYSTERIES | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Hallmark_movies_mysteries.png" group-title="ALT 3",HALLMARK MOVIES & MYSTERIES | HD
 http://its.streamsforus.net:8000/5877808/9888090/82851
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO (East) | HD" tvg-logo="http://miabox.net/logo_picture/HBO.png" group-title="USA MOVIES",HBO (East) | HD
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO (East) | HD" tvg-logo="http://miabox.net/logo_picture/HBO.png" group-title="ALT 3",HBO (East) | HD
 http://its.streamsforus.net:8000/5877808/9888090/40494
-#EXTINF:-1 tvg-id="HBO HD (West)" tvg-name="HBO (West) | HD" tvg-logo="http://miabox.net/logo_picture/HBO.png" group-title="USA MOVIES",HBO (West) | HD
+#EXTINF:-1 tvg-id="HBO HD (West)" tvg-name="HBO (West) | HD" tvg-logo="http://miabox.net/logo_picture/HBO.png" group-title="ALT 3",HBO (West) | HD
 http://its.streamsforus.net:8000/5877808/9888090/65695
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2 | UHD" tvg-logo="http://miabox.net/logo_picture/HBO_2.png" group-title="USA MOVIES",HBO 2 | UHD
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2 | UHD" tvg-logo="http://miabox.net/logo_picture/HBO_2.png" group-title="ALT 3",HBO 2 | UHD
 http://its.streamsforus.net:8000/5877808/9888090/65694
-#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="HBO COMEDY | HD" tvg-logo="http://miabox.net/logo_picture/HBOComedy.png" group-title="USA MOVIES",HBO COMEDY | HD
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="HBO COMEDY | HD" tvg-logo="http://miabox.net/logo_picture/HBOComedy.png" group-title="ALT 3",HBO COMEDY | HD
 http://its.streamsforus.net:8000/5877808/9888090/40493
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="HBO FAMILY | UHD" tvg-logo="http://miabox.net/logo_picture/HBO_Family.png" group-title="USA MOVIES",HBO FAMILY | UHD
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="HBO FAMILY | UHD" tvg-logo="http://miabox.net/logo_picture/HBO_Family.png" group-title="ALT 3",HBO FAMILY | UHD
 http://its.streamsforus.net:8000/5877808/9888090/40492
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO SIGNATURE" tvg-logo="http://miabox.net/logo_picture/HBO_Signature.png" group-title="USA MOVIES",HBO SIGNATURE
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO SIGNATURE" tvg-logo="http://miabox.net/logo_picture/HBO_Signature.png" group-title="ALT 3",HBO SIGNATURE
 http://its.streamsforus.net:8000/5877808/9888090/65693
-#EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO ZONE | HD" tvg-logo="http://miabox.net/logo_picture/HBO_Zone.png" group-title="USA MOVIES",HBO ZONE | HD
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO ZONE | HD" tvg-logo="http://miabox.net/logo_picture/HBO_Zone.png" group-title="ALT 3",HBO ZONE | HD
 http://its.streamsforus.net:8000/5877808/9888090/40490
 #EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="HEROES & ICONS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/heroesicons.png" group-title="ALT 3",HEROES & ICONS
 http://its.streamsforus.net:8000/5877808/9888090/86746
@@ -3403,7 +3403,7 @@ http://its.streamsforus.net:8000/5877808/9888090/88775
 http://its.streamsforus.net:8000/5877808/9888090/38449
 #EXTINF:-1 tvg-id="" tvg-name="IMPACT NETWORK | SD" tvg-logo="" group-title="ALT 3",IMPACT NETWORK | SD
 http://its.streamsforus.net:8000/5877808/9888090/38463
-#EXTINF:-1 tvg-id="indieplex.us" tvg-name="INDIEPLEX | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/12/2000px-Indieplex_logo.svg_.png" group-title="USA MOVIES",INDIEPLEX | UHD
+#EXTINF:-1 tvg-id="indieplex.us" tvg-name="INDIEPLEX | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/12/2000px-Indieplex_logo.svg_.png" group-title="ALT 3",INDIEPLEX | UHD
 http://its.streamsforus.net:8000/5877808/9888090/82850
 #EXTINF:-1 tvg-id="INSP.us" tvg-name="INSP | HD" tvg-logo="http://miabox.net/logo_picture/insp_logo.png" group-title="ALT 3",INSP | HD
 http://its.streamsforus.net:8000/5877808/9888090/38450
@@ -3419,7 +3419,7 @@ http://its.streamsforus.net:8000/5877808/9888090/3424
 http://its.streamsforus.net:8000/5877808/9888090/82873
 #EXTINF:-1 tvg-id="KeepItCountry.uk" tvg-name="KEEP IT COUNTRY" tvg-logo="" group-title="MUSIC",KEEP IT COUNTRY
 http://its.streamsforus.net:8000/5877808/9888090/7769
-#EXTINF:-1 tvg-id="KiranTV.sa" tvg-name="KIDS READING TV" tvg-logo="https://cdn.theatlantic.com/static/mt/assets/science/RR%20logo%20classic.jpg" group-title="KIDS",KIDS READING TV
+#EXTINF:-1 tvg-id="KiranTV.sa" tvg-name="KIDS READING TV" tvg-logo="https://cdn.theatlantic.com/static/mt/assets/science/RR%20logo%20classic.jpg" group-title="ALT 3",KIDS READING TV
 http://its.streamsforus.net:8000/5877808/9888090/20897
 #EXTINF:-1 tvg-id="KTVUPlus.us" tvg-name="KTVU PLUS | HD" tvg-logo="http://miabox.net/logo_picture/KTVUPlus.png" group-title="ALT 3",KTVU PLUS | HD
 http://its.streamsforus.net:8000/5877808/9888090/82871
@@ -3429,7 +3429,7 @@ http://its.streamsforus.net:8000/5877808/9888090/88776
 http://its.streamsforus.net:8000/5877808/9888090/3423
 #EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="LIFETIME MOVIES" tvg-logo="http://miabox.net/logo_picture/lifetime-movies.png" group-title="ALT 3",LIFETIME MOVIES
 http://its.streamsforus.net:8000/5877808/9888090/3422
-#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="LIFETIME MOVIES | HD" tvg-logo="https://themediaboxx.com/wp-content/ploads/2018/05/Lifetime_Movie_Network_2003.png" group-title="USA MOVIES",LIFETIME MOVIES | HD
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="LIFETIME MOVIES | HD" tvg-logo="https://themediaboxx.com/wp-content/ploads/2018/05/Lifetime_Movie_Network_2003.png" group-title="ALT 3",LIFETIME MOVIES | HD
 http://its.streamsforus.net:8000/5877808/9888090/82849
 #EXTINF:-1 tvg-id="logo.us" tvg-name="LOGO | HD" tvg-logo="http://miabox.net/logo_picture/Logotv-logo.png" group-title="ALT 3",LOGO | HD
 http://its.streamsforus.net:8000/5877808/9888090/76682
@@ -3455,7 +3455,7 @@ http://its.streamsforus.net:8000/5877808/9888090/60062
 http://its.streamsforus.net:8000/5877808/9888090/38460
 #EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB NETWORK | HD" tvg-logo="http://miabox.net/logo_picture/MLB.png" group-title="ALT 3",MLB NETWORK | HD
 http://its.streamsforus.net:8000/5877808/9888090/6392
-#EXTINF:-1 tvg-id="" tvg-name="MLB NETWORK HD" tvg-logo="" group-title="MLB",MLB NETWORK HD
+#EXTINF:-1 tvg-id="" tvg-name="MLB NETWORK HD" tvg-logo="" group-title="ALT 3",MLB NETWORK HD
 http://its.streamsforus.net:8000/5877808/9888090/74013
 #EXTINF:-1 tvg-id="" tvg-name="MLB STRIKE ZONE | HD" tvg-logo="http://miabox.net/logo_picture/MLB_STRIKE_ZONE.png" group-title="ALT 3",MLB STRIKE ZONE | HD
 http://its.streamsforus.net:8000/5877808/9888090/6312
@@ -3463,9 +3463,9 @@ http://its.streamsforus.net:8000/5877808/9888090/6312
 http://its.streamsforus.net:8000/5877808/9888090/55951
 #EXTINF:-1 tvg-id="Motorsport.pt" tvg-name="MOTORSPORTS TV | HD" tvg-logo="http://miabox.net/logo_picture/MOTORSPORTS.png" group-title="ALT 3",MOTORSPORTS TV | HD
 http://its.streamsforus.net:8000/5877808/9888090/6311
-#EXTINF:-1 tvg-id="moviemax.us" tvg-name="MovieMax | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Moviemax.png" group-title="USA MOVIES",MovieMax | UHD
+#EXTINF:-1 tvg-id="moviemax.us" tvg-name="MovieMax | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Moviemax.png" group-title="ALT 3",MovieMax | UHD
 http://its.streamsforus.net:8000/5877808/9888090/82848
-#EXTINF:-1 tvg-id="movieplex.us" tvg-name="MOVIEPLEX | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/12/latestcb20151218004148.png" group-title="USA MOVIES",MOVIEPLEX | UHD
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="MOVIEPLEX | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/12/latestcb20151218004148.png" group-title="ALT 3",MOVIEPLEX | UHD
 http://its.streamsforus.net:8000/5877808/9888090/82847
 #EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-name="MSG | HD" tvg-logo="http://miabox.net/logo_picture/MSG.png" group-title="ALT 3",MSG | HD
 http://its.streamsforus.net:8000/5877808/9888090/6310
@@ -3521,119 +3521,119 @@ http://its.streamsforus.net:8000/5877808/9888090/5005
 http://its.streamsforus.net:8000/5877808/9888090/3417
 #EXTINF:-1 tvg-id="nbc4knbc.us" tvg-name="NBC (West) | HD" tvg-logo="http://miabox.net/logo_picture/NBC.png" group-title="ALT 3",NBC (West) | HD
 http://its.streamsforus.net:8000/5877808/9888090/82868
-#EXTINF:-1 tvg-id="nbc.wbtsld.boston.ma.us" tvg-name="NBC 10 Boston" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/NBC-10-Boston-.png" group-title="USA LOCAL NBC",NBC 10 Boston
+#EXTINF:-1 tvg-id="nbc.wbtsld.boston.ma.us" tvg-name="NBC 10 Boston" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/NBC-10-Boston-.png" group-title="ALT 3",NBC 10 Boston
 http://its.streamsforus.net:8000/5877808/9888090/59971
-#EXTINF:-1 tvg-id="nbc.wis.columbia.sc.us" tvg-name="NBC 10 Columbia SC" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-10-Columbia-SC.jpg" group-title="USA LOCAL NBC",NBC 10 Columbia SC
+#EXTINF:-1 tvg-id="nbc.wis.columbia.sc.us" tvg-name="NBC 10 Columbia SC" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-10-Columbia-SC.jpg" group-title="ALT 3",NBC 10 Columbia SC
 http://its.streamsforus.net:8000/5877808/9888090/59970
-#EXTINF:-1 tvg-id="nbc.wbir.knoxville.tn.us" tvg-name="NBC 10 Knoxville TN" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-10-Knoxville-TN.jpg" group-title="USA LOCAL NBC",NBC 10 Knoxville TN
+#EXTINF:-1 tvg-id="nbc.wbir.knoxville.tn.us" tvg-name="NBC 10 Knoxville TN" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-10-Knoxville-TN.jpg" group-title="ALT 3",NBC 10 Knoxville TN
 http://its.streamsforus.net:8000/5877808/9888090/59969
-#EXTINF:-1 tvg-id="nbc.wilx.lansing.mi.us" tvg-name="NBC 10 Lansing MI" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-10-Lansing-MI.png" group-title="USA LOCAL NBC",NBC 10 Lansing MI
+#EXTINF:-1 tvg-id="nbc.wilx.lansing.mi.us" tvg-name="NBC 10 Lansing MI" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-10-Lansing-MI.png" group-title="ALT 3",NBC 10 Lansing MI
 http://its.streamsforus.net:8000/5877808/9888090/59968
-#EXTINF:-1 tvg-id="nbc.wcau.philadelphia.pa.us" tvg-name="NBC 10 Philadelphia" tvg-logo="http://miabox.net/logo_picture/NBC_10_Philadelphia.png" group-title="USA LOCAL NBC",NBC 10 Philadelphia
+#EXTINF:-1 tvg-id="nbc.wcau.philadelphia.pa.us" tvg-name="NBC 10 Philadelphia" tvg-logo="http://miabox.net/logo_picture/NBC_10_Philadelphia.png" group-title="ALT 3",NBC 10 Philadelphia
 http://its.streamsforus.net:8000/5877808/9888090/70804
-#EXTINF:-1 tvg-id="nbc.whec.rochester.ny.us" tvg-name="NBC 10 Rochester" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/WhecLogoAug04.png" group-title="USA LOCAL NBC",NBC 10 Rochester
+#EXTINF:-1 tvg-id="nbc.whec.rochester.ny.us" tvg-name="NBC 10 Rochester" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/WhecLogoAug04.png" group-title="ALT 3",NBC 10 Rochester
 http://its.streamsforus.net:8000/5877808/9888090/59967
-#EXTINF:-1 tvg-id="nbc.wxia.atlanta.ga.us" tvg-name="NBC 11 Atlanta" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/150px-WAGA-TV_logo.png" group-title="USA LOCAL NBC",NBC 11 Atlanta
+#EXTINF:-1 tvg-id="nbc.wxia.atlanta.ga.us" tvg-name="NBC 11 Atlanta" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/150px-WAGA-TV_logo.png" group-title="ALT 3",NBC 11 Atlanta
 http://its.streamsforus.net:8000/5877808/9888090/59965
-#EXTINF:-1 tvg-id="nbc.wbal.baltimore.md.us" tvg-name="NBC 11 Baltimore MD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/NBC-11-Baltimore-MD.png" group-title="USA LOCAL NBC",NBC 11 Baltimore MD
+#EXTINF:-1 tvg-id="nbc.wbal.baltimore.md.us" tvg-name="NBC 11 Baltimore MD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/NBC-11-Baltimore-MD.png" group-title="ALT 3",NBC 11 Baltimore MD
 http://its.streamsforus.net:8000/5877808/9888090/59964
-#EXTINF:-1 tvg-id="nbc.kntv.san.francisco.ca.us" tvg-name="NBC 11 Bay Area" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-11.jpg" group-title="USA LOCAL NBC",NBC 11 Bay Area
+#EXTINF:-1 tvg-id="nbc.kntv.san.francisco.ca.us" tvg-name="NBC 11 Bay Area" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-11.jpg" group-title="ALT 3",NBC 11 Bay Area
 http://its.streamsforus.net:8000/5877808/9888090/59963
-#EXTINF:-1 tvg-id="nbc.kvly.fargo.nd.us" tvg-name="NBC 11 Fargo ND" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-11-Fargo-ND.jpg" group-title="USA LOCAL NBC",NBC 11 Fargo ND
+#EXTINF:-1 tvg-id="nbc.kvly.fargo.nd.us" tvg-name="NBC 11 Fargo ND" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-11-Fargo-ND.jpg" group-title="ALT 3",NBC 11 Fargo ND
 http://its.streamsforus.net:8000/5877808/9888090/59962
-#EXTINF:-1 tvg-id="nbc.kare.minneapolis.mn.us" tvg-name="NBC 11 Minneapolis" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/FFFS-Sponsors-Supporters-KARE-11-Logo-Image.png" group-title="USA LOCAL NBC",NBC 11 Minneapolis
+#EXTINF:-1 tvg-id="nbc.kare.minneapolis.mn.us" tvg-name="NBC 11 Minneapolis" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/FFFS-Sponsors-Supporters-KARE-11-Logo-Image.png" group-title="ALT 3",NBC 11 Minneapolis
 http://its.streamsforus.net:8000/5877808/9888090/59961
-#EXTINF:-1 tvg-id="nbc.kare.minneapolis.mn.us" tvg-name="NBC 11 Minnesota" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/nbc11_min.png" group-title="USA LOCAL NBC",NBC 11 Minnesota
+#EXTINF:-1 tvg-id="nbc.kare.minneapolis.mn.us" tvg-name="NBC 11 Minnesota" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/nbc11_min.png" group-title="ALT 3",NBC 11 Minnesota
 http://its.streamsforus.net:8000/5877808/9888090/59960
-#EXTINF:-1 tvg-id="nbc.wpxi.pittsburgh.pa.us" tvg-name="NBC 11 Pittsburgh" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/wpxi-logo.png" group-title="USA LOCAL NBC",NBC 11 Pittsburgh
+#EXTINF:-1 tvg-id="nbc.wpxi.pittsburgh.pa.us" tvg-name="NBC 11 Pittsburgh" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/wpxi-logo.png" group-title="ALT 3",NBC 11 Pittsburgh
 http://its.streamsforus.net:8000/5877808/9888090/59966
-#EXTINF:-1 tvg-id="nbc.wtlv.jacksonville.fl.us" tvg-name="NBC 12 Jacksonville FL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-12.png" group-title="USA LOCAL NBC",NBC 12 Jacksonville FL
+#EXTINF:-1 tvg-id="nbc.wtlv.jacksonville.fl.us" tvg-name="NBC 12 Jacksonville FL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-12.png" group-title="ALT 3",NBC 12 Jacksonville FL
 http://its.streamsforus.net:8000/5877808/9888090/59959
-#EXTINF:-1 tvg-id="nbc.wtmj.milwaukee.wi.us" tvg-name="NBC 12 Milwaukee" tvg-logo="https://image.ibb.co/miYOZe/WTMJ-TV-Logo.png" group-title="USA LOCAL NBC",NBC 12 Milwaukee
+#EXTINF:-1 tvg-id="nbc.wtmj.milwaukee.wi.us" tvg-name="NBC 12 Milwaukee" tvg-logo="https://image.ibb.co/miYOZe/WTMJ-TV-Logo.png" group-title="ALT 3",NBC 12 Milwaukee
 http://its.streamsforus.net:8000/5877808/9888090/59958
-#EXTINF:-1 tvg-id="nbc.kpnx.phoenix.az.us" tvg-name="NBC 12 Phoenix" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/nbc12.png" group-title="USA LOCAL NBC",NBC 12 Phoenix
+#EXTINF:-1 tvg-id="nbc.kpnx.phoenix.az.us" tvg-name="NBC 12 Phoenix" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/nbc12.png" group-title="ALT 3",NBC 12 Phoenix
 http://its.streamsforus.net:8000/5877808/9888090/59957
-#EXTINF:-1 tvg-id="nbc.wwbt.richmond.va.us" tvg-name="NBC 12 Richmond VA" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-12-Richmond-VA.png" group-title="USA LOCAL NBC",NBC 12 Richmond VA
+#EXTINF:-1 tvg-id="nbc.wwbt.richmond.va.us" tvg-name="NBC 12 Richmond VA" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-12-Richmond-VA.png" group-title="ALT 3",NBC 12 Richmond VA
 http://its.streamsforus.net:8000/5877808/9888090/59956
-#EXTINF:-1 tvg-id="nbc.wthr.indianapolis.in.us" tvg-name="NBC 13 Indianapolis" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WTHR_NBC_13.png" group-title="USA LOCAL NBC",NBC 13 Indianapolis
+#EXTINF:-1 tvg-id="nbc.wthr.indianapolis.in.us" tvg-name="NBC 13 Indianapolis" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WTHR_NBC_13.png" group-title="ALT 3",NBC 13 Indianapolis
 http://its.streamsforus.net:8000/5877808/9888090/59955
-#EXTINF:-1 tvg-id="" tvg-name="NBC 18 Zanesville OH" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-18-Zanesville-OH.jpg" group-title="USA LOCAL NBC",NBC 18 Zanesville OH
+#EXTINF:-1 tvg-id="" tvg-name="NBC 18 Zanesville OH" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-18-Zanesville-OH.jpg" group-title="ALT 3",NBC 18 Zanesville OH
 http://its.streamsforus.net:8000/5877808/9888090/59954
-#EXTINF:-1 tvg-id="nbc.wgrz.buffalo.ny.us" tvg-name="NBC 2 Buffalo NY" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WGRZlogo.png" group-title="USA LOCAL NBC",NBC 2 Buffalo NY
+#EXTINF:-1 tvg-id="nbc.wgrz.buffalo.ny.us" tvg-name="NBC 2 Buffalo NY" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WGRZlogo.png" group-title="ALT 3",NBC 2 Buffalo NY
 http://its.streamsforus.net:8000/5877808/9888090/60003
-#EXTINF:-1 tvg-id="nbc.kxas.fort.worth.tx.us" tvg-name="NBC 2 Houston" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/KPRC20Logo.jpg" group-title="USA LOCAL NBC",NBC 2 Houston
+#EXTINF:-1 tvg-id="nbc.kxas.fort.worth.tx.us" tvg-name="NBC 2 Houston" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/KPRC20Logo.jpg" group-title="ALT 3",NBC 2 Houston
 http://its.streamsforus.net:8000/5877808/9888090/60002
-#EXTINF:-1 tvg-id="nbc.wtlv.jacksonville.fl.us" tvg-name="NBC 2 Jacksonville" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/WTLV_NBC_12.png" group-title="USA LOCAL NBC",NBC 2 Jacksonville
+#EXTINF:-1 tvg-id="nbc.wtlv.jacksonville.fl.us" tvg-name="NBC 2 Jacksonville" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/WTLV_NBC_12.png" group-title="ALT 3",NBC 2 Jacksonville
 http://its.streamsforus.net:8000/5877808/9888090/60001
-#EXTINF:-1 tvg-id="nbc.wesh.winter.park.fl.us" tvg-name="NBC 2 Orlando" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WESH_2_logo.png" group-title="USA LOCAL NBC",NBC 2 Orlando
+#EXTINF:-1 tvg-id="nbc.wesh.winter.park.fl.us" tvg-name="NBC 2 Orlando" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WESH_2_logo.png" group-title="ALT 3",NBC 2 Orlando
 http://its.streamsforus.net:8000/5877808/9888090/60000
-#EXTINF:-1 tvg-id="nbc.wgba.green.bay.wi.us" tvg-name="NBC 26 Green Bay" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WGBA-NBC-Green-Bay-logo-1.png" group-title="USA LOCAL NBC",NBC 26 Green Bay
+#EXTINF:-1 tvg-id="nbc.wgba.green.bay.wi.us" tvg-name="NBC 26 Green Bay" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WGBA-NBC-Green-Bay-logo-1.png" group-title="ALT 3",NBC 26 Green Bay
 http://its.streamsforus.net:8000/5877808/9888090/59953
-#EXTINF:-1 tvg-id="nbc.wkyc.cleveland.oh.us" tvg-name="NBC 3 Cleveland" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/wkyc_logo.jpg" group-title="USA LOCAL NBC",NBC 3 Cleveland
+#EXTINF:-1 tvg-id="nbc.wkyc.cleveland.oh.us" tvg-name="NBC 3 Cleveland" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/wkyc_logo.jpg" group-title="ALT 3",NBC 3 Cleveland
 http://its.streamsforus.net:8000/5877808/9888090/59999
-#EXTINF:-1 tvg-id="nbc.wlbt.jackson.ms.us" tvg-name="NBC 3 Jackson MS" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-3-Jackson-MS.jpg" group-title="USA LOCAL NBC",NBC 3 Jackson MS
+#EXTINF:-1 tvg-id="nbc.wlbt.jackson.ms.us" tvg-name="NBC 3 Jackson MS" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-3-Jackson-MS.jpg" group-title="ALT 3",NBC 3 Jackson MS
 http://its.streamsforus.net:8000/5877808/9888090/59998
-#EXTINF:-1 tvg-id="nbc.kcra.sacramento.ca.us" tvg-name="NBC 3 Sacramento" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/weather-app-1476749464.png" group-title="USA LOCAL NBC",NBC 3 Sacramento
+#EXTINF:-1 tvg-id="nbc.kcra.sacramento.ca.us" tvg-name="NBC 3 Sacramento" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/weather-app-1476749464.png" group-title="ALT 3",NBC 3 Sacramento
 http://its.streamsforus.net:8000/5877808/9888090/59997
-#EXTINF:-1 tvg-id="nbc.wvit.w.hartford.ct.us" tvg-name="NBC 30 Connecticut" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/NBC_30_Conn.png" group-title="USA LOCAL NBC",NBC 30 Connecticut
+#EXTINF:-1 tvg-id="nbc.wvit.w.hartford.ct.us" tvg-name="NBC 30 Connecticut" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/NBC_30_Conn.png" group-title="ALT 3",NBC 30 Connecticut
 http://its.streamsforus.net:8000/5877808/9888090/59952
-#EXTINF:-1 tvg-id="nbc.wcnc.charlotte.nc.us" tvg-name="NBC 36 Charlotte" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/NBC_Charlotte.png" group-title="USA LOCAL NBC",NBC 36 Charlotte
+#EXTINF:-1 tvg-id="nbc.wcnc.charlotte.nc.us" tvg-name="NBC 36 Charlotte" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/NBC_Charlotte.png" group-title="ALT 3",NBC 36 Charlotte
 http://its.streamsforus.net:8000/5877808/9888090/59951
-#EXTINF:-1 tvg-id="nbc.kxas.fort.worth.tx.us" tvg-name="NBC 39 Dallas" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-39.png" group-title="USA LOCAL NBC",NBC 39 Dallas
+#EXTINF:-1 tvg-id="nbc.kxas.fort.worth.tx.us" tvg-name="NBC 39 Dallas" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-39.png" group-title="ALT 3",NBC 39 Dallas
 http://its.streamsforus.net:8000/5877808/9888090/59950
-#EXTINF:-1 tvg-id="nbc.ksnv.las.vegas.nv.us" tvg-name="NBC 39 Las Vegas" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-39.png" group-title="USA LOCAL NBC",NBC 39 Las Vegas
+#EXTINF:-1 tvg-id="nbc.ksnv.las.vegas.nv.us" tvg-name="NBC 39 Las Vegas" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-39.png" group-title="ALT 3",NBC 39 Las Vegas
 http://its.streamsforus.net:8000/5877808/9888090/59949
-#EXTINF:-1 tvg-id="nbc.wrc.district.of.columbia.us" tvg-name="NBC 4  Washington DC" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/Logo_of_WRC-TV.png" group-title="USA LOCAL NBC",NBC 4  Washington DC
+#EXTINF:-1 tvg-id="nbc.wrc.district.of.columbia.us" tvg-name="NBC 4  Washington DC" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/Logo_of_WRC-TV.png" group-title="ALT 3",NBC 4  Washington DC
 http://its.streamsforus.net:8000/5877808/9888090/59996
-#EXTINF:-1 tvg-id="nbc.wdiv.detroit.mi.us" tvg-name="NBC 4 Detroit" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WDIV-TV_detroit-1.png" group-title="USA LOCAL NBC",NBC 4 Detroit
+#EXTINF:-1 tvg-id="nbc.wdiv.detroit.mi.us" tvg-name="NBC 4 Detroit" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WDIV-TV_detroit-1.png" group-title="ALT 3",NBC 4 Detroit
 http://its.streamsforus.net:8000/5877808/9888090/59993
-#EXTINF:-1 tvg-id="nbc.knbc.los.angeles.ca.us" tvg-name="NBC 4 Los Angeles" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/KNBC_4_logo.png" group-title="USA LOCAL NBC",NBC 4 Los Angeles
+#EXTINF:-1 tvg-id="nbc.knbc.los.angeles.ca.us" tvg-name="NBC 4 Los Angeles" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/KNBC_4_logo.png" group-title="ALT 3",NBC 4 Los Angeles
 http://its.streamsforus.net:8000/5877808/9888090/59992
-#EXTINF:-1 tvg-id="nbc.wtmj.milwaukee.wi.us" tvg-name="NBC 4 Milwuakee" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WTMJ-TV_Logo.png" group-title="USA LOCAL NBC",NBC 4 Milwuakee
+#EXTINF:-1 tvg-id="nbc.wtmj.milwaukee.wi.us" tvg-name="NBC 4 Milwuakee" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WTMJ-TV_Logo.png" group-title="ALT 3",NBC 4 Milwuakee
 http://its.streamsforus.net:8000/5877808/9888090/59995
-#EXTINF:-1 tvg-id="nbc.wsmv.nashville.tn.us" tvg-name="NBC 4 Nashville" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/92494261-962d-4761-9367-82fcb6fbcaee.png" group-title="USA LOCAL NBC",NBC 4 Nashville
+#EXTINF:-1 tvg-id="nbc.wsmv.nashville.tn.us" tvg-name="NBC 4 Nashville" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/92494261-962d-4761-9367-82fcb6fbcaee.png" group-title="ALT 3",NBC 4 Nashville
 http://its.streamsforus.net:8000/5877808/9888090/59991
-#EXTINF:-1 tvg-id="nbc.wnbc.new.york.ny.us" tvg-name="NBC 4 New York" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/NBC-4-New-York.png" group-title="USA LOCAL NBC",NBC 4 New York
+#EXTINF:-1 tvg-id="nbc.wnbc.new.york.ny.us" tvg-name="NBC 4 New York" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/NBC-4-New-York.png" group-title="ALT 3",NBC 4 New York
 http://its.streamsforus.net:8000/5877808/9888090/59990
-#EXTINF:-1 tvg-id="nbc.woai.san.antonio.tx.us" tvg-name="NBC 4 San Antonio" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/Woai-san-antonio-logo.png" group-title="USA LOCAL NBC",NBC 4 San Antonio
+#EXTINF:-1 tvg-id="nbc.woai.san.antonio.tx.us" tvg-name="NBC 4 San Antonio" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/Woai-san-antonio-logo.png" group-title="ALT 3",NBC 4 San Antonio
 http://its.streamsforus.net:8000/5877808/9888090/59994
-#EXTINF:-1 tvg-id="nbc.wtmj.milwaukee.wi.us" tvg-name="NBC 4 Wisconsin" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-4-Wisconsin.jpg" group-title="USA LOCAL NBC",NBC 4 Wisconsin
+#EXTINF:-1 tvg-id="nbc.wtmj.milwaukee.wi.us" tvg-name="NBC 4 Wisconsin" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-4-Wisconsin.jpg" group-title="ALT 3",NBC 4 Wisconsin
 http://its.streamsforus.net:8000/5877808/9888090/59988
-#EXTINF:-1 tvg-id="nbc.kvoa.tucson.az.us" tvg-name="NBC 40 Tucson AZ" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/Tucson-AZ.png" group-title="USA LOCAL NBC",NBC 40 Tucson AZ
+#EXTINF:-1 tvg-id="nbc.kvoa.tucson.az.us" tvg-name="NBC 40 Tucson AZ" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/Tucson-AZ.png" group-title="ALT 3",NBC 40 Tucson AZ
 http://its.streamsforus.net:8000/5877808/9888090/59948
-#EXTINF:-1 tvg-id="nbc.ksnw.wichita.ks.us" tvg-name="NBC 41 Kansas" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/KSHB_41_News_KC_logo.png" group-title="USA LOCAL NBC",NBC 41 Kansas
+#EXTINF:-1 tvg-id="nbc.ksnw.wichita.ks.us" tvg-name="NBC 41 Kansas" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/KSHB_41_News_KC_logo.png" group-title="ALT 3",NBC 41 Kansas
 http://its.streamsforus.net:8000/5877808/9888090/59947
-#EXTINF:-1 tvg-id="nbc.kprc.houston.tx.us" tvg-name="NBC 47 Houston" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-39.png" group-title="USA LOCAL NBC",NBC 47 Houston
+#EXTINF:-1 tvg-id="nbc.kprc.houston.tx.us" tvg-name="NBC 47 Houston" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-39.png" group-title="ALT 3",NBC 47 Houston
 http://its.streamsforus.net:8000/5877808/9888090/59946
-#EXTINF:-1 tvg-id="nbc.wmaq.chicago.il.us" tvg-name="NBC 5 Chicago" tvg-logo="https://media.nbcchicago.com/images/653*367/Blue-5-3d.png" group-title="USA LOCAL NBC",NBC 5 Chicago
+#EXTINF:-1 tvg-id="nbc.wmaq.chicago.il.us" tvg-name="NBC 5 Chicago" tvg-logo="https://media.nbcchicago.com/images/653*367/Blue-5-3d.png" group-title="ALT 3",NBC 5 Chicago
 http://its.streamsforus.net:8000/5877808/9888090/59972
-#EXTINF:-1 tvg-id="nbc.wlwt.cincinnati.oh.us" tvg-name="NBC 5 Cincinnati" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/wlwt-generic-logo-graphic-1474057760.jpg" group-title="USA LOCAL NBC",NBC 5 Cincinnati
+#EXTINF:-1 tvg-id="nbc.wlwt.cincinnati.oh.us" tvg-name="NBC 5 Cincinnati" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/09/wlwt-generic-logo-graphic-1474057760.jpg" group-title="ALT 3",NBC 5 Cincinnati
 http://its.streamsforus.net:8000/5877808/9888090/59986
-#EXTINF:-1 tvg-id="nbc.kxas.fort.worth.tx.us" tvg-name="NBC 5 Dallas" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/dfw-icon.png" group-title="USA LOCAL NBC",NBC 5 Dallas
+#EXTINF:-1 tvg-id="nbc.kxas.fort.worth.tx.us" tvg-name="NBC 5 Dallas" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/dfw-icon.png" group-title="ALT 3",NBC 5 Dallas
 http://its.streamsforus.net:8000/5877808/9888090/59985
-#EXTINF:-1 tvg-id="nbc.wmc.memphis.tn.us" tvg-name="NBC 5 Memphis" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/08/136895-4f589dfb0c9ca08b446eea78dbc73006.png" group-title="USA LOCAL NBC",NBC 5 Memphis
+#EXTINF:-1 tvg-id="nbc.wmc.memphis.tn.us" tvg-name="NBC 5 Memphis" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/08/136895-4f589dfb0c9ca08b446eea78dbc73006.png" group-title="ALT 3",NBC 5 Memphis
 http://its.streamsforus.net:8000/5877808/9888090/59984
-#EXTINF:-1 tvg-id="nbc.ksl.salt.lake.city.ut.us" tvg-name="NBC 5 Salt Lake City" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/1200px-KSL-TV_logo.svg_.png" group-title="USA LOCAL NBC",NBC 5 Salt Lake City
+#EXTINF:-1 tvg-id="nbc.ksl.salt.lake.city.ut.us" tvg-name="NBC 5 Salt Lake City" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/1200px-KSL-TV_logo.svg_.png" group-title="ALT 3",NBC 5 Salt Lake City
 http://its.streamsforus.net:8000/5877808/9888090/59983
-#EXTINF:-1 tvg-id="nbc.king.seattle.wa.us" tvg-name="NBC 5 Seattle WA" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-39.png" group-title="USA LOCAL NBC",NBC 5 Seattle WA
+#EXTINF:-1 tvg-id="nbc.king.seattle.wa.us" tvg-name="NBC 5 Seattle WA" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-39.png" group-title="ALT 3",NBC 5 Seattle WA
 http://its.streamsforus.net:8000/5877808/9888090/59982
-#EXTINF:-1 tvg-id="nbc.ksdk.st.louis.mo.us" tvg-name="NBC 5 St. Louis" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/84c10c190a7e18029fb0cf71932c6cf719a3fe4cf29c6053b03551c2dd2d9d72.png" group-title="USA LOCAL NBC",NBC 5 St. Louis
+#EXTINF:-1 tvg-id="nbc.ksdk.st.louis.mo.us" tvg-name="NBC 5 St. Louis" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/84c10c190a7e18029fb0cf71932c6cf719a3fe4cf29c6053b03551c2dd2d9d72.png" group-title="ALT 3",NBC 5 St. Louis
 http://its.streamsforus.net:8000/5877808/9888090/59981
-#EXTINF:-1 tvg-id="nbc.wtvj.miami.fl.us" tvg-name="NBC 6 Miami" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WTVJ_LOGO.jpg" group-title="USA LOCAL NBC",NBC 6 Miami
+#EXTINF:-1 tvg-id="nbc.wtvj.miami.fl.us" tvg-name="NBC 6 Miami" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/WTVJ_LOGO.jpg" group-title="ALT 3",NBC 6 Miami
 http://its.streamsforus.net:8000/5877808/9888090/59980
-#EXTINF:-1 tvg-id="nbc.wdsu.new.orleans.la.us" tvg-name="NBC 6 New Orleans" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/08/new-orleans.jpg" group-title="USA LOCAL NBC",NBC 6 New Orleans
+#EXTINF:-1 tvg-id="nbc.wdsu.new.orleans.la.us" tvg-name="NBC 6 New Orleans" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/08/new-orleans.jpg" group-title="ALT 3",NBC 6 New Orleans
 http://its.streamsforus.net:8000/5877808/9888090/59979
-#EXTINF:-1 tvg-id="nbc.wowt.omaha.ne.us" tvg-name="NBC 6 Omaha NE" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-6-Omaha-NE.png" group-title="USA LOCAL NBC",NBC 6 Omaha NE
+#EXTINF:-1 tvg-id="nbc.wowt.omaha.ne.us" tvg-name="NBC 6 Omaha NE" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-6-Omaha-NE.png" group-title="ALT 3",NBC 6 Omaha NE
 http://its.streamsforus.net:8000/5877808/9888090/59978
-#EXTINF:-1 tvg-id="nbc.wcsh.portland.me.us" tvg-name="NBC 6 Portland ME" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-6-Portland-ME.png" group-title="USA LOCAL NBC",NBC 6 Portland ME
+#EXTINF:-1 tvg-id="nbc.wcsh.portland.me.us" tvg-name="NBC 6 Portland ME" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-6-Portland-ME.png" group-title="ALT 3",NBC 6 Portland ME
 http://its.streamsforus.net:8000/5877808/9888090/59977
-#EXTINF:-1 tvg-id="nbc.ktvb.boise.id.us" tvg-name="NBC 7 Boise ID" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-7-Boise-ID.jpg" group-title="USA LOCAL NBC",NBC 7 Boise ID
+#EXTINF:-1 tvg-id="nbc.ktvb.boise.id.us" tvg-name="NBC 7 Boise ID" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-7-Boise-ID.jpg" group-title="ALT 3",NBC 7 Boise ID
 http://its.streamsforus.net:8000/5877808/9888090/59976
-#EXTINF:-1 tvg-id="nbc.knsd.san.diego.ca.us" tvg-name="NBC 7 San Diego" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/7042760_300x300.jpg" group-title="USA LOCAL NBC",NBC 7 San Diego
+#EXTINF:-1 tvg-id="nbc.knsd.san.diego.ca.us" tvg-name="NBC 7 San Diego" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/7042760_300x300.jpg" group-title="ALT 3",NBC 7 San Diego
 http://its.streamsforus.net:8000/5877808/9888090/59975
-#EXTINF:-1 tvg-id="nbc.wbtsld.boston.ma.us" tvg-name="NBC 8 Boston" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-8.png" group-title="USA LOCAL NBC",NBC 8 Boston
+#EXTINF:-1 tvg-id="nbc.wbtsld.boston.ma.us" tvg-name="NBC 8 Boston" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/NBC-8.png" group-title="ALT 3",NBC 8 Boston
 http://its.streamsforus.net:8000/5877808/9888090/59974
-#EXTINF:-1 tvg-id="nbc.kgw.portland.or.us" tvg-name="NBC 8 Portland" tvg-logo="" group-title="USA LOCAL NBC",NBC 8 Portland
+#EXTINF:-1 tvg-id="nbc.kgw.portland.or.us" tvg-name="NBC 8 Portland" tvg-logo="" group-title="ALT 3",NBC 8 Portland
 http://its.streamsforus.net:8000/5877808/9888090/59973
 #EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="NBC EAST HD" tvg-logo="http://miabox.net/logo_picture/NBC_10_Boston_logo.png" group-title="ALT 3",NBC EAST HD
 http://its.streamsforus.net:8000/5877808/9888090/3416
@@ -3699,15 +3699,15 @@ http://its.streamsforus.net:8000/5877808/9888090/6394
 http://its.streamsforus.net:8000/5877808/9888090/6393
 #EXTINF:-1 tvg-id="nickjr.us" tvg-name="NICK jr" tvg-logo="http://miabox.net/logo_picture/NickJr.png" group-title="ALT 3",NICK jr
 http://its.streamsforus.net:8000/5877808/9888090/3414
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="NICK JR | HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/a99ba6b733f52fdc9d791c6768e20414.png" group-title="KIDS",NICK JR | HD
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="NICK JR | HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/a99ba6b733f52fdc9d791c6768e20414.png" group-title="ALT 3",NICK JR | HD
 http://its.streamsforus.net:8000/5877808/9888090/9758
 #EXTINF:-1 tvg-id="nickjr.us" tvg-name="Nick JR HD" tvg-logo="http://miabox.net/logo_picture/NickJr.png" group-title="ALT 3",Nick JR HD
 http://its.streamsforus.net:8000/5877808/9888090/3415
 #EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="NICKELODEON" tvg-logo="http://miabox.net/logo_picture/Nickelodeon.png" group-title="ALT 3",NICKELODEON
 http://its.streamsforus.net:8000/5877808/9888090/3413
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON | HD" tvg-logo="http://miabox.net/logo_picture/Nickelodeon.png" group-title="KIDS",NICKELODEON | HD
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON | HD" tvg-logo="http://miabox.net/logo_picture/Nickelodeon.png" group-title="ALT 3",NICKELODEON | HD
 http://its.streamsforus.net:8000/5877808/9888090/9757
-#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS | HD" tvg-logo="https://gemr.com/wp-content/uploads/2018/07/nicktoons_logo__1991__by_chalkbugs-db8jawt-1024x768.png" group-title="KIDS",NICKTOONS | HD
+#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS | HD" tvg-logo="https://gemr.com/wp-content/uploads/2018/07/nicktoons_logo__1991__by_chalkbugs-db8jawt-1024x768.png" group-title="ALT 3",NICKTOONS | HD
 http://its.streamsforus.net:8000/5877808/9888090/9756
 #EXTINF:-1 tvg-id="" tvg-name="NRB NETWORK | SD" tvg-logo="" group-title="ALT 3",NRB NETWORK | SD
 http://its.streamsforus.net:8000/5877808/9888090/38459
@@ -3751,9 +3751,9 @@ http://its.streamsforus.net:8000/5877808/9888090/32492
 http://its.streamsforus.net:8000/5877808/9888090/3410
 #EXTINF:-1 tvg-id="" tvg-name="PBS KIDS" tvg-logo="http://miabox.net/logo_picture/PBSKids.png" group-title="ALT 3",PBS KIDS
 http://its.streamsforus.net:8000/5877808/9888090/3409
-#EXTINF:-1 tvg-id="pbskids.us" tvg-name="PBS KIDS | HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL._SY355_.png" group-title="KIDS",PBS KIDS | HD
+#EXTINF:-1 tvg-id="pbskids.us" tvg-name="PBS KIDS | HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL._SY355_.png" group-title="ALT 3",PBS KIDS | HD
 http://its.streamsforus.net:8000/5877808/9888090/9755
-#EXTINF:-1 tvg-id="" tvg-name="PBS KIDS 2 | HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL._SY355_.png" group-title="KIDS",PBS KIDS 2 | HD
+#EXTINF:-1 tvg-id="" tvg-name="PBS KIDS 2 | HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL._SY355_.png" group-title="ALT 3",PBS KIDS 2 | HD
 http://its.streamsforus.net:8000/5877808/9888090/9754
 #EXTINF:-1 tvg-id="" tvg-name="PIX 11 (NY)" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/wpix-tv-squarelogo-1430118639354.png" group-title="ALT 3",PIX 11 (NY)
 http://its.streamsforus.net:8000/5877808/9888090/85016
@@ -3769,7 +3769,7 @@ http://its.streamsforus.net:8000/5877808/9888090/38453
 http://its.streamsforus.net:8000/5877808/9888090/6282
 #EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="REELZ | HD" tvg-logo="http://miabox.net/logo_picture/ReelzChannel.png" group-title="ALT 3",REELZ | HD
 http://its.streamsforus.net:8000/5877808/9888090/38454
-#EXTINF:-1 tvg-id="retroplex.us" tvg-name="RetroPlex | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/RetroPlex.png" group-title="USA MOVIES",RetroPlex | UHD
+#EXTINF:-1 tvg-id="retroplex.us" tvg-name="RetroPlex | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/RetroPlex.png" group-title="ALT 3",RetroPlex | UHD
 http://its.streamsforus.net:8000/5877808/9888090/82846
 #EXTINF:-1 tvg-id="retrotv.us" tvg-name="REVOLT | HD" tvg-logo="http://miabox.net/logo_picture/Revolt.png" group-title="ALT 3",REVOLT | HD
 http://its.streamsforus.net:8000/5877808/9888090/51338
@@ -3781,31 +3781,31 @@ http://its.streamsforus.net:8000/5877808/9888090/48137
 http://its.streamsforus.net:8000/5877808/9888090/60063
 #EXTINF:-1 tvg-id="secnetwork.us" tvg-name="SEC NETWORK | HD" tvg-logo="http://miabox.net/logo_picture/SECNetwork.png" group-title="ALT 3",SEC NETWORK | HD
 http://its.streamsforus.net:8000/5877808/9888090/6281
-#EXTINF:-1 tvg-id="Showtime HD (West)" tvg-name="SHOWTIME (West) | HD" tvg-logo="http://miabox.net/logo_picture/Showtime.png" group-title="USA MOVIES",SHOWTIME (West) | HD
+#EXTINF:-1 tvg-id="Showtime HD (West)" tvg-name="SHOWTIME (West) | HD" tvg-logo="http://miabox.net/logo_picture/Showtime.png" group-title="ALT 3",SHOWTIME (West) | HD
 http://its.streamsforus.net:8000/5877808/9888090/65692
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="SHOWTIME | HD" tvg-logo="http://miabox.net/logo_picture/Showtime.png" group-title="USA MOVIES",SHOWTIME | HD
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="SHOWTIME | HD" tvg-logo="http://miabox.net/logo_picture/Showtime.png" group-title="ALT 3",SHOWTIME | HD
 http://its.streamsforus.net:8000/5877808/9888090/40487
-#EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2 (East) | UHD" tvg-logo="http://miabox.net/logo_picture/Showtime_2.png" group-title="USA MOVIES",SHOWTIME 2 (East) | UHD
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2 (East) | UHD" tvg-logo="http://miabox.net/logo_picture/Showtime_2.png" group-title="ALT 3",SHOWTIME 2 (East) | UHD
 http://its.streamsforus.net:8000/5877808/9888090/40485
-#EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2 (West) | HD" tvg-logo="http://miabox.net/logo_picture/Showtime_2.png" group-title="USA MOVIES",SHOWTIME 2 (West) | HD
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2 (West) | HD" tvg-logo="http://miabox.net/logo_picture/Showtime_2.png" group-title="ALT 3",SHOWTIME 2 (West) | HD
 http://its.streamsforus.net:8000/5877808/9888090/65691
-#EXTINF:-1 tvg-id="showtimebeyond.us" tvg-name="SHOWTIME BEYOND | HD" tvg-logo="http://miabox.net/logo_picture/Showtime_Beyond.png" group-title="USA MOVIES",SHOWTIME BEYOND | HD
+#EXTINF:-1 tvg-id="showtimebeyond.us" tvg-name="SHOWTIME BEYOND | HD" tvg-logo="http://miabox.net/logo_picture/Showtime_Beyond.png" group-title="ALT 3",SHOWTIME BEYOND | HD
 http://its.streamsforus.net:8000/5877808/9888090/40484
-#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="SHOWTIME EXTREME | UHD" tvg-logo="http://miabox.net/logo_picture/Showtime_Extreme.png" group-title="USA MOVIES",SHOWTIME EXTREME | UHD
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="SHOWTIME EXTREME | UHD" tvg-logo="http://miabox.net/logo_picture/Showtime_Extreme.png" group-title="ALT 3",SHOWTIME EXTREME | UHD
 http://its.streamsforus.net:8000/5877808/9888090/40483
-#EXTINF:-1 tvg-id="rshowtimefamilyzone.us" tvg-name="SHOWTIME FAMILY ZONE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Showtime_family_zone.png/revision/latest?cb=20121117045222" group-title="USA MOVIES",SHOWTIME FAMILY ZONE
+#EXTINF:-1 tvg-id="rshowtimefamilyzone.us" tvg-name="SHOWTIME FAMILY ZONE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Showtime_family_zone.png/revision/latest?cb=20121117045222" group-title="ALT 3",SHOWTIME FAMILY ZONE
 http://its.streamsforus.net:8000/5877808/9888090/88770
-#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="SHOWTIME NEXT" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/930.png" group-title="USA MOVIES",SHOWTIME NEXT
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="SHOWTIME NEXT" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/930.png" group-title="ALT 3",SHOWTIME NEXT
 http://its.streamsforus.net:8000/5877808/9888090/88771
-#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="SHOWTIME SHOWCASE | UHD" tvg-logo="http://miabox.net/logo_picture/Showtime_Showcase.png" group-title="USA MOVIES",SHOWTIME SHOWCASE | UHD
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="SHOWTIME SHOWCASE | UHD" tvg-logo="http://miabox.net/logo_picture/Showtime_Showcase.png" group-title="ALT 3",SHOWTIME SHOWCASE | UHD
 http://its.streamsforus.net:8000/5877808/9888090/40481
-#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="SHOWTIME WOMEN | UHD" tvg-logo="http://miabox.net/logo_picture/Showtime_Women.png" group-title="USA MOVIES",SHOWTIME WOMEN | UHD
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="SHOWTIME WOMEN | UHD" tvg-logo="http://miabox.net/logo_picture/Showtime_Women.png" group-title="ALT 3",SHOWTIME WOMEN | UHD
 http://its.streamsforus.net:8000/5877808/9888090/40480
 #EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="SMITHSONIAN CHANNEL | HD" tvg-logo="http://miabox.net/logo_picture/Smithsonian.png" group-title="ALT 3",SMITHSONIAN CHANNEL | HD
 http://its.streamsforus.net:8000/5877808/9888090/35249
 #EXTINF:-1 tvg-id="sportsnetnewyork.us" tvg-name="SNY | HD" tvg-logo="http://miabox.net/logo_picture/CBS_SportsNetwork.png" group-title="ALT 3",SNY | HD
 http://its.streamsforus.net:8000/5877808/9888090/6280
-#EXTINF:-1 tvg-id="sony.us" tvg-name="SONY MOVIE CHANNEL | HD" tvg-logo="http://miabox.net/logo_picture/Sony_MovieChannel.png" group-title="USA MOVIES",SONY MOVIE CHANNEL | HD
+#EXTINF:-1 tvg-id="sony.us" tvg-name="SONY MOVIE CHANNEL | HD" tvg-logo="http://miabox.net/logo_picture/Sony_MovieChannel.png" group-title="ALT 3",SONY MOVIE CHANNEL | HD
 http://its.streamsforus.net:8000/5877808/9888090/65690
 #EXTINF:-1 tvg-id="spectrumsportsnet.us" tvg-name="SPECTRUM SPORTSNET | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Spectrum_Sportsnet_logo.png" group-title="ALT 3",SPECTRUM SPORTSNET | HD
 http://its.streamsforus.net:8000/5877808/9888090/84838
@@ -3819,27 +3819,27 @@ http://its.streamsforus.net:8000/5877808/9888090/6279
 http://its.streamsforus.net:8000/5877808/9888090/6278
 #EXTINF:-1 tvg-id="sportsnetnewyork.us" tvg-name="SPORTSNET NY" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Sportsnet_New_York.svg/revision/latest/scale-to-width-down/300?cb=20171107013619" group-title="ALT 3",SPORTSNET NY
 http://its.streamsforus.net:8000/5877808/9888090/89730
-#EXTINF:-1 tvg-id="starz.us" tvg-name="STARZ | HD" tvg-logo="http://miabox.net/logo_picture/StarZ.png" group-title="USA MOVIES",STARZ | HD
+#EXTINF:-1 tvg-id="starz.us" tvg-name="STARZ | HD" tvg-logo="http://miabox.net/logo_picture/StarZ.png" group-title="ALT 3",STARZ | HD
 http://its.streamsforus.net:8000/5877808/9888090/40479
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="STARZ CINEMA | HD" tvg-logo="http://miabox.net/logo_picture/Starz_Cinema.png" group-title="USA MOVIES",STARZ CINEMA | HD
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="STARZ CINEMA | HD" tvg-logo="http://miabox.net/logo_picture/Starz_Cinema.png" group-title="ALT 3",STARZ CINEMA | HD
 http://its.streamsforus.net:8000/5877808/9888090/65689
-#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="STARZ COMEDY | SD" tvg-logo="http://miabox.net/logo_picture/Starz_Comedy.png" group-title="USA MOVIES",STARZ COMEDY | SD
+#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="STARZ COMEDY | SD" tvg-logo="http://miabox.net/logo_picture/Starz_Comedy.png" group-title="ALT 3",STARZ COMEDY | SD
 http://its.streamsforus.net:8000/5877808/9888090/40478
-#EXTINF:-1 tvg-id="starz.edge.west.us" tvg-name="STARZ EDGE (West) | UHD" tvg-logo="http://miabox.net/logo_picture/Starz_Edge.png" group-title="USA MOVIES",STARZ EDGE (West) | UHD
+#EXTINF:-1 tvg-id="starz.edge.west.us" tvg-name="STARZ EDGE (West) | UHD" tvg-logo="http://miabox.net/logo_picture/Starz_Edge.png" group-title="ALT 3",STARZ EDGE (West) | UHD
 http://its.streamsforus.net:8000/5877808/9888090/65688
-#EXTINF:-1 tvg-id="starzedge.us" tvg-name="STARZ EDGE | SD" tvg-logo="http://miabox.net/logo_picture/Starz_Edge.png" group-title="USA MOVIES",STARZ EDGE | SD
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="STARZ EDGE | SD" tvg-logo="http://miabox.net/logo_picture/Starz_Edge.png" group-title="ALT 3",STARZ EDGE | SD
 http://its.streamsforus.net:8000/5877808/9888090/65687
-#EXTINF:-1 tvg-id="starzencore.us" tvg-name="STARZ ENCORE | HD" tvg-logo="http://miabox.net/logo_picture/Starz_Encore.png" group-title="USA MOVIES",STARZ ENCORE | HD
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="STARZ ENCORE | HD" tvg-logo="http://miabox.net/logo_picture/Starz_Encore.png" group-title="ALT 3",STARZ ENCORE | HD
 http://its.streamsforus.net:8000/5877808/9888090/40476
-#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="STARZ ENCORE WESTERN | HD" tvg-logo="http://miabox.net/logo_picture/Starz_Encore.png" group-title="USA MOVIES",STARZ ENCORE WESTERN | HD
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="STARZ ENCORE WESTERN | HD" tvg-logo="http://miabox.net/logo_picture/Starz_Encore.png" group-title="ALT 3",STARZ ENCORE WESTERN | HD
 http://its.streamsforus.net:8000/5877808/9888090/51737
-#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="STARZ IN BLACK | HD" tvg-logo="http://miabox.net/logo_picture/StarzIn_Black.png" group-title="USA MOVIES",STARZ IN BLACK | HD
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="STARZ IN BLACK | HD" tvg-logo="http://miabox.net/logo_picture/StarzIn_Black.png" group-title="ALT 3",STARZ IN BLACK | HD
 http://its.streamsforus.net:8000/5877808/9888090/40475
-#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="STARZ KIDS & FAMILY | HD" tvg-logo="http://miabox.net/logo_picture/Starz_KidsFamily.png" group-title="USA MOVIES",STARZ KIDS & FAMILY | HD
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="STARZ KIDS & FAMILY | HD" tvg-logo="http://miabox.net/logo_picture/Starz_KidsFamily.png" group-title="ALT 3",STARZ KIDS & FAMILY | HD
 http://its.streamsforus.net:8000/5877808/9888090/40474
-#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="STARZ SUSPENSE | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/logo_starzencoresuspensehd_w.gif" group-title="USA MOVIES",STARZ SUSPENSE | UHD
+#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="STARZ SUSPENSE | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/logo_starzencoresuspensehd_w.gif" group-title="ALT 3",STARZ SUSPENSE | UHD
 http://its.streamsforus.net:8000/5877808/9888090/82845
-#EXTINF:-1 tvg-id="STARZ ENCORE Westerns (East)" tvg-name="STARZ WESTERNS | HD" tvg-logo="http://miabox.net/logo_picture/Starz_West.png" group-title="USA MOVIES",STARZ WESTERNS | HD
+#EXTINF:-1 tvg-id="STARZ ENCORE Westerns (East)" tvg-name="STARZ WESTERNS | HD" tvg-logo="http://miabox.net/logo_picture/Starz_West.png" group-title="ALT 3",STARZ WESTERNS | HD
 http://its.streamsforus.net:8000/5877808/9888090/51736
 #EXTINF:-1 tvg-id="sundancetv.us" tvg-name="SUNDANCE | HD" tvg-logo="http://miabox.net/logo_picture/Sundance_TV.png" group-title="ALT 3",SUNDANCE | HD
 http://its.streamsforus.net:8000/5877808/9888090/40500
@@ -3861,43 +3861,43 @@ http://its.streamsforus.net:8000/5877808/9888090/3405
 http://its.streamsforus.net:8000/5877808/9888090/3378
 #EXTINF:-1 tvg-id="teennick.us" tvg-name="Teen Nick HD" tvg-logo="http://miabox.net/logo_picture/Teen_Nick.png" group-title="ALT 3",Teen Nick HD
 http://its.streamsforus.net:8000/5877808/9888090/40363
-#EXTINF:-1 tvg-id="telemundo.east.us" tvg-name="Telemundo" tvg-logo="https://irremediable/wp-content/uploads/2019/02/telemundo-logo.jpg" group-title="USA LOCAL TELEMUNDO",Telemundo
+#EXTINF:-1 tvg-id="telemundo.east.us" tvg-name="Telemundo" tvg-logo="https://irremediable/wp-content/uploads/2019/02/telemundo-logo.jpg" group-title="ALT 3",Telemundo
 http://its.streamsforus.net:8000/5877808/9888090/60023
-#EXTINF:-1 tvg-id="telemundo.west.us" tvg-name="Telemundo 39" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/telemundo-logo.jpg" group-title="USA LOCAL TELEMUNDO",Telemundo 39
+#EXTINF:-1 tvg-id="telemundo.west.us" tvg-name="Telemundo 39" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/telemundo-logo.jpg" group-title="ALT 3",Telemundo 39
 http://its.streamsforus.net:8000/5877808/9888090/60012
-#EXTINF:-1 tvg-id="telemundo.us" tvg-name="Telemundo 40" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/telemundo-logo.jpg" group-title="USA LOCAL TELEMUNDO",Telemundo 40
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="Telemundo 40" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/telemundo-logo.jpg" group-title="ALT 3",Telemundo 40
 http://its.streamsforus.net:8000/5877808/9888090/60011
-#EXTINF:-1 tvg-id="telemundo.us" tvg-name="Telemundo 44" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/telemundo-logo.jpg" group-title="USA LOCAL TELEMUNDO",Telemundo 44
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="Telemundo 44" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/telemundo-logo.jpg" group-title="ALT 3",Telemundo 44
 http://its.streamsforus.net:8000/5877808/9888090/60010
-#EXTINF:-1 tvg-id="telemundo.east.us" tvg-name="Telemundo 47" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/telemundo-logo.jpg" group-title="USA LOCAL TELEMUNDO",Telemundo 47
+#EXTINF:-1 tvg-id="telemundo.east.us" tvg-name="Telemundo 47" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/telemundo-logo.jpg" group-title="ALT 3",Telemundo 47
 http://its.streamsforus.net:8000/5877808/9888090/60009
-#EXTINF:-1 tvg-id="telemundo.east.us" tvg-name="Telemundo 48" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/telemundo-logo.jpg" group-title="USA LOCAL TELEMUNDO",Telemundo 48
+#EXTINF:-1 tvg-id="telemundo.east.us" tvg-name="Telemundo 48" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/telemundo-logo.jpg" group-title="ALT 3",Telemundo 48
 http://its.streamsforus.net:8000/5877808/9888090/60008
-#EXTINF:-1 tvg-id="telemundo.east.us" tvg-name="Telemundo 51" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/telemundo-logo.jpg" group-title="USA LOCAL TELEMUNDO",Telemundo 51
+#EXTINF:-1 tvg-id="telemundo.east.us" tvg-name="Telemundo 51" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/telemundo-logo.jpg" group-title="ALT 3",Telemundo 51
 http://its.streamsforus.net:8000/5877808/9888090/60007
-#EXTINF:-1 tvg-id="telemundo.east.us" tvg-name="Telemundo 52" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/telemundo-logo.jpg" group-title="USA LOCAL TELEMUNDO",Telemundo 52
+#EXTINF:-1 tvg-id="telemundo.east.us" tvg-name="Telemundo 52" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/telemundo-logo.jpg" group-title="ALT 3",Telemundo 52
 http://its.streamsforus.net:8000/5877808/9888090/60006
-#EXTINF:-1 tvg-id="telemundo.east.us" tvg-name="Telemundo 62" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/telemundo-logo.jpg" group-title="USA LOCAL TELEMUNDO",Telemundo 62
+#EXTINF:-1 tvg-id="telemundo.east.us" tvg-name="Telemundo 62" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/telemundo-logo.jpg" group-title="ALT 3",Telemundo 62
 http://its.streamsforus.net:8000/5877808/9888090/60005
-#EXTINF:-1 tvg-id="telemundo.us" tvg-name="TELEMUNDO Chicago" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/TELEMUNDO-Chicago.png" group-title="USA LOCAL TELEMUNDO",TELEMUNDO Chicago
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="TELEMUNDO Chicago" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/TELEMUNDO-Chicago.png" group-title="ALT 3",TELEMUNDO Chicago
 http://its.streamsforus.net:8000/5877808/9888090/60022
-#EXTINF:-1 tvg-id="telemundo.west.us" tvg-name="Telemundo Denver" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/unsssssstitled.png" group-title="USA LOCAL TELEMUNDO",Telemundo Denver
+#EXTINF:-1 tvg-id="telemundo.west.us" tvg-name="Telemundo Denver" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/unsssssstitled.png" group-title="ALT 3",Telemundo Denver
 http://its.streamsforus.net:8000/5877808/9888090/60021
-#EXTINF:-1 tvg-id="telemundo.east.us" tvg-name="Telemundo Houston" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/Telemundo_Houston_2013_logo.png" group-title="USA LOCAL TELEMUNDO",Telemundo Houston
+#EXTINF:-1 tvg-id="telemundo.east.us" tvg-name="Telemundo Houston" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/Telemundo_Houston_2013_logo.png" group-title="ALT 3",Telemundo Houston
 http://its.streamsforus.net:8000/5877808/9888090/60020
-#EXTINF:-1 tvg-id="telemundo.west.us" tvg-name="TELEMUNDO Las Vegas" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/TELEMUNDO-Las-Vegas.png" group-title="USA LOCAL TELEMUNDO",TELEMUNDO Las Vegas
+#EXTINF:-1 tvg-id="telemundo.west.us" tvg-name="TELEMUNDO Las Vegas" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/TELEMUNDO-Las-Vegas.png" group-title="ALT 3",TELEMUNDO Las Vegas
 http://its.streamsforus.net:8000/5877808/9888090/60019
-#EXTINF:-1 tvg-id="telemundo.us" tvg-name="TELEMUNDO Los Angeles" tvg-logo="" group-title="USA LOCAL TELEMUNDO",TELEMUNDO Los Angeles
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="TELEMUNDO Los Angeles" tvg-logo="" group-title="ALT 3",TELEMUNDO Los Angeles
 http://its.streamsforus.net:8000/5877808/9888090/60018
-#EXTINF:-1 tvg-id="telemundo.us" tvg-name="TELEMUNDO Miami" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/imgingest-1917946344791369001.png" group-title="USA LOCAL TELEMUNDO",TELEMUNDO Miami
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="TELEMUNDO Miami" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/imgingest-1917946344791369001.png" group-title="ALT 3",TELEMUNDO Miami
 http://its.streamsforus.net:8000/5877808/9888090/60017
-#EXTINF:-1 tvg-id="telemundo.us" tvg-name="TELEMUNDO New York" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/TELEMUNDO-New-York.png" group-title="USA LOCAL TELEMUNDO",TELEMUNDO New York
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="TELEMUNDO New York" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/TELEMUNDO-New-York.png" group-title="ALT 3",TELEMUNDO New York
 http://its.streamsforus.net:8000/5877808/9888090/60016
-#EXTINF:-1 tvg-id="telemundo.us" tvg-name="Telemundo Phoenix" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/KTAZ_Logo.png" group-title="USA LOCAL TELEMUNDO",Telemundo Phoenix
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="Telemundo Phoenix" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/KTAZ_Logo.png" group-title="ALT 3",Telemundo Phoenix
 http://its.streamsforus.net:8000/5877808/9888090/60015
-#EXTINF:-1 tvg-id="telemundo.east.us" tvg-name="Telemundo San Antonio" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/images1ZLTP941.jpg" group-title="USA LOCAL TELEMUNDO",Telemundo San Antonio
+#EXTINF:-1 tvg-id="telemundo.east.us" tvg-name="Telemundo San Antonio" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/images1ZLTP941.jpg" group-title="ALT 3",Telemundo San Antonio
 http://its.streamsforus.net:8000/5877808/9888090/60014
-#EXTINF:-1 tvg-id="telemundo.east.us" tvg-name="Telemundo Tucson" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/KHRR_Logo.png" group-title="USA LOCAL TELEMUNDO",Telemundo Tucson
+#EXTINF:-1 tvg-id="telemundo.east.us" tvg-name="Telemundo Tucson" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/KHRR_Logo.png" group-title="ALT 3",Telemundo Tucson
 http://its.streamsforus.net:8000/5877808/9888090/60013
 #EXTINF:-1 tvg-id="" tvg-name="TELEXITOS | HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c7/TELEXITOS.png/revision/latest?cb=20171210003900" group-title="ALT 3",TELEXITOS | HD
 http://its.streamsforus.net:8000/5877808/9888090/76679
@@ -3905,9 +3905,9 @@ http://its.streamsforus.net:8000/5877808/9888090/76679
 http://its.streamsforus.net:8000/5877808/9888090/6277
 #EXTINF:-1 tvg-id="thecowboychannel.us" tvg-name="The Cowboy Channel (RFD-TV)" tvg-logo="http://miabox.net/logo_picture/The_Cowboy.png" group-title="ALT 3",The Cowboy Channel (RFD-TV)
 http://its.streamsforus.net:8000/5877808/9888090/76678
-#EXTINF:-1 tvg-id="The Movie Channel HD (East)" tvg-name="The Movie Channel" tvg-logo="https://s3-media1.fl.yelpcdn.com/bphoto/W4olrlCeQ3BBNDDg2dRvIQ/ls.jpg" group-title="USA MOVIES",The Movie Channel
+#EXTINF:-1 tvg-id="The Movie Channel HD (East)" tvg-name="The Movie Channel" tvg-logo="https://s3-media1.fl.yelpcdn.com/bphoto/W4olrlCeQ3BBNDDg2dRvIQ/ls.jpg" group-title="ALT 3",The Movie Channel
 http://its.streamsforus.net:8000/5877808/9888090/88772
-#EXTINF:-1 tvg-id="tmcxtra.us" tvg-name="THE MOVIE CHANNEL XTRA" tvg-logo="https://www.midco.com/globalassets/services/cable-tv/premium-channels/premiumchannels_tmc_239x209.png" group-title="USA MOVIES",THE MOVIE CHANNEL XTRA
+#EXTINF:-1 tvg-id="tmcxtra.us" tvg-name="THE MOVIE CHANNEL XTRA" tvg-logo="https://www.midco.com/globalassets/services/cable-tv/premium-channels/premiumchannels_tmc_239x209.png" group-title="ALT 3",THE MOVIE CHANNEL XTRA
 http://its.streamsforus.net:8000/5877808/9888090/88773
 #EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://epg4you.com/logos/weatherchannel.png" group-title="ALT 3",THE WEATHER CHANNEL
 http://its.streamsforus.net:8000/5877808/9888090/3404
@@ -3951,11 +3951,11 @@ http://its.streamsforus.net:8000/5877808/9888090/6917
 http://its.streamsforus.net:8000/5877808/9888090/6916
 #EXTINF:-1 tvg-id="unimas.us" tvg-name="UNIMAS | HD" tvg-logo="http://miabox.net/logo_picture/UniMas.png" group-title="ALT 3",UNIMAS | HD
 http://its.streamsforus.net:8000/5877808/9888090/10323
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS | SD" tvg-logo="" group-title="SPANISH",UNIMAS | SD
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS | SD" tvg-logo="" group-title="ALT 3",UNIMAS | SD
 http://its.streamsforus.net:8000/5877808/9888090/54696
 #EXTINF:-1 tvg-id="universalkids.us" tvg-name="UNIVERSAL KIDS" tvg-logo="http://miabox.net/logo_picture/UniversalKids.png" group-title="ALT 3",UNIVERSAL KIDS
 http://its.streamsforus.net:8000/5877808/9888090/3397
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL KIDS | HD" tvg-logo="http://kidscreen.com/wp/wp-content/uploads/2018/04/Universal-Kids.jpg" group-title="KIDS",UNIVERSAL KIDS | HD
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL KIDS | HD" tvg-logo="http://kidscreen.com/wp/wp-content/uploads/2018/04/Universal-Kids.jpg" group-title="ALT 3",UNIVERSAL KIDS | HD
 http://its.streamsforus.net:8000/5877808/9888090/9753
 #EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA NETWORK ( West ) | HD" tvg-logo="http://miabox.net/logo_picture/USANetwork.png" group-title="ALT 3",USA NETWORK ( West ) | HD
 http://its.streamsforus.net:8000/5877808/9888090/82862
@@ -3969,7 +3969,7 @@ http://its.streamsforus.net:8000/5877808/9888090/3394
 http://its.streamsforus.net:8000/5877808/9888090/3393
 #EXTINF:-1 tvg-id="wetv.us" tvg-name="WE TV | HD" tvg-logo="http://miabox.net/logo_picture/WE_TV.png" group-title="ALT 3",WE TV | HD
 http://its.streamsforus.net:8000/5877808/9888090/38455
-#EXTINF:-1 tvg-id="" tvg-name="WESTERNS 4 U | HD" tvg-logo="http://miabox.net/logo_picture/Westerns_4U.png" group-title="USA MOVIES",WESTERNS 4 U | HD
+#EXTINF:-1 tvg-id="" tvg-name="WESTERNS 4 U | HD" tvg-logo="http://miabox.net/logo_picture/Westerns_4U.png" group-title="ALT 3",WESTERNS 4 U | HD
 http://its.streamsforus.net:8000/5877808/9888090/65686
 #EXTINF:-1 tvg-id="wgn9chicago.us" tvg-name="WGN (Chicago)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/1200px-WGN_9_logo.svg.png" group-title="ALT 3",WGN (Chicago)
 http://its.streamsforus.net:8000/5877808/9888090/86753
