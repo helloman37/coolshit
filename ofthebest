@@ -4172,6 +4172,113 @@ http://its.streamsforus.net:8000/5877808/9888090/84797
 #EXTINF:-1 tvg-id="" tvg-name="US:Cinema 40 PPV" tvg-logo="" group-title="ALTERNATE 3",US:Cinema 40 PPV
 http://its.streamsforus.net:8000/5877808/9888090/84796
 ###ALTERNATES
+###ALTERNATES
+#EXTM3U
+#EXTINF:-1 group-title="ALTERNATE 4", A&E HD
+https://cvtv.cvalley.net/hls/AEHD/AEHD.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", CNN HD
+https://cvtv.cvalley.net/hls/CNNHD/CNNHD.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", ESPN HD
+https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", ESPN2 HD
+https://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", HGTV HD
+https://cvtv.cvalley.net/hls/HGTVHD/HGTVHD.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", History HD
+https://cvtv.cvalley.net/hls/HistoryHD/HistoryHD.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", Lifetime HD
+https://cvtv.cvalley.net/hls/LifetimeHD/LifetimeHD.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", TBS HD
+https://cvtv.cvalley.net/hls/TBSHD/TBSHD.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", TNT HD
+https://cvtv.cvalley.net/hls/TNTHD/TNTHD.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", USA HD
+https://cvtv.cvalley.net/hls/USAHD/USAHD.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", Fox Sports 1
+https://cvtv.cvalley.net/hls/FS1/FS1.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KOMU CW
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KCTV CBS
+https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KMBC ABC
+https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KMCI IND
+https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KMIZ ABC
+https://cvtv.cvalley.nethls/KMIZABC/KMIZABC.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KOMU NBC
+https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KRCG CBS
+https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KSHB NBC
+https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KTVO ABC
+https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KYOU FOX
+https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KTVO CBS
+https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KQFX FOX
+https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", WGEM NBC
+https://cvtv.cvalley.net/hls/WGEMNBC/WGEMNBC.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", WDAF FOX
+https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", WGEM CW
+https://cvtv.cvalley.net/hls/WGEMCW/WGEMCW.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", FOX News HD
+https://cvtv.cvalley.net/hls/FoxNewsHD/FoxNewsHD.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KNLJ
+https://cvtv.cvalley.net/hls/KNLJ/KNLJ.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KCPT PBS
+https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KCTV Comet
+https://cvtv.cvalley.net/hls/KCTVComet/KCTVComet.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KCWE CE
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KHQA CBS
+https://cvtv.cvalley.net/hls/KHQACBS/KHQACBS.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KMBC MeTV
+https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KMCI Bounce TV
+https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KMCI Escape
+https://cvtv.cvalley.net/hls/hls/KMCIEscape/KMCIEscape.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KMCI Grit
+https://cvtv.cvalley.net/hls/KMCIGrit/KMCIGrit.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KMIZ MeTV
+https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KMSO PBS
+https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KPXE ION
+https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KRCG Comet
+https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KRCG CHARGE
+https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KRCG TBD
+https://cvtv.cvalley.net/hls/KRCGTBD/KRCGTBD.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KSHB COZI
+https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KSHB LAFF
+https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KSMO IND
+https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KTVO Comet
+https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KYOU NBC
+https://cvtv.cvalley.net/hls/KYOUNBC/KYOUNBC.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KYOU NBC2
+https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KYOU GRIT
+https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KYOU DT4
+https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", KYOU MYZOU
+https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
+#EXTINF:-1 group-title="ALTERNATE 4", WDAF Antenna
+https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
+###ALTERNATES
 ###VOD
 #EXTINF:-1 tvg-id="" tvg-name="US:Cinema 40 PPV" tvg-logo="" group-title="VOD",Secret Life of Pets 2
 http://hd1.dlmania.com/Hollywood/The%20Secret%20Life%20of%20Pets%202%20-%20BRRip/The%20Secret%20Life%20of%20Pets%202%20-%20BRRip%20HD%20(HDMp4Mania).mp4
