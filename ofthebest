@@ -4282,10 +4282,10 @@ https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 ###VOD
 #EXTINF:-1 tvg-id="" tvg-name="US:Cinema 40 PPV" tvg-logo="" group-title="VOD",Secret Life of Pets 2
 http://hd1.dlmania.com/Hollywood/The%20Secret%20Life%20of%20Pets%202%20-%20BRRip/The%20Secret%20Life%20of%20Pets%202%20-%20BRRip%20HD%20(HDMp4Mania).mp4
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 40 PPV" tvg-logo="" group-title="VOD",Lion King '19
-https://fs1dl.flix555.com/65mr5vf3duwgmozpimq6izeqalram76gf6xgqsbx225ira67h4z7xgqr7cla/v.mp4
-#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 40 PPV" tvg-logo="" group-title="VOD",Aladdin '19
-https://s3dl.flix555.com/65mrfnnudqwgmozpimp6i7uwd76742wsuvgn4zywntz26ydib7j7hli6oiba/v.mp4
+#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 40 PPV" tvg-logo="" group-title="VOD",Lion King
+https://hls26s.cdnfile.info/stream_new/3b0aca833046ddea7d145792fdd4fac1/the-lion-king-2019.3960b1f8149f76641a3bc9744a799173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US:Cinema 40 PPV" tvg-logo="" group-title="VOD",Aladdin
+https://hls26s.cdnfile.info/stream_new/5a16746f2c8df95866bbc8a0e55ed97b/aladdin-2019.9c7aff12c06abba8a542695f06eedc57.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="US:Cinema 40 PPV" tvg-logo="" group-title="VOD",Scary Stories To Tell In The Dark
-https://yhrg8xz.ostreamcdn.com/u5kjybohbphlsdgge4uwgjchigtsr5cuielfcylatnzcqvjgt2sw5qkg5ioq/v.mp4
+https://fvs.io/redirector?token=ZW11MWpTQVhlbG9lSktLNDRlOHpsN0hqYUZXdjdLUUxET01tS0JkTlRSY0o5bURQUW5Oc0JaSlRHOFRrRFRnMURuREo4aEcyRDFxYVczWk0zY1FjM0RqQlZTVC9iTW9ZTDI1QXBhQ3JqVFhGM3pDbHh2Y3cwZW92U2I0MjhleFBrYVFpRFRrcm94TlpTNDUxU0RiZnRUbkErcTE1MDQ3VzR3PT06b1pxWDJPVVFJMnlyYnJiNEVxSTNzdz09
 ###VOD
