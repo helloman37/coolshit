@@ -460,7 +460,7 @@ https://api.vpnmate.com/play/?vlc=1&channel=1018263&token=hEeac4oVO0jC:NmYyZGVjY
 https://api.vpnmate.com/play/?vlc=1&channel=1102832&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
 #EXTINF:-1 tvg-id="showtime.west.us" tvg-name="showtime.west.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/showtime.west.us.png",Showtime (west) US (3013498)
 https://api.vpnmate.com/play/?vlc=1&channel=3013498&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
-#EXTINF:-1 tvg-id="showtime.2.eastern.us" tvg-name="showtime.2.eastern.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/showtime.2.eastern.us.png",Showtime 2 (East) US (1018262)
+#EXTINF:-1 tvg-id="showtime.2.eastern.us" tvg-name="showtime.2.eastern.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/showtime.2.eastern.us.png",Showtime 2 (East) US (1018262)
 https://api.vpnmate.com/play/?vlc=1&channel=1018262&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
 #EXTINF:-1 tvg-id="showtime.beyond.east.us" tvg-name="showtime.beyond.east.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/showtime.beyond.east.us.png",Showtime Beyond US (1102879)
 https://api.vpnmate.com/play/?vlc=1&channel=1102879&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
@@ -1382,7 +1382,7 @@ http://383873.xyz:2095/live/jesusaguilar/1977/679.ts
 http://383873.xyz:2095/live/jesusaguilar/1977/555.ts
 #EXTINF:-1 type="stream" tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="http://i.imgur.com/EH0Fkjy.png" group-title="ALTERNATE 1",DIRECTV SPORTS 2
 http://383873.xyz:2095/live/jesusaguilar/1977/556.ts
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="DIRECTV SPORTS PLUS" tvg-logo="http://i.imgur.com/EH0Fkjy.png" group-title="ALTERNATE 1",DIRECTV SPORTS PLUS
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="DIRECTV SPORTS PLUS" tvg-logo="http://i.imgur.com/EH0Fkjy.png" group-title="ALTERNATE 1",DIRECTV SPORTS PLUS
 http://383873.xyz:2095/live/jesusaguilar/1977/557.ts
 #EXTINF:-1 type="stream" tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://i.imgur.com/7esSTf4.png?1" group-title="ALTERNATE 1",DISCOVERY CHANNEL
 http://383873.xyz:2095/live/jesusaguilar/1977/42.ts
@@ -6259,6 +6259,980 @@ https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 #EXTINF:-1 group-title="ALTERNATE 4", WDAF Antenna
 https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 ###ALTERNATES
+#ALTERNATES##
+#EXTINF:-1 group-title="ALTERNATE 5",A&E FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4960
+#EXTINF:-1 group-title="ALTERNATE 5",A&E HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14399
+#EXTINF:-1 group-title="ALTERNATE 5",ABC News US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6364
+#EXTINF:-1 group-title="ALTERNATE 5",ABC US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4925
+#EXTINF:-1 group-title="ALTERNATE 5",AFN Sports 1 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14395
+#EXTINF:-1 group-title="ALTERNATE 5",AFN Sports 2 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4927
+#EXTINF:-1 group-title="ALTERNATE 5",AFN Sports HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4928
+#EXTINF:-1 group-title="ALTERNATE 5",AMC HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4959
+#EXTINF:-1 group-title="ALTERNATE 5",AMC  US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6363
+#EXTINF:-1 group-title="ALTERNATE 5",Weather Channel US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4900
+#EXTINF:-1 group-title="ALTERNATE 5",Action Max FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4869
+#EXTINF:-1 group-title="ALTERNATE 5",Animal Planet HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14393
+#EXTINF:-1 group-title="ALTERNATE 5",Animal Planet US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6362
+#EXTINF:-1 group-title="ALTERNATE 5",beIN Sports FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13759
+#EXTINF:-1 group-title="ALTERNATE 5",beiN Sports HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4902
+#EXTINF:-1 group-title="ALTERNATE 5",BBC America HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14392
+#EXTINF:-1 group-title="ALTERNATE 5",BTN Sport US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4884
+#EXTINF:-1 group-title="ALTERNATE 5",BYU TV HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4910
+#EXTINF:-1 group-title="ALTERNATE 5",Bet FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13764
+#EXTINF:-1 group-title="ALTERNATE 5",BET Soul US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/661091
+#EXTINF:-1 group-title="ALTERNATE 5",Bet HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4958
+#EXTINF:-1 group-title="ALTERNATE 5",Big Ten US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6361
+#EXTINF:-1 group-title="ALTERNATE 5",Bloomberg FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4940
+#EXTINF:-1 group-title="ALTERNATE 5",Bloomberg HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6360
+#EXTINF:-1 group-title="ALTERNATE 5",Bravo HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4883
+#EXTINF:-1 group-title="ALTERNATE 5",C-Span 1 US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14391
+#EXTINF:-1 group-title="ALTERNATE 5",C-Span 2 US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14390
+#EXTINF:-1 group-title="ALTERNATE 5",C-Span 3 US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14389
+#EXTINF:-1 group-title="ALTERNATE 5",CBN US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4920
+#EXTINF:-1 group-title="ALTERNATE 5",CBS FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13751
+#EXTINF:-1 group-title="ALTERNATE 5",CBS HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6348
+#EXTINF:-1 group-title="ALTERNATE 5",CBS Sports Network HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14385
+#EXTINF:-1 group-title="ALTERNATE 5",CBS US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4885
+#EXTINF:-1 group-title="ALTERNATE 5",CBSN  HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6342
+#EXTINF:-1 group-title="ALTERNATE 5",CBSN US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4939
+#EXTINF:-1 group-title="ALTERNATE 5",CNBC HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4956
+#EXTINF:-1 group-title="ALTERNATE 5",CNN HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4919
+#EXTINF:-1 group-title="ALTERNATE 5",CNN News FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13750
+#EXTINF:-1 group-title="ALTERNATE 5",CNN News HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14377
+#EXTINF:-1 group-title="ALTERNATE 5",CNN US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6359
+#EXTINF:-1 group-title="ALTERNATE 5",CW Central US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14401
+#EXTINF:-1 group-title="ALTERNATE 5",CW US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4955
+#EXTINF:-1 group-title="ALTERNATE 5",Cartoon Network FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4886
+#EXTINF:-1 group-title="ALTERNATE 5",Cartoon Network HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14387
+#EXTINF:-1 group-title="ALTERNATE 5",CineMax Action HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14382
+#EXTINF:-1 group-title="ALTERNATE 5",CineMax East US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14380
+#EXTINF:-1 group-title="ALTERNATE 5",CineMax MoreMax US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14378
+#EXTINF:-1 group-title="ALTERNATE 5",Cinemax 5 Starmax US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4911
+#EXTINF:-1 group-title="ALTERNATE 5",CMT HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14383
+#EXTINF:-1 group-title="ALTERNATE 5",Cinemax East FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4912
+#EXTINF:-1 group-title="ALTERNATE 5",Cinemax FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4914
+#EXTINF:-1 group-title="ALTERNATE 5",Cinemax More HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14379
+#EXTINF:-1 group-title="ALTERNATE 5",Cinemax Moremax FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4913
+#EXTINF:-1 group-title="ALTERNATE 5",Cinemax US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6693
+#EXTINF:-1 group-title="ALTERNATE 5",Comedy Central FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14376
+#EXTINF:-1 group-title="ALTERNATE 5",Comedy Central HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13823
+#EXTINF:-1 group-title="ALTERNATE 5",Comedy Central US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4882
+#EXTINF:-1 group-title="ALTERNATE 5",Crime and Investigation US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4879
+#EXTINF:-1 group-title="ALTERNATE 5",Destination America FHD USA
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/17640
+#EXTINF:-1 group-title="ALTERNATE 5",DW US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14366
+#EXTINF:-1 group-title="ALTERNATE 5",Discovery Channel HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14373
+#EXTINF:-1 group-title="ALTERNATE 5",Discovery Channel US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/16988
+#EXTINF:-1 group-title="ALTERNATE 5",Discovery HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14372
+#EXTINF:-1 group-title="ALTERNATE 5",Discovery ID FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4918
+#EXTINF:-1 group-title="ALTERNATE 5",Discovery Science US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4887
+#EXTINF:-1 group-title="ALTERNATE 5",Discovery Velocity FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4877
+#EXTINF:-1 group-title="ALTERNATE 5",Discovery Velocity US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14371
+#EXTINF:-1 group-title="ALTERNATE 5",Disney Channel FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14370
+#EXTINF:-1 group-title="ALTERNATE 5",Disney Channel HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14369
+#EXTINF:-1 group-title="ALTERNATE 5",Disney XD FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14368
+#EXTINF:-1 group-title="ALTERNATE 5",Disney XD HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14367
+#EXTINF:-1 group-title="ALTERNATE 5",Diy Network HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/11373
+#EXTINF:-1 group-title="ALTERNATE 5",E! HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14365
+#EXTINF:-1 group-title="ALTERNATE 5",E! Network US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4951
+#EXTINF:-1 group-title="ALTERNATE 5",ESPN 1 US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14405
+#EXTINF:-1 group-title="ALTERNATE 5",ESPN 2 FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13749
+#EXTINF:-1 group-title="ALTERNATE 5",ESPN 2 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4936
+#EXTINF:-1 group-title="ALTERNATE 5",ESPN 3 US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6708
+#EXTINF:-1 group-title="ALTERNATE 5",ESPN HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14363
+#EXTINF:-1 group-title="ALTERNATE 5",ESPN News HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4935
+#EXTINF:-1 group-title="ALTERNATE 5",ESPN+ HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6707
+#EXTINF:-1 group-title="ALTERNATE 5",ESPN U US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/33498
+#EXTINF:-1 group-title="ALTERNATE 5",ESPN US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4937
+#EXTINF:-1 group-title="ALTERNATE 5",El Rey Network FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13758
+#EXTINF:-1 group-title="ALTERNATE 5",El Rey Network HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14364
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14562
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports 1 US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/63735
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports 1 FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/137256
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports 1 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/494720
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports 2 US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/63365
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports 2 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/494259
+#EXTINF:-1 group-title="ALTERNATE 5",FOX Soccer Plus HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14408
+#EXTINF:-1 group-title="ALTERNATE 5",FX FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13763
+#EXTINF:-1 group-title="ALTERNATE 5",FX HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4942
+#EXTINF:-1 group-title="ALTERNATE 5",FXX FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13756
+#EXTINF:-1 group-title="ALTERNATE 5",FXX HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14353
+#EXTINF:-1 group-title="ALTERNATE 5",Fashion One HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14362
+#EXTINF:-1 group-title="ALTERNATE 5",Fight Network FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13748
+#EXTINF:-1 group-title="ALTERNATE 5",Fight Sport US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14361
+#EXTINF:-1 group-title="ALTERNATE 5",Fine Living US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14360
+#EXTINF:-1 group-title="ALTERNATE 5",Food Network HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14359
+#EXTINF:-1 group-title="ALTERNATE 5",Food Network US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4949
+#EXTINF:-1 group-title="ALTERNATE 5",Fox FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13757
+#EXTINF:-1 group-title="ALTERNATE 5",Fox HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4948
+#EXTINF:-1 group-title="ALTERNATE 5",Fox News FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14358
+#EXTINF:-1 group-title="ALTERNATE 5",Fox News HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14357
+#EXTINF:-1 group-title="ALTERNATE 5",Fox News US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4943
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports 506 FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4944
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports North HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14355
+#EXTINF:-1 group-title="ALTERNATE 5",Free Form US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4950
+#EXTINF:-1 group-title="ALTERNATE 5",Global BC US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14352
+#EXTINF:-1 group-title="ALTERNATE 5",Golf HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6340
+#EXTINF:-1 group-title="ALTERNATE 5",H2 US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4888
+#EXTINF:-1 group-title="ALTERNATE 5",HBO Comedy FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4921
+#EXTINF:-1 group-title="ALTERNATE 5",HBO Comedy HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13762
+#EXTINF:-1 group-title="ALTERNATE 5",HBO Est FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13742
+#EXTINF:-1 group-title="ALTERNATE 5",HBO FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14411
+#EXTINF:-1 group-title="ALTERNATE 5",HBO Family FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13741
+#EXTINF:-1 group-title="ALTERNATE 5",HBO HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4923
+#EXTINF:-1 group-title="ALTERNATE 5",HBO Signature FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13761
+#EXTINF:-1 group-title="ALTERNATE 5",HBO Signature HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6343
+#EXTINF:-1 group-title="ALTERNATE 5",HBO US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14350
+#EXTINF:-1 group-title="ALTERNATE 5",HBO Zone US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4922
+#EXTINF:-1 group-title="ALTERNATE 5",HGTV HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14348
+#EXTINF:-1 group-title="ALTERNATE 5",HGTV US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/10218
+#EXTINF:-1 group-title="ALTERNATE 5",HIFI HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4890
+#EXTINF:-1 group-title="ALTERNATE 5",Hallmark FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4889
+#EXTINF:-1 group-title="ALTERNATE 5",Hallmark Drama HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/648287
+#EXTINF:-1 group-title="ALTERNATE 5",Hallmark Movies & Mysteries FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13746
+#EXTINF:-1 group-title="ALTERNATE 5",History Channel FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4880
+#EXTINF:-1 group-title="ALTERNATE 5",History FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13754
+#EXTINF:-1 group-title="ALTERNATE 5",History HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14346
+#EXTINF:-1 group-title="ALTERNATE 5",History US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14347
+#EXTINF:-1 group-title="ALTERNATE 5",ID HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14345
+#EXTINF:-1 group-title="ALTERNATE 5",IFC FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13739
+#EXTINF:-1 group-title="ALTERNATE 5",Lifetime HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14343
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Live US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4867
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Network HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14402
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Network US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4868
+#EXTINF:-1 group-title="ALTERNATE 5",MSNBC FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13738
+#EXTINF:-1 group-title="ALTERNATE 5",MSNBC HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14398
+#EXTINF:-1 group-title="ALTERNATE 5",MSNBC US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4904
+#EXTINF:-1 group-title="ALTERNATE 5",MTV FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14342
+#EXTINF:-1 group-title="ALTERNATE 5",MTV HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14341
+#EXTINF:-1 group-title="ALTERNATE 5",MTV Rocks US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14340
+#EXTINF:-1 group-title="ALTERNATE 5",NASA US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4941
+#EXTINF:-1 group-title="ALTERNATE 5",NBA HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14338
+#EXTINF:-1 group-title="ALTERNATE 5",NBA TV HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6355
+#EXTINF:-1 group-title="ALTERNATE 5",NBC Golf FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13753
+#EXTINF:-1 group-title="ALTERNATE 5",NBC Golf HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4953
+#EXTINF:-1 group-title="ALTERNATE 5",NBC Golf US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14410
+#EXTINF:-1 group-title="ALTERNATE 5",NBC News HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14337
+#EXTINF:-1 group-title="ALTERNATE 5",NBC SN HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14336
+#EXTINF:-1 group-title="ALTERNATE 5",NBC Sport FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4952
+#EXTINF:-1 group-title="ALTERNATE 5",NBC Sports Network HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14403
+#EXTINF:-1 group-title="ALTERNATE 5",NBC US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4954
+#EXTINF:-1 group-title="ALTERNATE 5",NBCSN HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14330
+#EXTINF:-1 group-title="ALTERNATE 5",NFL  HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6345
+#EXTINF:-1 group-title="ALTERNATE 5",NFL HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4917
+#EXTINF:-1 group-title="ALTERNATE 5",NFL Network HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14329
+#EXTINF:-1 group-title="ALTERNATE 5",NFL Now HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14328
+#EXTINF:-1 group-title="ALTERNATE 5",NHL Network FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4875
+#EXTINF:-1 group-title="ALTERNATE 5",NHL Network HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14409
+#EXTINF:-1 group-title="ALTERNATE 5",Nat Geo Wild FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13745
+#EXTINF:-1 group-title="ALTERNATE 5",National Geographic FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4881
+#EXTINF:-1 group-title="ALTERNATE 5",National Geographic HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14339
+#EXTINF:-1 group-title="ALTERNATE 5",Nick FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13744
+#EXTINF:-1 group-title="ALTERNATE 5",Nick HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14327
+#EXTINF:-1 group-title="ALTERNATE 5",OWN FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13760
+#EXTINF:-1 group-title="ALTERNATE 5",OWN HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/11255
+#EXTINF:-1 group-title="ALTERNATE 5",OWN US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14326
+#EXTINF:-1 group-title="ALTERNATE 5",Outdoor Channel HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14325
+#EXTINF:-1 group-title="ALTERNATE 5",PAC Arizona HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4866
+#EXTINF:-1 group-title="ALTERNATE 5",PAC Los Angeles FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4864
+#EXTINF:-1 group-title="ALTERNATE 5",PAC Oregon FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4863
+#EXTINF:-1 group-title="ALTERNATE 5",PAC Washington FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4862
+#EXTINF:-1 group-title="ALTERNATE 5",PAC-12 Los Angeles FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13737
+#EXTINF:-1 group-title="ALTERNATE 5",PAC-12 Oregon FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13752
+#EXTINF:-1 group-title="ALTERNATE 5",PAC-12 Washington FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13736
+#EXTINF:-1 group-title="ALTERNATE 5",PAC12 Bay Area HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4865
+#EXTINF:-1 group-title="ALTERNATE 5",Pick TV US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14323
+#EXTINF:-1 group-title="ALTERNATE 5",RT Documentary HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4906
+#EXTINF:-1 group-title="ALTERNATE 5",Showtime FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13735
+#EXTINF:-1 group-title="ALTERNATE 5",Showtime Showcase HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4891
+#EXTINF:-1 group-title="ALTERNATE 5",Showtime US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4926
+#EXTINF:-1 group-title="ALTERNATE 5",Showtime West US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14321
+#EXTINF:-1 group-title="ALTERNATE 5",Smile Of A Child US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14320
+#EXTINF:-1 group-title="ALTERNATE 5",Spike FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4892
+#EXTINF:-1 group-title="ALTERNATE 5",Spike HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14319
+#EXTINF:-1 group-title="ALTERNATE 5",Sportnet Ontario US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14406
+#EXTINF:-1 group-title="ALTERNATE 5",Sports Net 360 FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4915
+#EXTINF:-1 group-title="ALTERNATE 5",Sports Net One HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4916
+#EXTINF:-1 group-title="ALTERNATE 5",Sports Net One HD. US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4894
+#EXTINF:-1 group-title="ALTERNATE 5",Sports Net West HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4861
+#EXTINF:-1 group-title="ALTERNATE 5",Sportsnet East HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14318
+#EXTINF:-1 group-title="ALTERNATE 5",Sports net Ontario HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14317
+#EXTINF:-1 group-title="ALTERNATE 5",Sportsnet 360 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14388
+#EXTINF:-1 group-title="ALTERNATE 5",Starz Cinema US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4898
+#EXTINF:-1 group-title="ALTERNATE 5",Starz Comedy US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4899
+#EXTINF:-1 group-title="ALTERNATE 5",Starz East US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4895
+#EXTINF:-1 group-title="ALTERNATE 5",Starz Edge US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4897
+#EXTINF:-1 group-title="ALTERNATE 5",Starz Encore US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4896
+#EXTINF:-1 group-title="ALTERNATE 5",Starz West US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4907
+#EXTINF:-1 group-title="ALTERNATE 5",TBS FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6341
+#EXTINF:-1 group-title="ALTERNATE 5",TBS US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4908
+#EXTINF:-1 group-title="ALTERNATE 5",TLC Discovery US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6747
+#EXTINF:-1 group-title="ALTERNATE 5",TLC FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/13734
+#EXTINF:-1 group-title="ALTERNATE 5",TLC HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14397
+#EXTINF:-1 group-title="ALTERNATE 5",TLC US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4924
+#EXTINF:-1 group-title="ALTERNATE 5",TNT HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6354
+#EXTINF:-1 group-title="ALTERNATE 5",TNT US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4876
+#EXTINF:-1 group-title="ALTERNATE 5",TSN 1 SD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6353
+#EXTINF:-1 group-title="ALTERNATE 5",TSN 2 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6352
+#EXTINF:-1 group-title="ALTERNATE 5",TSN 3 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6351
+#EXTINF:-1 group-title="ALTERNATE 5",TSN 5 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6349
+#EXTINF:-1 group-title="ALTERNATE 5",Tru TV US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/629081
+#EXTINF:-1 group-title="ALTERNATE 5",USA Network HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/4901
+#EXTINF:-1 group-title="ALTERNATE 5",VH1 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/11254
+#EXTINF:-1 group-title="ALTERNATE 5",VH1 US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6753
+#EXTINF:-1 group-title="ALTERNATE 5",WWE HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14404
+#EXTINF:-1 group-title="ALTERNATE 5",WWE US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/6347
+#EXTINF:-1 group-title="ALTERNATE 5",UFC Fight Pass (Live Events Only) US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/16617
+#EXTINF:-1 group-title="ALTERNATE 5",Lifetime Movies HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/17513
+#EXTINF:-1 group-title="ALTERNATE 5",SEC Network US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/32382
+#EXTINF:-1 group-title="ALTERNATE 5",Travel Channel US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/32381
+#EXTINF:-1 group-title="ALTERNATE 5",NESN HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/34415
+#EXTINF:-1 group-title="ALTERNATE 5",Reelz Channel US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/51014
+#EXTINF:-1 group-title="ALTERNATE 5",Oxygen HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/51015
+#EXTINF:-1 group-title="ALTERNATE 5",GSN HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14351
+#EXTINF:-1 group-title="ALTERNATE 5",NFL RedZone HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/53157
+#EXTINF:-1 group-title="ALTERNATE 5",Tennis FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/7084
+#EXTINF:-1 group-title="ALTERNATE 5",MSG (Only during live events) US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/623146
+#EXTINF:-1 group-title="ALTERNATE 5",BounceTV US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/638798
+#EXTINF:-1 group-title="ALTERNATE 5",Nickelodeon toon US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/638822
+#EXTINF:-1 group-title="ALTERNATE 5",Baby Songs US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/638825
+#EXTINF:-1 group-title="ALTERNATE 5",Syfy HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/648340
+#EXTINF:-1 group-title="ALTERNATE 5",TV Land HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/655120
+#EXTINF:-1 group-title="ALTERNATE 5",ABC 10 WPLG (Miami) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620718
+#EXTINF:-1 group-title="ALTERNATE 5",ABC 2 WSB (Atlanta) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620717
+#EXTINF:-1 group-title="ALTERNATE 5",ABC 5 WCVB (Boston) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620716
+#EXTINF:-1 group-title="ALTERNATE 5",ABC 7 KABC (Los Angeles) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620715
+#EXTINF:-1 group-title="ALTERNATE 5",ABC 7 KABC (New York) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620714
+#EXTINF:-1 group-title="ALTERNATE 5",ABC 7 KGO (San Francisco) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620713
+#EXTINF:-1 group-title="ALTERNATE 5",ABC 7 WLS (Chicago) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620712
+#EXTINF:-1 group-title="ALTERNATE 5",ABC 8 WFAA (Dallas) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620711
+#EXTINF:-1 group-title="ALTERNATE 5",ABC 9 WFTV (Orlando) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620710
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Atlanta HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658628
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Baltimore HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658627
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Boston HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658626
+#EXTINF:-1 group-title="ALTERNATE 5",ABC California HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658625
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Charlotte HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658624
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Chicago HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658623
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Cleveland HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658622
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Columbus HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658591
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Connecticut HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658621
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Dallas HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658620
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Detroit HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658619
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Durham HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658618
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Finix HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658617
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Fresno 2 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658615
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Fresno HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658616
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Houston 2 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658613
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Houston HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658614
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Indiana HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658612
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Kansas City HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658611
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Los Angeles HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658610
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Miami HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658609
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Milwaukee HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658608
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Minessota HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658607
+#EXTINF:-1 group-title="ALTERNATE 5",ABC News HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658589
+#EXTINF:-1 group-title="ALTERNATE 5",ABC NewYork HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658606
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Ohio HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658605
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Orlando HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658604
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Philadelphia HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658603
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Pittsburg HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658590
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Portland HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658602
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Raleigh Durham HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658601
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Sacramento HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658600
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Saltlake City HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658599
+#EXTINF:-1 group-title="ALTERNATE 5",ABC San Antonio HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658598
+#EXTINF:-1 group-title="ALTERNATE 5",ABC San Francisco HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658597
+#EXTINF:-1 group-title="ALTERNATE 5",ABC San Luis HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658596
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Seatle HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658595
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Tampa HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658594
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Texas HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658593
+#EXTINF:-1 group-title="ALTERNATE 5",ABC Washington HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658592
+#EXTINF:-1 group-title="ALTERNATE 5",CBS 2 KCBS (Los Angeles) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620709
+#EXTINF:-1 group-title="ALTERNATE 5",CBS 2 WBM (Chicago) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620708
+#EXTINF:-1 group-title="ALTERNATE 5",CBS 4 WBZ (Boston) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620707
+#EXTINF:-1 group-title="ALTERNATE 5",CBS 4 WFOR (Miami) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620706
+#EXTINF:-1 group-title="ALTERNATE 5",CBS 46 WGCL (Atlanta) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620703
+#EXTINF:-1 group-title="ALTERNATE 5",CBS 5 KENS (San Antonio) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620705
+#EXTINF:-1 group-title="ALTERNATE 5",CBS 5 KPIX (San Francisco) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620704
+#EXTINF:-1 group-title="ALTERNATE 5",CBS WKMG (Orlando) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620702
+#EXTINF:-1 group-title="ALTERNATE 5",Cooking Channel HD US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/18958
+#EXTINF:-1 group-title="ALTERNATE 5",FOX 11 KTTV  (Los Angeles) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620701
+#EXTINF:-1 group-title="ALTERNATE 5",FOX 19 WXIX (Cincinnati) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620700
+#EXTINF:-1 group-title="ALTERNATE 5",FOX 2 KTVU (San Francisco CA) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620699
+#EXTINF:-1 group-title="ALTERNATE 5",FOX 32 WFLD (Chicago) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620698
+#EXTINF:-1 group-title="ALTERNATE 5",FOX 35 WOFL (Orlando) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620697
+#EXTINF:-1 group-title="ALTERNATE 5",FOX 4 KDFW (Dallas) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620696
+#EXTINF:-1 group-title="ALTERNATE 5",FOX 43 WPMT (Harrisburg PA) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620695
+#EXTINF:-1 group-title="ALTERNATE 5",FOX 5 WAGA (Atlanta) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620694
+#EXTINF:-1 group-title="ALTERNATE 5",FOX Business HD US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/18957
+#EXTINF:-1 group-title="ALTERNATE 5",FOX East HD US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/18955
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Alabama US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659777
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Charlotte US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659776
+#EXTINF:-1 group-title="ALTERNATE 5",Fox CSA HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659756
+#EXTINF:-1 group-title="ALTERNATE 5",Fox CSC HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659755
+#EXTINF:-1 group-title="ALTERNATE 5",Fox CSP HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659754
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Deportes US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/494543
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Detroit US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659775
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Houston US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659774
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Kansas City US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659773
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Miami US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659772
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Minnesota US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659771
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Nebraska US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659770
+#EXTINF:-1 group-title="ALTERNATE 5",Fox NewYork US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659769
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Philadelphia US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659768
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Pitts US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659767
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports Detroit US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659764
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports Midwest US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659763
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports OhioPlus US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659762
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports Primeticket US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659761
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports Sandiego US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659760
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports Tennesse US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659759
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports W 1 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659758
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports W 2 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659757
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Tennessee US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659766
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Texas US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659765
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports Arizona HD US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/18953
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports College Pacific HD US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/18950
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports Florida HD US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/18938
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports North HD US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/18954
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports Ohio HD US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/18947
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports San Diego HD US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/18945
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports South East HD US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/18943
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports South HD US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/650574
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports South West HD US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/18942
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports Sun HD US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/18937
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports West HD US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/18940
+#EXTINF:-1 group-title="ALTERNATE 5",Fox Sports Wisconsin HD US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/18939
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 721 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620789
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 722 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620788
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 723 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620787
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 724 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620786
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 725 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620785
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 726 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620784
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 727 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620783
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 728 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620782
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 729 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620781
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 730 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620780
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 731 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620779
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 732 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620778
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 733 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620777
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 734 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620776
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 735 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620775
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 736 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620774
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 737 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620773
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 738 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620772
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 739 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620771
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 740 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620770
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 741 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620769
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 742 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620768
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 743 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620767
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 744 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620766
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 745 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620765
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 746 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620764
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 747 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620763
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 748 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620762
+#EXTINF:-1 group-title="ALTERNATE 5",MLB Extra Innings 749 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620761
+#EXTINF:-1 group-title="ALTERNATE 5",NBC 11 KNTV (San Francisco) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620693
+#EXTINF:-1 group-title="ALTERNATE 5",NBC 2 WESH (Orlando) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620692
+#EXTINF:-1 group-title="ALTERNATE 5",NBC 4 KNBC (Los Angeles) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620691
+#EXTINF:-1 group-title="ALTERNATE 5",NBC 4 WNBC (New York) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620690
+#EXTINF:-1 group-title="ALTERNATE 5",NBC 5 WLWT (Cincinnati) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620689
+#EXTINF:-1 group-title="ALTERNATE 5",NBC 5 WMAQ (Chicago) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620688
+#EXTINF:-1 group-title="ALTERNATE 5",NBC 6 WTVJ (Miami) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620687
+#EXTINF:-1 group-title="ALTERNATE 5",NBCSN Bay Area HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658632
+#EXTINF:-1 group-title="ALTERNATE 5",NBCSN Boston HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658631
+#EXTINF:-1 group-title="ALTERNATE 5",NBCSN California HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658630
+#EXTINF:-1 group-title="ALTERNATE 5",NBCSN California Plus HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/658629
+#EXTINF:-1 group-title="ALTERNATE 5",The Weather Channel HD US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/18956
+#EXTINF:-1 group-title="ALTERNATE 5",Univision HD US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/18959
+#EXTINF:-1 group-title="ALTERNATE 5",WAPA America HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620790
+#EXTINF:-1 group-title="ALTERNATE 5",WGN America HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620791
+#EXTINF:-1 group-title="ALTERNATE 5",WPVI Channel 6 Action News (Philadelphia) HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620792
+#EXTINF:-1 group-title="ALTERNATE 5",WWE NETWORK HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620793
+#EXTINF:-1 group-title="ALTERNATE 5",Longhorn Network HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659778
+#EXTINF:-1 group-title="ALTERNATE 5",OutSide TV HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659779
+#EXTINF:-1 group-title="ALTERNATE 5",People TV HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659780
+#EXTINF:-1 group-title="ALTERNATE 5",Revolt HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659781
+#EXTINF:-1 group-title="ALTERNATE 5",Sportnet East US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/14407
+#EXTINF:-1 group-title="ALTERNATE 5",Sports Man HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659782
+#EXTINF:-1 group-title="ALTERNATE 5",Stadium 1 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659785
+#EXTINF:-1 group-title="ALTERNATE 5",Stadium 2 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659784
+#EXTINF:-1 group-title="ALTERNATE 5",Stadium 3 HD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/659783
+#EXTINF:-1 group-title="ALTERNATE 5",Yes Network FHD US
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/620794
+#EXTINF:-1 group-title="ALTERNATE 5",NFL Arena 1 ( Live During Events Only ) US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/661086
+#EXTINF:-1 group-title="ALTERNATE 5",NFL Arena 2 ( Live During Events Only ) US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/661085
+#EXTINF:-1 group-title="ALTERNATE 5",NFL Arena 3 ( Live During Events Only ) US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/661084
+#EXTINF:-1 group-title="ALTERNATE 5",NFL Arena 4 ( Live During Events Only ) US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/661083
+#EXTINF:-1 group-title="ALTERNATE 5",NFL Arena 5 ( Live During Events Only ) US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/661082
+#EXTINF:-1 group-title="ALTERNATE 5",NFL Arena 6 ( Live During Events Only ) US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/661081
+#EXTINF:-1 group-title="ALTERNATE 5",NFL Arena 7 ( Live During Events Only ) US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/661080
+#EXTINF:-1 group-title="ALTERNATE 5",NFL Arena 8 ( Live During Events Only ) US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/661079
+#EXTINF:-1 group-title="ALTERNATE 5",NFL Arena 9 ( Live During Events Only ) US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/661078
+#EXTINF:-1 group-title="ALTERNATE 5",NFL Arena 10 ( Live During Events Only ) US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/661077
+#EXTINF:-1 group-title="ALTERNATE 5",NFL Arena 11 ( Live During Events Only ) US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/661076
+#EXTINF:-1 group-title="ALTERNATE 5",NFL Arena 12 ( Live During Events Only ) US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/661075
+#EXTINF:-1 group-title="ALTERNATE 5",NFL Arena 13 ( Live During Events Only ) US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/661074
+#EXTINF:-1 group-title="ALTERNATE 5",NFL Arena 14 ( Live During Events Only ) US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/661073
+#EXTINF:-1 group-title="ALTERNATE 5",NFL Arena 15 ( Live During Events Only ) US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/661072
+#EXTINF:-1 group-title="ALTERNATE 5",NFL Arena 16 ( Live During Events Only ) US VIP
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/661071
+#EXTINF:-1 group-title="ALTERNATE 5",########## Sport Vip ##########
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5427
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | AD Sport 4
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5404
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | DMC Sports
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5403
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | Fight Channel 5
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5412
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | FightBox FHD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/12383
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | FightBox HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/12382
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | Liverpool FC TV HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5425
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | TEN/OSN Cricket
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5397
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | Real Madrid
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5402
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | Skynet Sports 1
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5395
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | Skynet Sports 2
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5394
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | Skynet Sports 3
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5393
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | Skynet Sports 4
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5392
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | Skynet Sports 5
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5391
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | Skynet Sports 6
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5390
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | Skynet Sports HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5396
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | VIASAT Football HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5422
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | Viasat Hockey
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5417
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | Viasat Sport Premium
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5418
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | Viasat Golf SE
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5421
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | BEIN SPORTS 1
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5482
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | BEIN SPORTS 2
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5481
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | beIN Sports 3
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5480
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | BEIN SPORTS 4
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5479
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | BEIN SPORTS 5
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5478
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | BEIN SPORTS 6
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/54777
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | BEIN SPORTS 7
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5476
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | BEIN SPORTS 8
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/53432
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | BEIN SPORTS 9 HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5474
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | BEIN SPORTS 10
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5473
+#EXTINF:-1 group-title="ALTERNATE 5",BEIN SPORTS 11 HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5472
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | BEIN SPORTS 12
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/54715
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Digi Sport 1 FHD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5454
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Digi Sport 2
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5453
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Digi Sport 3
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5452
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | GEO Super
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5434
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | NBA TV HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5450
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | OSN Sport 1
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5449
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | OSN Sport 2
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5448
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | OSN Sport 4 HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5447
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | PTV Sports
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5435
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Smart Sport 1 HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5446
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Sony Six
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5436
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | SPORT KLUB HD 1
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/625227
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | SPORT KLUB HD 2
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/7088
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | SPORT KLUB HD 3
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/7087
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Sport Klub 1 HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/53164
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Sport Klub 2 FHD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5444
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Sport Klub 3 HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5443
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Sport TV 1 PT FHD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5442
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Sport TV 2 PT
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5441
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Sport TV 3 PT FHD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5440
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Star Sports 1 HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5431
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Star Sports 2
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5430
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Star Sports 3
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5429
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Star Sports 4
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5428
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | SuperSport 1 HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5470
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | SuperSport 2 FHD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/53604
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | SuperSport 3 HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/625242
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | SuperSport 4 HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/54678
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | SuperSport 5 HD ALB
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5466
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | TEN HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5432
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | TEN Sports
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5433
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Ten Cricket FHD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5438
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Tivibuspor
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5439
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Willow Cricket HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/5437
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | RMC Sport 1 HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/625226
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | RMC Sport 2 HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/625238
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | RMC Sport 3 FHD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/625233
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS VIP | RMC Sport 4 FHD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/625235
+#EXTINF:-1 group-title="ALTERNATE 5",SPORTS | Astro Supersport 4
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/53603
+#EXTINF:-1 group-title="ALTERNATE 5",SPORT | SUPER SPORT 5 HD
+http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/7086
+#ALTERNATES##
 ###VOD
 #EXTINF:-1 tvg-id="" tvg-name="US:Cinema 40 PPV" tvg-logo="" group-title="VOD",Secret Life of Pets 2
 http://hd1.dlmania.com/Hollywood/The%20Secret%20Life%20of%20Pets%202%20-%20BRRip/The%20Secret%20Life%20of%20Pets%202%20-%20BRRip%20HD%20(HDMp4Mania).mp4
@@ -6269,5 +7243,5 @@ https://hls26s.cdnfile.info/stream_new/5a16746f2c8df95866bbc8a0e55ed97b/aladdin-
 #EXTINF:-1 tvg-id="" tvg-name="US:Cinema 40 PPV" tvg-logo="" group-title="VOD",Scary Stories To Tell In The Dark
 http://dl4.serverdl.pw/user/hadi/film/Scary.Stories.Tothe.Dark.2019.720p.HDCAM.x264.SalamDL_INFO.mkv
 #EXTINF:-1 tvg-id="" tvg-name="US:Cinema 40 PPV" tvg-logo="" group-title="VOD",IT Chapter 2
-
+https://verystream.com/gettoken/9BiPZevVe4c~1568655922~2601:5c9::~fUkqxRh7?mime=true
 ###VOD
