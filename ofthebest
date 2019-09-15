@@ -7232,7 +7232,7 @@ http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/625235
 http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/53603
 #EXTINF:-1 group-title="ALTERNATE 5",SPORT | SUPER SPORT 5 HD
 http://iptv.rent:8080/swsxwoppql/4fbk0cvzn3/7086
-#ALTERNATES##
+#ALTERNATES#
 ###VOD
 #EXTINF:-1 tvg-id="" tvg-name="US:Cinema 40 PPV" tvg-logo="" group-title="VOD",Secret Life of Pets 2
 http://hd1.dlmania.com/Hollywood/The%20Secret%20Life%20of%20Pets%202%20-%20BRRip/The%20Secret%20Life%20of%20Pets%202%20-%20BRRip%20HD%20(HDMp4Mania).mp4
