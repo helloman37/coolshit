@@ -2815,7 +2815,7 @@ http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/2457
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/2452
 #EXTINF:-1 group-title="ALTERNATE 2",Fight HD
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/3632
-#EXTINF:-1,USA: DW
+#EXTINF:-1 group-title="ALTERNATE 7",DW
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/2901
 #EXTINF:-1 group-title="ALTERNATE 2",Discovery Velocity
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/3481
@@ -3035,7 +3035,7 @@ http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/7254
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/8594
 #EXTINF:-1 group-title="ALTERNATE 2",Cooking Channel HD 1080P
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/8593
-#EXTINF:-1,USA: Crime & Investigation
+#EXTINF:-1 group-title="ALTERNATE 7",Crime & Investigation
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/8592
 #EXTINF:-1 group-title="ALTERNATE 2",CW HD 1080P
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/8591
@@ -3067,7 +3067,7 @@ http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/7775
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/8584
 #EXTINF:-1 group-title="ALTERNATE 2",EPIX HD 1080P
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/8583
-#EXTINF:-1,USA: EPIX2 HD 1080P
+#EXTINF:-1 group-title="ALTERNATE 7",EPIX2 HD 1080P
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/8582
 #EXTINF:-1 group-title="ALTERNATE 2",ESPN HD 1080P
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/8581
@@ -3123,7 +3123,7 @@ http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/8564
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/8563
 #EXTINF:-1 group-title="ALTERNATE 2",HBOZone HD 1080P
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/8562
-#EXTINF:-1,USA: HEROES AND ICONS
+#EXTINF:-1 group-title="ALTERNATE 7",HEROES AND ICONS
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/7991
 #EXTINF:-1 group-title="ALTERNATE 2",HGTV HD 1080
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/11773
@@ -3499,25 +3499,25 @@ http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/17156
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/17813
 #EXTINF:-1,USA : E! HD
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/26395
-#EXTINF:-1,USA: CINEMAX II
+#EXTINF:-1 group-title="ALTERNATE 7",CINEMAX II
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/17850
-#EXTINF:-1,USA: NBCSN Bay Area
+#EXTINF:-1 group-title="ALTERNATE 7",NBCSN Bay Area
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/26824
-#EXTINF:-1,USA: NBCSN Boston
+#EXTINF:-1 group-title="ALTERNATE 7",NBCSN Boston
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/26823
-#EXTINF:-1,USA: NBCSN California
+#EXTINF:-1 group-title="ALTERNATE 7",NBCSN California
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/26822
-#EXTINF:-1,USA: NBCSN Chicago
+#EXTINF:-1 group-title="ALTERNATE 7",NBCSN Chicago
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/26821
-#EXTINF:-1,USA: NBCSN HD
+#EXTINF:-1 group-title="ALTERNATE 7",NBCSN HD
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/26820
-#EXTINF:-1,USA: NBCSN North West
+#EXTINF:-1 group-title="ALTERNATE 7",NBCSN North West
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/26819
-#EXTINF:-1,USA: NBCSN Philly
+#EXTINF:-1 group-title="ALTERNATE 7",NBCSN Philly
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/26818
-#EXTINF:-1,USA: Yes Network FHD
+#EXTINF:-1 group-title="ALTERNATE 7",Yes Network FHD
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/26828
-#EXTINF:-1,USA: CBN HD
+#EXTINF:-1 group-title="ALTERNATE 7",CBN HD
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/27169
 #EXTINF:-1 group-title="ALTERNATE 2",BET HER HD
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/27167
@@ -3747,19 +3747,19 @@ http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/27105
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/27104
 #EXTINF:-1,USA : STADIUM HD ORIGINAL
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/27103
-#EXTINF:-1,USA: Eleven Sports HD
+#EXTINF:-1 group-title="ALTERNATE 7",Eleven Sports HD
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/28282
-#EXTINF:-1,USA: SMITHSONIAN CHANNEL
+#EXTINF:-1 group-title="ALTERNATE 7",SMITHSONIAN CHANNEL
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/29586
-#EXTINF:-1,USA: Telemundo Boston
+#EXTINF:-1 group-title="ALTERNATE 7",Telemundo Boston
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/29343
-#EXTINF:-1,USA: Telemundo Houston
+#EXTINF:-1 group-title="ALTERNATE 7",Telemundo Houston
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/29337
-#EXTINF:-1,USA: Telemundo New York
+#EXTINF:-1 group-title="ALTERNATE 7",Telemundo New York
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/29333
-#EXTINF:-1,USA: Telemundo Phoenix
+#EXTINF:-1 group-title="ALTERNATE 7",Telemundo Phoenix
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/29331
-#EXTINF:-1,USA: Telemundo Tucson
+#EXTINF:-1 group-title="ALTERNATE 7",Telemundo Tucson
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/29328
 #EXTINF:-1,VIP US: MLB Extra Innings 721 HD US
 http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/31118
@@ -8580,6 +8580,89 @@ https://api.vpnmate.com/play/?vlc=1&channel=3005998&token=Dfu6wdqIZ9lM:YTRjYTYwM
 https://api.vpnmate.com/play/?vlc=1&channel=1018213&token=Dfu6wdqIZ9lM:YTRjYTYwMTM5MjFiNTA3ZWY0N2NkYzkwYTNjMDQ0YTJlODQ0ZmQxYQ==
 #EXTINF:-1 tvg-id="wpix.new.york.superstation.us" tvg-name="wpix.new.york.superstation.us" tvg-type="live" group-title="ALTERNATE 6" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/wpix.new.york.superstation.us.png",WPIX New York (3008162)
 https://api.vpnmate.com/play/?vlc=1&channel=3008162&token=Dfu6wdqIZ9lM:YTRjYTYwMTM5MjFiNTA3ZWY0N2NkYzkwYTNjMDQ0YTJlODQ0ZmQxYQ==
+###Alternates###
+#EXTINF:-1 group-title="ALTERNATE 7",ABC NEWS
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/10671
+#EXTINF:-1 group-title="ALTERNATE 7",CBS NEWS
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/10670
+#EXTINF:-1 group-title="ALTERNATE 7",NEWS 12 BROOKLYN
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/10674
+#EXTINF:-1 group-title="ALTERNATE 7",NEWS 12 LONG ISLAND
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/10668
+#EXTINF:-1 group-title="ALTERNATE 7",WEATHER CHANNEL
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/10669
+#EXTINF:-1 group-title="ALTERNATE 7",A&E HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1839
+#EXTINF:-1 group-title="ALTERNATE 7",ABC
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/4490
+#EXTINF:-1 group-title="ALTERNATE 7",ABC HD USA
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1816
+#EXTINF:-1 group-title="ALTERNATE 7",ABC NY FHD USA
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/6521
+#EXTINF:-1 group-title="ALTERNATE 7",AMC HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1792
+#EXTINF:-1 group-title="ALTERNATE 7",ANIMAL PLANET HD USA
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1941
+#EXTINF:-1 group-title="ALTERNATE 7",BRAVO HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/6092
+#EXTINF:-1 group-title="ALTERNATE 7",BLOOMBERG POLITICS LIVE EVENTS
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/18919
+#EXTINF:-1 group-title="ALTERNATE 7",BOOMERANG
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/18921
+#EXTINF:-1 group-title="ALTERNATE 7",CARTOON NETWORK
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1794
+#EXTINF:-1 group-title="ALTERNATE 7",CBSN HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1795
+#EXTINF:-1 group-title="ALTERNATE 7",CBS HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/6882
+#EXTINF:-1 group-title="ALTERNATE 7",CNN HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1761
+#EXTINF:-1 group-title="ALTERNATE 7",CINEMAX ACTION
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/6522
+#EXTINF:-1 group-title="ALTERNATE 7",CW HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1821
+#EXTINF:-1 group-title="ALTERNATE 7",CW HD [A]
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/4468
+#EXTINF:-1 group-title="ALTERNATE 7",DISCOVERY FAMILY HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1797
+#EXTINF:-1 group-title="ALTERNATE 7",DISNEY CHANNEL
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1763
+#EXTINF:-1 group-title="ALTERNATE 7",DISNEY JUNIOR
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/4510
+#EXTINF:-1 group-title="ALTERNATE 7",DISNEY XD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1762
+#EXTINF:-1 group-title="ALTERNATE 7",FOOD NETWORK HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1946
+#EXTINF:-1 group-title="ALTERNATE 7",FOX NEWS HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/4502
+#EXTINF:-1 group-title="ALTERNATE 7",FX HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/18920
+#EXTINF:-1 group-title="ALTERNATE 7",HBO
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1803
+#EXTINF:-1 group-title="ALTERNATE 7",HGTV HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1891
+#EXTINF:-1 group-title="ALTERNATE 7",HGTV FHD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/6074
+#EXTINF:-1 group-title="ALTERNATE 7",HISTORY HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1824
+#EXTINF:-1 group-title="ALTERNATE 7",MSNBC
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1776
+#EXTINF:-1 group-title="ALTERNATE 7",NEWS 12 NEW JERSEY
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/5787
+#EXTINF:-1 group-title="ALTERNATE 7",NAT GEO HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/7405
+#EXTINF:-1 group-title="ALTERNATE 7",NICK JR HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/4494
+#EXTINF:-1 group-title="ALTERNATE 7",STARZ EDGE HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/6075
+#EXTINF:-1 group-title="ALTERNATE 7",TBS HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1923
+#EXTINF:-1 group-title="ALTERNATE 7",TELEMUNDO
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/10680
+#EXTINF:-1 group-title="ALTERNATE 7",TLC HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1857
+#EXTINF:-1 group-title="ALTERNATE 7",TNT HD
+http://elitex.me:80/BtKnORvQa6/8y6Cn4bjPX/1829
 ###VOD
 #EXTINF:-1 tvg-id="" tvg-name="US:Cinema 40 PPV" tvg-logo="" group-title="VOD",Secret Life of Pets 2
 http://hd1.dlmania.com/Hollywood/The%20Secret%20Life%20of%20Pets%202%20-%20BRRip/The%20Secret%20Life%20of%20Pets%202%20-%20BRRip%20HD%20(HDMp4Mania).mp4
