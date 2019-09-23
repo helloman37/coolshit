@@ -636,341 +636,130 @@ https://api.vpnmate.com/play/?vlc=1&channel=7000183&token=NYJzeYZbI7Fh:NDM1MGJmM
 https://api.vpnmate.com/play/?vlc=1&channel=2772&token=NYJzeYZbI7Fh:NDM1MGJmMmQxNGQzMWNkNTliYzk1YjY4NzQzN2Y5NGVmMTJiYWFkOA==
 #EXTINF:-1 group-title="SKY CINEMA",Sky Cinema Thriller (7000186)
 https://api.vpnmate.com/play/?vlc=1&channel=7000186&token=NYJzeYZbI7Fh:NDM1MGJmMmQxNGQzMWNkNTliYzk1YjY4NzQzN2Y5NGVmMTJiYWFkOA==#EXTINF:-1 group-title="OSN", Movies First FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103514
-#EXTINF:-1 group-title="OSN", Movies First HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103515
-#EXTINF:-1 group-title="OSN", Movies First +2 HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103516
-#EXTINF:-1 group-title="OSN", Movies First HD +4
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103535
-#EXTINF:-1 group-title="OSN",VIP OSN ACTION FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/108985
-#EXTINF:-1 group-title="OSN", ACTION FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103517
-#EXTINF:-1 group-title="OSN", ACTION HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103518
-#EXTINF:-1 group-title="OSN", Action HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103536
-#EXTINF:-1 group-title="OSN", Action HD +4
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103537
-#EXTINF:-1 group-title="OSN",VIP OSN MOVIES FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/108986
-#EXTINF:-1 group-title="OSN", MOVIES FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103512
-#EXTINF:-1 group-title="OSN", MOVIES HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103513
-#EXTINF:-1 group-title="OSN", MOVIES HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103533
-#EXTINF:-1 group-title="OSN", MOVIES HD +4
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103534
-#EXTINF:-1 group-title="OSN",VIP OSN ENIGMA FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/108980
-#EXTINF:-1 group-title="OSN", ENIGMA FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103519
-#EXTINF:-1 group-title="OSN", ENIGMA HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103520
-#EXTINF:-1 group-title="OSN", ENIGMA HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103538
-#EXTINF:-1 group-title="OSN", ENIGMA HD +4
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103539
-#EXTINF:-1 group-title="OSN", POPUP HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/105160
-#EXTINF:-1 group-title="OSN",VIP OSN MOVIES KIDS HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/108981
-#EXTINF:-1 group-title="OSN", Kids FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103688
-#EXTINF:-1 group-title="OSN", Kids HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103521
-#EXTINF:-1 group-title="OSN", Kids HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103540
-#EXTINF:-1 group-title="OSN",VIP OSN MOVIES DISNEY HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/108983
-#EXTINF:-1 group-title="OSN", Movies Disney HD (AR)
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103522
-#EXTINF:-1 group-title="OSN", Movies Disney HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103685
-#EXTINF:-1 group-title="OSN", Movies Disney HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103541
-#EXTINF:-1 group-title="OSN", Paramount Channel HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/97075
-#EXTINF:-1 group-title="OSN", Paramount Channel HD +1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103554
-#EXTINF:-1 group-title="OSN", Paramount Channel HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103555
-#EXTINF:-1 group-title="OSN", Paramount Channel HD +4
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103556
-#EXTINF:-1 group-title="OSN", Comedy Central HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/45267
-#EXTINF:-1 group-title="OSN", Comedy Central HD +1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103551
-#EXTINF:-1 group-title="OSN", Comedy Central HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103552
-#EXTINF:-1 group-title="OSN", Comedy Central HD +4
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103553
-#EXTINF:-1 group-title="OSN",VIP OSN BINGE FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/108991
-#EXTINF:-1 group-title="OSN", Binge HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103528
-#EXTINF:-1 group-title="OSN", Binge HD +1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103561
-#EXTINF:-1 group-title="OSN", Binge HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103562
-#EXTINF:-1 group-title="OSN",VIP OSN COMEDY FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/108988
-#EXTINF:-1 group-title="OSN", Comedy HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103526
-#EXTINF:-1 group-title="OSN", Comedy HD +1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103542
-#EXTINF:-1 group-title="OSN", Comedy HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103543
-#EXTINF:-1 group-title="OSN", My Cinema HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/95278
-#EXTINF:-1 group-title="OSN", Star Movies HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94656
-#EXTINF:-1 group-title="OSN", Star World HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94655
-#EXTINF:-1 group-title="OSN", SYFY HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94654
-#EXTINF:-1 group-title="OSN", SYFY HD +1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103557
-#EXTINF:-1 group-title="OSN", SYFY HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103558
-#EXTINF:-1 group-title="OSN", Fox Movies HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94631
-#EXTINF:-1 group-title="OSN", Fox Action Movies HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94630
-#EXTINF:-1 group-title="OSN", Fox Family Movies HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94629
-#EXTINF:-1 group-title="OSN", Movies 007 FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/102517
-#EXTINF:-1 group-title="OSN", ON DEMAND FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/102518
-#EXTINF:-1 group-title="OSN",VIP OSN FIRST SERIES FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/108987
-#EXTINF:-1 group-title="OSN", Series First 1 HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94662
-#EXTINF:-1 group-title="OSN", Series First 1 HD +1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103591
-#EXTINF:-1 group-title="OSN", Series First 1 HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103592
-#EXTINF:-1 group-title="OSN", Series First 1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/105085
-#EXTINF:-1 group-title="OSN", TLC HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103605
-#EXTINF:-1 group-title="OSN", FOX HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94628
-#EXTINF:-1 group-title="OSN", FX HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94627
-#EXTINF:-1 group-title="OSN", Fox Life HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94634
-#EXTINF:-1 group-title="OSN", Fox Crime  HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94632
-#EXTINF:-1 group-title="OSN", BBC First HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94658
-#EXTINF:-1 group-title="OSN", BBC First HD +1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103584
-#EXTINF:-1 group-title="OSN", BBC First HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103585
-#EXTINF:-1 group-title="OSN", E! Entertainment FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/102515
-#EXTINF:-1 group-title="OSN", E! Entertainment HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94626
-#EXTINF:-1 group-title="OSN", E! Entertainment HD +1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103583
-#EXTINF:-1 group-title="OSN", itv choice
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94688
-#EXTINF:-1 group-title="OSN",VIP OSN LIVING FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/108984
-#EXTINF:-1 group-title="OSN", Living HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94657
-#EXTINF:-1 group-title="OSN", Living HD +1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103559
-#EXTINF:-1 group-title="OSN", Living HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103560
-#EXTINF:-1 group-title="OSN",VIP OSN Ya Hala! FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/108979
-#EXTINF:-1 group-title="OSN", Ya Hala! FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/101127
-#EXTINF:-1 group-title="OSN", Ya Hala! HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94707
-#EXTINF:-1 group-title="OSN", Ya Hala! HD +1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103530
-#EXTINF:-1 group-title="OSN", Ya Hala! HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103531
-#EXTINF:-1 group-title="OSN", Ya Hala! HD +4
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103532
-#EXTINF:-1 group-title="OSN", Ya Hala!
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94659
-#EXTINF:-1 group-title="OSN",VIP OSN Ya Hala! Aloula FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/108978
-#EXTINF:-1 group-title="OSN", Ya Hala! Aloula HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94653
-#EXTINF:-1 group-title="OSN", Ya Hala! Aloula HD*
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94652
-#EXTINF:-1 group-title="OSN", Ya Hala! Aloula HD +1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103548
-#EXTINF:-1 group-title="OSN", Ya Hala! Aloula HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103549
-#EXTINF:-1 group-title="OSN", Ya Hala! Aloula HD +4
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103550
-#EXTINF:-1 group-title="OSN",VIP OSN Ya Hala! Cinema FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/108977
-#EXTINF:-1 group-title="OSN", Ya Hala! Cinema FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/95266
-#EXTINF:-1 group-title="OSN", Ya Hala! Cinema HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94660
-#EXTINF:-1 group-title="OSN", Ya Hala! Cinema HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103544
-#EXTINF:-1 group-title="OSN", Ya Hala! Cinema HD +4
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103545
-#EXTINF:-1 group-title="OSN", Ya Hala! Cinema HD +6
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103546
-#EXTINF:-1 group-title="OSN", Ya Hala! Cinema HD +8
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103547
-#EXTINF:-1 group-title="OSN", Ya Hala! Cinema HD*
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94686
-#EXTINF:-1 group-title="OSN", Orbit Cinema 1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94645
-#EXTINF:-1 group-title="OSN", Orbit Cinema 2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94644
-#EXTINF:-1 group-title="OSN", ART Aflam 1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/105090
-#EXTINF:-1 group-title="OSN", ART Aflam 2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/105089
-#EXTINF:-1 group-title="OSN", ART Cinema
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/105088
-#EXTINF:-1 group-title="OSN", Orbit Musalsalat HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94647
-#EXTINF:-1 group-title="OSN", Orbit Musalsalat HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/96496
-#EXTINF:-1 group-title="OSN", AD Drama+ HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/104716
-#EXTINF:-1 group-title="OSN", ART Hekayat 1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/105087
-#EXTINF:-1 group-title="OSN", ART Hekayat 2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/105086
-#EXTINF:-1 group-title="OSN", Alyoum FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/102519
-#EXTINF:-1 group-title="OSN", Alyoum HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94646
-#EXTINF:-1 group-title="OSN", Alyoum HD +1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103586
-#EXTINF:-1 group-title="OSN", Alyoum HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103587
-#EXTINF:-1 group-title="OSN", Alyoum HD +4
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103588
-#EXTINF:-1 group-title="OSN", Orbit Music Now
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94643
-#EXTINF:-1 group-title="OSN", Orbit Fann
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94863
-#EXTINF:-1 group-title="OSN", Al Safwa
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/100039
-#EXTINF:-1 group-title="OSN", Beity
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/107260
-#EXTINF:-1 group-title="OSN", NEWS
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103527
-#EXTINF:-1 group-title="OSN", Fox Rewayat HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94633
-#EXTINF:-1 group-title="OSN", Animal planet HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94671
-#EXTINF:-1 group-title="OSN", Discovery HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94638
-#EXTINF:-1 group-title="OSN", Discovery Family HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94864
-#EXTINF:-1 group-title="OSN", Discovery Science HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94639
-#EXTINF:-1 group-title="OSN", Discovery Science HD*
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94691
-#EXTINF:-1 group-title="OSN", Crime & Investigation
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94685
-#EXTINF:-1 group-title="OSN", Discovery ID HD (AR)
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103694
-#EXTINF:-1 group-title="OSN", Discovery ID HD +1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103695
-#EXTINF:-1 group-title="OSN", Discovery ID HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103696
-#EXTINF:-1 group-title="OSN", History FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/102514
-#EXTINF:-1 group-title="OSN", History HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94637
-#EXTINF:-1 group-title="OSN", History HD +1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103589
-#EXTINF:-1 group-title="OSN", History HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103590
-#EXTINF:-1 group-title="OSN", H2 HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/45268
-#EXTINF:-1 group-title="OSN", H2 HD +1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103604
-#EXTINF:-1 group-title="OSN", National Geographic HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94641
-#EXTINF:-1 group-title="OSN", Nat Geo Wild HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94642
-#EXTINF:-1 group-title="OSN", Nat Geo People HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94640
-#EXTINF:-1 group-title="OSN", Nickelodeon HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94648
-#EXTINF:-1 group-title="OSN", Nickelodeon HD +1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103598
-#EXTINF:-1 group-title="OSN", Nickelodeon HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103599
-#EXTINF:-1 group-title="OSN", Nick Jr Arabia
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/100396
-#EXTINF:-1 group-title="OSN", Nick Jr +1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103582
-#EXTINF:-1 group-title="OSN", NickToons HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/104717
-#EXTINF:-1 group-title="OSN", Disney FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/102516
-#EXTINF:-1 group-title="OSN", Disney HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94651
-#EXTINF:-1 group-title="OSN", Disney HD +1
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103600
-#EXTINF:-1 group-title="OSN", Disney HD +2
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103601
-#EXTINF:-1 group-title="OSN", Disney Junior HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94650
-#EXTINF:-1 group-title="OSN", Disney XD HD (AR)
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/104715
-#EXTINF:-1 group-title="OSN", Disney XD FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/100385
-#EXTINF:-1 group-title="OSN", Kids Zone  HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94649
-#EXTINF:-1 group-title="OSN", Baby tv HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94706
-#EXTINF:-1 group-title="OSN", Boomerang HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/105159
-#EXTINF:-1 group-title="OSN",VIP OSN CRICKET FHD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/108989
-#EXTINF:-1 group-title="OSN", CRIC HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/100413
-#EXTINF:-1 group-title="OSN", WWE NETWORK HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/97317
-#EXTINF:-1,Animal Planet HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/45259
-#EXTINF:-1 group-title="OSN", VH1 HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/105156
-#EXTINF:-1 group-title="OSN", Abu Dhabi Sport 1 HD ✦
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94624
-#EXTINF:-1 group-title="OSN", Abu Dhabi Sport 2 HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94623
-#EXTINF:-1 group-title="OSN", Abu Dhabi Sport 2 HD ✦
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94622
-#EXTINF:-1 group-title="OSN", Abu Dhabi Sport 3 HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94621
-#EXTINF:-1 group-title="OSN", Abu Dhabi Sport 3 HD ✦
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94620
-#EXTINF:-1 group-title="OSN", Abu Dhabi Sport 4 HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94619
-#EXTINF:-1 group-title="OSN", Abu Dhabi Sport 4 HD ✦
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94618
-#EXTINF:-1 group-title="OSN", Abu Dhabi Sport 5 HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94617
-#EXTINF:-1 group-title="OSN", Abu Dhabi Sport 5 HD ✦
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94616
-#EXTINF:-1 group-title="OSN", Abu Dhabi Sport 6 HD
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/94615
-#EXTINF:-1 group-title="OSN", Ya Hala! Aloula HD ( packup)
-http://king-tv.net:8080/h.jafail/mJybS4vSyz/103524
+#EXTINF:-1 group-title="OSN", OSN AL Safwa ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8884
+#EXTINF:-1 group-title="OSN", ON Sport ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/21080
+#EXTINF:-1 group-title="OSN", OSN Action 2 AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5901
+#EXTINF:-1 group-title="OSN", OSN Action AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5881
+#EXTINF:-1 group-title="OSN", OSN Al Yawm AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8879
+#EXTINF:-1 group-title="OSN", OSN Alfa Alyawm ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5902
+#EXTINF:-1 group-title="OSN", OSN Alkass Sport 1 AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5888
+#EXTINF:-1 group-title="OSN", OSN Alkass Sport 2 AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5887
+#EXTINF:-1 group-title="OSN", OSN Alkass Sport 4 AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5886
+#EXTINF:-1 group-title="OSN", OSN Alkass Sport 5 AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5885
+#EXTINF:-1 group-title="OSN", OSN Animal Planet AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5911
+#EXTINF:-1 group-title="OSN", OSN Art Aflam 1 AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8883
+#EXTINF:-1 group-title="OSN", OSN Art Aflam 2 AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8882
+#EXTINF:-1 group-title="OSN", OSN Art Cinema ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8881
+#EXTINF:-1 group-title="OSN", OSN Box Office 1 AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5897
+#EXTINF:-1 group-title="OSN", OSN Box Office 2 AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5896
+#EXTINF:-1 group-title="OSN", OSN Box Office 3 AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5895
+#EXTINF:-1 group-title="OSN", OSN CBC Reality AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8857
+#EXTINF:-1 group-title="OSN", OSN Cinema 1 AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8856
+#EXTINF:-1 group-title="OSN", OSN Demand Extra 1 HD AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8867
+#EXTINF:-1 group-title="OSN", OSN Discovery ID FHD ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5903
+#EXTINF:-1 group-title="OSN", OSN Discovery Science ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5894
+#EXTINF:-1 group-title="OSN", OSN First ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5904
+#EXTINF:-1 group-title="OSN", OSN First Comedy ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5915
+#EXTINF:-1 group-title="OSN", OSN Home Cinema 1 AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/4133
+#EXTINF:-1 group-title="OSN", OSN Home Cinema 2 AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/4132
+#EXTINF:-1 group-title="OSN", OSN MBC Drama ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5912
+#EXTINF:-1 group-title="OSN", OSN MBC Plus Drama AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5906
+#EXTINF:-1 group-title="OSN", OSN Movies  2 HD AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8842
+#EXTINF:-1 group-title="OSN", OSN Movies Action  2 HD AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8871
+#EXTINF:-1 group-title="OSN", OSN Movies Action ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5916
+#EXTINF:-1 group-title="OSN", OSN Movies Box Office 1 ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8840
+#EXTINF:-1 group-title="OSN", OSN Movies Box Office 2 HD AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8869
+#EXTINF:-1 group-title="OSN", OSN Movies Box Office 3 HD AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8854
+#EXTINF:-1 group-title="OSN", OSN Movies Comedy ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5905
+#EXTINF:-1 group-title="OSN", OSN Movies Drama AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5892
+#EXTINF:-1 group-title="OSN", OSN Movies Drama HD ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/4123
+#EXTINF:-1 group-title="OSN", OSN Movies Family HD AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/4122
+#EXTINF:-1 group-title="OSN", OSN Movies Festival ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5917
+#EXTINF:-1 group-title="OSN", OSN Movies First HD ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/4121
+#EXTINF:-1 group-title="OSN", OSN Movies HD AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8868
+#EXTINF:-1 group-title="OSN", OSN Movies Kids HD AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/4119
+#EXTINF:-1 group-title="OSN", OSN Movies Premiere +2 ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5898
+#EXTINF:-1 group-title="OSN", OSN Movies Premiere ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5899
+#EXTINF:-1 group-title="OSN", OSN Music Now AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/4117
+#EXTINF:-1 group-title="OSN", OSN Nat Geo Wild AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5893
+#EXTINF:-1 group-title="OSN", OSN ON Demand 1 AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8852
+#EXTINF:-1 group-title="OSN", OSN Orbit Cinema 2 AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8863
+#EXTINF:-1 group-title="OSN", OSN SeeVii Beelink ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8835
+#EXTINF:-1 group-title="OSN", OSN Series Comedy HD AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8839
+#EXTINF:-1 group-title="OSN", OSN Series First HD AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8844
+#EXTINF:-1 group-title="OSN", OSN Sports 2 AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5884
+#EXTINF:-1 group-title="OSN", OSN Sports 3 AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5883
+#EXTINF:-1 group-title="OSN", OSN Sports 4 AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5882
+#EXTINF:-1 group-title="OSN", OSN Star Movies ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5914
+#EXTINF:-1 group-title="OSN", OSN Star World ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5913
+#EXTINF:-1 group-title="OSN", OSN WWE HD ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8860
+#EXTINF:-1 group-title="OSN", OSN Ya Hala Al Oula 2 FHD AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8848
+#EXTINF:-1 group-title="OSN", OSN Ya Hala Drama ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/5908
+#EXTINF:-1 group-title="OSN", OSN Ya Hala FHD ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8855
+#EXTINF:-1 group-title="OSN", OSN Yahala Cinema HD AR
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/8862
+#EXTINF:-1 group-title="OSN", OSN Disney Channel HD ARB
+http://iptv.rent:8080/n1b0o46m/c5m67k0k5/35465
 #EXTM3U x-tvg-url="http://383873.xyz:2095/xmltv.php?username=jesusaguilar&password=1977" m3uautoload=1 cache=5000 deinterlace=1
 #EXTINF:-1 type="stream" tvg-id="0_Espana" tvg-name="#0 HD" tvg-logo="http://i.imgur.com/8Nu5xyf.jpg" group-title="ALTERNATE 1",#0 HD
 http://383873.xyz:2095/live/jesusaguilar/1977/150.ts
