@@ -1714,8 +1714,6 @@ https://api.vpnmate.com/play/?vlc=1&channel=9074861&token=Dfu6wdqIZ9lM:YTRjYTYwM
 #EXTINF:-1 tvg-id="wpix.new.york.superstation.us" tvg-name="wpix.new.york.superstation.us" tvg-type="live" #EXTINF:-1 group-title="USA CHANNELS 2" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/wpix.new.york.superstation.us.png",WPIX New York (3008162)
 https://api.vpnmate.com/play/?vlc=1&channel=3008162&token=Dfu6wdqIZ9lM:YTRjYTYwMTM5MjFiNTA3ZWY0N2NkYzkwYTNjMDQ0YTJlODQ0ZmQxYQ==
 #EXTM3U x-tvg-url="http://glorytv.club:826/xmltv.php?username=Pitopri&password=ovP2DMsoA9" m3uautoload=1 cache=5000 deinterlace=1
-#EXTINF:-1 tvg-ID="discoveryvelocity.us" tvg-name="MOTORTREND Local" tvg-logo="http://net-iptv.net/guide_files/guide_logo/NEWLOGOS/MotorTrendLogo.png" group-title="ALTERNATE 3",MOTORTREND Local
-http://glorytv.club:826/Pitopri/ovP2DMsoA9/1452
 #EXTINF:-1 #EXTINF:-1 group-title="USA CHANNELS 2",MORE MAX(CINEMAX)
 http://kstv.xyz:8080/Sayhay10/1867385835/23342
 #EXTINF:-1 #EXTINF:-1 group-title="USA CHANNELS 2",STAR MOVIES HD
@@ -2982,6 +2980,8 @@ https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 #EXTINF:-1 tvg-ID="Velocity HD" tvg-name="MOTORTREND Low BW" tvg-logo="http://net-iptv.net/guide_files/guide_logo/NEWLOGOS/MotorTrendLogo.png" group-title="ALTERNATE 3",MOTORTREND Low BW
 http://glorytv.club:826/Pitopri/ovP2DMsoA9/86534
+#EXTINF:-1 tvg-ID="discoveryvelocity.us" tvg-name="MOTORTREND Local" tvg-logo="http://net-iptv.net/guide_files/guide_logo/NEWLOGOS/MotorTrendLogo.png" group-title="ALTERNATE 3",MOTORTREND Local
+http://glorytv.club:826/Pitopri/ovP2DMsoA9/1452
 #EXTINF:-1 tvg-ID="aande.us" tvg-name="A&E Local" tvg-logo="http://net-iptv.net/guide_files/guide_logo/NEWLOGOS/AEHD.png" group-title="ALTERNATE 3",A&E Local
 http://glorytv.club:826/Pitopri/ovP2DMsoA9/1307
 #EXTINF:-1 tvg-ID="aande.us" tvg-name="A&E BACKUP" tvg-logo="http://net-iptv.net/guide_files/guide_logo/NEWLOGOS/AETV.png" group-title="ALTERNATE 3",A&E BACKUP
