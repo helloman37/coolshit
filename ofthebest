@@ -2802,17 +2802,17 @@ http://kstv.xyz:8080/Maje05/12345678/31574
 http://kstv.xyz:8080/Maje05/12345678/31573
 #EXTINF:-1 tvg-id="FS College Pacific" tvg-name="US | FOX COLLEGE PACIFIC HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_college_sports_pacific.png" group-title="USA CHANNELS 4",US | FOX COLLEGE PACIFIC HD
 http://kstv.xyz:8080/Maje05/12345678/31572
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 1 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title="Football (Soccer)  (Test)",US | FOX SOCCER MATCH PASS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 1 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title=""USA CHANNELS 4",",US | FOX SOCCER MATCH PASS 1 HD
 http://kstv.xyz:8080/Maje05/12345678/31579
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 2 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title="Football (Soccer)  (Test)",US | FOX SOCCER MATCH PASS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 2 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title=""USA CHANNELS 4",",US | FOX SOCCER MATCH PASS 2 HD
 http://kstv.xyz:8080/Maje05/12345678/31578
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 3 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title="Football (Soccer)  (Test)",US | FOX SOCCER MATCH PASS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 3 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title=""USA CHANNELS 4",",US | FOX SOCCER MATCH PASS 3 HD
 http://kstv.xyz:8080/Maje05/12345678/31577
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 4 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title="Football (Soccer)  (Test)",US | FOX SOCCER MATCH PASS 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 4 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title=""USA CHANNELS 4",",US | FOX SOCCER MATCH PASS 4 HD
 http://kstv.xyz:8080/Maje05/12345678/31576
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 5 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title="Football (Soccer)  (Test)",US | FOX SOCCER MATCH PASS 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 5 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title=""USA CHANNELS 4",",US | FOX SOCCER MATCH PASS 5 HD
 http://kstv.xyz:8080/Maje05/12345678/31575
-#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="US | FOX SOCCER PLUS HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer_plus.png" group-title="Football (Soccer)  (Test)",US | FOX SOCCER PLUS HD
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="US | FOX SOCCER PLUS HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer_plus.png" group-title=""USA CHANNELS 4",",US | FOX SOCCER PLUS HD
 http://kstv.xyz:8080/Maje05/12345678/31580
 #EXTINF:-1 tvg-id="foxsportsarizona.us" tvg-name="US | FOX SPORTS ARIZONA" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_arizona.png" group-title="USA CHANNELS 4",US | FOX SPORTS ARIZONA
 http://kstv.xyz:8080/Maje05/12345678/31590
