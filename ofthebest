@@ -2242,6 +2242,782 @@ http://shacktv.com:8080/Lazaro/Lazaro123/115399
 http://shacktv.com:8080/Lazaro/Lazaro123/61167
 #EXTINF:-1 group-title="USA CHANNELS 3",PPV UK BOXING LIVE
 http://shacktv.com:8080/Lazaro/Lazaro123/61064
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="US | A&E" tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--nWj4HTog--/t_xlarge_l/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1380022499/attachment/aande-logo.jpg" group-title="USA CHANNELS 4",US | A&E
+http://kstv.xyz:8080/Maje05/12345678/15966
+#EXTINF:-1 tvg-id="abcwcvb.us" tvg-name="US | ABC" tvg-logo="https://image.roku.com/channels/images/7204583d6c7a4ac1850a795ed1a64d6f-hd.jpg" group-title="USA CHANNELS 4",US | ABC
+http://kstv.xyz:8080/Maje05/12345678/15956
+#EXTINF:-1 tvg-id="abcwcvb.us" tvg-name="US | ABC EAST HD" tvg-logo="https://image.roku.com/channels/images/7204583d6c7a4ac1850a795ed1a64d6f-hd.jpg" group-title="USA CHANNELS 4",US | ABC EAST HD
+http://kstv.xyz:8080/Maje05/12345678/23363
+#EXTINF:-1 tvg-id="ABC News" tvg-name="US | ABC News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML._SY355_.png" group-title="US - News",US | ABC News
+http://kstv.xyz:8080/Maje05/12345678/15967
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="US | AL JAZEERA NEWS ENGLISH HD" tvg-logo="http://pluspng.com/img-png/al-jazeera-logo-png-al-jazeera-channel-png-pluspng-com-al-jazeera-television-png-268.png" group-title="US - News",US | AL JAZEERA NEWS ENGLISH HD
+http://kstv.xyz:8080/Maje05/12345678/23361
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US | AMC" tvg-logo="http://picon.webhop.net/logo/usa/amc_us.png" group-title="USA CHANNELS 4",US | AMC
+http://kstv.xyz:8080/Maje05/12345678/22572
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US | AMC HD" tvg-logo="http://picon.webhop.net/logo/usa/amc_us_hd.png" group-title="USA CHANNELS 4",US | AMC HD
+http://kstv.xyz:8080/Maje05/12345678/15923
+#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="US | AMERICAN HEROES CHANNEL" tvg-logo="http://picon.webhop.net/logo/usa/american_heroes_channel_us.png" group-title="USA CHANNELS 4",US | AMERICAN HEROES CHANNEL
+http://kstv.xyz:8080/Maje05/12345678/23360
+#EXTINF:-1 tvg-id="antennatv.us" tvg-name="US | ANTENNA TV" tvg-logo="https://i.pinimg.com/originals/a4/eb/d5/a4ebd5be3c07066ba47184827b0e408f.jpg" group-title="USA CHANNELS 4",US | ANTENNA TV
+http://kstv.xyz:8080/Maje05/12345678/23228
+#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="US | Action Max HD" tvg-logo="http://picon.webhop.net/logo/usa/action_max_us.png" group-title="US - Movies",US | Action Max HD
+http://kstv.xyz:8080/Maje05/12345678/15924
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US | Animal Planet" tvg-logo="http://picon.webhop.net/logo/usa/animal_planet_us.png" group-title="USA CHANNELS 4",US | Animal Planet
+http://kstv.xyz:8080/Maje05/12345678/15957
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US | Animal Planet USA" tvg-logo="http://picon.webhop.net/logo/usa/animal_planet_us.png" group-title="USA CHANNELS 4",US | Animal Planet USA
+http://kstv.xyz:8080/Maje05/12345678/22570
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="US | BBC AMERICA" tvg-logo="http://picon.webhop.net/logo/usa/bbc_america.png" group-title="USA CHANNELS 4",US | BBC AMERICA
+http://kstv.xyz:8080/Maje05/12345678/23359
+#EXTINF:-1 tvg-id="bet.us" tvg-name="US | BET" tvg-logo="http://picon.webhop.net/logo/usa/bet_us.png" group-title="USA CHANNELS 4",US | BET
+http://kstv.xyz:8080/Maje05/12345678/22566
+#EXTINF:-1 tvg-id="bether.us" tvg-name="US | BET HER" tvg-logo="http://picon.webhop.net/logo/usa/bet_us.png" group-title="USA CHANNELS 4",US | BET HER
+http://kstv.xyz:8080/Maje05/12345678/23356
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="US | BIG TEN NETWORK" tvg-logo="http://picon.webhop.net/logo/usa/big_ten_network.png" group-title="US - Sports",US | BIG TEN NETWORK
+http://kstv.xyz:8080/Maje05/12345678/23355
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="US | BOOMERANG" tvg-logo="http://picon.webhop.net/logo/usa/boomerang_global.png" group-title="US - Kids",US | BOOMERANG
+http://kstv.xyz:8080/Maje05/12345678/23354
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="US | BOUNCE TV" tvg-logo="http://picon.webhop.net/logo/usa/bounce_tv_us.png" group-title="US - Kids",US | BOUNCE TV
+http://kstv.xyz:8080/Maje05/12345678/23353
+#EXTINF:-1 tvg-id="buzzertv.us" tvg-name="US | BUZZER" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture15123563441874.jpg" group-title="USA CHANNELS 4",US | BUZZER
+http://kstv.xyz:8080/Maje05/12345678/23352
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US | Bein Sports" tvg-logo="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwi295qfwN7dAhUrCMAKHQrqBNEQjRx6BAgBEAU&url=http%3A%2F%2Fanywhere.fm%2Fen-vpn%2Fwatch-bein-sports-in-uk%2F&psig=AOvVaw3sAYEOoRDQ9nr4cz_Vc12Z&ust=1538251691978975" group-title="US - Sports",US | Bein Sports
+http://kstv.xyz:8080/Maje05/12345678/15922
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="US | Bloomberg" tvg-logo="http://picon.webhop.net/logo/usa/bloomberg_tv_us.png" group-title="USA CHANNELS 4",US | Bloomberg
+http://kstv.xyz:8080/Maje05/12345678/15958
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="US |  Bloomberg" tvg-logo="http://picon.webhop.net/logo/usa/bloomberg_tv_us.png" group-title="US - News",US |  Bloomberg
+http://kstv.xyz:8080/Maje05/12345678/12739
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="US | Boomerang USA" tvg-logo="http://picon.webhop.net/logo/usa/boomerang_global.png" group-title="US - Kids",US | Boomerang USA
+http://kstv.xyz:8080/Maje05/12345678/22563
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="US | Bravo" tvg-logo="http://picon.webhop.net/logo/usa/bravo_ca.png" group-title="USA CHANNELS 4",US | Bravo
+http://kstv.xyz:8080/Maje05/12345678/22562
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="US | CARTOONITO ES" tvg-logo="http://picon.webhop.net/logo/usa/cartoonito_us.png" group-title="US - Kids",US | CARTOONITO ES
+http://kstv.xyz:8080/Maje05/12345678/23351
+#EXTINF:-1 tvg-id="cbswcbs.us" tvg-name="US | CBS" tvg-logo="http://picon.webhop.net/logo/usa/cbs_hd.png" group-title="USA CHANNELS 4",US | CBS
+http://kstv.xyz:8080/Maje05/12345678/22560
+#EXTINF:-1 tvg-id="cbswcbs.us" tvg-name="US | CBS HD" tvg-logo="http://picon.webhop.net/logo/usa/cbs_hd.png" group-title="USA CHANNELS 4",US | CBS HD
+http://kstv.xyz:8080/Maje05/12345678/15935
+#EXTINF:-1 tvg-id="cbssportsnetwork.us" tvg-name="US | CBS Sports Network HD" tvg-logo="http://picon.webhop.net/logo/usa/cbs_sports_us.png" group-title="US - Sports",US | CBS Sports Network HD
+http://kstv.xyz:8080/Maje05/12345678/15944
+#EXTINF:-1 tvg-id="wgn9chicago.us" tvg-name="US | CHICAGO WGN 9" tvg-logo="https://media.licdn.com/dms/image/C560BAQHRpXEajCI4YA/company-logo_200_200/0?e=2159024400&v=beta&t=MdnbL3YMFLRxqQQpThQekTVNG6EhIIJXnzTk1JGlAZU" group-title="USA CHANNELS 4",US | CHICAGO WGN 9
+http://kstv.xyz:8080/Maje05/12345678/23347
+#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="US | CINEMAX ACTION MAX EAST" tvg-logo="http://picon.webhop.net/logo/usa/action_max_us.png" group-title="US - Movies",US | CINEMAX ACTION MAX EAST
+http://kstv.xyz:8080/Maje05/12345678/23346
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US | CINEMAX EAST" tvg-logo="http://picon.webhop.net/logo/usa/cinemax_east.png" group-title="US - Movies",US | CINEMAX EAST
+http://kstv.xyz:8080/Maje05/12345678/23345
+#EXTINF:-1 tvg-id="outermax.us" tvg-name="US | CINEMAX OUTER MAX" tvg-logo="http://picon.webhop.net/logo/usa/cinemax_us.png" group-title="US - Movies",US | CINEMAX OUTER MAX
+http://kstv.xyz:8080/Maje05/12345678/23344
+#EXTINF:-1 tvg-id="ThrillerMax.us" tvg-name="US | CINEMAX THRILLERMAX HD" tvg-logo="http://picon.webhop.net/logo/usa/thriller_max_east.png" group-title="US - Movies",US | CINEMAX THRILLERMAX HD
+http://kstv.xyz:8080/Maje05/12345678/23343
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="US | CINEMAX MORE MAXX" tvg-logo="http://picon.webhop.net/logo/usa/cinemax_us.png" group-title="US - Movies",US | CINEMAX MORE MAXX
+http://kstv.xyz:8080/Maje05/12345678/23342
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="US | CMT HD" tvg-logo="http://picon.webhop.net/logo/usa/cmt.png" group-title="USA CHANNELS 4",US | CMT HD
+http://kstv.xyz:8080/Maje05/12345678/23341
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US | CNBC" tvg-logo="http://picon.webhop.net/logo/usa/cnbc_uk.png" group-title="USA CHANNELS 4",US | CNBC
+http://kstv.xyz:8080/Maje05/12345678/15902
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US | CNN" tvg-logo="http://picon.webhop.net/logo/usa/cnn_usa.png" group-title="US - News",US | CNN
+http://kstv.xyz:8080/Maje05/12345678/23340
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US | CNN HD" tvg-logo="http://picon.webhop.net/logo/usa/cnn_hd.png" group-title="US - News",US | CNN HD
+http://kstv.xyz:8080/Maje05/12345678/15934
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="US | COOKING CHANNEL HD" tvg-logo="http://picon.webhop.net/logo/usa/cooking_channel_us.png" group-title="USA CHANNELS 4",US | COOKING CHANNEL HD
+http://kstv.xyz:8080/Maje05/12345678/23339
+#EXTINF:-1 tvg-id="" tvg-name="US | COUNTRY NETWORK" tvg-logo="http://picon.webhop.net/logo/usa/the-country-network-us.png" group-title="USA CHANNELS 4",US | COUNTRY NETWORK
+http://kstv.xyz:8080/Maje05/12345678/23338
+#EXTINF:-1 tvg-id="cozi.kags.dt2.bryan.tx.us" tvg-name="US | COZI TV" tvg-logo="http://picon.webhop.net/logo/usa/cozi_tv_us.png" group-title="USA CHANNELS 4",US | COZI TV
+http://kstv.xyz:8080/Maje05/12345678/23337
+#EXTINF:-1 tvg-id="CSPAN1" tvg-name="US | CSPAN" tvg-logo="http://picon.webhop.net/logo/usa/cspan.png" group-title="US - News",US | CSPAN
+http://kstv.xyz:8080/Maje05/12345678/23336
+#EXTINF:-1 tvg-id="cw50wpwr.us" tvg-name="US | CW HD" tvg-logo="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjK-tCgxd7dAhVLGsAKHYf6BWoQjRx6BAgBEAU&url=https%3A%2F%2Fwww.wtccommunications.ca%2Fresidential%2Ftelevision%2Fchannel-lineup&psig=AOvVaw2QlJMu8Wrkp7AFDEgPW7pe&ust=1538253037379709" group-title="USA CHANNELS 4",US | CW HD
+http://kstv.xyz:8080/Maje05/12345678/15960
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="US | Cartoon Network" tvg-logo="http://picon.webhop.net/logo/usa/cartoon_network_global.png" group-title="US - Kids",US | Cartoon Network
+http://kstv.xyz:8080/Maje05/12345678/15959
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="US | Cartoon Network USA" tvg-logo="http://picon.webhop.net/logo/usa/cartoon_network_global.png" group-title="US - Kids",US | Cartoon Network USA
+http://kstv.xyz:8080/Maje05/12345678/22561
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US | Cinemax" tvg-logo="http://picon.webhop.net/logo/usa/cinemax_us.png" group-title="US - Movies",US | Cinemax
+http://kstv.xyz:8080/Maje05/12345678/22557
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US | Cinemax HD" tvg-logo="http://picon.webhop.net/logo/usa/cinemax_us.png" group-title="US - Movies",US | Cinemax HD
+http://kstv.xyz:8080/Maje05/12345678/15921
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="US | Comedy Central" tvg-logo="http://picon.webhop.net/logo/usa/comedy_central_us.png" group-title="USA CHANNELS 4",US | Comedy Central
+http://kstv.xyz:8080/Maje05/12345678/15933
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="US | Comedy Central HD" tvg-logo="http://picon.webhop.net/logo/usa/comedy_central_us_hd.png" group-title="USA CHANNELS 4",US | Comedy Central HD
+http://kstv.xyz:8080/Maje05/12345678/22553
+#EXTINF:-1 tvg-id="CrimeInvestigation.us" tvg-name="US | Crime and Investigation" tvg-logo="https://www.passiondistribution.com/media/140673/logo_crime-and-investigation-canada.png" group-title="USA CHANNELS 4",US | Crime and Investigation
+http://kstv.xyz:8080/Maje05/12345678/22551
+#EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="US | DISCOVERY FAMILY" tvg-logo="http://picon.webhop.net/logo/usa/discovery_family_us.png" group-title="USA CHANNELS 4",US | DISCOVERY FAMILY
+http://kstv.xyz:8080/Maje05/12345678/23334
+#EXTINF:-1 tvg-id="DiscoveryLife.us" tvg-name="US | DISCOVERY LIFE" tvg-logo="http://picon.webhop.net/logo/usa/discovery_life_us.png" group-title="USA CHANNELS 4",US | DISCOVERY LIFE
+http://kstv.xyz:8080/Maje05/12345678/23333
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="US | DISNEY CHANNEL HD" tvg-logo="http://picon.webhop.net/logo/usa/disney_channel_global_hd.png" group-title="US - Kids",US | DISNEY CHANNEL HD
+http://kstv.xyz:8080/Maje05/12345678/23332
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="US | DISNEY XD" tvg-logo="http://picon.webhop.net/logo/usa/disney_xd_us.png" group-title="US - Kids",US | DISNEY XD
+http://kstv.xyz:8080/Maje05/12345678/23330
+#EXTINF:-1 tvg-id="DoItYourselfNetwork.us" tvg-name="US | DIY Network" tvg-logo="http://picon.webhop.net/logo/usa/diy_network_us.png" group-title="USA CHANNELS 4",US | DIY Network
+http://kstv.xyz:8080/Maje05/12345678/22542
+#EXTINF:-1 tvg-id="DogTV.us" tvg-name="US | DOG TV" tvg-logo="http://picon.webhop.net/logo/usa/dog_tv_us.png" group-title="USA CHANNELS 4",US | DOG TV
+http://kstv.xyz:8080/Maje05/12345678/23212
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="US | Destination America" tvg-logo="http://picon.webhop.net/logo/usa/destination_america_us.png" group-title="USA CHANNELS 4",US | Destination America
+http://kstv.xyz:8080/Maje05/12345678/23201
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="US | Discovery Channel USA" tvg-logo="http://picon.webhop.net/logo/usa/discovery_us.png" group-title="USA CHANNELS 4",US | Discovery Channel USA
+http://kstv.xyz:8080/Maje05/12345678/22549
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="US | Discovery HD" tvg-logo="http://picon.webhop.net/logo/usa/discovery_us_hd.png" group-title="USA CHANNELS 4",US | Discovery HD
+http://kstv.xyz:8080/Maje05/12345678/15920
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="US | Discovery Science HD" tvg-logo="http://picon.webhop.net/logo/usa/discovery_science_global_hd.png" group-title="USA CHANNELS 4",US | Discovery Science HD
+http://kstv.xyz:8080/Maje05/12345678/15961
+#EXTINF:-1 tvg-id="MotorTrend.us" tvg-name="US | MotorTrend TV" tvg-logo="http://picon.webhop.net/logo/usa/discovery_velocity_ca.png" group-title="USA CHANNELS 4",US | MotorTrend TV
+http://kstv.xyz:8080/Maje05/12345678/22546
+#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="US | E!" tvg-logo="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwij_ajExd7dAhWMDcAKHW2QDQYQjRx6BAgBEAU&url=http%3A%2F%2Fthevillas.co%2Fe%2F&psig=AOvVaw3EYY7x1AkXXO6y1c-LvgXa&ust=1538253112539254" group-title="USA CHANNELS 4",US | E!
+http://kstv.xyz:8080/Maje05/12345678/15962
+#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="US | E! Entertainment USA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/712_300.png" group-title="USA CHANNELS 4",US | E! Entertainment USA
+http://kstv.xyz:8080/Maje05/12345678/22541
+#EXTINF:-1 tvg-id="elevensports.us" tvg-name="US | ELEVEN SPORTS HD" tvg-logo="http://picon.webhop.net/logo/usa/eleven_sports_network.png" group-title="US - Sports",US | ELEVEN SPORTS HD
+http://kstv.xyz:8080/Maje05/12345678/23327
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="US | EPIX 2" tvg-logo="http://picon.webhop.net/logo/usa/epix_2.png" group-title="US - Movies",US | EPIX 2
+http://kstv.xyz:8080/Maje05/12345678/23326
+#EXTINF:-1 tvg-id="epix.us" tvg-name="US | EPIX HD" tvg-logo="http://picon.webhop.net/logo/usa/epix.png" group-title="US - Movies",US | EPIX HD
+http://kstv.xyz:8080/Maje05/12345678/23325
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US | ESPN 2" tvg-logo="http://picon.webhop.net/logo/usa/espn_2.png" group-title="US - Sports",US | ESPN 2
+http://kstv.xyz:8080/Maje05/12345678/22537
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US | ESPN 2 HD" tvg-logo="http://picon.webhop.net/logo/usa/espn_2_hd.png" group-title="US - Sports",US | ESPN 2 HD
+http://kstv.xyz:8080/Maje05/12345678/15950
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US | ESPN HD" tvg-logo="http://picon.webhop.net/logo/usa/espn_us.png" group-title="US - Sports",US | ESPN HD
+http://kstv.xyz:8080/Maje05/12345678/15951
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US | ESPN NEWS" tvg-logo="http://picon.webhop.net/logo/usa/espnews.png" group-title="US - Sports",US | ESPN NEWS
+http://kstv.xyz:8080/Maje05/12345678/23213
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US | ESPN News HD" tvg-logo="http://picon.webhop.net/logo/usa/espnews_hd.png" group-title="US - Sports",US | ESPN News HD
+http://kstv.xyz:8080/Maje05/12345678/15952
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US | ESPN U" tvg-logo="http://picon.webhop.net/logo/usa/espn_u.png" group-title="US - Sports",US | ESPN U
+http://kstv.xyz:8080/Maje05/12345678/22536
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US | ESPN U HD" tvg-logo="http://picon.webhop.net/logo/usa/espn_u_hd.png" group-title="US - Sports",US | ESPN U HD
+http://kstv.xyz:8080/Maje05/12345678/15949
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="US | FOOD NETWORK" tvg-logo="http://picon.webhop.net/logo/usa/food_network_us.png" group-title="USA CHANNELS 4",US | FOOD NETWORK
+http://kstv.xyz:8080/Maje05/12345678/23323
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="US | FOX 5 HD" tvg-logo="https://image.roku.com/developer_channels/prod/25b90a8dde308fc7897105a8c2d8514576ca6d851cf006560e8681c8039f63ad.png" group-title="USA CHANNELS 4",US | FOX 5 HD
+http://kstv.xyz:8080/Maje05/12345678/23322
+#EXTINF:-1 tvg-id="fox50wraz.us" tvg-name="US | FOX 50" tvg-logo="http://www.usalivestreamnews.com/wp-content/uploads/2018/02/WRAZ-Fox-50.jpg" group-title="USA CHANNELS 4",US | FOX 50
+http://kstv.xyz:8080/Maje05/12345678/23321
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="US | FOX BUSINESS HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_business_hd.png" group-title="US - News",US | FOX BUSINESS HD
+http://kstv.xyz:8080/Maje05/12345678/23320
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="US | FOX DEPORTES" tvg-logo="http://picon.webhop.net/logo/usa/fox_deportes_us.png" group-title="US - Sports",US | FOX DEPORTES
+http://kstv.xyz:8080/Maje05/12345678/23316
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="US | FREEFORM HD" tvg-logo="http://picon.webhop.net/logo/usa/freeform_us.png" group-title="USA CHANNELS 4",US | FREEFORM HD
+http://kstv.xyz:8080/Maje05/12345678/23313
+#EXTINF:-1 tvg-id="FuseTV.us" tvg-name="US | FUSE" tvg-logo="http://picon.webhop.net/logo/usa/fuse_us.png" group-title="USA CHANNELS 4",US | FUSE
+http://kstv.xyz:8080/Maje05/12345678/23312
+#EXTINF:-1 tvg-id="Fusion.us" tvg-name="US | FUSION" tvg-logo="http://picon.webhop.net/logo/usa/fusion_tv_us.png" group-title="USA CHANNELS 4",US | FUSION
+http://kstv.xyz:8080/Maje05/12345678/23311
+#EXTINF:-1 tvg-id="FX.us" tvg-name="US | FX" tvg-logo="http://picon.webhop.net/logo/usa/fx_us.png" group-title="USA CHANNELS 4",US | FX
+http://kstv.xyz:8080/Maje05/12345678/15918
+#EXTINF:-1 tvg-id="FX.us" tvg-name="US | FX East" tvg-logo="http://picon.webhop.net/logo/usa/fx_us.png" group-title="USA CHANNELS 4",US | FX East
+http://kstv.xyz:8080/Maje05/12345678/22522
+#EXTINF:-1 tvg-id="FXMRetro.us" tvg-name="US | FXM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPSODY8kyyBy1ulHqZ7T3MX6h4w9Zn_ESgtEuoxMsomObpxpcV" group-title="US - Movies",US | FXM
+http://kstv.xyz:8080/Maje05/12345678/23309
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="US | FXX" tvg-logo="http://picon.webhop.net/logo/usa/fxx_us.png" group-title="USA CHANNELS 4",US | FXX
+http://kstv.xyz:8080/Maje05/12345678/15917
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="US | FXX East" tvg-logo="http://picon.webhop.net/logo/usa/fxx_east.png" group-title="USA CHANNELS 4",US | FXX East
+http://kstv.xyz:8080/Maje05/12345678/22521
+#EXTINF:-1 tvg-id="FYI.us" tvg-name="US | FYI NETWORK" tvg-logo="http://picon.webhop.net/logo/usa/fyi_us.png" group-title="USA CHANNELS 4",US | FYI NETWORK
+http://kstv.xyz:8080/Maje05/12345678/23308
+#EXTINF:-1 tvg-id="fight.network.canada.ca" tvg-name="US | Fight Network" tvg-logo="https://i.pinimg.com/originals/77/1c/d5/771cd5de22f66729f0348e330d1b8664.jpg" group-title="US - Sports",US | Fight Network
+http://kstv.xyz:8080/Maje05/12345678/15901
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="US | Fox 5" tvg-logo="https://www.gmkfreelogos.com/logos/F/img/Fox_5-5.gif" group-title="USA CHANNELS 4",US | Fox 5
+http://kstv.xyz:8080/Maje05/12345678/22524
+#EXTINF:-1 tvg-id="foxcollegesportsatlantic.us" tvg-name="US | Fox College Atlantic" tvg-logo="http://picon.webhop.net/logo/usa/fox_college_sports_central.png" group-title="US - Sports",US | Fox College Atlantic
+http://kstv.xyz:8080/Maje05/12345678/23319
+#EXTINF:-1 tvg-id="foxcollegesportscentral.us" tvg-name="US | Fox College Central" tvg-logo="http://picon.webhop.net/logo/usa/fox_college_sports_central.png" group-title="US - Sports",US | Fox College Central
+http://kstv.xyz:8080/Maje05/12345678/23318
+#EXTINF:-1 tvg-id="foxcollegesportspacific.us" tvg-name="US | Fox College Pacific" tvg-logo="http://picon.webhop.net/logo/usa/fox_college_sports_pacific.png" group-title="US - Sports",US | Fox College Pacific
+http://kstv.xyz:8080/Maje05/12345678/23317
+#EXTINF:-1 tvg-id="fox.us" tvg-name="US | Fox HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOJbv8VCoX4XfDIjZeKJC4JbI3zg2crzT0NX6CZ6z48zMvtWCw2g" group-title="USA CHANNELS 4",US | Fox HD
+http://kstv.xyz:8080/Maje05/12345678/15932
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="US | Fox News" tvg-logo="http://picon.webhop.net/logo/usa/fox_news_channel.png" group-title="US - News",US | Fox News
+http://kstv.xyz:8080/Maje05/12345678/22530
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="US | Fox News HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_news_channel_hd.png" group-title="US - News",US | Fox News HD
+http://kstv.xyz:8080/Maje05/12345678/15919
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="US | Fox Soccer Plus" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer_plus.png" group-title="US - Sports",US | Fox Soccer Plus
+http://kstv.xyz:8080/Maje05/12345678/23315
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US | Fox Sports 1" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_1_cl.png" group-title="US - Sports",US | Fox Sports 1
+http://kstv.xyz:8080/Maje05/12345678/22526
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US | Fox Sports 1 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_1_cl.png" group-title="US - Sports",US | Fox Sports 1 HD
+http://kstv.xyz:8080/Maje05/12345678/15948
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US | Fox Sports 2" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_2_my.png" group-title="US - Sports",US | Fox Sports 2
+http://kstv.xyz:8080/Maje05/12345678/22525
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US | Fox Sports 2 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_2_my.png" group-title="US - Sports",US | Fox Sports 2 HD
+http://kstv.xyz:8080/Maje05/12345678/15947
+#EXTINF:-1 tvg-id="Galavision.us" tvg-name="US | GALAVISION" tvg-logo="http://picon.webhop.net/logo/usa/galavision_east.png" group-title="USA CHANNELS 4",US | GALAVISION
+http://kstv.xyz:8080/Maje05/12345678/23307
+#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="US | GAME SHOW NETWORK" tvg-logo="http://picon.webhop.net/logo/usa/gsn_tv_us.png" group-title="USA CHANNELS 4",US | GAME SHOW NETWORK
+http://kstv.xyz:8080/Maje05/12345678/23306
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US | Golf HD" tvg-logo="http://picon.webhop.net/logo/usa/golf_channel_us.png" group-title="US - Sports",US | Golf HD
+http://kstv.xyz:8080/Maje05/12345678/15943
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US | HBO" tvg-logo="http://picon.webhop.net/logo/usa/hbo.png" group-title="US - Movies",US | HBO
+http://kstv.xyz:8080/Maje05/12345678/15913
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="US | HBO COMEDY HD" tvg-logo="http://picon.webhop.net/logo/usa/hbo_comedy_us.png" group-title="US - Movies",US | HBO COMEDY HD
+http://kstv.xyz:8080/Maje05/12345678/23303
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="US | HBO Comedy" tvg-logo="http://picon.webhop.net/logo/usa/hbo_comedy_us.png" group-title="US - Movies",US | HBO Comedy
+http://kstv.xyz:8080/Maje05/12345678/15916
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="US | HBO EAST HD" tvg-logo="http://picon.webhop.net/logo/usa/hbo_east.png" group-title="US - Movies",US | HBO EAST HD
+http://kstv.xyz:8080/Maje05/12345678/23302
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="US | HBO FAMILY HD" tvg-logo="http://picon.webhop.net/logo/usa/hbo_family_east.png" group-title="US - Movies",US | HBO FAMILY HD
+http://kstv.xyz:8080/Maje05/12345678/23301
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="US | HBO Family" tvg-logo="http://picon.webhop.net/logo/usa/hbo_family.png" group-title="US - Movies",US | HBO Family
+http://kstv.xyz:8080/Maje05/12345678/22516
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="US | HBO HD" tvg-logo="http://picon.webhop.net/logo/usa/hbo_east.png" group-title="US - Movies",US | HBO HD
+http://kstv.xyz:8080/Maje05/12345678/23300
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="US | HBO Signature" tvg-logo="http://picon.webhop.net/logo/usa/hbo_signature.png" group-title="US - Movies",US | HBO Signature
+http://kstv.xyz:8080/Maje05/12345678/15915
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="US | HBO ZONE HD" tvg-logo="http://picon.webhop.net/logo/usa/hbo_zone_us.png" group-title="US - Movies",US | HBO ZONE HD
+http://kstv.xyz:8080/Maje05/12345678/23299
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US | HBO Zone" tvg-logo="http://picon.webhop.net/logo/usa/hbo_zone_us.png" group-title="US - Movies",US | HBO Zone
+http://kstv.xyz:8080/Maje05/12345678/15914
+#EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="US | HEROS & ICONS" tvg-logo="http://picon.webhop.net/logo/usa/heroes_and_icons_us.png" group-title="USA CHANNELS 4",US | HEROS & ICONS
+http://kstv.xyz:8080/Maje05/12345678/23225
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="US | HGTV" tvg-logo="http://picon.webhop.net/logo/usa/hgtv_us.png" group-title="USA CHANNELS 4",US | HGTV
+http://kstv.xyz:8080/Maje05/12345678/15972
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="US | HLN" tvg-logo="http://picon.webhop.net/logo/usa/hln_us.png" group-title="USA CHANNELS 4",US | HLN
+http://kstv.xyz:8080/Maje05/12345678/23296
+#EXTINF:-1 tvg-id="HomeShoppingNetwork.us" tvg-name="US | HSN" tvg-logo="http://picon.webhop.net/logo/usa/hsn.png" group-title="USA CHANNELS 4",US | HSN
+http://kstv.xyz:8080/Maje05/12345678/23224
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US | Hallmark" tvg-logo="http://picon.webhop.net/logo/usa/hallmark_channel_us.png" group-title="USA CHANNELS 4",US | Hallmark
+http://kstv.xyz:8080/Maje05/12345678/22519
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="US | Hallmark Movies & Mysteries HD" tvg-logo="http://picon.webhop.net/logo/usa/hallmark_movies_mysteries_east.png" group-title="US - Movies",US | Hallmark Movies & Mysteries HD
+http://kstv.xyz:8080/Maje05/12345678/22518
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="US | History" tvg-logo="http://picon.webhop.net/logo/usa/history_us.png" group-title="USA CHANNELS 4",US | History
+http://kstv.xyz:8080/Maje05/12345678/15912
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="US | History Channel" tvg-logo="http://picon.webhop.net/logo/usa/history_us.png" group-title="USA CHANNELS 4",US | History Channel
+http://kstv.xyz:8080/Maje05/12345678/22515
+#EXTINF:-1 tvg-id="ION.us" tvg-name="US | ION TV" tvg-logo="http://picon.webhop.net/logo/usa/ion_tv_us.png" group-title="USA CHANNELS 4",US | ION TV
+http://kstv.xyz:8080/Maje05/12345678/23294
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="US | Investigation Discovery" tvg-logo="http://picon.webhop.net/logo/usa/investigation_discovery_us.png" group-title="USA CHANNELS 4",US | Investigation Discovery
+http://kstv.xyz:8080/Maje05/12345678/22513
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="US | Investigation Discovery HD" tvg-logo="http://picon.webhop.net/logo/usa/investigation_discovery_us.png" group-title="USA CHANNELS 4",US | Investigation Discovery HD
+http://kstv.xyz:8080/Maje05/12345678/15911
+#EXTINF:-1 tvg-id="Lifetime.uk" tvg-name="US | LIFETIME" tvg-logo="http://picon.webhop.net/logo/usa/lifetime_us.png" group-title="USA CHANNELS 4",US | LIFETIME
+http://kstv.xyz:8080/Maje05/12345678/23293
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US | LIFETIME MOVIES" tvg-logo="http://picon.webhop.net/logo/usa/lifetime_movie_network_us.png" group-title="US - Movies",US | LIFETIME MOVIES
+http://kstv.xyz:8080/Maje05/12345678/23292
+#EXTINF:-1 tvg-id="LifetimeNetwork.us" tvg-name="US | Lifetime USA" tvg-logo="http://picon.webhop.net/logo/usa/lifetime_us.png" group-title="USA CHANNELS 4",US | Lifetime USA
+http://kstv.xyz:8080/Maje05/12345678/22509
+#EXTINF:-1 tvg-id="mavtv.us" tvg-name="US | MAV TV" tvg-logo="http://picon.webhop.net/logo/usa/mav_tv_us.png" group-title="US - Sports",US | MAV TV
+http://kstv.xyz:8080/Maje05/12345678/25946
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="US | MLB Network" tvg-logo="http://picon.webhop.net/logo/usa/mlb_network.png" group-title="US - Sports",US | MLB Network
+http://kstv.xyz:8080/Maje05/12345678/22507
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="US | MLB Network HD" tvg-logo="http://picon.webhop.net/logo/usa/mlb_network.png" group-title="US - Sports",US | MLB Network HD
+http://kstv.xyz:8080/Maje05/12345678/15904
+#EXTINF:-1 tvg-id="MadisonSquareGarden.us" tvg-name="US | MSG" tvg-logo="http://picon.webhop.net/logo/usa/msg_network_alternate.png" group-title="USA CHANNELS 4",US | MSG
+http://kstv.xyz:8080/Maje05/12345678/23290
+#EXTINF:-1 tvg-id="MadisonSquareGardenPlus.us" tvg-name="US | MSG +" tvg-logo="http://picon.webhop.net/logo/usa/msg_2.png" group-title="USA CHANNELS 4",US | MSG +
+http://kstv.xyz:8080/Maje05/12345678/23289
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="US | MSNBC" tvg-logo="http://picon.webhop.net/logo/usa/msnbc_us.png" group-title="US - News",US | MSNBC
+http://kstv.xyz:8080/Maje05/12345678/22506
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="US | MTV HD" tvg-logo="http://picon.webhop.net/logo/usa/mtv_us_hd.png" group-title="USA CHANNELS 4",US | MTV HD
+http://kstv.xyz:8080/Maje05/12345678/23288
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="US | MTV HITS" tvg-logo="http://picon.webhop.net/logo/usa/mtv_hits_us_global.png" group-title="USA CHANNELS 4",US | MTV HITS
+http://kstv.xyz:8080/Maje05/12345678/23287
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="US | MTV LIVE" tvg-logo="http://picon.webhop.net/logo/usa/mtv_live_us.png" group-title="USA CHANNELS 4",US | MTV LIVE
+http://kstv.xyz:8080/Maje05/12345678/23286
+#EXTINF:-1 tvg-id="mtv2.us" tvg-name="US | MTV2" tvg-logo="http://picon.webhop.net/logo/usa/mtv2_us.png" group-title="USA CHANNELS 4",US | MTV2
+http://kstv.xyz:8080/Maje05/12345678/23217
+#EXTINF:-1 tvg-id="my9wwor.us" tvg-name="US | MY 9" tvg-logo="https://pmcdeadline2.files.wordpress.com/2015/06/mynetworktv-logo.jpg?w=446&h=299&crop=1" group-title="USA CHANNELS 4",US | MY 9
+http://kstv.xyz:8080/Maje05/12345678/23214
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="US | MoreMax HD" tvg-logo="http://picon.webhop.net/logo/usa/more_max_us.png" group-title="US - Movies",US | MoreMax HD
+http://kstv.xyz:8080/Maje05/12345678/15910
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="US | NAT GEO WILD HD US" tvg-logo="http://picon.webhop.net/logo/usa/nat_geo_wild_us_hd.png" group-title="USA CHANNELS 4",US | NAT GEO WILD HD US
+http://kstv.xyz:8080/Maje05/12345678/23285
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="US | NBA HD" tvg-logo="http://picon.webhop.net/logo/usa/nba_tv_us.png" group-title="US - Sports",US | NBA HD
+http://kstv.xyz:8080/Maje05/12345678/15946
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="US | NBA TV" tvg-logo="http://picon.webhop.net/logo/usa/nba_tv_us.png" group-title="US - Sports",US | NBA TV
+http://kstv.xyz:8080/Maje05/12345678/22501
+#EXTINF:-1 tvg-id="nbcwbts.us" tvg-name="US | NBC 10 EAST" tvg-logo="https://media.nbcphiladelphia.com/designimages/nbcphi_station_logo.jpg?ak=bc" group-title="USA CHANNELS 4",US | NBC 10 EAST
+http://kstv.xyz:8080/Maje05/12345678/23283
+#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="US | NBC 4 LA" tvg-logo="https://freeetv.com/images/01_logo/nbc_4_usa.jpg" group-title="USA CHANNELS 4",US | NBC 4 LA
+http://kstv.xyz:8080/Maje05/12345678/23211
+#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="US | NBC 4 NY" tvg-logo="https://media.nbcwashington.com/images/652*367/NBC4+Logo+2016.jpg" group-title="USA CHANNELS 4",US | NBC 4 NY
+http://kstv.xyz:8080/Maje05/12345678/15931
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US | NBC Golf" tvg-logo="https://pbs.twimg.com/profile_images/463161936314507266/iVZpHSne_400x400.jpeg" group-title="US - Sports",US | NBC Golf
+http://kstv.xyz:8080/Maje05/12345678/22500
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="US | NBC SPORTS (BAY AREA) HD" tvg-logo="http://picon.webhop.net/logo/usa/nbc_sports_bay_area.png" group-title="NBC Sport Regionals",US | NBC SPORTS (BAY AREA) HD
+http://kstv.xyz:8080/Maje05/12345678/28744
+#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="US | NBC SPORTS (BOSTON) HD" tvg-logo="http://picon.webhop.net/logo/usa/nbc_sports_us.png" group-title="NBC Sport Regionals",US | NBC SPORTS (BOSTON) HD
+http://kstv.xyz:8080/Maje05/12345678/28743
+#EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-name="US | NBC Sports (California) HD" tvg-logo="http://picon.webhop.net/logo/usa/nbc_sports_california.png" group-title="NBC Sport Regionals",US | NBC Sports (California) HD
+http://kstv.xyz:8080/Maje05/12345678/28742
+#EXTINF:-1 tvg-id="nbcsportschicago.us" tvg-name="US | NBC Sports (Chicago) HD" tvg-logo="http://picon.webhop.net/logo/usa/nbc_sports_us.png" group-title="NBC Sport Regionals",US | NBC Sports (Chicago) HD
+http://kstv.xyz:8080/Maje05/12345678/28741
+#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="US | NBC Sports (Network) HD" tvg-logo="http://picon.webhop.net/logo/usa/nbc_sports_us.png" group-title="NBC Sport Regionals",US | NBC Sports (Network) HD
+http://kstv.xyz:8080/Maje05/12345678/28740
+#EXTINF:-1 tvg-id="nbcsportsnorthwest.us" tvg-name="US | NBC Sports (Northwest) HD" tvg-logo="http://picon.webhop.net/logo/usa/nbc_sports_us.png" group-title="NBC Sport Regionals",US | NBC Sports (Northwest) HD
+http://kstv.xyz:8080/Maje05/12345678/28739
+#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="US | NBC Sports (Philadelphia) HD" tvg-logo="http://picon.webhop.net/logo/usa/nbc_sports_us.png" group-title="NBC Sport Regionals",US | NBC Sports (Philadelphia) HD
+http://kstv.xyz:8080/Maje05/12345678/28738
+#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="US | NBC Sports Network" tvg-logo="http://picon.webhop.net/logo/usa/nbc_sports_us.png" group-title="US - Sports",US | NBC Sports Network
+http://kstv.xyz:8080/Maje05/12345678/22499
+#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="US | NBC Sports Network HD" tvg-logo="http://picon.webhop.net/logo/usa/nbc_sports_us.png" group-title="US - Sports",US | NBC Sports Network HD
+http://kstv.xyz:8080/Maje05/12345678/15942
+#EXTINF:-1 tvg-id="NBCUniverso.us" tvg-name="US | NBC UNIVERSO" tvg-logo="http://picon.webhop.net/logo/usa/nbc_universo_us.png" group-title="USA CHANNELS 4",US | NBC UNIVERSO
+http://kstv.xyz:8080/Maje05/12345678/23281
+#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="US | NBCSN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqv5WKXElwmuFSrsYWjnjQekYW6KAtdFYn4XGS7zOpU0lpJr1kpQ" group-title="US - Sports",US | NBCSN
+http://kstv.xyz:8080/Maje05/12345678/10054
+#EXTINF:-1 tvg-id="" tvg-name="US | NEWS 12 LONG ISLAND" tvg-logo="http://cdn.shopify.com/s/files/1/0797/7239/files/image_medium.png?16304741194814527185" group-title="US - News",US | NEWS 12 LONG ISLAND
+http://kstv.xyz:8080/Maje05/12345678/23216
+#EXTINF:-1 tvg-id="" tvg-name="US | NEWS 12 NEW JERSEY" tvg-logo="https://bloximages.chicago2.vip.townnews.com/newjerseyhills.com/content/tncms/assets/v3/editorial/c/d0/cd089bd5-324e-5589-b3de-299ec7964921/578e8c638deb4.image.png" group-title="US - News",US | NEWS 12 NEW JERSEY
+http://kstv.xyz:8080/Maje05/12345678/23215
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US | NFL Channel HD" tvg-logo="http://picon.webhop.net/logo/usa/nfl_network_us.png" group-title="US - Sports",US | NFL Channel HD
+http://kstv.xyz:8080/Maje05/12345678/15945
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US | NFL Network HD" tvg-logo="http://picon.webhop.net/logo/usa/nfl_network_us.png" group-title="US - Sports",US | NFL Network HD
+http://kstv.xyz:8080/Maje05/12345678/22491
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US | NFL Network SD" tvg-logo="https://store-images.s-microsoft.com/image/apps.4039.9007199266409318.03a3dc62-465b-4ebf-9200-edda28f09eb6.dc765ff2-c768-4077-85fc-7bb1045757e3?mode=crop&q=90&h=270&w=270&background=%23013d75" group-title="US - Sports",US | NFL Network SD
+http://kstv.xyz:8080/Maje05/12345678/22490
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="US | NFL RED ZONE" tvg-logo="http://picon.webhop.net/logo/usa/nfl_red_zone.png" group-title="US - Sports",US | NFL RED ZONE
+http://kstv.xyz:8080/Maje05/12345678/23279
+#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="US | NHL Network HD" tvg-logo="http://picon.webhop.net/logo/usa/nhl_network.png" group-title="US - Sports",US | NHL Network HD
+http://kstv.xyz:8080/Maje05/12345678/15941
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="US | NICK HD" tvg-logo="http://picon.webhop.net/logo/usa/nick_us_hd.png" group-title="US - Kids",US | NICK HD
+http://kstv.xyz:8080/Maje05/12345678/23277
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="US | NICK JR" tvg-logo="http://picon.webhop.net/logo/usa/nick_jr_us.png" group-title="US - Kids",US | NICK JR
+http://kstv.xyz:8080/Maje05/12345678/23276
+#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="US | NICK JR.TOO" tvg-logo="http://picon.webhop.net/logo/usa/nick_jr_too_ie.png" group-title="US - Kids",US | NICK JR.TOO
+http://kstv.xyz:8080/Maje05/12345678/23275
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="US | NICKTOONS" tvg-logo="https://i.vimeocdn.com/portrait/23790201_300x300" group-title="US - Kids",US | NICKTOONS
+http://kstv.xyz:8080/Maje05/12345678/23274
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="US | Nat Geo USA" tvg-logo="http://picon.webhop.net/logo/usa/nat_geo_us.png" group-title="USA CHANNELS 4",US | Nat Geo USA
+http://kstv.xyz:8080/Maje05/12345678/22503
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="US | Nat Geo Wild USA" tvg-logo="http://picon.webhop.net/logo/usa/nat_geo_wild_br.png" group-title="USA CHANNELS 4",US | Nat Geo Wild USA
+http://kstv.xyz:8080/Maje05/12345678/22502
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="US | National Geographic" tvg-logo="http://picon.webhop.net/logo/usa/nat_geo_us.png" group-title="USA CHANNELS 4",US | National Geographic
+http://kstv.xyz:8080/Maje05/12345678/15953
+#EXTINF:-1 tvg-id="nickelodeon.east.us" tvg-name="US | Nickelodeon" tvg-logo="http://picon.webhop.net/logo/usa/nickelodeon_us.png" group-title="US - Kids",US | Nickelodeon
+http://kstv.xyz:8080/Maje05/12345678/15963
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="US | Nickelodeon USA" tvg-logo="http://picon.webhop.net/logo/usa/nickelodeon_us.png" group-title="US - Kids",US | Nickelodeon USA
+http://kstv.xyz:8080/Maje05/12345678/22486
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="US | OUTDOOR CHANNEL" tvg-logo="http://picon.webhop.net/logo/usa/outdoor_channel.png" group-title="USA CHANNELS 4",US | OUTDOOR CHANNEL
+http://kstv.xyz:8080/Maje05/12345678/23273
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="US | OWN NETWORK FHD" tvg-logo="http://picon.webhop.net/logo/usa/oprah_winfrey_network_us.png" group-title="USA CHANNELS 4",US | OWN NETWORK FHD
+http://kstv.xyz:8080/Maje05/12345678/23272
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="US | OXYGEN" tvg-logo="http://picon.webhop.net/logo/usa/oxygen_tv_us.png" group-title="USA CHANNELS 4",US | OXYGEN
+http://kstv.xyz:8080/Maje05/12345678/23271
+#EXTINF:-1 tvg-id="pac.12.arizona.us" tvg-name="US | PAC-12 Arizona HD" tvg-logo="http://picon.webhop.net/logo/usa/pac_12_networks_us.png" group-title="US - Sports",US | PAC-12 Arizona HD
+http://kstv.xyz:8080/Maje05/12345678/15978
+#EXTINF:-1 tvg-id="pac12bayarea.us" tvg-name="US | PAC-12 Bay Area HD" tvg-logo="http://picon.webhop.net/logo/usa/pac_12_networks_us.png" group-title="US - Sports",US | PAC-12 Bay Area HD
+http://kstv.xyz:8080/Maje05/12345678/15977
+#EXTINF:-1 tvg-id="pac12losangeles.us" tvg-name="US | PAC-12 Los Angeles HD" tvg-logo="http://picon.webhop.net/logo/usa/pac_12_networks_us.png" group-title="US - Sports",US | PAC-12 Los Angeles HD
+http://kstv.xyz:8080/Maje05/12345678/15976
+#EXTINF:-1 tvg-id="pac12mountain.us" tvg-name="US | PAC-12 Mountain HD" tvg-logo="http://picon.webhop.net/logo/usa/pac_12_networks_us.png" group-title="US - Sports",US | PAC-12 Mountain HD
+http://kstv.xyz:8080/Maje05/12345678/15975
+#EXTINF:-1 tvg-id="pac12oregon.us" tvg-name="US | PAC-12 Oregon HD" tvg-logo="http://picon.webhop.net/logo/usa/pac_12_networks_us.png" group-title="US - Sports",US | PAC-12 Oregon HD
+http://kstv.xyz:8080/Maje05/12345678/15974
+#EXTINF:-1 tvg-id="pac12washington.us" tvg-name="US | PAC-12 Washington HD" tvg-logo="http://picon.webhop.net/logo/usa/pac_12_networks_us.png" group-title="US - Sports",US | PAC-12 Washington HD
+http://kstv.xyz:8080/Maje05/12345678/15973
+#EXTINF:-1 tvg-id="pbswgcu.us" tvg-name="US | PBS" tvg-logo="http://picon.webhop.net/logo/usa/pbs.png" group-title="USA CHANNELS 4",US | PBS
+http://kstv.xyz:8080/Maje05/12345678/23264
+#EXTINF:-1 tvg-id="pbskids.us" tvg-name="US | PBS KIDS EAST" tvg-logo="http://picon.webhop.net/logo/usa/pbs_kids_us.png" group-title="US - Kids",US | PBS KIDS EAST
+http://kstv.xyz:8080/Maje05/12345678/23222
+#EXTINF:-1 tvg-id="pbswliw21.us" tvg-name="US | PBS WLIW 21" tvg-logo="http://www.vector-logo.net/logo_preview/eps/w/WLIW_21.png" group-title="USA CHANNELS 4",US | PBS WLIW 21
+http://kstv.xyz:8080/Maje05/12345678/23205
+#EXTINF:-1 tvg-id="poptv.us" tvg-name="US | POP" tvg-logo="http://picon.webhop.net/logo/usa/pop_us.png" group-title="US - Kids",US | POP
+http://kstv.xyz:8080/Maje05/12345678/23263
+#EXTINF:-1 tvg-id="pursuitchannel.us" tvg-name="US | PURSUIT CHANNEL" tvg-logo="http://picon.webhop.net/logo/usa/pursuit_channel.png" group-title="USA CHANNELS 4",US | PURSUIT CHANNEL
+http://kstv.xyz:8080/Maje05/12345678/23262
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="US | QVC" tvg-logo="http://picon.webhop.net/logo/usa/qvc_us.png" group-title="USA CHANNELS 4",US | QVC
+http://kstv.xyz:8080/Maje05/12345678/23221
+#EXTINF:-1 tvg-id="revolt.us" tvg-name="US | REVOLT" tvg-logo="http://picon.webhop.net/logo/usa/revolt_tv_us.png" group-title="USA CHANNELS 4",US | REVOLT
+http://kstv.xyz:8080/Maje05/12345678/23260
+#EXTINF:-1 tvg-id="russian.television.network.02124.ontvtonight.com.69046970" tvg-name="US | RT NEWS" tvg-logo="https://i1.wp.com/564ccca6a641eac6e5b0-38e3bbf162f44470d3635a7244f7971b.r55.cf3.rackcdn.com/russia-today-channel-images-logo-large.png?resize=240%2C180" group-title="US - News",US | RT NEWS
+http://kstv.xyz:8080/Maje05/12345678/23259
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="US | SEC NETWORK" tvg-logo="http://picon.webhop.net/logo/usa/espn_sec_network_us.png" group-title="US - Sports",US | SEC NETWORK
+http://kstv.xyz:8080/Maje05/12345678/23258
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US | SHOWTIME EXTREME" tvg-logo="http://picon.webhop.net/logo/usa/showtime_extreme.png" group-title="US - Movies",US | SHOWTIME EXTREME
+http://kstv.xyz:8080/Maje05/12345678/23257
+#EXTINF:-1 tvg-id="rshowtimefamilyzone.us" tvg-name="US | SHOWTIME FAMILY ZONE" tvg-logo="http://picon.webhop.net/logo/usa/showtime_family_zone.png" group-title="US - Movies",US | SHOWTIME FAMILY ZONE
+http://kstv.xyz:8080/Maje05/12345678/23256
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="US | SHOWTIME HD" tvg-logo="http://picon.webhop.net/logo/usa/showtime_west.png" group-title="US - Movies",US | SHOWTIME HD
+http://kstv.xyz:8080/Maje05/12345678/23255
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US | SPIKE/PARAMOUNT" tvg-logo="http://picon.webhop.net/logo/usa/spike_tv_us.png" group-title="USA CHANNELS 4",US | SPIKE/PARAMOUNT
+http://kstv.xyz:8080/Maje05/12345678/23254
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US | SPORTSMAN CHANNEL" tvg-logo="http://picon.webhop.net/logo/usa/sportsman_channel.png" group-title="US - Sports",US | SPORTSMAN CHANNEL
+http://kstv.xyz:8080/Maje05/12345678/23204
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="US | STARZ COMEDY" tvg-logo="http://picon.webhop.net/logo/usa/starz_us_comedy.png" group-title="US - Movies",US | STARZ COMEDY
+http://kstv.xyz:8080/Maje05/12345678/23252
+#EXTINF:-1 tvg-id="StarzKidsFamily.us" tvg-name="US | STARZ KIDS & FAMILY" tvg-logo="http://picon.webhop.net/logo/usa/starz_us_kids_family.png" group-title="US - Movies",US | STARZ KIDS & FAMILY
+http://kstv.xyz:8080/Maje05/12345678/23251
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="US | SUNDANCE" tvg-logo="http://picon.webhop.net/logo/usa/sundance_tv_us.png" group-title="USA CHANNELS 4",US | SUNDANCE
+http://kstv.xyz:8080/Maje05/12345678/23250
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="US | Showtime" tvg-logo="http://pixel.nymag.com/imgs/daily/vulture/2015/03/11/11-showtime.w529.h529.jpg" group-title="US - Movies",US | Showtime
+http://kstv.xyz:8080/Maje05/12345678/15908
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US | Spike/Paramount HD" tvg-logo="http://picon.webhop.net/logo/usa/spike_tv_us.png" group-title="USA CHANNELS 4",US | Spike/Paramount HD
+http://kstv.xyz:8080/Maje05/12345678/15909
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="US | Sports Net 360 HD" tvg-logo="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjA2sq7wt7dAhVqL8AKHXXXAicQjRx6BAgBEAU&url=https%3A%2F%2Fwww.tvpassport.com%2Ftv-listings%2Fstations%2Fsportsnet-360%2F336&psig=AOvVaw0KTVOaRgpqmFhlt-ofEF1u&ust=1538252288911917" group-title="US - Sports",US | Sports Net 360 HD
+http://kstv.xyz:8080/Maje05/12345678/15938
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="US | Sports Net One HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sportsnetone.png" group-title="US - Sports",US | Sports Net One HD
+http://kstv.xyz:8080/Maje05/12345678/15930
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="US | Sports Net Ontario HD" tvg-logo="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwiYptCpwt7dAhURPsAKHRoyCSUQjRx6BAgBEAU&url=https%3A%2F%2Fbellaliant.bell.ca%2Fsmall-business%2Ffibreop-tv%2Fchannels%2Fsportsnet-ontario&psig=AOvVaw3kDlDQjgZ_zVl5jLlrOMB3&ust=1538252251286679" group-title="US - Sports",US | Sports Net Ontario HD
+http://kstv.xyz:8080/Maje05/12345678/15937
+#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="US | Sports Net West HD" tvg-logo="https://pbs.twimg.com/profile_images/705859401383432192/7btf_nnY_400x400.jpg" group-title="US - Sports",US | Sports Net West HD
+http://kstv.xyz:8080/Maje05/12345678/15903
+#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="US | Sports Net World HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sportsnetworld.png" group-title="US - Sports",US | Sports Net World HD
+http://kstv.xyz:8080/Maje05/12345678/15936
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US | Starz Cinema HD" tvg-logo="http://picon.webhop.net/logo/usa/starz_us_cinema.png" group-title="US - Movies",US | Starz Cinema HD
+http://kstv.xyz:8080/Maje05/12345678/15907
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="US | Starz Encore Western" tvg-logo="http://picon.webhop.net/logo/usa/starz_encore_us.png" group-title="US - Movies",US | Starz Encore Western
+http://kstv.xyz:8080/Maje05/12345678/25068
+#EXTINF:-1 tvg-id="starz.us" tvg-name="US | Starz HD" tvg-logo="http://picon.webhop.net/logo/usa/starz_us.png" group-title="US - Movies",US | Starz HD
+http://kstv.xyz:8080/Maje05/12345678/15906
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US | SyFy USA" tvg-logo="http://picon.webhop.net/logo/usa/syfy_us_east.png" group-title="USA CHANNELS 4",US | SyFy USA
+http://kstv.xyz:8080/Maje05/12345678/22469
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US | Syfy" tvg-logo="http://picon.webhop.net/logo/usa/syfy_us_east.png" group-title="USA CHANNELS 4",US | Syfy
+http://kstv.xyz:8080/Maje05/12345678/15964
+#EXTINF:-1 tvg-id="trinitybroadcastingnetwork.us" tvg-name="US | TBN Trinity Broadcasting Network" tvg-logo="http://picon.webhop.net/logo/usa/tbn_tv_us.png" group-title="USA CHANNELS 4",US | TBN Trinity Broadcasting Network
+http://kstv.xyz:8080/Maje05/12345678/23218
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="US | TBS" tvg-logo="http://picon.webhop.net/logo/usa/tbs_lam.png" group-title="USA CHANNELS 4",US | TBS
+http://kstv.xyz:8080/Maje05/12345678/22468
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="US | TBS HD" tvg-logo="http://picon.webhop.net/logo/usa/tbs_west.png" group-title="USA CHANNELS 4",US | TBS HD
+http://kstv.xyz:8080/Maje05/12345678/15954
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="US | TCM" tvg-logo="http://picon.webhop.net/logo/usa/tcm_us.png" group-title="USA CHANNELS 4",US | TCM
+http://kstv.xyz:8080/Maje05/12345678/23249
+#EXTINF:-1 tvg-id="TelemundoWKAQ.us" tvg-name="US | TELEMUNDO" tvg-logo="http://picon.webhop.net/logo/usa/telemundo.png" group-title="USA CHANNELS 4",US | TELEMUNDO
+http://kstv.xyz:8080/Maje05/12345678/23248
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="US | TLC HD" tvg-logo="http://picon.webhop.net/logo/usa/tlc_us_hd.png" group-title="USA CHANNELS 4",US | TLC HD
+http://kstv.xyz:8080/Maje05/12345678/15969
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="US | TLC USA" tvg-logo="http://picon.webhop.net/logo/usa/tlc_us.png" group-title="USA CHANNELS 4",US | TLC USA
+http://kstv.xyz:8080/Maje05/12345678/22463
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="US | TNT" tvg-logo="http://picon.webhop.net/logo/usa/tnt_us.png" group-title="USA CHANNELS 4",US | TNT
+http://kstv.xyz:8080/Maje05/12345678/22462
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="US | TNT HD" tvg-logo="http://picon.webhop.net/logo/usa/tnt_us.png" group-title="USA CHANNELS 4",US | TNT HD
+http://kstv.xyz:8080/Maje05/12345678/15955
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="US | TRU TV" tvg-logo="http://picon.webhop.net/logo/usa/tru_tv_us.png" group-title="USA CHANNELS 4",US | TRU TV
+http://kstv.xyz:8080/Maje05/12345678/23243
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="US | TSN 1 HD" tvg-logo="https://media.licdn.com/dms/image/C4E0BAQFtnvjOJVqIGA/company-logo_200_200/0?e=2159024400&v=beta&t=Ah8KZ0TvMWxaelDuFW7_g5MMly84jV2ba_7deRTL9bk" group-title="US - Sports",US | TSN 1 HD
+http://kstv.xyz:8080/Maje05/12345678/15929
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="US | TSN 2 HD" tvg-logo="https://media.licdn.com/dms/image/C4E0BAQFtnvjOJVqIGA/company-logo_200_200/0?e=2159024400&v=beta&t=Ah8KZ0TvMWxaelDuFW7_g5MMly84jV2ba_7deRTL9bk" group-title="US - Sports",US | TSN 2 HD
+http://kstv.xyz:8080/Maje05/12345678/15928
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="US | TSN 3 HD" tvg-logo="https://media.licdn.com/dms/image/C4E0BAQFtnvjOJVqIGA/company-logo_200_200/0?e=2159024400&v=beta&t=Ah8KZ0TvMWxaelDuFW7_g5MMly84jV2ba_7deRTL9bk" group-title="US - Sports",US | TSN 3 HD
+http://kstv.xyz:8080/Maje05/12345678/15927
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="US | TSN 4 HD" tvg-logo="https://media.licdn.com/dms/image/C4E0BAQFtnvjOJVqIGA/company-logo_200_200/0?e=2159024400&v=beta&t=Ah8KZ0TvMWxaelDuFW7_g5MMly84jV2ba_7deRTL9bk" group-title="US - Sports",US | TSN 4 HD
+http://kstv.xyz:8080/Maje05/12345678/15926
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="US | TSN 5 HD" tvg-logo="https://media.licdn.com/dms/image/C4E0BAQFtnvjOJVqIGA/company-logo_200_200/0?e=2159024400&v=beta&t=Ah8KZ0TvMWxaelDuFW7_g5MMly84jV2ba_7deRTL9bk" group-title="US - Sports",US | TSN 5 HD
+http://kstv.xyz:8080/Maje05/12345678/15925
+#EXTINF:-1 tvg-id="TVLandEast.us" tvg-name="US | TV LAND HD" tvg-logo="http://picon.webhop.net/logo/usa/tv_land_us_hd.png" group-title="USA CHANNELS 4",US | TV LAND HD
+http://kstv.xyz:8080/Maje05/12345678/23241
+#EXTINF:-1 tvg-id="TVOne.us" tvg-name="US | TVONE" tvg-logo="http://picon.webhop.net/logo/usa/tv_one_us.png" group-title="USA CHANNELS 4",US | TVONE
+http://kstv.xyz:8080/Maje05/12345678/23240
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="US | Tennis Channel" tvg-logo="http://picon.webhop.net/logo/usa/tennis_channel.png" group-title="US - Sports",US | Tennis Channel
+http://kstv.xyz:8080/Maje05/12345678/22467
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="US | Tennis Channel HD" tvg-logo="http://picon.webhop.net/logo/usa/tennis_channel.png" group-title="US - Sports",US | Tennis Channel HD
+http://kstv.xyz:8080/Maje05/12345678/15940
+#EXTINF:-1 tvg-id="cw50wpwr.us" tvg-name="US | The CW Network" tvg-logo="https://www.cwtvpr.com/images/mobile/brand2/the-cw.svg" group-title="USA CHANNELS 4",US | The CW Network
+http://kstv.xyz:8080/Maje05/12345678/22466
+#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="US | The Weather Channel" tvg-logo="http://picon.webhop.net/logo/usa/the_weather_channel_us.png" group-title="US - News",US | The Weather Channel
+http://kstv.xyz:8080/Maje05/12345678/22464
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="US | Travel Channel" tvg-logo="" group-title="USA CHANNELS 4",US | Travel Channel
+http://kstv.xyz:8080/Maje05/12345678/24856
+#EXTINF:-1 tvg-id="unimas.us" tvg-name="US | UNIMAS" tvg-logo="http://picon.webhop.net/logo/usa/unimas_us_hd.png" group-title="USA CHANNELS 4",US | UNIMAS
+http://kstv.xyz:8080/Maje05/12345678/23239
+#EXTINF:-1 tvg-id="universal.uk" tvg-name="US | UNIVERSAL HD" tvg-logo="http://picon.webhop.net/logo/usa/universal_channel_us_hd.png" group-title="USA CHANNELS 4",US | UNIVERSAL HD
+http://kstv.xyz:8080/Maje05/12345678/23238
+#EXTINF:-1 tvg-id="universalkids.us" tvg-name="US | UNIVERSAL KIDS HD" tvg-logo="http://picon.webhop.net/logo/usa/universal-kids-us.png" group-title="US - Kids",US | UNIVERSAL KIDS HD
+http://kstv.xyz:8080/Maje05/12345678/23237
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="US | UNIVISION" tvg-logo="http://picon.webhop.net/logo/usa/univision_us.png" group-title="USA CHANNELS 4",US | UNIVISION
+http://kstv.xyz:8080/Maje05/12345678/23236
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US | UNIVISION TDN" tvg-logo="http://picon.webhop.net/logo/usa/univision_tdn.png" group-title="US - Sports",US | UNIVISION TDN
+http://kstv.xyz:8080/Maje05/12345678/23235
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="US | USA Network" tvg-logo="http://picon.webhop.net/logo/usa/usa_network.png" group-title="USA CHANNELS 4",US | USA Network
+http://kstv.xyz:8080/Maje05/12345678/15905
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="US | VH1" tvg-logo="http://picon.webhop.net/logo/usa/vh1_global.png" group-title="USA CHANNELS 4",US | VH1
+http://kstv.xyz:8080/Maje05/12345678/22898
+#EXTINF:-1 tvg-id="" tvg-name="US | Velocity HD" tvg-logo="http://picon.webhop.net/logo/usa/velocity_us.png" group-title="USA CHANNELS 4",US | Velocity HD
+http://kstv.xyz:8080/Maje05/12345678/16059
+#EXTINF:-1 tvg-id="viceland.us" tvg-name="US | Viceland" tvg-logo="http://picon.webhop.net/logo/usa/viceland_us.png" group-title="USA CHANNELS 4",US | Viceland
+http://kstv.xyz:8080/Maje05/12345678/15971
+#EXTINF:-1 tvg-id="viceland.us" tvg-name="US | Viceland USA" tvg-logo="http://picon.webhop.net/logo/usa/viceland_us.png" group-title="USA CHANNELS 4",US | Viceland USA
+http://kstv.xyz:8080/Maje05/12345678/22456
+#EXTINF:-1 tvg-id="womensentertainment.us" tvg-name="US | WE TV" tvg-logo="http://picon.webhop.net/logo/usa/we_tv_us.png" group-title="USA CHANNELS 4",US | WE TV
+http://kstv.xyz:8080/Maje05/12345678/23233
+#EXTINF:-1 tvg-id="wgnamerica.us" tvg-name="US | WGN AMERICA" tvg-logo="http://picon.webhop.net/logo/usa/wgn_america_us.png" group-title="USA CHANNELS 4",US | WGN AMERICA
+http://kstv.xyz:8080/Maje05/12345678/23232
+#EXTINF:-1 tvg-id="worldfishingnetwork.us" tvg-name="US | WORLD FISHING NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="US - Sports",US | WORLD FISHING NETWORK
+http://kstv.xyz:8080/Maje05/12345678/23203
+#EXTINF:-1 tvg-id="wpix.us" tvg-name="US | WPIX 11 NY" tvg-logo="https://i.ytimg.com/vi/sxGxqwzEi3c/hqdefault.jpg" group-title="USA CHANNELS 4",US | WPIX 11 NY
+http://kstv.xyz:8080/Maje05/12345678/23219
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US | WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/WWENetworkLogo.png/200px-WWENetworkLogo.png" group-title="US - Sports",US | WWE Network
+http://kstv.xyz:8080/Maje05/12345678/22455
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US | WWE Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/WWENetworkLogo.png/200px-WWENetworkLogo.png" group-title="US - Sports",US | WWE Network HD
+http://kstv.xyz:8080/Maje05/12345678/15939
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="US | Willow Cricket HD" tvg-logo="http://picon.webhop.net/logo/usa/willow_us.png" group-title="US - Sports",US | Willow Cricket HD
+http://kstv.xyz:8080/Maje05/12345678/15965
+#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="US | YES NETWORK" tvg-logo="http://picon.webhop.net/logo/usa/yes_network_us.png" group-title="US - Sports",US | YES NETWORK
+http://kstv.xyz:8080/Maje05/12345678/23230
+#EXTINF:-1 tvg-id="" tvg-name="Music | TROPICALES" tvg-logo="" group-title="US - Music",Music | TROPICALES
+http://kstv.xyz:8080/Maje05/12345678/31029
+#EXTINF:-1 tvg-id="" tvg-name="Music | ALTERNATIVE" tvg-logo="" group-title="US - Music",Music | ALTERNATIVE
+http://kstv.xyz:8080/Maje05/12345678/31028
+#EXTINF:-1 tvg-id="" tvg-name="Music | BRIT HITS" tvg-logo="" group-title="US - Music",Music | BRIT HITS
+http://kstv.xyz:8080/Maje05/12345678/31027
+#EXTINF:-1 tvg-id="" tvg-name="Music | DANCE EDM" tvg-logo="" group-title="US - Music",Music | DANCE EDM
+http://kstv.xyz:8080/Maje05/12345678/31026
+#EXTINF:-1 tvg-id="" tvg-name="Music | HIP HOP & R & B" tvg-logo="" group-title="US - Music",Music | HIP HOP & R & B
+http://kstv.xyz:8080/Maje05/12345678/31025
+#EXTINF:-1 tvg-id="" tvg-name="Music | HIT LIST" tvg-logo="" group-title="US - Music",Music | HIT LIST
+http://kstv.xyz:8080/Maje05/12345678/31024
+#EXTINF:-1 tvg-id="" tvg-name="Music | INDIE" tvg-logo="" group-title="US - Music",Music | INDIE
+http://kstv.xyz:8080/Maje05/12345678/31023
+#EXTINF:-1 tvg-id="" tvg-name="Music | LATINO POP" tvg-logo="" group-title="US - Music",Music | LATINO POP
+http://kstv.xyz:8080/Maje05/12345678/31022
+#EXTINF:-1 tvg-id="" tvg-name="Music | MEXICANA" tvg-logo="" group-title="US - Music",Music | MEXICANA
+http://kstv.xyz:8080/Maje05/12345678/31020
+#EXTINF:-1 tvg-id="" tvg-name="Music | POP & COUNTRY" tvg-logo="" group-title="US - Music",Music | POP & COUNTRY
+http://kstv.xyz:8080/Maje05/12345678/31019
+#EXTINF:-1 tvg-id="" tvg-name="Music | POP HITS" tvg-logo="" group-title="US - Music",Music | POP HITS
+http://kstv.xyz:8080/Maje05/12345678/31018
+#EXTINF:-1 tvg-id="" tvg-name="Music | R&B SOUL" tvg-logo="" group-title="US - Music",Music | R&B SOUL
+http://kstv.xyz:8080/Maje05/12345678/31017
+#EXTINF:-1 tvg-id="" tvg-name="Music | RAP" tvg-logo="" group-title="US - Music",Music | RAP
+http://kstv.xyz:8080/Maje05/12345678/31016
+#EXTINF:-1 tvg-id="" tvg-name="Music | RAP 2K" tvg-logo="" group-title="US - Music",Music | RAP 2K
+http://kstv.xyz:8080/Maje05/12345678/31015
+#EXTINF:-1 tvg-id="" tvg-name="Music | ROCK" tvg-logo="" group-title="US - Music",Music | ROCK
+http://kstv.xyz:8080/Maje05/12345678/31014
+#EXTINF:-1 tvg-id="" tvg-name="Music | TEEN BEATS" tvg-logo="" group-title="US - Music",Music | TEEN BEATS
+http://kstv.xyz:8080/Maje05/12345678/31013
+#EXTINF:-1 tvg-id="" tvg-name="Music | THROWBACK JAMZ" tvg-logo="" group-title="US - Music",Music | THROWBACK JAMZ
+http://kstv.xyz:8080/Maje05/12345678/31012
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Network HD" tvg-logo="http://picon.webhop.net/logo/usa/nfl_network_us.png" group-title="NFL",US: NFL Network HD
+http://kstv.xyz:8080/Maje05/12345678/31134
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Network SD" tvg-logo="http://picon.webhop.net/logo/usa/nfl_network_us.png" group-title="NFL",US: NFL Network SD
+http://kstv.xyz:8080/Maje05/12345678/31133
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL RED ZONE HD" tvg-logo="http://picon.webhop.net/logo/usa/nfl_red_zone.png" group-title="NFL",US: NFL RED ZONE HD
+http://kstv.xyz:8080/Maje05/12345678/31132
+#EXTINF:-1 tvg-id="ESPNCollegeExtra1.us" tvg-name="US | ESPN COLLEGE EXTRA 1 HD" tvg-logo="http://picon.webhop.net/logo/usa/espn_college_extra_us.png" group-title="US - Sports",US | ESPN COLLEGE EXTRA 1 HD
+http://kstv.xyz:8080/Maje05/12345678/31571
+#EXTINF:-1 tvg-id="ESPNCollegeExtra2.us" tvg-name="US | ESPN COLLEGE EXTRA 2 HD" tvg-logo="http://picon.webhop.net/logo/usa/espn_college_extra_us.png" group-title="US - Sports",US | ESPN COLLEGE EXTRA 2 HD
+http://kstv.xyz:8080/Maje05/12345678/31570
+#EXTINF:-1 tvg-id="ESPNCollegeExtra3.us" tvg-name="US | ESPN COLLEGE EXTRA 3 HD" tvg-logo="http://picon.webhop.net/logo/usa/espn_college_extra_us.png" group-title="US - Sports",US | ESPN COLLEGE EXTRA 3 HD
+http://kstv.xyz:8080/Maje05/12345678/31569
+#EXTINF:-1 tvg-id="ESPNCollegeExtra4.us" tvg-name="US | ESPN COLLEGE EXTRA 4 HD" tvg-logo="http://picon.webhop.net/logo/usa/espn_college_extra_us.png" group-title="US - Sports",US | ESPN COLLEGE EXTRA 4 HD
+http://kstv.xyz:8080/Maje05/12345678/31568
+#EXTINF:-1 tvg-id="ESPNCollegeExtra5.us" tvg-name="US | ESPN COLLEGE EXTRA 5 HD" tvg-logo="http://picon.webhop.net/logo/usa/espn_college_extra_us.png" group-title="US - Sports",US | ESPN COLLEGE EXTRA 5 HD
+http://kstv.xyz:8080/Maje05/12345678/31567
+#EXTINF:-1 tvg-id="ESPNCollegeExtra6.us" tvg-name="US | ESPN COLLEGE EXTRA 6 HD" tvg-logo="http://picon.webhop.net/logo/usa/espn_college_extra_us.png" group-title="US - Sports",US | ESPN COLLEGE EXTRA 6 HD
+http://kstv.xyz:8080/Maje05/12345678/31566
+#EXTINF:-1 tvg-id="FS College Atlanta" tvg-name="US | FOX COLLEGE ATLANTIC HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_college_sports_atlantic.png" group-title="US - Sports",US | FOX COLLEGE ATLANTIC HD
+http://kstv.xyz:8080/Maje05/12345678/31574
+#EXTINF:-1 tvg-id="FS College Central" tvg-name="US | FOX COLLEGE CENTRAL HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_college_sports_central.png" group-title="US - Sports",US | FOX COLLEGE CENTRAL HD
+http://kstv.xyz:8080/Maje05/12345678/31573
+#EXTINF:-1 tvg-id="FS College Pacific" tvg-name="US | FOX COLLEGE PACIFIC HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_college_sports_pacific.png" group-title="US - Sports",US | FOX COLLEGE PACIFIC HD
+http://kstv.xyz:8080/Maje05/12345678/31572
+#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 1 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title="Football (Soccer)  (Test)",US | FOX SOCCER MATCH PASS 1 HD
+http://kstv.xyz:8080/Maje05/12345678/31579
+#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 2 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title="Football (Soccer)  (Test)",US | FOX SOCCER MATCH PASS 2 HD
+http://kstv.xyz:8080/Maje05/12345678/31578
+#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 3 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title="Football (Soccer)  (Test)",US | FOX SOCCER MATCH PASS 3 HD
+http://kstv.xyz:8080/Maje05/12345678/31577
+#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 4 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title="Football (Soccer)  (Test)",US | FOX SOCCER MATCH PASS 4 HD
+http://kstv.xyz:8080/Maje05/12345678/31576
+#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 5 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title="Football (Soccer)  (Test)",US | FOX SOCCER MATCH PASS 5 HD
+http://kstv.xyz:8080/Maje05/12345678/31575
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="US | FOX SOCCER PLUS HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer_plus.png" group-title="Football (Soccer)  (Test)",US | FOX SOCCER PLUS HD
+http://kstv.xyz:8080/Maje05/12345678/31580
+#EXTINF:-1 tvg-id="foxsportsarizona.us" tvg-name="US | FOX SPORTS ARIZONA" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_arizona.png" group-title="Fox Sport Regionals (Test)",US | FOX SPORTS ARIZONA
+http://kstv.xyz:8080/Maje05/12345678/31590
+#EXTINF:-1 tvg-id="foxsportsdetroit.us" tvg-name="US | FOX SPORTS DETROIT" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_detroit.png" group-title="Fox Sport Regionals (Test)",US | FOX SPORTS DETROIT
+http://kstv.xyz:8080/Maje05/12345678/31589
+#EXTINF:-1 tvg-id="foxsportsmidwest.us" tvg-name="US | FOX SPORTS MIDWEST" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_midwest.png" group-title="Fox Sport Regionals (Test)",US | FOX SPORTS MIDWEST
+http://kstv.xyz:8080/Maje05/12345678/31588
+#EXTINF:-1 tvg-id="foxsportsnorth.us" tvg-name="US | FOX SPORTS NORTH" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_north.png" group-title="Fox Sport Regionals (Test)",US | FOX SPORTS NORTH
+http://kstv.xyz:8080/Maje05/12345678/31587
+#EXTINF:-1 tvg-id="foxsportsohiocincinnati.us" tvg-name="US | FOX SPORTS OHIO" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_ohio.png" group-title="Fox Sport Regionals (Test)",US | FOX SPORTS OHIO
+http://kstv.xyz:8080/Maje05/12345678/31586
+#EXTINF:-1 tvg-id="foxsportsprimeticket.us" tvg-name="US | FOX SPORTS PRIME TICKET" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_primeticket.png" group-title="Fox Sport Regionals (Test)",US | FOX SPORTS PRIME TICKET
+http://kstv.xyz:8080/Maje05/12345678/31585
+#EXTINF:-1 tvg-id="foxsportssandiego.us" tvg-name="US | FOX SPORTS SAN DIEGO" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_san_diego.png" group-title="Fox Sport Regionals (Test)",US | FOX SPORTS SAN DIEGO
+http://kstv.xyz:8080/Maje05/12345678/31584
+#EXTINF:-1 tvg-id="foxsportssouth.us" tvg-name="US | FOX SPORTS SOUTH" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_south_plus.png" group-title="Fox Sport Regionals (Test)",US | FOX SPORTS SOUTH
+http://kstv.xyz:8080/Maje05/12345678/31583
+#EXTINF:-1 tvg-id="foxsportssoutheast.us" tvg-name="US | FOX SPORTS SOUTHEAST" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_southeast.png" group-title="Fox Sport Regionals (Test)",US | FOX SPORTS SOUTHEAST
+http://kstv.xyz:8080/Maje05/12345678/31582
+#EXTINF:-1 tvg-id="foxsportssouthwest.us" tvg-name="US | FOX SPORTS SOUTHWEST" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_southwest.png" group-title="Fox Sport Regionals (Test)",US | FOX SPORTS SOUTHWEST
+http://kstv.xyz:8080/Maje05/12345678/31581
+#EXTINF:-1 tvg-id="" tvg-name="24/7 3 stooges" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 3 stooges
+http://kstv.xyz:8080/Maje05/12345678/32340
+#EXTINF:-1 tvg-id="" tvg-name="24/7 American Dad" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 American Dad
+http://kstv.xyz:8080/Maje05/12345678/32338
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AMERICAN GODS" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 AMERICAN GODS
+http://kstv.xyz:8080/Maje05/12345678/32335
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ancient  Aliens" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Ancient  Aliens
+http://kstv.xyz:8080/Maje05/12345678/32333
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BAND OF BROTHERS" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 BAND OF BROTHERS
+http://kstv.xyz:8080/Maje05/12345678/32332
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BAND OF BROTHERS-" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 BAND OF BROTHERS-
+http://kstv.xyz:8080/Maje05/12345678/32331
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BLAZE & THE MONSTERMACHINES" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 BLAZE & THE MONSTERMACHINES
+http://kstv.xyz:8080/Maje05/12345678/32328
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bobs Burgers" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Bobs Burgers
+http://kstv.xyz:8080/Maje05/12345678/32327
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMAX EAST HD" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 CINEMAX EAST HD
+http://kstv.xyz:8080/Maje05/12345678/32321
+#EXTINF:-1 tvg-id="" tvg-name="24/7 COLONY" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 COLONY
+http://kstv.xyz:8080/Maje05/12345678/32320
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CURIOUS GEORGE" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 CURIOUS GEORGE
+http://kstv.xyz:8080/Maje05/12345678/32316
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DEXTER" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 DEXTER
+http://kstv.xyz:8080/Maje05/12345678/32315
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Diners Drive-ins And Dives" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Diners Drive-ins And Dives
+http://kstv.xyz:8080/Maje05/12345678/32313
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ELCHAPO" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 ELCHAPO
+http://kstv.xyz:8080/Maje05/12345678/32308
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FAMILY GUY" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 FAMILY GUY
+http://kstv.xyz:8080/Maje05/12345678/32306
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Family Guy 1-9" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Family Guy 1-9
+http://kstv.xyz:8080/Maje05/12345678/32305
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Family Matters" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Family Matters
+http://kstv.xyz:8080/Maje05/12345678/32304
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FAST & LOUD" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 FAST & LOUD
+http://kstv.xyz:8080/Maje05/12345678/32303
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fawlty Towers" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Fawlty Towers
+http://kstv.xyz:8080/Maje05/12345678/32302
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Friends" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Friends
+http://kstv.xyz:8080/Maje05/12345678/32301
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GAME OF THRONES" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 GAME OF THRONES
+http://kstv.xyz:8080/Maje05/12345678/32299
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gunsmoke" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Gunsmoke
+http://kstv.xyz:8080/Maje05/12345678/32298
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HBO 2 HD" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 HBO 2 HD
+http://kstv.xyz:8080/Maje05/12345678/32297
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HBO SIGNATURE HD" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 HBO SIGNATURE HD
+http://kstv.xyz:8080/Maje05/12345678/32293
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HOUSE OF CARDS" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 HOUSE OF CARDS
+http://kstv.xyz:8080/Maje05/12345678/32292
+#EXTINF:-1 tvg-id="" tvg-name="24/7 How I Met Your Mother" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 How I Met Your Mother
+http://kstv.xyz:8080/Maje05/12345678/32291
+#EXTINF:-1 tvg-id="" tvg-name="24/7 I (Almost) Got Away with It" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 I (Almost) Got Away with It
+http://kstv.xyz:8080/Maje05/12345678/32290
+#EXTINF:-1 tvg-id="" tvg-name="24/7 In The Night Garden" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 In The Night Garden
+http://kstv.xyz:8080/Maje05/12345678/32289
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Insanity" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Insanity
+http://kstv.xyz:8080/Maje05/12345678/32288
+#EXTINF:-1 tvg-id="" tvg-name="24/7 INSPECTOR GADGET" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 INSPECTOR GADGET
+http://kstv.xyz:8080/Maje05/12345678/32287
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ITS ALWAYS SUNNY IN PHILADELPHIA" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 ITS ALWAYS SUNNY IN PHILADELPHIA
+http://kstv.xyz:8080/Maje05/12345678/32286
+#EXTINF:-1 tvg-id="" tvg-name="24/7 King Of The Hill" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 King Of The Hill
+http://kstv.xyz:8080/Maje05/12345678/32285
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MARRIED WITH CHILDREN" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 MARRIED WITH CHILDREN
+http://kstv.xyz:8080/Maje05/12345678/32283
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Martin" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Martin
+http://kstv.xyz:8080/Maje05/12345678/32282
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MARVELS IRON FIST" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 MARVELS IRON FIST
+http://kstv.xyz:8080/Maje05/12345678/32281
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MICKEY MOUSE CLUBHOUSE" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 MICKEY MOUSE CLUBHOUSE
+http://kstv.xyz:8080/Maje05/12345678/32279
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MODERN FAMILY" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 MODERN FAMILY
+http://kstv.xyz:8080/Maje05/12345678/32277
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Monk" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Monk
+http://kstv.xyz:8080/Maje05/12345678/32276
+#EXTINF:-1 tvg-id="" tvg-name="24/7 My Name Is Earl" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 My Name Is Earl
+http://kstv.xyz:8080/Maje05/12345678/32274
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MythBusters" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 MythBusters
+http://kstv.xyz:8080/Maje05/12345678/32273
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Only Fools and Horses" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Only Fools and Horses
+http://kstv.xyz:8080/Maje05/12345678/32272
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ONLY FOOLS AND HORSES-" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 ONLY FOOLS AND HORSES-
+http://kstv.xyz:8080/Maje05/12345678/32271
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ONLY FOOLS AND HORSES--" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 ONLY FOOLS AND HORSES--
+http://kstv.xyz:8080/Maje05/12345678/32270
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PAW PATROL-" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 PAW PATROL-
+http://kstv.xyz:8080/Maje05/12345678/32266
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PAW PATROL--" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 PAW PATROL--
+http://kstv.xyz:8080/Maje05/12345678/32265
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Peppa Pig
+http://kstv.xyz:8080/Maje05/12345678/32264
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Phineas and Ferb" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Phineas and Ferb
+http://kstv.xyz:8080/Maje05/12345678/32261
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PJ MASKS" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 PJ MASKS
+http://kstv.xyz:8080/Maje05/12345678/32259
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PJ MASKS-" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 PJ MASKS-
+http://kstv.xyz:8080/Maje05/12345678/32258
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Pokemon
+http://kstv.xyz:8080/Maje05/12345678/32257
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POWER" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 POWER
+http://kstv.xyz:8080/Maje05/12345678/32255
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PRISON BREAK" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 PRISON BREAK
+http://kstv.xyz:8080/Maje05/12345678/32253
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PUPPY DOG PALS SHOW" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 PUPPY DOG PALS SHOW
+http://kstv.xyz:8080/Maje05/12345678/32252
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Quantum Leap" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Quantum Leap
+http://kstv.xyz:8080/Maje05/12345678/32251
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Seinfeld" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Seinfeld
+http://kstv.xyz:8080/Maje05/12345678/32249
+#EXTINF:-1 tvg-id="" tvg-name="24/7 shaun the sheep" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 shaun the sheep
+http://kstv.xyz:8080/Maje05/12345678/32248
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SHOWTIME WEST HD" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 SHOWTIME WEST HD
+http://kstv.xyz:8080/Maje05/12345678/32247
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SONS OF ANARCHY" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 SONS OF ANARCHY
+http://kstv.xyz:8080/Maje05/12345678/32245
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SONS OF ANARCHY-" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 SONS OF ANARCHY-
+http://kstv.xyz:8080/Maje05/12345678/32244
+#EXTINF:-1 tvg-id="" tvg-name="24/7 South Park" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 South Park
+http://kstv.xyz:8080/Maje05/12345678/32243
+#EXTINF:-1 tvg-id="" tvg-name="24/7 South Park-" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 South Park-
+http://kstv.xyz:8080/Maje05/12345678/32242
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Standup Comedy" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Standup Comedy
+http://kstv.xyz:8080/Maje05/12345678/32239
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STARZ BLACK HD" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 STARZ BLACK HD
+http://kstv.xyz:8080/Maje05/12345678/32238
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STARZ EDGE HD" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 STARZ EDGE HD
+http://kstv.xyz:8080/Maje05/12345678/32236
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STARZ FAMILY HD" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 STARZ FAMILY HD
+http://kstv.xyz:8080/Maje05/12345678/32235
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STARZ HD" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 STARZ HD
+http://kstv.xyz:8080/Maje05/12345678/32234
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Steptoe and Son" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Steptoe and Son
+http://kstv.xyz:8080/Maje05/12345678/32233
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Teen Titans Go" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Teen Titans Go
+http://kstv.xyz:8080/Maje05/12345678/32232
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Teletubbies" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Teletubbies
+http://kstv.xyz:8080/Maje05/12345678/32231
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Berverly Hillbillies" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 The Berverly Hillbillies
+http://kstv.xyz:8080/Maje05/12345678/32230
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 The Big Bang Theory
+http://kstv.xyz:8080/Maje05/12345678/32229
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE BLACKLIST" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 THE BLACKLIST
+http://kstv.xyz:8080/Maje05/12345678/32228
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Cosby Show" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 The Cosby Show
+http://kstv.xyz:8080/Maje05/12345678/32227
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Flintsones" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 The Flintsones
+http://kstv.xyz:8080/Maje05/12345678/32226
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Fresh Prince Of Bel-air" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 The Fresh Prince Of Bel-air
+http://kstv.xyz:8080/Maje05/12345678/32225
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Inbetweeners" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 The Inbetweeners
+http://kstv.xyz:8080/Maje05/12345678/32224
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE JETSONS" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 THE JETSONS
+http://kstv.xyz:8080/Maje05/12345678/32223
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The League of Gentlemen" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 The League of Gentlemen
+http://kstv.xyz:8080/Maje05/12345678/32222
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE MIGHTY BOOSH" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 THE MIGHTY BOOSH
+http://kstv.xyz:8080/Maje05/12345678/32221
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE MIGHTY BOOSH-" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 THE MIGHTY BOOSH-
+http://kstv.xyz:8080/Maje05/12345678/32220
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE OFFICE" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 THE OFFICE
+http://kstv.xyz:8080/Maje05/12345678/32219
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Pacific" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 The Pacific
+http://kstv.xyz:8080/Maje05/12345678/32218
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Pacific-" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 The Pacific-
+http://kstv.xyz:8080/Maje05/12345678/32217
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE PUNISHER" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 THE PUNISHER
+http://kstv.xyz:8080/Maje05/12345678/32216
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE SIMPSON" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 THE SIMPSON
+http://kstv.xyz:8080/Maje05/12345678/32215
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Twilight Zone" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 The Twilight Zone
+http://kstv.xyz:8080/Maje05/12345678/32212
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Wonder Years" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 The Wonder Years
+http://kstv.xyz:8080/Maje05/12345678/32211
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The X-Files" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 The X-Files
+http://kstv.xyz:8080/Maje05/12345678/32210
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Three's Company" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Three's Company
+http://kstv.xyz:8080/Maje05/12345678/32209
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Timmy Time" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 Timmy Time
+http://kstv.xyz:8080/Maje05/12345678/32208
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TOM AND JERRY" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 TOM AND JERRY
+http://kstv.xyz:8080/Maje05/12345678/32207
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WWE WRESTLEMANIA" tvg-logo="http://sboxstream.tv/img/247TV_Channel.png" group-title="#EXTINF:-1 group-title="USA CHANNELS 4",",24/7 WWE WRESTLEMANIA
+http://kstv.xyz:8080/Maje05/12345678/32202
 #EXTINF:-1 group-title="MUSIC",KEEP IT COUNTRY
 http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
 #EXTINF:-1 group-title="MUSIC",THE COUNTRY NETWORK
