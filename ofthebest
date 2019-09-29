@@ -416,7 +416,7 @@ https://api.vpnmate.com/play/?vlc=1&channel=3008162&token=Ny3wmJ1TrjV_:ZDE3Zjk0O
 http://kstv.xyz:8080/Sayhay10/1867385835/23342
 #EXTINF:-1 group-title="USA CHANNELS",STAR MOVIES HD
 http://tvservice.pro:80/DM1pj30IBg/JUiaRhf66/34687
-#EXTINF:-1 group-title="USA CHANNELS",LAFF TV :D
+#EXTINF:-1 group-title="USA CHANNELS",LAFF TV
 https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
 #EXTINF:-1 group-title="USA CHANNELS",CARTOONS
 http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/355234.m3u8
@@ -5633,6 +5633,808 @@ http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/250.ts
 http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/247.ts
 #EXTINF:-1 group-title="ALTERNATE # 7",Yes Network
 http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/245.ts
+#EXTINF:-1 group-title="ALTERNATE # 8",US: 5 Star Max HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/156230
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ABC 5 WCVB (Boston)
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211265
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ABC 7 KABC New York HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211268
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ABC 7 New York
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/149871
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ABC 7 WLS Chicago HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211271
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ABC 9 WFTV Orlando HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211273
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ABC 10 Miami
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/134536
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ABC News HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/96992
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Action Max HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/251233
+#EXTINF:-1 group-title="ALTERNATE # 8",US: AFN Prime MOVIES HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/238511
+#EXTINF:-1 group-title="ALTERNATE # 8",US: AFN Prime Pacific
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/125104
+#EXTINF:-1 group-title="ALTERNATE # 8",US: AFN Pulse
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/159934
+#EXTINF:-1 group-title="ALTERNATE # 8",US: AFN Sports
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/250550
+#EXTINF:-1 group-title="ALTERNATE # 8",US: AHC HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77177
+#EXTINF:-1 group-title="ALTERNATE # 8",US: AKC TV HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211289
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Amazing Discoveryes HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/98282
+#EXTINF:-1 group-title="ALTERNATE # 8",US: AMC HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/146071
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Atlanta Channel HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/152975
+#EXTINF:-1 group-title="ALTERNATE # 8",US: BBC 1 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/107778
+#EXTINF:-1 group-title="ALTERNATE # 8",US: BBC World News
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/250147
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Bloomberg HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/155485
+#EXTINF:-1 group-title="ALTERNATE # 8",US: BNN HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/138282
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Boomerang HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/152981
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Bounce TV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211294
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Box Office Movies HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/74905
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Bravo HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/95147
+#EXTINF:-1 group-title="ALTERNATE # 8",US: BYU Sports TV HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/76569
+#EXTINF:-1 group-title="ALTERNATE # 8",US: C SPAN 1
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/248742
+#EXTINF:-1 group-title="ALTERNATE # 8",US: C-SPAN 3 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/74900
+#EXTINF:-1 group-title="ALTERNATE # 8",US: CBS (Los Angeles FHD)
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/102056
+#EXTINF:-1 group-title="ALTERNATE # 8",US: CBS 4 (WFOR Miami) HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211305
+#EXTINF:-1 group-title="ALTERNATE # 8",US: CBS 5 KPIX (San Francisco) HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211308
+#EXTINF:-1 group-title="ALTERNATE # 8",US: CBS 5 SAN FRANCISCO
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/218144
+#EXTINF:-1 group-title="ALTERNATE # 8",US: CBS 6 (WKMG Orlando HD)
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211311
+#EXTINF:-1 group-title="ALTERNATE # 8",US: CBS 46 (WGCL Atlanta HD)
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211306
+#EXTINF:-1 group-title="ALTERNATE # 8",US: CBS HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/197830
+#EXTINF:-1 group-title="ALTERNATE # 8",US: CBS NEWS
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/215475
+#EXTINF:-1 group-title="ALTERNATE # 8",US: CBS Reality HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/92445
+#EXTINF:-1 group-title="ALTERNATE # 8",US: CBS-WCBS 2 New York
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/250143
+#EXTINF:-1 group-title="ALTERNATE # 8",US: CBS-WFOR 4 Miami
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/250142
+#EXTINF:-1 group-title="ALTERNATE # 8",US: CBSN HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/146349
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 02 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77658
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 03 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77657
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 04 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77656
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 05 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77655
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 06 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/84376
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 07 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77653
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 08 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77652
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 09 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77651
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 10 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77650
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 12 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77648
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 13 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77647
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 14 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77646
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 15 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77645
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 16 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77644
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 17 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77643
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 18 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77642
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 19 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77641
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 20 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77640
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 21 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77639
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 22 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77638
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 24 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77636
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 26 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77634
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 27 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/102055
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 28 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77632
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 29 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77631
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 30 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77630
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 32 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77628
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 33 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77627
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 35 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77625
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 36 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77624
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 37 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77623
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 39 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77621
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinema 40 PPV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77620
+#EXTINF:-1 group-title="ALTERNATE # 8",US: CINEMAX 5 STAR MAX HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/74927
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinemax Action 2 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77698
+#EXTINF:-1 group-title="ALTERNATE # 8",US: CINEMAX ACTION FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/65085
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinemax ActionMax East
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/76560
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinemax East HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211314
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Cinemax West FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/102021
+#EXTINF:-1 group-title="ALTERNATE # 8",US: CNBC HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/153001
+#EXTINF:-1 group-title="ALTERNATE # 8",US: CNN Espanol
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/250138
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Comedy Central HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/155529
+#EXTINF:-1 group-title="ALTERNATE # 8",US: CP24
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/103915
+#EXTINF:-1 group-title="ALTERNATE # 8",US: CW HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/145662
+#EXTINF:-1 group-title="ALTERNATE # 8",US: DAY STAR FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/76539
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Discovery Channel HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/248503
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Discovery Showcase
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/250556
+#EXTINF:-1 group-title="ALTERNATE # 8",US: DISNEY JUNIOR HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/158617
+#EXTINF:-1 group-title="ALTERNATE # 8",US: District Knowledge Network
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/238545
+#EXTINF:-1 group-title="ALTERNATE # 8",US: District of Columbia Network
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91530
+#EXTINF:-1 group-title="ALTERNATE # 8",US: DTX HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/122167
+#EXTINF:-1 group-title="ALTERNATE # 8",US: DW
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/155509
+#EXTINF:-1 group-title="ALTERNATE # 8",US: E! HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/103720
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Eden HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/236851
+#EXTINF:-1 group-title="ALTERNATE # 8",US: EL Rey Network FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77120
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN 1
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/216524
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN Bases Loaded
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/149963
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN COLLEGE EXTRA 1 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/121328
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN COLLEGE EXTRA 2 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/121329
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN COLLEGE EXTRA 3 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/121330
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN COLLEGE EXTRA 4
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/213528
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN COLLEGE EXTRA 5 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/121332
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN COLLEGE EXTRA 6 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/121333
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN Deportes HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/155532
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN News HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/65083
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN Plus
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/122172
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN PLUS 01 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/123281
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN PLUS 03 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/123283
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN PLUS 04 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/123284
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN PLUS 05 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/123285
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN PLUS 06 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/123286
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN PLUS 07 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/123287
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN PLUS 08 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/123288
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN PLUS 09 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/123289
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN PLUS 10 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/123290
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN PLUS 11 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/123291
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN PLUS 12 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/123292
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN PLUS 13 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/123293
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN PLUS 14 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/123294
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN PLUS 16 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/123296
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN PLUS 17 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/123297
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN PLUS 18 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/123298
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN PLUS 19 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/123299
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN PLUS 20 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/123300
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN SEC Network
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/218214
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ESPN U HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/75113
+#EXTINF:-1 group-title="ALTERNATE # 8",US: ET Live HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/199229
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FAMILY GUY
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/101284
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Fight Box
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/95562
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Fine Living
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/98305
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Food Network FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/74859
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX 4 DALLAS HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/134528
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Fox 5 (New York) HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211342
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Fox 5 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77157
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX 7 Miami
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/250126
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX 11 Los Angeles
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/149992
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX 19 WXIX Cincinnati HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211334
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX 29 KTVU San Francisco CA HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211335
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Fox News Channel
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/156772
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX SPORTS
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/251229
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX SPORTS (South East) HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/152505
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX SPORTS 1
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/100073
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX SPORTS 1 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/248767
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX SPORTS 2
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/138980
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX SPORTS 3 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/239470
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX SPORTS 4 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/239471
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX SPORTS 5 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/239472
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX SPORTS Carolina HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/152490
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX SPORTS College Atlantic HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/160004
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX SPORTS College Pacific HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91533
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX SPORTS Florida
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/250128
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX SPORTS New Orleans HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/216382
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX SPORTS Oklahoma HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/216386
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX SPORTS PRIME TICKET HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/152502
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FOX SPORTS San Diego Plus HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/216389
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FrontDoor HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211357
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FUSE HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77126
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FUSION HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77127
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FX HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/160014
+#EXTINF:-1 group-title="ALTERNATE # 8",US: FXX HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/138299
+#EXTINF:-1 group-title="ALTERNATE # 8",US: GOLF CHANNEL HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/95151
+#EXTINF:-1 group-title="ALTERNATE # 8",US: GRIT HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/76439
+#EXTINF:-1 group-title="ALTERNATE # 8",US: H2 FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/87704
+#EXTINF:-1 group-title="ALTERNATE # 8",US: HBO 2
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/249348
+#EXTINF:-1 group-title="ALTERNATE # 8",US: HBO 2 West FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77693
+#EXTINF:-1 group-title="ALTERNATE # 8",US: HBO Comedy FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/148295
+#EXTINF:-1 group-title="ALTERNATE # 8",US: HBO Family
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/250552
+#EXTINF:-1 group-title="ALTERNATE # 8",US: HBO FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/78351
+#EXTINF:-1 group-title="ALTERNATE # 8",US: HBO Plus West FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/84377
+#EXTINF:-1 group-title="ALTERNATE # 8",US: HBO Signature FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/156783
+#EXTINF:-1 group-title="ALTERNATE # 8",US: HBO West
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/158594
+#EXTINF:-1 group-title="ALTERNATE # 8",US: HBO Zone FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/103755
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Headline News
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/250123
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Hollywood HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/99886
+#EXTINF:-1 group-title="ALTERNATE # 8",US: IFC HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/103760
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Indie Plex HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77690
+#EXTINF:-1 group-title="ALTERNATE # 8",US: INFO WARS
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/176341
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Island TV Haiti
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/250121
+#EXTINF:-1 group-title="ALTERNATE # 8",US: KEEP IT COUNTRY
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/237782
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Key TV HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91538
+#EXTINF:-1 group-title="ALTERNATE # 8",US: KIDS READING TV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/74949
+#EXTINF:-1 group-title="ALTERNATE # 8",US: KNTV TV NBC BAY AREA
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/92967
+#EXTINF:-1 group-title="ALTERNATE # 8",US: KNVN ACTION NEWS CHICO
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/92968
+#EXTINF:-1 group-title="ALTERNATE # 8",US: KTVB CHANNEL 7 BOISE
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/92974
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Lifetime HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/76502
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Longhorn Network HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/107228
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB 08
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/199284
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 721 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91681
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 722 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91682
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 723 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91683
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 724 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91684
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 725 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91685
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 726 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91686
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 727 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91687
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 728 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91688
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 729 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91689
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 730 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91690
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 731 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91691
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 732 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91692
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 733 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91693
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 734 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91694
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 735 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91695
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 736 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91696
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 737 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91697
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 738 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91698
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 739 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91699
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 740 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91700
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 741 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91701
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 742 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91702
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 743 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91703
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 744 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91704
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 745 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91705
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 746 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91706
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 747 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91707
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 748 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91708
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Extra Innings 749 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91709
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB NETWORK HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/102968
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MLB Strike One
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124656
+#EXTINF:-1 group-title="ALTERNATE # 8",US: More Max HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/151303
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MOTOR TRENO
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/151750
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Movie Max FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77688
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Movie Plex FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77687
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MSG HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/78314
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MSNBC FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/155631
+#EXTINF:-1 group-title="ALTERNATE # 8",US: MTV 2
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/105992
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Music Choice
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91485
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Music Choice - R&B Soul
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91475
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Music Choice - Throwback Jams
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91470
+#EXTINF:-1 group-title="ALTERNATE # 8",US: My Cuisine
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/65624
+#EXTINF:-1 group-title="ALTERNATE # 8",US: N1
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/244641
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NAT GEO Wild HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/135408
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBA 1
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/92994
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBA 4
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91280
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBA 10
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/92995
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBA HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/128739
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBA League Pass
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/250554
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBA TNT
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/214936
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBA TNT OverTime Away HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/214937
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBA TNT OverTime Backboard HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/214938
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBA TNT OverTime Home HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/214939
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBA TNT OverTime Mosiac HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/214940
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC 4 (Los Angeles) HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/127548
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC 4 KNBC Los Angeles HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211415
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC 4 New York
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/245711
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC 4 WNBC (New York)
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211416
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC 5 (CHICAGO) HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/134531
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC 5 Dallas HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/151671
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC 5 News
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/208228
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC 5 WMAQ Chicago HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211418
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC 6 (Miami) HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/134560
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC 6 WTVJ Miami HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211419
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC 7 (San Diego) HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/121234
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC 12 News (WWBT TV)
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/238557
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC 29 (WVIR-TV)
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/92976
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC 29 WVIR TV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/216489
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC ATLANTA HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124615
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Baltimore
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124616
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Big 5 Networks FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91540
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Boston
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124617
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Buffalo
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124618
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Charlotte
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124619
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Chicago
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124620
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Cincinnati
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124621
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Cleveland
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124622
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC CONNECTICUT
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/156746
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Dallas
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124623
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Denver
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124624
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Detroit
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124625
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Gold 1 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211467
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Gold 2 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211469
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Gold 3 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/92829
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Gold 4 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/148618
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC GOLD 5 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/92831
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC GOLD 6 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/148619
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC GOLD 7 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/148620
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Gold 8 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211472
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Gold 9 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211473
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Gold 10 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211468
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Gold Mosiac HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211420
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Gold Rush HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211421
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Golf Channel FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/152512
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Green Bay
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124626
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Hartford
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124627
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/74836
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Indianapolis
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/216493
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Jacksonville
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124630
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC K5 SEATTLE
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/156727
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Kansas City
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124631
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Los Angeles FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/102057
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC MEMPHIS
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/134561
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Miami
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124633
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Minneapolis
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124635
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC News Live HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/208227
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Philadelphia
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/242949
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Phoenix
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124641
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Portland
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124643
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Salt Lake City
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124646
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC San Diego
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124647
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Seattle
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124649
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Sports HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/75133
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Sports Network HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/137887
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Sports Philadelphia Plus FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211423
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Sports Washington FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211424
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC St Louis
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124651
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Telemundo
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124652
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC Washington
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124653
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBC5 News (WMAQ-TV)
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/76712
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NBCSN
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/238280
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NESN HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/91536
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NEWS 12 (BROOKLYN) HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/78303
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NEWS 12 (Hudson Valley) HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/78304
+#EXTINF:-1 group-title="ALTERNATE # 8",US: News 12 (New Jersey)
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211428
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NEWS 12 (THE BRONX)
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/76807
+#EXTINF:-1 group-title="ALTERNATE # 8",US: News Channel 12 KTVZ
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/92985
+#EXTINF:-1 group-title="ALTERNATE # 8",US: News4 (WRC-TV)
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/92983
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NFL 1
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211756
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NFL RED ZONE HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/76679
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Center Ice Plus 2
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/137795
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Center Ice Plus 3
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/137796
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 769
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/160189
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 770
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/160190
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 771
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/160191
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 772
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/160192
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 773
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/160193
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 774
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/160194
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 775
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/160195
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 776
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/160196
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 777
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/160197
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 779
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/160199
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 780
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/160200
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 781
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/160201
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 782
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/160202
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 783
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/160203
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 784
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/214941
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 785
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/214942
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 786
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/214943
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 787
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/214944
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL Centre Ice 788
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/214945
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NHL NETWORK HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/101601
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Nick Junior HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/76491
+#EXTINF:-1 group-title="ALTERNATE # 8",US: NICKELODEN HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77070
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Nursery Rhymes (Baby Songs)
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/160204
+#EXTINF:-1 group-title="ALTERNATE # 8",US: OuterMax FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77686
+#EXTINF:-1 group-title="ALTERNATE # 8",US: PAC-12 (Arizona) HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/95553
+#EXTINF:-1 group-title="ALTERNATE # 8",US: PAC-12 (Washington) HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/95558
+#EXTINF:-1 group-title="ALTERNATE # 8",US: POP HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77134
+#EXTINF:-1 group-title="ALTERNATE # 8",US: RED BULL TV FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/76487
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Showtime West
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/158599
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Sky News HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/105926
+#EXTINF:-1 group-title="ALTERNATE # 8",US: SNY HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/98319
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Sony Movie Channel
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/117736
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Sports Net 360
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/219663
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Start TV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/249352
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Starz Black FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77683
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Starz Cinema FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/76479
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Starz Cinema West FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77680
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Starz Comedy FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/75850
+#EXTINF:-1 group-title="ALTERNATE # 8",US: STARZ EDGE HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/76478
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Starz Encore 2 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77675
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Starz Encore Action
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77674
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Starz Encore Black HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77673
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Starz Encore Classic FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77672
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Starz Encore Suspense HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77668
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Starz Encore West FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77667
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Starz Family HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77665
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Starz FHD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/97659
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Starz Kids & Family HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77158
+#EXTINF:-1 group-title="ALTERNATE # 8",US: STARZ WEST HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/76476
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Straz Encore Family HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/136570
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Syfy
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/248513
+#EXTINF:-1 group-title="ALTERNATE # 8",US: TBN HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/196353
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Telemundo Boston
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124706
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Telemundo Las Vegas
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/150063
+#EXTINF:-1 group-title="ALTERNATE # 8",US: TELEMUNDO Los Angeles HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/124710
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Telemundo Miami
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/108427
+#EXTINF:-1 group-title="ALTERNATE # 8",US: TELEMUNDO New York HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/150065
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Telemundo San francisco
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77152
+#EXTINF:-1 group-title="ALTERNATE # 8",US: THE JETSONS
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/101290
+#EXTINF:-1 group-title="ALTERNATE # 8",US: THE PUNISHER
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/101291
+#EXTINF:-1 group-title="ALTERNATE # 8",US: The Shopping Channel HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211460
+#EXTINF:-1 group-title="ALTERNATE # 8",US: THE WEATHER CHANNEL HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/74925
+#EXTINF:-1 group-title="ALTERNATE # 8",US: TLC CHANNEL
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/139442
+#EXTINF:-1 group-title="ALTERNATE # 8",US: TNT HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/108596
+#EXTINF:-1 group-title="ALTERNATE # 8",US: TruTV
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/107252
+#EXTINF:-1 group-title="ALTERNATE # 8",US: TV 14 DL
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/248748
+#EXTINF:-1 group-title="ALTERNATE # 8",US: TV FOX 5 (WASHINGTON)
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/92970
+#EXTINF:-1 group-title="ALTERNATE # 8",US: TVJ Jamaica
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/250109
+#EXTINF:-1 group-title="ALTERNATE # 8",US: UFC Fight Pass HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/76764
+#EXTINF:-1 group-title="ALTERNATE # 8",US: UNIMAS HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77180
+#EXTINF:-1 group-title="ALTERNATE # 8",US: USA WWE
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/156724
+#EXTINF:-1 group-title="ALTERNATE # 8",US: Velocity
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/248516
+#EXTINF:-1 group-title="ALTERNATE # 8",US: VEVO HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/215578
+#EXTINF:-1 group-title="ALTERNATE # 8",US: VH1 HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/151751
+#EXTINF:-1 group-title="ALTERNATE # 8",US: WCNC Breaking News
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/92990
+#EXTINF:-1 group-title="ALTERNATE # 8",US: WEATHER NATION
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/92485
+#EXTINF:-1 group-title="ALTERNATE # 8",US: WPIX 11 NY
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/211465
+#EXTINF:-1 group-title="ALTERNATE # 8",US: WUSA9 Breaking News
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/92991
+#EXTINF:-1 group-title="ALTERNATE # 8",US: WWE HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77082
+#EXTINF:-1 group-title="ALTERNATE # 8",US: XITE HD
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/121430
+#EXTINF:-1 group-title="WWE",WWE NETWORK
+http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/156724
 #EXTINF:-1 group-title="MUSIC",KEEP IT COUNTRY
 http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
 #EXTINF:-1 group-title="MUSIC",THE COUNTRY NETWORK
