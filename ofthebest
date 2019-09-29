@@ -6435,6 +6435,10 @@ http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77082
 http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/121430
 #EXTINF:-1 group-title="WWE" tvg-logo="https://img.bleacherreport.net/img/images/photos/002/617/833/maxresdefault_crop_north.jpg?h=533&w=800&q=70&crop_x=center&crop_y=top",WWE NETWORK
 http://landiptv.live:8080/Sp41NkE2x/605a9gRzEb/77082
+#EXTINF:-1 group-title="WWE" tvg-logo="https://img.bleacherreport.net/img/images/photos/002/617/833/maxresdefault_crop_north.jpg?h=533&w=800&q=70&crop_x=center&crop_y=top",WWE NETWORK
+http://kstv.xyz:8080/Maje05/12345678/22455
+#EXTINF:-1 group-title="WWE" tvg-logo="https://img.bleacherreport.net/img/images/photos/002/617/833/maxresdefault_crop_north.jpg?h=533&w=800&q=70&crop_x=center&crop_y=top",WWE PPV
+http://hhhshop.co:83/live/e0QKtEY4/6yXgprSg/262650.m3u8
 #EXTINF:-1 group-title="MUSIC",KEEP IT COUNTRY
 http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
 #EXTINF:-1 group-title="MUSIC",THE COUNTRY NETWORK
