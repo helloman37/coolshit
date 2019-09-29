@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="XxX CHANNELS",T
+https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1 group-title="XxX CHANNELS",BARELY LEGAL TV
 http://portal.geniptv.com:8080/YoOSdHG8WH/jvUXvBWYOu/13571
 #EXTINF:-1 group-title="XxX CHANNELS",ALBA (1)
