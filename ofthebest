@@ -2951,38 +2951,6 @@ http://kstv.xyz:8080/Maje05/12345678/31574
 http://kstv.xyz:8080/Maje05/12345678/31573
 #EXTINF:-1 tvg-id="FS College Pacific" tvg-name="US | FOX COLLEGE PACIFIC HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_college_sports_pacific.png" group-title="ALTERNATE # 3",US | FOX COLLEGE PACIFIC HD
 http://kstv.xyz:8080/Maje05/12345678/31572
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 1 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title=""ALTERNATE # 3",",US | FOX SOCCER MATCH PASS 1 HD
-http://kstv.xyz:8080/Maje05/12345678/31579
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 2 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title=""ALTERNATE # 3",",US | FOX SOCCER MATCH PASS 2 HD
-http://kstv.xyz:8080/Maje05/12345678/31578
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 3 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title=""ALTERNATE # 3",",US | FOX SOCCER MATCH PASS 3 HD
-http://kstv.xyz:8080/Maje05/12345678/31577
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 4 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title=""ALTERNATE # 3",",US | FOX SOCCER MATCH PASS 4 HD
-http://kstv.xyz:8080/Maje05/12345678/31576
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER MATCH PASS 5 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer.png" group-title=""ALTERNATE # 3",",US | FOX SOCCER MATCH PASS 5 HD
-http://kstv.xyz:8080/Maje05/12345678/31575
-#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="US | FOX SOCCER PLUS HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer_plus.png" group-title=""ALTERNATE # 3",",US | FOX SOCCER PLUS HD
-http://kstv.xyz:8080/Maje05/12345678/31580
-#EXTINF:-1 tvg-id="foxsportsarizona.us" tvg-name="US | FOX SPORTS ARIZONA" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_arizona.png" group-title="ALTERNATE # 3",US | FOX SPORTS ARIZONA
-http://kstv.xyz:8080/Maje05/12345678/31590
-#EXTINF:-1 tvg-id="foxsportsdetroit.us" tvg-name="US | FOX SPORTS DETROIT" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_detroit.png" group-title="ALTERNATE # 3",US | FOX SPORTS DETROIT
-http://kstv.xyz:8080/Maje05/12345678/31589
-#EXTINF:-1 tvg-id="foxsportsmidwest.us" tvg-name="US | FOX SPORTS MIDWEST" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_midwest.png" group-title="ALTERNATE # 3",US | FOX SPORTS MIDWEST
-http://kstv.xyz:8080/Maje05/12345678/31588
-#EXTINF:-1 tvg-id="foxsportsnorth.us" tvg-name="US | FOX SPORTS NORTH" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_north.png" group-title="ALTERNATE # 3",US | FOX SPORTS NORTH
-http://kstv.xyz:8080/Maje05/12345678/31587
-#EXTINF:-1 tvg-id="foxsportsohiocincinnati.us" tvg-name="US | FOX SPORTS OHIO" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_ohio.png" group-title="ALTERNATE # 3",US | FOX SPORTS OHIO
-http://kstv.xyz:8080/Maje05/12345678/31586
-#EXTINF:-1 tvg-id="foxsportsprimeticket.us" tvg-name="US | FOX SPORTS PRIME TICKET" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_primeticket.png" group-title="ALTERNATE # 3",US | FOX SPORTS PRIME TICKET
-http://kstv.xyz:8080/Maje05/12345678/31585
-#EXTINF:-1 tvg-id="foxsportssandiego.us" tvg-name="US | FOX SPORTS SAN DIEGO" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_san_diego.png" group-title="ALTERNATE # 3",US | FOX SPORTS SAN DIEGO
-http://kstv.xyz:8080/Maje05/12345678/31584
-#EXTINF:-1 tvg-id="foxsportssouth.us" tvg-name="US | FOX SPORTS SOUTH" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_south_plus.png" group-title="ALTERNATE # 3",US | FOX SPORTS SOUTH
-http://kstv.xyz:8080/Maje05/12345678/31583
-#EXTINF:-1 tvg-id="foxsportssoutheast.us" tvg-name="US | FOX SPORTS SOUTHEAST" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_southeast.png" group-title="ALTERNATE # 3",US | FOX SPORTS SOUTHEAST
-http://kstv.xyz:8080/Maje05/12345678/31582
-#EXTINF:-1 tvg-id="foxsportssouthwest.us" tvg-name="US | FOX SPORTS SOUTHWEST" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_southwest.png" group-title="ALTERNATE # 3",US | FOX SPORTS SOUTHWEST
-http://kstv.xyz:8080/Maje05/12345678/31581
 #EXTINF:-1 group-title="ALTERNATE # 4", A&E HD
 https://cvtv.cvalley.net/hls/AEHD/AEHD.m3u8
 #EXTINF:-1 group-title="ALTERNATE # 4", CNN HD
