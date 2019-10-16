@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="tt8385474" tvg-name="tt8385474" tvg-type="movies" group-title="Movies 2019" tvg-logo="http://image.tmdb.org/t/p/w780/4pzN52wxBZ05EXBdoii1kqoIoD4.jpg",A Dogs Journey (2019)
 https://api.vpnmate.com/play/?vlc=1&imdb=tt8385474&token=ilPQb0j9YrbP:ZGQwZjE5Y2FjOGVmMWExM2RjNmQ0MTNlZGEyZDkxZDNiMzY1YjU0Yw==
+#EXTINF:-1 tvg-id="tt8385474" tvg-name="tt8385474" tvg-type="movies" group-title="Movies 2019" tvg-logo="http://image.tmdb.org/t/p/w780/4pzN52wxBZ05EXBdoii1kqoIoD4.jpg",A Dogs Journey (2019)
+https://api.vpnmate.com/play/?vlc=1&imdb=tt8385474&token=ilPQb0j9YrbP:ZGQwZjE5Y2FjOGVmMWExM2RjNmQ0MTNlZGEyZDkxZDNiMzY1YjU0Yw==
 #EXTINF:-1 tvg-id="tt7616798" tvg-name="tt7616798" tvg-type="movies" group-title="Movies 2019" tvg-logo="http://image.tmdb.org/t/p/w780/pZn87R7gtmMCGGO8KeaAfZDhXLg.jpg",A Dogs Way Home (2019)
 https://api.vpnmate.com/play/?vlc=1&imdb=tt7616798&token=ilPQb0j9YrbP:ZGQwZjE5Y2FjOGVmMWExM2RjNmQ0MTNlZGEyZDkxZDNiMzY1YjU0Yw==
 #EXTINF:-1 tvg-id="tt4126476" tvg-name="tt4126476" tvg-type="movies" group-title="Movies 2019" tvg-logo="http://image.tmdb.org/t/p/w780/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",After (2019)
