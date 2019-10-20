@@ -1,11 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="XxX CHANNELS",MAX XXX
-http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 group-title="XxX CHANNELS",MAX XXX
-http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 group-title="XxX CHANNELS",MAX XXX
-http://iptv.rent:80/movie/52kur8mesd/r1mib08blr/648242.mp4
-#EXTINF:-1 group-title="XxX CHANNELS",MAX XXX
 http://nettv-xcruiser.com:8000/T5FdYyQech/99burbiQox/55048
 #EXTINF:-1 group-title="XxX CHANNELS",PLAYBOY
 http://psrv.io:80/Marcelocorcino/bjlHsgQx4k/18487
