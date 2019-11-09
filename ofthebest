@@ -8268,57 +8268,57 @@ http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1 group-title="MUSIC",COUNTRY MUSIC 4 U
 https://rpcdn.tulix.tv/36bay2/gusa-countrymusic4u/index.m3u8
-#EXTINF:-1 tvg-id="4music.uk" tvg-name="4music.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/4music.uk.png",4Music (11000298)
+#EXTINF:-1 tvg-id="4music.uk" tvg-name="4music.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/4music.uk.png",4Music (11000298)
 https://api.vpnmate.com/play/?vlc=1&channel=11000298&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="box.hits.uk" tvg-name="box.hits.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/box.hits.uk.png",Box Hits (11000291)
+#EXTINF:-1 tvg-id="box.hits.uk" tvg-name="box.hits.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/box.hits.uk.png",Box Hits (11000291)
 https://api.vpnmate.com/play/?vlc=1&channel=11000291&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="box.upfront.uk" tvg-name="box.upfront.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/box.upfront.uk.png",Box Upfront (11000290)
+#EXTINF:-1 tvg-id="box.upfront.uk" tvg-name="box.upfront.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/box.upfront.uk.png",Box Upfront (11000290)
 https://api.vpnmate.com/play/?vlc=1&channel=11000290&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="club.mtv.uk" tvg-name="club.mtv.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/club.mtv.uk.png",Club MTV (11000283)
+#EXTINF:-1 tvg-id="club.mtv.uk" tvg-name="club.mtv.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/club.mtv.uk.png",Club MTV (11000283)
 https://api.vpnmate.com/play/?vlc=1&channel=11000283&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="clubland.uk" tvg-name="clubland.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/clubland.uk.png",Clubland TV UK (11000301)
+#EXTINF:-1 tvg-id="clubland.uk" tvg-name="clubland.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/clubland.uk.png",Clubland TV UK (11000301)
 https://api.vpnmate.com/play/?vlc=1&channel=11000301&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="kerrang.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/kerrang.uk.png",Kerrang! (11000296)
+#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="kerrang.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/kerrang.uk.png",Kerrang! (11000296)
 https://api.vpnmate.com/play/?vlc=1&channel=11000296&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="kiss.uk" tvg-name="kiss.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/kiss.uk.png",KISS (11000295)
+#EXTINF:-1 tvg-id="kiss.uk" tvg-name="kiss.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/kiss.uk.png",KISS (11000295)
 https://api.vpnmate.com/play/?vlc=1&channel=11000295&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="magic.uk" tvg-name="magic.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/magic.uk.png",Magic (11000294)
+#EXTINF:-1 tvg-id="magic.uk" tvg-name="magic.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/magic.uk.png",Magic (11000294)
 https://api.vpnmate.com/play/?vlc=1&channel=11000294&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.uk" tvg-name="mtv.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.uk.png",MTV (11000071)
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="mtv.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.uk.png",MTV (11000071)
 https://api.vpnmate.com/play/?vlc=1&channel=11000071&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.usa.eastern.us" tvg-name="mtv.usa.eastern.us" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.usa.eastern.us.png",MTV (East) US (9071401)
+#EXTINF:-1 tvg-id="mtv.usa.eastern.us" tvg-name="mtv.usa.eastern.us" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.usa.eastern.us.png",MTV (East) US (9071401)
 https://api.vpnmate.com/play/?vlc=1&channel=9071401&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.2.canada.ca" tvg-name="mtv.2.canada.ca" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.2.canada.ca.png",MTV 2 CA (14001202)
+#EXTINF:-1 tvg-id="mtv.2.canada.ca" tvg-name="mtv.2.canada.ca" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.2.canada.ca.png",MTV 2 CA (14001202)
 https://api.vpnmate.com/play/?vlc=1&channel=14001202&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.2.east.us" tvg-name="mtv.2.east.us" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.2.east.us.png",MTV 2 US (9086781)
+#EXTINF:-1 tvg-id="mtv.2.east.us" tvg-name="mtv.2.east.us" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.2.east.us.png",MTV 2 US (9086781)
 https://api.vpnmate.com/play/?vlc=1&channel=9086781&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.base.uk" tvg-name="mtv.base.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.base.uk.png",MTV BASE (11000282)
+#EXTINF:-1 tvg-id="mtv.base.uk" tvg-name="mtv.base.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.base.uk.png",MTV BASE (11000282)
 https://api.vpnmate.com/play/?vlc=1&channel=11000282&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.canada.ca" tvg-name="mtv.canada.ca" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.canada.ca.png",MTV CA (3008113)
+#EXTINF:-1 tvg-id="mtv.canada.ca" tvg-name="mtv.canada.ca" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.canada.ca.png",MTV CA (3008113)
 https://api.vpnmate.com/play/?vlc=1&channel=3008113&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.classic.uk" tvg-name="mtv.classic.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.classic.uk.png",MTV Classic (11000284)
+#EXTINF:-1 tvg-id="mtv.classic.uk" tvg-name="mtv.classic.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.classic.uk.png",MTV Classic (11000284)
 https://api.vpnmate.com/play/?vlc=1&channel=11000284&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.classic.east.us" tvg-name="mtv.classic.east.us" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.classic.east.us.png",MTV Classic US (9104879)
+#EXTINF:-1 tvg-id="mtv.classic.east.us" tvg-name="mtv.classic.east.us" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.classic.east.us.png",MTV Classic US (9104879)
 https://api.vpnmate.com/play/?vlc=1&channel=9104879&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.hits.uk" tvg-name="mtv.hits.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.hits.uk.png",MTV HITS (11000285)
+#EXTINF:-1 tvg-id="mtv.hits.uk" tvg-name="mtv.hits.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.hits.uk.png",MTV HITS (11000285)
 https://api.vpnmate.com/play/?vlc=1&channel=11000285&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.music.uk" tvg-name="mtv.music.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.music.uk.png",MTV Music UK (11000280)
+#EXTINF:-1 tvg-id="mtv.music.uk" tvg-name="mtv.music.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.music.uk.png",MTV Music UK (11000280)
 https://api.vpnmate.com/play/?vlc=1&channel=11000280&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.omg.uk" tvg-name="mtv.omg.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.omg.uk.png",MTV OMG (11000286)
+#EXTINF:-1 tvg-id="mtv.omg.uk" tvg-name="mtv.omg.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.omg.uk.png",MTV OMG (11000286)
 https://api.vpnmate.com/play/?vlc=1&channel=11000286&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.rocks.uk" tvg-name="mtv.rocks.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.rocks.uk.png",MTV ROCKS (11000287)
+#EXTINF:-1 tvg-id="mtv.rocks.uk" tvg-name="mtv.rocks.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.rocks.uk.png",MTV ROCKS (11000287)
 https://api.vpnmate.com/play/?vlc=1&channel=11000287&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="now80.uk" tvg-name="now80.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/now80.uk.png",Now 80s (2719)
+#EXTINF:-1 tvg-id="now80.uk" tvg-name="now80.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/now80.uk.png",Now 80s (2719)
 https://api.vpnmate.com/play/?vlc=1&channel=2719&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="now90.uk" tvg-name="now90.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/now90.uk.png",Now 90s (11000293)
+#EXTINF:-1 tvg-id="now90.uk" tvg-name="now90.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/now90.uk.png",Now 90s (11000293)
 https://api.vpnmate.com/play/?vlc=1&channel=11000293&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="the.box.uk" tvg-name="the.box.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/the.box.uk.png",The Box (11000289)
+#EXTINF:-1 tvg-id="the.box.uk" tvg-name="the.box.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/the.box.uk.png",The Box (11000289)
 https://api.vpnmate.com/play/?vlc=1&channel=11000289&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="vh1.eastern.us" tvg-name="vh1.eastern.us" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/vh1.eastern.us.png",VH1 (East) US (9070365)
+#EXTINF:-1 tvg-id="vh1.eastern.us" tvg-name="vh1.eastern.us" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/vh1.eastern.us.png",VH1 (East) US (9070365)
 https://api.vpnmate.com/play/?vlc=1&channel=9070365&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="vh1.uk" tvg-name="vh1.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/vh1.uk.png",VH1 Europe (278)
+#EXTINF:-1 tvg-id="vh1.uk" tvg-name="vh1.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/vh1.uk.png",VH1 Europe (278)
 https://api.vpnmate.com/play/?vlc=1&channel=278&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="vh1.uk" tvg-name="vh1.uk" tvg-type="live" group-title=MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/vh1.uk.png",VH1 Europe (11000103)
+#EXTINF:-1 tvg-id="vh1.uk" tvg-name="vh1.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/vh1.uk.png",VH1 Europe (11000103)
 https://api.vpnmate.com/play/?vlc=1&channel=11000103&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
 #EXTINF:-1 tvg-id="sky.cinema.action.uk" tvg-name="sky.cinema.action.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.action.uk.png",Sky Cinema Action (11000146)
 https://api.vpnmate.com/play/?vlc=1&channel=11000146&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
