@@ -1,14 +1,13 @@
 #EXTM3U
 #MY STUFF!!!
 #Main TV Source
-#EXTINF:-1 group-title="USA CHANNELS",MORE MAX(CINEMAX)
+#Change alt 5,7,9.11
+#EXTINF:-1 group-title="CHANNEL",MORE MAX(CINEMAX)
 http://kstv.xyz:8080/Sayhay10/1867385835/23342
-#EXTINF:-1 group-title="USA CHANNELS",STAR MOVIES HD
+#EXTINF:-1 group-title="CHANNEL",STAR MOVIES HD
 http://tvservice.pro:80/DM1pj30IBg/JUiaRhf66/34687
-#EXTINF:-1 group-title="USA CHANNELS",LAFF NETWORK
+#EXTINF:-1 group-title="CHANNEL",LAFF NETWORK
 https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
-#EXTINF:-1 group-title="USA CHANNELS",CARTOONS
-http://162.218.64.65:83/live/ByN90XRm/0KBtjG3k/355234.m3u8
 #Main TV Source
 #Alternate Sources Are Below
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="US | A&E" tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--nWj4HTog--/t_xlarge_l/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1380022499/attachment/aande-logo.jpg" group-title="ALTERNATE # 1",US | A&E
@@ -9572,7 +9571,7 @@ http://muricastreams.tv:83/heavyjj76/78656527/305720
 #EXTINF:-1 group-title="ALTERNATE # 12",US: ESPN COLLEGE EXTRA 6 | HD
 http://muricastreams.tv:83/heavyjj76/78656527/305719
 #EXTINF:-1 group-title="WWE" tvg-logo="https://img.bleacherreport.net/img/images/photos/002/617/833/maxresdefault_crop_north.jpg?h=533&w=800&q=70&crop_x=center&crop_y=top",WWE NETWORK
-https://api.vpnmate.com/play/?vlc=1&channel=8000041&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
+http://iptv-line.com:6969/florhuling@outlook.com/joanne1983/2
 #EXTINF:-1 group-title="WWE" tvg-logo="https://talksport.com/wp-content/uploads/sites/5/2019/04/WWE.jpg",WRESTLE MANIA
 http://hosting.dstv.ltd:25461/qusai88@hotmail.com/cCo9Oo748p/36476
 #EXTINF:-1 group-title="MUSIC",KEEP IT COUNTRY
@@ -9581,84 +9580,6 @@ http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1 group-title="MUSIC",COUNTRY MUSIC 4 U
 https://rpcdn.tulix.tv/36bay2/gusa-countrymusic4u/index.m3u8
-#EXTINF:-1 tvg-id="4music.uk" tvg-name="4music.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/4music.uk.png",4Music (11000298)
-https://api.vpnmate.com/play/?vlc=1&channel=11000298&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="box.hits.uk" tvg-name="box.hits.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/box.hits.uk.png",Box Hits (11000291)
-https://api.vpnmate.com/play/?vlc=1&channel=11000291&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="box.upfront.uk" tvg-name="box.upfront.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/box.upfront.uk.png",Box Upfront (11000290)
-https://api.vpnmate.com/play/?vlc=1&channel=11000290&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="club.mtv.uk" tvg-name="club.mtv.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/club.mtv.uk.png",Club MTV (11000283)
-https://api.vpnmate.com/play/?vlc=1&channel=11000283&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="clubland.uk" tvg-name="clubland.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/clubland.uk.png",Clubland TV UK (11000301)
-https://api.vpnmate.com/play/?vlc=1&channel=11000301&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="kerrang.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/kerrang.uk.png",Kerrang! (11000296)
-https://api.vpnmate.com/play/?vlc=1&channel=11000296&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="kiss.uk" tvg-name="kiss.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/kiss.uk.png",KISS (11000295)
-https://api.vpnmate.com/play/?vlc=1&channel=11000295&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="magic.uk" tvg-name="magic.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/magic.uk.png",Magic (11000294)
-https://api.vpnmate.com/play/?vlc=1&channel=11000294&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.uk" tvg-name="mtv.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.uk.png",MTV (11000071)
-https://api.vpnmate.com/play/?vlc=1&channel=11000071&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.usa.eastern.us" tvg-name="mtv.usa.eastern.us" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.usa.eastern.us.png",MTV (East) US (9071401)
-https://api.vpnmate.com/play/?vlc=1&channel=9071401&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.2.canada.ca" tvg-name="mtv.2.canada.ca" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.2.canada.ca.png",MTV 2 CA (14001202)
-https://api.vpnmate.com/play/?vlc=1&channel=14001202&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.2.east.us" tvg-name="mtv.2.east.us" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.2.east.us.png",MTV 2 US (9086781)
-https://api.vpnmate.com/play/?vlc=1&channel=9086781&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.base.uk" tvg-name="mtv.base.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.base.uk.png",MTV BASE (11000282)
-https://api.vpnmate.com/play/?vlc=1&channel=11000282&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.canada.ca" tvg-name="mtv.canada.ca" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.canada.ca.png",MTV CA (3008113)
-https://api.vpnmate.com/play/?vlc=1&channel=3008113&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.classic.uk" tvg-name="mtv.classic.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.classic.uk.png",MTV Classic (11000284)
-https://api.vpnmate.com/play/?vlc=1&channel=11000284&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.classic.east.us" tvg-name="mtv.classic.east.us" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.classic.east.us.png",MTV Classic US (9104879)
-https://api.vpnmate.com/play/?vlc=1&channel=9104879&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.hits.uk" tvg-name="mtv.hits.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.hits.uk.png",MTV HITS (11000285)
-https://api.vpnmate.com/play/?vlc=1&channel=11000285&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.music.uk" tvg-name="mtv.music.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.music.uk.png",MTV Music UK (11000280)
-https://api.vpnmate.com/play/?vlc=1&channel=11000280&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.omg.uk" tvg-name="mtv.omg.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.omg.uk.png",MTV OMG (11000286)
-https://api.vpnmate.com/play/?vlc=1&channel=11000286&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="mtv.rocks.uk" tvg-name="mtv.rocks.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/mtv.rocks.uk.png",MTV ROCKS (11000287)
-https://api.vpnmate.com/play/?vlc=1&channel=11000287&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="now80.uk" tvg-name="now80.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/now80.uk.png",Now 80s (2719)
-https://api.vpnmate.com/play/?vlc=1&channel=2719&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="now90.uk" tvg-name="now90.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/now90.uk.png",Now 90s (11000293)
-https://api.vpnmate.com/play/?vlc=1&channel=11000293&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="the.box.uk" tvg-name="the.box.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/the.box.uk.png",The Box (11000289)
-https://api.vpnmate.com/play/?vlc=1&channel=11000289&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="vh1.eastern.us" tvg-name="vh1.eastern.us" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/vh1.eastern.us.png",VH1 (East) US (9070365)
-https://api.vpnmate.com/play/?vlc=1&channel=9070365&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="vh1.uk" tvg-name="vh1.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/vh1.uk.png",VH1 Europe (278)
-https://api.vpnmate.com/play/?vlc=1&channel=278&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="vh1.uk" tvg-name="vh1.uk" tvg-type="live" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/vh1.uk.png",VH1 Europe (11000103)
-https://api.vpnmate.com/play/?vlc=1&channel=11000103&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="sky.cinema.action.uk" tvg-name="sky.cinema.action.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.action.uk.png",Sky Cinema Action (11000146)
-https://api.vpnmate.com/play/?vlc=1&channel=11000146&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="sky.cinema.action.uk" tvg-name="sky.cinema.action.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.action.uk.png",Sky Cinema Action (2765)
-https://api.vpnmate.com/play/?vlc=1&channel=2765&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="sky.cinema.comedy.uk" tvg-name="sky.cinema.comedy.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.comedy.uk.png",Sky Cinema Comedy (11000147)
-https://api.vpnmate.com/play/?vlc=1&channel=11000147&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="sky.cinema.disney.uk" tvg-name="sky.cinema.disney.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.disney.uk.png",Sky Cinema Disney (2767)
-https://api.vpnmate.com/play/?vlc=1&channel=2767&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="sky.cinema.disney.uk" tvg-name="sky.cinema.disney.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.disney.uk.png",Sky Cinema Disney (11000144)
-https://api.vpnmate.com/play/?vlc=1&channel=11000144&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="sky.cinema.drama.uk" tvg-name="sky.cinema.drama.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.drama.uk.png",Sky Cinema Drama (11000149)
-https://api.vpnmate.com/play/?vlc=1&channel=11000149&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="sky.cinema.family.uk" tvg-name="sky.cinema.family.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.family.uk.png",Sky Cinema Family (2769)
-https://api.vpnmate.com/play/?vlc=1&channel=2769&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="sky.cinema.family.uk" tvg-name="sky.cinema.family.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.family.uk.png",Sky Cinema Family (11000145)
-https://api.vpnmate.com/play/?vlc=1&channel=11000145&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="sky.cinema.hits.uk" tvg-name="sky.cinema.hits.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.hits.uk.png",Sky Cinema Hits (11000142)
-https://api.vpnmate.com/play/?vlc=1&channel=11000142&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="sky.cinema.premiere.uk" tvg-name="sky.cinema.premiere.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.premiere.uk.png",Sky Cinema Premiere (11000141)
-https://api.vpnmate.com/play/?vlc=1&channel=11000141&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="sky.cinema.sci.fihorror.uk" tvg-name="sky.cinema.sci.fihorror.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.sci.fihorror.uk.png",Sky Cinema Sci-fi Horror (2771)
-https://api.vpnmate.com/play/?vlc=1&channel=2771&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="sky.cinema.sci.fihorror.uk" tvg-name="sky.cinema.sci.fihorror.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.sci.fihorror.uk.png",Sky Cinema Sci-fi Horror (11000150)
-https://api.vpnmate.com/play/?vlc=1&channel=11000150&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
-#EXTINF:-1 tvg-id="sky.cinema.thriller.uk" tvg-name="sky.cinema.thriller.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.thriller.uk.png",Sky Cinema Thriller (11000148)
-https://api.vpnmate.com/play/?vlc=1&channel=11000148&token=UnR85k1bRkWS:NmNlZTljNWYzZDExY2JhNzgxNWE5ZWNiMzZmNjI4NWE0OGZmNTQ0OQ==
 #EXTINF:-1 group-title="OSN",Osn Yahala
 http://s1.falcon-iptv.com:25461/Anas_Qutbi/xD4THQaVfW/31243
 #EXTINF:-1 group-title="OSN",Osn Yahala Oula
