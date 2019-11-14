@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="program.apollo" version="3.9.5" name="[COLOR white]Apollo[/COLOR] [COLOR FF028ddd]Group[/COLOR]" provider-name="Apollo Group">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+		<import addon="script.module.requests"/>
+		<import addon="script.myaddon.artwork"/>
+		<import addon="script.myaddon.metadata"/>
+		<import addon="script.module.metahandler"/>
+		<import addon="service.iptvsimple.plugin.player" version="2.0.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py"/>
+	<extension point="xbmc.addon.metadata">
+		<summary>Apollo Group - Watch for the B-E-S-T!</summary>
+		<description>
+		Facebook Page and Support Group @ApolloGroupTV. Free slots are full? Become a member today, visit: ApolloGroup.tv
+		</description>
+		<platform>all</platform>
+	</extension>
+</addon>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.apollo" name="[COLOR white]Apollo[/COLOR] [COLOR FF028ddd]Group[/COLOR] [COLOR white]Repo[/COLOR]" version="1.0.7" provider-name="ApolloGroup.TV">
+	<extension point="xbmc.addon.repository" name="Apollo Group Repo">
+		<dir minversion="16.0.0">
+			<info>https://raw.githubusercontent.com/Apollo2000/Repo16/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Apollo2000/Repo16/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Apollo2000/Repo16/master/</datadir>
+		</dir>
+		<dir minversion="17.0.0">
+			<info>https://raw.githubusercontent.com/Apollo2000/Repo17/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Apollo2000/Repo17/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Apollo2000/Repo17/master/</datadir>
+		</dir>
+		<dir minversion="18.0.0">
+			<info>https://raw.githubusercontent.com/Apollo2000/Repo18/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Apollo2000/Repo18/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Apollo2000/Repo18/master/</datadir>
+		</dir>
+	</extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Apollo Group - Watch for the B-E-S-T!</summary>
+        <description>Visit us for more info and Support at our Facebook @ApolloGroupTV.[CR]Website ApolloGroup.TV
+		</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+</addons>
