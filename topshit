@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/Apollo2000/TVGuide/blob/master/utc.xml.gz?raw=true"
+#EXTINF:-1 tvg-id="ae.us.eastern.us" tvg-name="ae.us.eastern.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/ae.us.eastern.us.png",FOR JUNEBUG
+https://www.youtube.com/watch?v=KVK6yLqY54w
 #EXTINF:-1 tvg-id="ae.us.eastern.us" tvg-name="ae.us.eastern.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/ae.us.eastern.us.png",A&E (East) US (14000896)
 https://api.vpnmate.com/play/?vlc=1&channel=14000896&token=XaQmnrMC8Oyt:MTQ3NmU2ODBkOTdiNmIyYzM5MTU5MTljNzIyODAwNWIwODBkMWZhMg==
 #EXTINF:-1 tvg-id="ae.us.eastern.us" tvg-name="ae.us.eastern.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/ae.us.eastern.us.png",A&E (East) US (9104897)
