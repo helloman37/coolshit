@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/Apollo2000/TVGuide/blob/master/utc.xml.gz?raw=true"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://petco.scene7.com/is/image/PETCO/3065985-center-1",FOR ART ;)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://petco.scene7.com/is/image/PETCO/3065985-center-1",FOR JUNEBUG ;)
 http://kalitutorials.webs.nf/getfvid_60694211_365481057408605_761891249434132480_n.mp4
 #EXTINF:-1 tvg-id="ae.us.eastern.us" tvg-name="ae.us.eastern.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/ae.us.eastern.us.png",A&E (East) US (14000896)
 https://api.vpnmate.com/play/?vlc=1&channel=14000896&token=XaQmnrMC8Oyt:MTQ3NmU2ODBkOTdiNmIyYzM5MTU5MTljNzIyODAwNWIwODBkMWZhMg==
