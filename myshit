@@ -9902,10 +9902,30 @@ https://api.vpnmate.com/play/?vlc=1&channel=8000041&token=XaQmnrMC8Oyt:MTQ3NmU2O
 http://hosting.dstv.ltd:25461/qusai88@hotmail.com/cCo9Oo748p/36476
 #EXTINF:-1 group-title="MUSIC",KEEP IT COUNTRY
 http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
-#EXTINF:-1 group-title="MUSIC",THE COUNTRY NETWORK
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1 group-title="MUSIC",COUNTRY MUSIC 4 U
 https://rpcdn.tulix.tv/36bay2/gusa-countrymusic4u/index.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.action.uk" tvg-name="sky.cinema.action.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.action.uk.png",Sky Cinema Action (11000146)
+https://api.vpnmate.com/play/?vlc=1&channel=11000146&token=oFAq_TW2KfN2:NjQ0YzE1MDU5ZjQ3MjVlOTJlMDY1NjBmNDUwNzBmMTFjMDc0ZmI2Mw==
+#EXTINF:-1 tvg-id="sky.cinema.comedy.uk" tvg-name="sky.cinema.comedy.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.comedy.uk.png",Sky Cinema Comedy (11000147)
+https://api.vpnmate.com/play/?vlc=1&channel=11000147&token=oFAq_TW2KfN2:NjQ0YzE1MDU5ZjQ3MjVlOTJlMDY1NjBmNDUwNzBmMTFjMDc0ZmI2Mw==
+#EXTINF:-1 tvg-id="sky.cinema.disney.uk" tvg-name="sky.cinema.disney.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.disney.uk.png",Sky Cinema Disney (11000144)
+https://api.vpnmate.com/play/?vlc=1&channel=11000144&token=oFAq_TW2KfN2:NjQ0YzE1MDU5ZjQ3MjVlOTJlMDY1NjBmNDUwNzBmMTFjMDc0ZmI2Mw==
+#EXTINF:-1 tvg-id="sky.cinema.drama.uk" tvg-name="sky.cinema.drama.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.drama.uk.png",Sky Cinema Drama (11000149)
+https://api.vpnmate.com/play/?vlc=1&channel=11000149&token=oFAq_TW2KfN2:NjQ0YzE1MDU5ZjQ3MjVlOTJlMDY1NjBmNDUwNzBmMTFjMDc0ZmI2Mw==
+#EXTINF:-1 tvg-id="sky.cinema.family.uk" tvg-name="sky.cinema.family.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.family.uk.png",Sky Cinema Family (11000145)
+https://api.vpnmate.com/play/?vlc=1&channel=11000145&token=oFAq_TW2KfN2:NjQ0YzE1MDU5ZjQ3MjVlOTJlMDY1NjBmNDUwNzBmMTFjMDc0ZmI2Mw==
+#EXTINF:-1 tvg-id="sky.cinema.greats.uk" tvg-name="sky.cinema.greats.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.greats.uk.png",Sky Cinema Greats UK (11000143)
+https://api.vpnmate.com/play/?vlc=1&channel=11000143&token=oFAq_TW2KfN2:NjQ0YzE1MDU5ZjQ3MjVlOTJlMDY1NjBmNDUwNzBmMTFjMDc0ZmI2Mw==
+#EXTINF:-1 tvg-id="sky.cinema.hits.uk" tvg-name="sky.cinema.hits.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.hits.uk.png",Sky Cinema Hits (11000142)
+https://api.vpnmate.com/play/?vlc=1&channel=11000142&token=oFAq_TW2KfN2:NjQ0YzE1MDU5ZjQ3MjVlOTJlMDY1NjBmNDUwNzBmMTFjMDc0ZmI2Mw==
+#EXTINF:-1 tvg-id="sky.cinema.premiere.uk" tvg-name="sky.cinema.premiere.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.premiere.uk.png",Sky Cinema Premiere (11000141)
+https://api.vpnmate.com/play/?vlc=1&channel=11000141&token=oFAq_TW2KfN2:NjQ0YzE1MDU5ZjQ3MjVlOTJlMDY1NjBmNDUwNzBmMTFjMDc0ZmI2Mw==
+#EXTINF:-1 tvg-id="sky.cinema.sci.fihorror.uk" tvg-name="sky.cinema.sci.fihorror.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.sci.fihorror.uk.png",Sky Cinema Sci-fi Horror (11000150)
+https://api.vpnmate.com/play/?vlc=1&channel=11000150&token=oFAq_TW2KfN2:NjQ0YzE1MDU5ZjQ3MjVlOTJlMDY1NjBmNDUwNzBmMTFjMDc0ZmI2Mw==
+#EXTINF:-1 tvg-id="sky.cinema.thriller.uk" tvg-name="sky.cinema.thriller.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sky.cinema.thriller.uk.png",Sky Cinema Thriller (11000148)
+https://api.vpnmate.com/play/?vlc=1&channel=11000148&token=oFAq_TW2KfN2:NjQ0YzE1MDU5ZjQ3MjVlOTJlMDY1NjBmNDUwNzBmMTFjMDc0ZmI2Mw==
+#EXTINF:-1 tvg-id="sony.movies.uk" tvg-name="sony.movies.uk" tvg-type="live" group-title="SKY CINEMA" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/sony.movies.uk.png",Sony Movies UK (11000181)
+https://api.vpnmate.com/play/?vlc=1&channel=11000181&token=oFAq_TW2KfN2:NjQ0YzE1MDU5ZjQ3MjVlOTJlMDY1NjBmNDUwNzBmMTFjMDc0ZmI2Mw==
 #EXTINF:-1 group-title="24/7",| A TOUCH OF FROST (L)
 http://muricastreams.tv:83/heavyjj76/78656527/320460
 #EXTINF:-1 group-title="24/7",| ABSOLUTELY FABULOUS (L)
