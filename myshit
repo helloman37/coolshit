@@ -541,256 +541,924 @@ http://tvservice.pro:80/DM1pj30IBg/JUiaRhf66/34687
 http://etvhosting.xyz:8080/Freddy23/67oa9uZ8Jq/37917
 #Main TV Source
 #Alternate Sources Are Below
-##EXTINF:-1 group-title="SOURCE 1",US: USA Network
-http://xtiptv.xyz:25461/live/farhan1/farhan1/57890.ts
-#EXTINF:-1 group-title="SOURCE 1",US: UFC Fight pass
-http://xtiptv.xyz:25461/live/farhan1/farhan1/57761.ts
-#EXTINF:-1 group-title="SOURCE 1",US: MSNBC
-http://xtiptv.xyz:25461/live/farhan1/farhan1/56577.ts
-#EXTINF:-1 group-title="SOURCE 1",US: FXX
-http://xtiptv.xyz:25461/live/farhan1/farhan1/57894.ts
-#EXTINF:-1 group-title="SOURCE 1",US: ABC HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/57891.ts
-#EXTINF:-1 group-title="SOURCE 1",US: WWE HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55730.ts
-#EXTINF:-1 group-title="SOURCE 1",US: WEATHERNATION
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55719.ts
-#EXTINF:-1 group-title="SOURCE 1",US: VIP: BAYERN FC TV FHD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55795.ts
-#EXTINF:-1 group-title="SOURCE 1",US: TSN 4 HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55678.ts
-#EXTINF:-1 group-title="SOURCE 1",US: TSN 3*
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55679.ts
-#EXTINF:-1 group-title="SOURCE 1",US: TNT HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55743.ts
-#EXTINF:-1 group-title="SOURCE 1",US: TLC HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55731.ts
-#EXTINF:-1 group-title="SOURCE 1",US: HBO HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/59020.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Tennis Channel HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55757.ts
-#EXTINF:-1 group-title="SOURCE 1",US: TBS HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55683.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Starz Etas
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55759.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Starz Encore
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55758.ts
-#EXTINF:-1 group-title="SOURCE 1",US: STARZ EDGE HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55660.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Starz Comedy
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55760.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Starz Cinema
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55761.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Sportsnet 360 HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55682.ts
-#EXTINF:-1 group-title="SOURCE 1",US: SPIKE HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55661.ts
-#EXTINF:-1 group-title="SOURCE 1",US: SHOWTIME HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55763.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Showtime 2
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55764.ts
-#EXTINF:-1 group-title="SOURCE 1",US: SEC Network
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55684.ts
-#EXTINF:-1 group-title="SOURCE 1",US: PAC-12 Washington
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55732.ts
-#EXTINF:-1 group-title="SOURCE 1",US: PAC-12 Oregon
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55733.ts
-#EXTINF:-1 group-title="SOURCE 1",US: PAC-12 Los Angeles
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55734.ts
-#EXTINF:-1 group-title="SOURCE 1",US: PAC-12 Arizona
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55736.ts
-#EXTINF:-1 group-title="SOURCE 1",US: OWN HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55794.ts
-#EXTINF:-1 group-title="SOURCE 1",US: OUTDOOR CHANNEL HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55710.ts
-#EXTINF:-1 group-title="SOURCE 1",US: NICKELODEN HD(1)
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55697.ts
-#EXTINF:-1 group-title="SOURCE 1",US: NICKELODEN HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55662.ts
-#EXTINF:-1 group-title="SOURCE 1",US: NHL Network(1)
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55685.ts
-#EXTINF:-1 group-title="SOURCE 1",US: NFL REDZONE SD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55781.ts
-#EXTINF:-1 group-title="SOURCE 1",US: NFL Network HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55737.ts
-#EXTINF:-1 group-title="SOURCE 1",US: NFL Network 1080i
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55780.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Cinemax ActionMax East
-http://xtiptv.xyz:25461/live/farhan1/farhan1/58260.ts
-#EXTINF:-1 group-title="SOURCE 1",US: NFL Network 1
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55698.ts
-#EXTINF:-1 group-title="SOURCE 1",US: NEWSMAX YT LIVE HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55784.ts
-#EXTINF:-1 group-title="SOURCE 1",US: NBC Golf
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55746.ts
-#EXTINF:-1 group-title="SOURCE 1",US: NBC
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55713.ts
-#EXTINF:-1 group-title="SOURCE 1",US: MY9 TV
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55716.ts
-#EXTINF:-1 group-title="SOURCE 1",US: MTV HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55801.ts
-#EXTINF:-1 group-title="SOURCE 1",US: MSNBC HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55686.ts
-#EXTINF:-1 group-title="SOURCE 1",US: MSG HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55728.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Lifetime Movie Network HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55727.ts
-#EXTINF:-1 group-title="SOURCE 1",US: ION Television East HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55726.ts
-#EXTINF:-1 group-title="SOURCE 1",US: HISTORY HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55748.ts
-#EXTINF:-1 group-title="SOURCE 1",US: HBO Signature
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55767.ts
-#EXTINF:-1 group-title="SOURCE 1",US: HBO Comedy
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55770.ts
-#EXTINF:-1 group-title="SOURCE 1",US: HALLMARK
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55665.ts
-#EXTINF:-1 group-title="SOURCE 1",US: H2
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55666.ts
-#EXTINF:-1 group-title="SOURCE 1",US: GRIT TV Movies
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55791.ts
-#EXTINF:-1 group-title="SOURCE 1",US: FX HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55667.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Fox SPORTS 506 HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55688.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Fox Sports 2 HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55739.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Food Network HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55669.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Fight HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55772.ts
-#EXTINF:-1 group-title="SOURCE 1",US: ESPN News US HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55724.ts
-#EXTINF:-1 group-title="SOURCE 1",US: ESPN HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55750.ts
-#EXTINF:-1 group-title="SOURCE 1",US: ESPN 2
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55690.ts
-#EXTINF:-1 group-title="SOURCE 1",US: ESPN
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55741.ts
-#EXTINF:-1 group-title="SOURCE 1",US: DIY Network
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55670.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Disney XD HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55788.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Discovery Science HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55671.ts
-#EXTINF:-1 group-title="SOURCE 1",US: DISCOVERY HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55774.ts
-#EXTINF:-1 group-title="SOURCE 1",US: COMEDY CENTRAL HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55752.ts
-#EXTINF:-1 group-title="SOURCE 1",US: CNN US HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55723.ts
-#EXTINF:-1 group-title="SOURCE 1",US: CNN HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55691.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Cinemax East HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55702.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Cinemax East
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55672.ts
-#EXTINF:-1 group-title="SOURCE 1",US: CINEMAX ACTION HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55692.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Cinemax 5 StarMax
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55674.ts
-#EXTINF:-1 group-title="SOURCE 1",US: CBSN HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55776.ts
-#EXTINF:-1 group-title="SOURCE 1",US: CBS Sports Network HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55798.ts
-#EXTINF:-1 group-title="SOURCE 1",US: CBS
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55753.ts
-#EXTINF:-1 group-title="SOURCE 1",US: CARTOON NETWORK
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55777.ts
-#EXTINF:-1 group-title="SOURCE 1",US: CA | TSN 5*
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55677.ts
-#EXTINF:-1 group-title="SOURCE 1",US: CA | TSN 2
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55680.ts
-#EXTINF:-1 group-title="SOURCE 1",US: C-Span 2
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55694.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Bloomberg TV
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55714.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Bloomberg Europe
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55699.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Bein Sports USA HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55675.ts
-#EXTINF:-1 group-title="SOURCE 1",US: ANIMAL PLANET HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55696.ts
-#EXTINF:-1 group-title="SOURCE 1",US: AMERICAN HEROES CHANNEL
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55789.ts
-#EXTINF:-1 group-title="SOURCE 1",US: AMC HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55779.ts
-#EXTINF:-1 group-title="SOURCE 1",US: ABC NEWS HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55755.ts
-#EXTINF:-1 group-title="SOURCE 1",US: A&E HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55742.ts
-#EXTINF:-1 group-title="SOURCE 1",US:   NBA TV HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55765.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Yes Network
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55816.ts
-#EXTINF:-1 group-title="SOURCE 1",US: WWE HD backup
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55834.ts
-#EXTINF:-1 group-title="SOURCE 1",US: WGN America HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55818.ts
-#EXTINF:-1 group-title="SOURCE 1",US: USA Network HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55802.ts
-#EXTINF:-1 group-title="SOURCE 1",US: TSN 1
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55806.ts
-#EXTINF:-1 group-title="SOURCE 1",US: THE FLORIDA CHANNEL
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55815.ts
-#EXTINF:-1 group-title="SOURCE 1",US: SYFY HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55822.ts
-#EXTINF:-1 group-title="SOURCE 1",US: PAC-12 Bay Area
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55819.ts
-#EXTINF:-1 group-title="SOURCE 1",US: NBCSNHD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55820.ts
-#EXTINF:-1 group-title="SOURCE 1",US: National Geographic
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55803.ts
-#EXTINF:-1 group-title="SOURCE 1",US: MTV Rocks
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55814.ts
-#EXTINF:-1 group-title="SOURCE 1",US: MLB Network
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55807.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Investigation Discovery
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55823.ts
-#EXTINF:-1 group-title="SOURCE 1",US: HGTV HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55813.ts
-#EXTINF:-1 group-title="SOURCE 1",US: HBO Zone
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55827.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Fox Sports 1 HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55821.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Fox sport 1 backup
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55835.ts
-#EXTINF:-1 group-title="SOURCE 1",US: FOX NEWS HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55824.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Fox HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55830.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Fine Living
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55812.ts
-#EXTINF:-1 group-title="SOURCE 1",US: FIGHT SPORT
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55805.ts
-#EXTINF:-1 group-title="SOURCE 1",US: ESPN U HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55817.ts
-#EXTINF:-1 group-title="SOURCE 1",US: E!
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55837.ts
-#EXTINF:-1 group-title="SOURCE 1",US: DISNEY JR HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55832.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Discovery Channel
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55831.ts
-#EXTINF:-1 group-title="SOURCE 1",US: DESTINATION AMERICA
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55836.ts
-#EXTINF:-1 group-title="SOURCE 1",US: CW HD
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55825.ts
-#EXTINF:-1 group-title="SOURCE 1",US: CNN HD *
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55833.ts
-#EXTINF:-1 group-title="SOURCE 1",US: CNBC
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55829.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Cinemax MoreMax
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55811.ts
-#EXTINF:-1 group-title="SOURCE 1",US: C-Span 3
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55808.ts
-#EXTINF:-1 group-title="SOURCE 1",US: C-Span 1
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55809.ts
-#EXTINF:-1 group-title="SOURCE 1",US: BRAVO HD(1)
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55826.ts
-#EXTINF:-1 group-title="SOURCE 1",US: Boomerang
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55810.ts
-#EXTINF:-1 group-title="SOURCE 1",USA: DW
-http://xtiptv.xyz:25461/live/farhan1/farhan1/55773.ts
+#EXTINF:-1 group-title="SOURCE 1",ABC EAST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38699
+#EXTINF:-1 group-title="SOURCE 1",CBS EAST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/36594
+#EXTINF:-1 group-title="SOURCE 1",NBC EAST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/36592
+#EXTINF:-1 group-title="SOURCE 1",FOX EAST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/36593
+#EXTINF:-1 group-title="SOURCE 1",ABC WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/34340
+#EXTINF:-1 group-title="SOURCE 1",NBC WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/31643
+#EXTINF:-1 group-title="SOURCE 1",CBS WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/31644
+#EXTINF:-1 group-title="SOURCE 1",FOX WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/31645
+#EXTINF:-1 group-title="SOURCE 1",ABC EAST Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/77487
+#EXTINF:-1 group-title="SOURCE 1",CBS EAST Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/77486
+#EXTINF:-1 group-title="SOURCE 1",FOX EAST Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/77484
+#EXTINF:-1 group-title="SOURCE 1",NBC EAST Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/77485
+#EXTINF:-1 group-title="SOURCE 1",ABC WEST Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/77483
+#EXTINF:-1 group-title="SOURCE 1",CBS WEST Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/77481
+#EXTINF:-1 group-title="SOURCE 1",FOX WEST Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/77480
+#EXTINF:-1 group-title="SOURCE 1",NBC WEST Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/77482
+#EXTINF:-1 group-title="SOURCE 1",ESPN Local (East Server)
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1262
+#EXTINF:-1 group-title="SOURCE 1",ESPN Local (West Server)
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/86502
+#EXTINF:-1 group-title="SOURCE 1",ESPN Backup
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1709
+#EXTINF:-1 group-title="SOURCE 1",ESPN Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/77479
+#EXTINF:-1 group-title="SOURCE 1",ESPN2 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95868
+#EXTINF:-1 group-title="SOURCE 1",ESPN2 Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95869
+#EXTINF:-1 group-title="SOURCE 1",ESPN NEWS Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1275
+#EXTINF:-1 group-title="SOURCE 1",ESPN U Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1274
+#EXTINF:-1 group-title="SOURCE 1",ESPN CLASSIC Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95883
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS 1 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1367
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS 2 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38483
+#EXTINF:-1 group-title="SOURCE 1",FOX SOCCER PLUS Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33472
+#EXTINF:-1 group-title="SOURCE 1",CBS SPORTS HQ Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/99477
+#EXTINF:-1 group-title="SOURCE 1",NFL NETWORK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1402
+#EXTINF:-1 group-title="SOURCE 1",NBA TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/29485
+#EXTINF:-1 group-title="SOURCE 1",MLB NETWORK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1389
+#EXTINF:-1 group-title="SOURCE 1",NHL NETWORK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1612
+#EXTINF:-1 group-title="SOURCE 1",ELEVEN SPORTS Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/86505
+#EXTINF:-1 group-title="SOURCE 1",TVG
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/35449
+#EXTINF:-1 group-title="SOURCE 1",TVG 2 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/97589
+#EXTINF:-1 group-title="SOURCE 1",FREESPORTS | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98772
+#EXTINF:-1 group-title="SOURCE 1",PREMIER SPORTS 1 | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98771
+#EXTINF:-1 group-title="SOURCE 1",PREMIER SPORTS 2 | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98770
+#EXTINF:-1 group-title="SOURCE 1",FREESPORTS
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/96973
+#EXTINF:-1 group-title="SOURCE 1",PREMIER SPORTS 1
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/96972
+#EXTINF:-1 group-title="SOURCE 1",PREMIER SPORTS 2
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/96971
+#EXTINF:-1 group-title="SOURCE 1",UFC FIGHT PASS
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95860
+#EXTINF:-1 group-title="SOURCE 1",UFC FIGHT PASS 2
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/96165
+#EXTINF:-1 group-title="SOURCE 1",UFC FIGHT PASS 3
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/96166
+#EXTINF:-1 group-title="SOURCE 1",UFC FIGHT PASS 4
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/96167
+#EXTINF:-1 group-title="SOURCE 1",UFC TV
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33843
+#EXTINF:-1 group-title="SOURCE 1",WWE
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/36372
+#EXTINF:-1 group-title="SOURCE 1",GOLF CHANNEL Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1479
+#EXTINF:-1 group-title="SOURCE 1",NBCSN Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1396
+#EXTINF:-1 group-title="SOURCE 1",ACC NETWORK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98754
+#EXTINF:-1 group-title="SOURCE 1",BIG TEN NETWORK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1467
+#EXTINF:-1 group-title="SOURCE 1",BTN 2 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/86541
+#EXTINF:-1 group-title="SOURCE 1",BTN 3 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/86542
+#EXTINF:-1 group-title="SOURCE 1",BTN 4 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/86543
+#EXTINF:-1 group-title="SOURCE 1",LONGHORN NETWORK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/34341
+#EXTINF:-1 group-title="SOURCE 1",SEC NETWORK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1419
+#EXTINF:-1 group-title="SOURCE 1",Pac-12 NETWORK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1413
+#EXTINF:-1 group-title="SOURCE 1",Pac-12 ARIZONA Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1409
+#EXTINF:-1 group-title="SOURCE 1",Pac-12 WASHINGTON
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1415
+#EXTINF:-1 group-title="SOURCE 1",Pac-12 OREGON Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1414
+#EXTINF:-1 group-title="SOURCE 1",Pac-12 LOS ANGELES Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1411
+#EXTINF:-1 group-title="SOURCE 1",Pac-12 BAY AREA Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1410
+#EXTINF:-1 group-title="SOURCE 1",PAC-12 MOUNTAIN Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1596
+#EXTINF:-1 group-title="SOURCE 1",FOX COLLEGE ATLANTIC Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33483
+#EXTINF:-1 group-title="SOURCE 1",FOX COLLEGE CENTRAL Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33484
+#EXTINF:-1 group-title="SOURCE 1",FOX COLLEGE PACIFIC Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/36266
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS ARIZONA Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33761
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS ASIA 1 (HK | THAI)
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/97685
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS ASIA 1 (PHIL)
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/97684
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS ASIA 1 (SING)
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/97683
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS ASIA 2
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/97682
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS ASIA 3
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/97681
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS RACING | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/99601
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS CAROLINAS Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/36274
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS DETROIT Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33759
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS INDIANA Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/88267
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS FLORIDA Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33758
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS KANSAS CITY Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/96170
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS MID WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33756
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS NEW ORLEANS Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/36272
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS NORTH Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33755
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS OHIO Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33754
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS OHIO PLUS Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/84649
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS OKLAHOMA Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89131
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS PRIME TICKET Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/36570
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS SAN DIEGO Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/36279
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS SOUTH Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33751
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS SE Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33750
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS SW  Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33749
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS SOUTHWEST PLUS
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/36277
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS SUN Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33748
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS TIME OHIO Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/91157
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33746
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS WISCONSIN Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33745
+#EXTINF:-1 group-title="SOURCE 1",FOX SPORTS YES NETWORK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33762
+#EXTINF:-1 group-title="SOURCE 1",FOX DEPORTES Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/36267
+#EXTINF:-1 group-title="SOURCE 1",MASN Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/97420
+#EXTINF:-1 group-title="SOURCE 1",MASN 2 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/97421
+#EXTINF:-1 group-title="SOURCE 1",MSG Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33474
+#EXTINF:-1 group-title="SOURCE 1",MSG PLUS Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38593
+#EXTINF:-1 group-title="SOURCE 1",SNY Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38440
+#EXTINF:-1 group-title="SOURCE 1",NESN Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/35508
+#EXTINF:-1 group-title="SOURCE 1",NESN PLUS Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95016
+#EXTINF:-1 group-title="SOURCE 1",AT&T SPORTSNET SOUTHWEST
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/96149
+#EXTINF:-1 group-title="SOURCE 1",SPECTRUM SPORTSNET
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89362
+#EXTINF:-1 group-title="SOURCE 1",SPORTSNET L.A.
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/59601
+#EXTINF:-1 group-title="SOURCE 1",NBCSN BAY AREA Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1730
+#EXTINF:-1 group-title="SOURCE 1",NBCSN BOSTON Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1732
+#EXTINF:-1 group-title="SOURCE 1",NBCSN CALIFORNIA Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/35437
+#EXTINF:-1 group-title="SOURCE 1",NBCSN CHICAGO Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1731
+#EXTINF:-1 group-title="SOURCE 1",NBCSN NORTH WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1733
+#EXTINF:-1 group-title="SOURCE 1",NBCSN PHILLY Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1734
+#EXTINF:-1 group-title="SOURCE 1",NBCSN WASHINGTON Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/81822
+#EXTINF:-1 group-title="SOURCE 1",CBS SPORTS NETWORK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1281
+#EXTINF:-1 group-title="SOURCE 1",WEST OHIO SPORTS NETWORK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/96967
+#EXTINF:-1 group-title="SOURCE 1",TENNIS CHANNEL Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/31209
+#EXTINF:-1 group-title="SOURCE 1",STADIUM Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89136
+#EXTINF:-1 group-title="SOURCE 1",STADIUM 1 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89137
+#EXTINF:-1 group-title="SOURCE 1",STADIUM 2 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89138
+#EXTINF:-1 group-title="SOURCE 1",STADIUM 3 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89139
+#EXTINF:-1 group-title="SOURCE 1",ESPN College Sports Extra 1
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/85262
+#EXTINF:-1 group-title="SOURCE 1",ESPN College Sports Extra 2
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/85263
+#EXTINF:-1 group-title="SOURCE 1",ESPN College Sports Extra 3
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/85264
+#EXTINF:-1 group-title="SOURCE 1",ESPN College Sports Extra 4
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/85265
+#EXTINF:-1 group-title="SOURCE 1",ESPN College Sports Extra 5
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/85266
+#EXTINF:-1 group-title="SOURCE 1",ESPN College Sports Extra 6
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/85267
+#EXTINF:-1 group-title="SOURCE 1",ESPN College Sports Extra 7
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/85268
+#EXTINF:-1 group-title="SOURCE 1",ESPN College Sports Extra 8
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/85269
+#EXTINF:-1 group-title="SOURCE 1",FIGHT NETWORK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/29193
+#EXTINF:-1 group-title="SOURCE 1",Box Nation HD (UK)
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1380
+#EXTINF:-1 group-title="SOURCE 1",BT SPORTS 1 | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89214
+#EXTINF:-1 group-title="SOURCE 1",BT SPORTS 2 | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89213
+#EXTINF:-1 group-title="SOURCE 1",BT SPORTS 3 | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89212
+#EXTINF:-1 group-title="SOURCE 1",BT SPORTS EPSN
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89211
+#EXTINF:-1 group-title="SOURCE 1",SKY SPORTS ACTION | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98789
+#EXTINF:-1 group-title="SOURCE 1",SKY SPORTS ARENA | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98787
+#EXTINF:-1 group-title="SOURCE 1",SKY SPORTS CRICKET | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98785
+#EXTINF:-1 group-title="SOURCE 1",SKY SPORTS F1 | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98783
+#EXTINF:-1 group-title="SOURCE 1",SKY SPORTS FOOTBALL | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98781
+#EXTINF:-1 group-title="SOURCE 1",SKY SPORTS GOLF | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98779
+#EXTINF:-1 group-title="SOURCE 1",SKY SPORTS MAIN EVENT | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98777
+#EXTINF:-1 group-title="SOURCE 1",SKY SPORTS MIX | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98857
+#EXTINF:-1 group-title="SOURCE 1",SKY SPORTS NEWS | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98801
+#EXTINF:-1 group-title="SOURCE 1",SKY SPORTS PREMIER LEAGUE | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98775
+#EXTINF:-1 group-title="SOURCE 1",SKY SPORTS RACING | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98773
+#EXTINF:-1 group-title="SOURCE 1",EUROSPORT 1
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/31459
+#EXTINF:-1 group-title="SOURCE 1",EUROSPORT 2
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/31460
+#EXTINF:-1 group-title="SOURCE 1",TSN 1
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1621
+#EXTINF:-1 group-title="SOURCE 1",TSN 2
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1622
+#EXTINF:-1 group-title="SOURCE 1",TSN 3
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1623
+#EXTINF:-1 group-title="SOURCE 1",TSN 4
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1624
+#EXTINF:-1 group-title="SOURCE 1",TSN 5
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1625
+#EXTINF:-1 group-title="SOURCE 1",SPORTSNET WORLD
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1619
+#EXTINF:-1 group-title="SOURCE 1",SPORTSNET ONTARIO
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/25999
+#EXTINF:-1 group-title="SOURCE 1",SPORTSNET 360
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/26000
+#EXTINF:-1 group-title="SOURCE 1",SPORTSNET ONE
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/26001
+#EXTINF:-1 group-title="SOURCE 1",SPORTSNET PACIFIC
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/26002
+#EXTINF:-1 group-title="SOURCE 1",BEIN SPORTS ESP (US) Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/27685
+#EXTINF:-1 group-title="SOURCE 1",BEIN SPORT LA LIGA esp
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/28014
+#EXTINF:-1 group-title="SOURCE 1",BEIN SPORT esp
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/36412
+#EXTINF:-1 group-title="SOURCE 1",BEIN SPORTS USA Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1501
+#EXTINF:-1 group-title="SOURCE 1",BEIN CONNECT 4 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38455
+#EXTINF:-1 group-title="SOURCE 1",BEIN CONNECT 5 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38456
+#EXTINF:-1 group-title="SOURCE 1",BEIN CONNECT 6 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38457
+#EXTINF:-1 group-title="SOURCE 1",BEIN CONNECT 7 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38458
+#EXTINF:-1 group-title="SOURCE 1",BEIN CONNECT 8 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38459
+#EXTINF:-1 group-title="SOURCE 1",Bee n Sport 1
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89210
+#EXTINF:-1 group-title="SOURCE 1",Bee n Sport 2
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89209
+#EXTINF:-1 group-title="SOURCE 1",Bee N Sport 3
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89208
+#EXTINF:-1 group-title="SOURCE 1",Bee N Sport 4
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89207
+#EXTINF:-1 group-title="SOURCE 1",Bee n Sport 5
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89206
+#EXTINF:-1 group-title="SOURCE 1",Bee n Sport 6
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89205
+#EXTINF:-1 group-title="SOURCE 1",Bee n Sport 7
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89204
+#EXTINF:-1 group-title="SOURCE 1",Bee N Sport 8
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89203
+#EXTINF:-1 group-title="SOURCE 1",Bee N Sport 9
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89202
+#EXTINF:-1 group-title="SOURCE 1",Bee N Sport 10
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89201
+#EXTINF:-1 group-title="SOURCE 1",Bee N Sport 11
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89200
+#EXTINF:-1 group-title="SOURCE 1",Bee n Sport 12
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89199
+#EXTINF:-1 group-title="SOURCE 1",Bee N Sport 13
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/100633
+#EXTINF:-1 group-title="SOURCE 1",OSN CRICKET
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95012
+#EXTINF:-1 group-title="SOURCE 1",WILLOW 1
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/92900
+#EXTINF:-1 group-title="SOURCE 1",WILLOW 2
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/92899
+#EXTINF:-1 group-title="SOURCE 1",WILLOW 3
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/92898
+#EXTINF:-1 group-title="SOURCE 1",WILLOW 4
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/92897
+#EXTINF:-1 group-title="SOURCE 1",WILLOW 5
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/92896
+#EXTINF:-1 group-title="SOURCE 1",MOTOGP: (EVENTS ONLY)
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/35101
+#EXTINF:-1 group-title="SOURCE 1",MOTOGP: ATMOS
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95808
+#EXTINF:-1 group-title="SOURCE 1",MOTOGP: HELICOPTER
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95807
+#EXTINF:-1 group-title="SOURCE 1",MOTOGP: ON BOARD CAMERA 1
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95806
+#EXTINF:-1 group-title="SOURCE 1",MOTOGP: ON BOARD CAMERA 2
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95805
+#EXTINF:-1 group-title="SOURCE 1",MOTOGP: ON BOARD CAMERA 3
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95804
+#EXTINF:-1 group-title="SOURCE 1",MOTOGP: ON BOARD CAMERA 4
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95803
+#EXTINF:-1 group-title="SOURCE 1",MOTOGP MOVISTAR (ES)
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/35099
+#EXTINF:-1 group-title="SOURCE 1",MAVTV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1267
+#EXTINF:-1 group-title="SOURCE 1",PURSUIT CHANNEL | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/97636
+#EXTINF:-1 group-title="SOURCE 1",SPORTSMAN CHANNEL Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/36070
+#EXTINF:-1 group-title="SOURCE 1",HUNT CHANNEL TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95939
+#EXTINF:-1 group-title="SOURCE 1",OUTDOOR CHANNEL
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/26029
+#EXTINF:-1 group-title="SOURCE 1",World Fishing Network
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/30261
+#EXTINF:-1 group-title="SOURCE 1",OUTSIDE TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38436
+#EXTINF:-1 group-title="SOURCE 1",MOTORTREND Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1452
+#EXTINF:-1 group-title="SOURCE 1",MOTORTREND Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/86534
+#EXTINF:-1 group-title="SOURCE 1",RED BULL TV
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1757
+#EXTINF:-1 group-title="SOURCE 1",Poker WPT Live & Replays
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98954
+#EXTINF:-1 group-title="SOURCE 1",A&E Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1307
+#EXTINF:-1 group-title="SOURCE 1",A&E BACKUP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33265
+#EXTINF:-1 group-title="SOURCE 1",AMC Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1317
+#EXTINF:-1 group-title="SOURCE 1",AMC Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/86492
+#EXTINF:-1 group-title="SOURCE 1",AMERICAN HEROES CHANNEL Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1681
+#EXTINF:-1 group-title="SOURCE 1",AMERICAN HEROES CHANNEL Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/87594
+#EXTINF:-1 group-title="SOURCE 1",ANIMAL PLANET Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1466
+#EXTINF:-1 group-title="SOURCE 1",ANIMAL PLANET Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/87593
+#EXTINF:-1 group-title="SOURCE 1",ANIMAL PLANET WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/86531
+#EXTINF:-1 group-title="SOURCE 1",ANTENNA TV
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/39211
+#EXTINF:-1 group-title="SOURCE 1",AWE Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89531
+#EXTINF:-1 group-title="SOURCE 1",AWE INT Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/97646
+#EXTINF:-1 group-title="SOURCE 1",AXS TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/36608
+#EXTINF:-1 group-title="SOURCE 1",BABY FIRST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95776
+#EXTINF:-1 group-title="SOURCE 1",BABY TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38435
+#EXTINF:-1 group-title="SOURCE 1",BBC AMERICA Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1329
+#EXTINF:-1 group-title="SOURCE 1",BET Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1330
+#EXTINF:-1 group-title="SOURCE 1",BET Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89162
+#EXTINF:-1 group-title="SOURCE 1",BET HER | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95936
+#EXTINF:-1 group-title="SOURCE 1",BET HER Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/35193
+#EXTINF:-1 group-title="SOURCE 1",BLOOMBERG TV
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/30274
+#EXTINF:-1 group-title="SOURCE 1",BOOMERANG Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1683
+#EXTINF:-1 group-title="SOURCE 1",BOOMERANG Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/87592
+#EXTINF:-1 group-title="SOURCE 1",BOUNCE TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95884
+#EXTINF:-1 group-title="SOURCE 1",BRAVO Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1379
+#EXTINF:-1 group-title="SOURCE 1",BRAVO Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/87599
+#EXTINF:-1 group-title="SOURCE 1",C-SPAN
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/30039
+#EXTINF:-1 group-title="SOURCE 1",C-SPAN 2
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/30038
+#EXTINF:-1 group-title="SOURCE 1",C-SPAN 3
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/30037
+#EXTINF:-1 group-title="SOURCE 1",CARTOON NETWORK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1378
+#EXTINF:-1 group-title="SOURCE 1",CARTOON NETWORK Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/87598
+#EXTINF:-1 group-title="SOURCE 1",CARTOON NETWORK WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38628
+#EXTINF:-1 group-title="SOURCE 1",CBS Action
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1654
+#EXTINF:-1 group-title="SOURCE 1",CBS DRAMA
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1655
+#EXTINF:-1 group-title="SOURCE 1",CBS REALITY
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1656
+#EXTINF:-1 group-title="SOURCE 1",CHEDDAR BIG NEWS Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/90396
+#EXTINF:-1 group-title="SOURCE 1",CHEDDAR NEWS Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/90395
+#EXTINF:-1 group-title="SOURCE 1",CLEO TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98753
+#EXTINF:-1 group-title="SOURCE 1",CMT
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1345
+#EXTINF:-1 group-title="SOURCE 1",CNBC Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1346
+#EXTINF:-1 group-title="SOURCE 1",CNBC WORLD Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/91153
+#EXTINF:-1 group-title="SOURCE 1",CNN Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1347
+#EXTINF:-1 group-title="SOURCE 1",COMEDY CENTRAL Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1679
+#EXTINF:-1 group-title="SOURCE 1",COMET Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/91152
+#EXTINF:-1 group-title="SOURCE 1",COOKING CHANNEL Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1259
+#EXTINF:-1 group-title="SOURCE 1",COURT TV MYSTERY Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/39212
+#EXTINF:-1 group-title="SOURCE 1",COWBOY CHANNEL
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/90060
+#EXTINF:-1 group-title="SOURCE 1",COZI TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38429
+#EXTINF:-1 group-title="SOURCE 1",CW (CINCI) Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95870
+#EXTINF:-1 group-title="SOURCE 1",CW (KTLA 5) Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98469
+#EXTINF:-1 group-title="SOURCE 1",CW (MY50) Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1350
+#EXTINF:-1 group-title="SOURCE 1",CW (PIX 11) | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95915
+#EXTINF:-1 group-title="SOURCE 1",DESTINATION AMERICA Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1462
+#EXTINF:-1 group-title="SOURCE 1",DISCOVERY CHANNEL Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/39638
+#EXTINF:-1 group-title="SOURCE 1",DISCOVERY CHANNEL Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/86501
+#EXTINF:-1 group-title="SOURCE 1",DISCOVERY CHANNEL WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1443
+#EXTINF:-1 group-title="SOURCE 1",DISCOVERY FAMILY Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38619
+#EXTINF:-1 group-title="SOURCE 1",DISCOVERY LIFE Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38620
+#EXTINF:-1 group-title="SOURCE 1",DISCOVERY SCIENCE Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1687
+#EXTINF:-1 group-title="SOURCE 1",DISCOVERY TURBO
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1692
+#EXTINF:-1 group-title="SOURCE 1",DISNEY CHANNEL Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1358
+#EXTINF:-1 group-title="SOURCE 1",DISNEY CHANNEL Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/87586
+#EXTINF:-1 group-title="SOURCE 1",DISNEY JR Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1261
+#EXTINF:-1 group-title="SOURCE 1",DISNEY JR Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/86497
+#EXTINF:-1 group-title="SOURCE 1",DISNEY XD Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1672
+#EXTINF:-1 group-title="SOURCE 1",DISNEY XD Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/87590
+#EXTINF:-1 group-title="SOURCE 1",DISNEY CHANNEL WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38627
+#EXTINF:-1 group-title="SOURCE 1",DISNEY JR WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38626
+#EXTINF:-1 group-title="SOURCE 1",DISNEY XD WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38625
+#EXTINF:-1 group-title="SOURCE 1",DIY Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1463
+#EXTINF:-1 group-title="SOURCE 1",E! Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1653
+#EXTINF:-1 group-title="SOURCE 1",E! Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/87591
+#EXTINF:-1 group-title="SOURCE 1",EL REY NETWORK | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95931
+#EXTINF:-1 group-title="SOURCE 1",FOOD NETWORK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/29480
+#EXTINF:-1 group-title="SOURCE 1",FOOD NETWORK Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/86494
+#EXTINF:-1 group-title="SOURCE 1",FREE SPEECH TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/90394
+#EXTINF:-1 group-title="SOURCE 1",FREEFORM Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1677
+#EXTINF:-1 group-title="SOURCE 1",FX Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1364
+#EXTINF:-1 group-title="SOURCE 1",FX WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/85209
+#EXTINF:-1 group-title="SOURCE 1",FX MOVIE Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/29312
+#EXTINF:-1 group-title="SOURCE 1",FXX Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1671
+#EXTINF:-1 group-title="SOURCE 1",FOX BUSINESS Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/27167
+#EXTINF:-1 group-title="SOURCE 1",FOX NEWS Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/31684
+#EXTINF:-1 group-title="SOURCE 1",FUSE Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/29989
+#EXTINF:-1 group-title="SOURCE 1",FUSION Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/29988
+#EXTINF:-1 group-title="SOURCE 1",FYI
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/31451
+#EXTINF:-1 group-title="SOURCE 1",GAME SHOW NETWORK
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1369
+#EXTINF:-1 group-title="SOURCE 1",GINX eSPORTS Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/91154
+#EXTINF:-1 group-title="SOURCE 1",GRIT Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1371
+#EXTINF:-1 group-title="SOURCE 1",BUZZR
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/26760
+#EXTINF:-1 group-title="SOURCE 1",PopTV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1264
+#EXTINF:-1 group-title="SOURCE 1",HALLMARK CHANNEL Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1375
+#EXTINF:-1 group-title="SOURCE 1",HALLMARK CHANNEL Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/86496
+#EXTINF:-1 group-title="SOURCE 1",HALLMARK DRAMA Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38591
+#EXTINF:-1 group-title="SOURCE 1",HALLMARK MOVIES Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1611
+#EXTINF:-1 group-title="SOURCE 1",HEROS & ICONS | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95927
+#EXTINF:-1 group-title="SOURCE 1",HGTV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1589
+#EXTINF:-1 group-title="SOURCE 1",HGTV Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/86493
+#EXTINF:-1 group-title="SOURCE 1",HGTV WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/86533
+#EXTINF:-1 group-title="SOURCE 1",HISTORY Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1386
+#EXTINF:-1 group-title="SOURCE 1",HLN Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38633
+#EXTINF:-1 group-title="SOURCE 1",HORSE TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/96978
+#EXTINF:-1 group-title="SOURCE 1",iBATTLE TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95793
+#EXTINF:-1 group-title="SOURCE 1",IFC Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1579
+#EXTINF:-1 group-title="SOURCE 1",INSP TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/96965
+#EXTINF:-1 group-title="SOURCE 1",INVESTIGATION DISCOVERY Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/35716
+#EXTINF:-1 group-title="SOURCE 1",INVESTIGATION DISCOVERY Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/86500
+#EXTINF:-1 group-title="SOURCE 1",INVESTIGATION DISCOVERY West Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1594
+#EXTINF:-1 group-title="SOURCE 1",ION TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/28901
+#EXTINF:-1 group-title="SOURCE 1",ION TV | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/99587
+#EXTINF:-1 group-title="SOURCE 1",LAFF TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/84190
+#EXTINF:-1 group-title="SOURCE 1",LAW & CRIME Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/92837
+#EXTINF:-1 group-title="SOURCE 1",LIFETIME Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1446
+#EXTINF:-1 group-title="SOURCE 1",LIFETIME MOVIE NETWORK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/2514
+#EXTINF:-1 group-title="SOURCE 1",ME TV EAST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38431
+#EXTINF:-1 group-title="SOURCE 1",MILITARY HISTORY | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98998
+#EXTINF:-1 group-title="SOURCE 1",MSNBC Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/30001
+#EXTINF:-1 group-title="SOURCE 1",MTV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1657
+#EXTINF:-1 group-title="SOURCE 1",MTV Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/96160
+#EXTINF:-1 group-title="SOURCE 1",MY12 (CHAR NC) Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/99436
+#EXTINF:-1 group-title="SOURCE 1",MY64 (CINCI) Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/92834
+#EXTINF:-1 group-title="SOURCE 1",NAT GEO Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1403
+#EXTINF:-1 group-title="SOURCE 1",NAT GEO WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/77223
+#EXTINF:-1 group-title="SOURCE 1",NAT GEO WILD Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1784
+#EXTINF:-1 group-title="SOURCE 1",NECN Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89012
+#EXTINF:-1 group-title="SOURCE 1",NEWSMAX 2 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/90393
+#EXTINF:-1 group-title="SOURCE 1",NEWSMAX 3 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/90392
+#EXTINF:-1 group-title="SOURCE 1",NICKELODEON Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1445
+#EXTINF:-1 group-title="SOURCE 1",NICKELODEON | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/99586
+#EXTINF:-1 group-title="SOURCE 1",NICK JR Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1268
+#EXTINF:-1 group-title="SOURCE 1",NICKTOONS Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1407
+#EXTINF:-1 group-title="SOURCE 1",ONE AMERICA NETWORK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/36607
+#EXTINF:-1 group-title="SOURCE 1",OWN Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1488
+#EXTINF:-1 group-title="SOURCE 1",OXYGEN Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1489
+#EXTINF:-1 group-title="SOURCE 1",PARAMOUNT NETWORK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1434
+#EXTINF:-1 group-title="SOURCE 1",PARAMOUNT NETWORK Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/96929
+#EXTINF:-1 group-title="SOURCE 1",PBS East
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/75496
+#EXTINF:-1 group-title="SOURCE 1",PBS KIDS
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/41008
+#EXTINF:-1 group-title="SOURCE 1",PEOPLE TV
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/40051
+#EXTINF:-1 group-title="SOURCE 1",PixL Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/99422
+#EXTINF:-1 group-title="SOURCE 1",QVC Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/35468
+#EXTINF:-1 group-title="SOURCE 1",REVOLT Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/29310
+#EXTINF:-1 group-title="SOURCE 1",RIDE TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/92982
+#EXTINF:-1 group-title="SOURCE 1",SMITHSONIAN CHANNEL Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/35461
+#EXTINF:-1 group-title="SOURCE 1",SONY MOVIE CHANNEL Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38701
+#EXTINF:-1 group-title="SOURCE 1",START TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/41306
+#EXTINF:-1 group-title="SOURCE 1",SUNDANCETV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1435
+#EXTINF:-1 group-title="SOURCE 1",SYFY Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1270
+#EXTINF:-1 group-title="SOURCE 1",TASTEMADE Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95075
+#EXTINF:-1 group-title="SOURCE 1",TBS Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1272
+#EXTINF:-1 group-title="SOURCE 1",TBS Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/87589
+#EXTINF:-1 group-title="SOURCE 1",TBS WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38621
+#EXTINF:-1 group-title="SOURCE 1",TCM Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/33103
+#EXTINF:-1 group-title="SOURCE 1",TEEN NICK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/92681
+#EXTINF:-1 group-title="SOURCE 1",TEEN NICK | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/99585
+#EXTINF:-1 group-title="SOURCE 1",THE COUNTRY NETWORK
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/30035
+#EXTINF:-1 group-title="SOURCE 1",TLC Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1667
+#EXTINF:-1 group-title="SOURCE 1",TLC WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/86532
+#EXTINF:-1 group-title="SOURCE 1",TNT Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/96162
+#EXTINF:-1 group-title="SOURCE 1",TNT Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/87588
+#EXTINF:-1 group-title="SOURCE 1",TNT WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38622
+#EXTINF:-1 group-title="SOURCE 1",TRAVEL CHANNEL Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/2028
+#EXTINF:-1 group-title="SOURCE 1",TRU TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1587
+#EXTINF:-1 group-title="SOURCE 1",TUFF TV HD (DIRECT)
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/30036
+#EXTINF:-1 group-title="SOURCE 1",TV LAND Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1676
+#EXTINF:-1 group-title="SOURCE 1",TV ONE Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/29307
+#EXTINF:-1 group-title="SOURCE 1",USA NETWORK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1449
+#EXTINF:-1 group-title="SOURCE 1",USA NETWORK Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/86495
+#EXTINF:-1 group-title="SOURCE 1",USA NETWORK WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38623
+#EXTINF:-1 group-title="SOURCE 1",UNIVERSAL KIDS Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38434
+#EXTINF:-1 group-title="SOURCE 1",UNIVERSITY OF CALIFORNIA TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/96966
+#EXTINF:-1 group-title="SOURCE 1",VH1 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1586
+#EXTINF:-1 group-title="SOURCE 1",VH1 Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89060
+#EXTINF:-1 group-title="SOURCE 1",WE TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1593
+#EXTINF:-1 group-title="SOURCE 1",VICELAND
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1457
+#EXTINF:-1 group-title="SOURCE 1",WEATHER CHANNEL
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1454
+#EXTINF:-1 group-title="SOURCE 1",WEATHER NATION Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/90389
+#EXTINF:-1 group-title="SOURCE 1",WGN CHICAGO Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/99457
+#EXTINF:-1 group-title="SOURCE 1",WGN 9 (CHI) Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95011
+#EXTINF:-1 group-title="SOURCE 1",WGN AMERICA LOCAL
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/99458
+#EXTINF:-1 group-title="SOURCE 1",HBO Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1265
+#EXTINF:-1 group-title="SOURCE 1",HBO Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/87596
+#EXTINF:-1 group-title="SOURCE 1",HBO WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/77224
+#EXTINF:-1 group-title="SOURCE 1",HBO 2 | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95926
+#EXTINF:-1 group-title="SOURCE 1",HBO COMEDY | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1465
+#EXTINF:-1 group-title="SOURCE 1",HBO FAMILY | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95925
+#EXTINF:-1 group-title="SOURCE 1",HBO SIGNATURE Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/2515
+#EXTINF:-1 group-title="SOURCE 1",HBO SIGNATURE Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89058
+#EXTINF:-1 group-title="SOURCE 1",HBO ZONE | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95924
+#EXTINF:-1 group-title="SOURCE 1",CINEMAX Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1282
+#EXTINF:-1 group-title="SOURCE 1",CINEMAX Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/87597
+#EXTINF:-1 group-title="SOURCE 1",CINEMAX WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38700
+#EXTINF:-1 group-title="SOURCE 1",CINEMAX 5STAR MAX Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89057
+#EXTINF:-1 group-title="SOURCE 1",CINEMAX 5STAR MAX Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89056
+#EXTINF:-1 group-title="SOURCE 1",CINEMAX ACTIONMAX | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95935
+#EXTINF:-1 group-title="SOURCE 1",CINEMAX MORE MAX | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95932
+#EXTINF:-1 group-title="SOURCE 1",CINEMAX MOVIEMAX Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/90706
+#EXTINF:-1 group-title="SOURCE 1",CINEMAX MOVIEMAX | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/99584
+#EXTINF:-1 group-title="SOURCE 1",CINEMAX OUTERMAX | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95934
+#EXTINF:-1 group-title="SOURCE 1",CINEMAX THRILLERMAX | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95933
+#EXTINF:-1 group-title="SOURCE 1",REELZ | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95923
+#EXTINF:-1 group-title="SOURCE 1",SHOWTIME Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1580
+#EXTINF:-1 group-title="SOURCE 1",SHOWTIME Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/87595
+#EXTINF:-1 group-title="SOURCE 1",SHOWTIME WEST Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/39223
+#EXTINF:-1 group-title="SOURCE 1",SHOWTIME 2 | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95922
+#EXTINF:-1 group-title="SOURCE 1",SHOWTIME BEYOND Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/90710
+#EXTINF:-1 group-title="SOURCE 1",SHOWTIME BEYOND Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/96930
+#EXTINF:-1 group-title="SOURCE 1",SHOWTIME EXTREME | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95921
+#EXTINF:-1 group-title="SOURCE 1",SHOWTIME FAMILY ZONE | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/99421
+#EXTINF:-1 group-title="SOURCE 1",SHOWTIME NEXT Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89082
+#EXTINF:-1 group-title="SOURCE 1",SHOWTIME NEXT Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/96931
+#EXTINF:-1 group-title="SOURCE 1",SHOWTIME SHOWCASE Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1421
+#EXTINF:-1 group-title="SOURCE 1",SHOWTIME SHOWCASE Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89061
+#EXTINF:-1 group-title="SOURCE 1",SHOWTIME WOMEN | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/97654
+#EXTINF:-1 group-title="SOURCE 1",STARZ Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1271
+#EXTINF:-1 group-title="SOURCE 1",STARZ | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95920
+#EXTINF:-1 group-title="SOURCE 1",STARZ CINEMA | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/97655
+#EXTINF:-1 group-title="SOURCE 1",STARZ COMEDY | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95919
+#EXTINF:-1 group-title="SOURCE 1",STARZ EDGE | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95918
+#EXTINF:-1 group-title="SOURCE 1",STARZ ENCORE Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/94991
+#EXTINF:-1 group-title="SOURCE 1",STARZ ENCORE | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95917
+#EXTINF:-1 group-title="SOURCE 1",STARZ ENCORE ACTION Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95801
+#EXTINF:-1 group-title="SOURCE 1",STARZ ENCORE ACTION | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/99583
+#EXTINF:-1 group-title="SOURCE 1",STARZ ENCORE BLACK | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/97580
+#EXTINF:-1 group-title="SOURCE 1",STARZ ENCORE CLASSIC Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95873
+#EXTINF:-1 group-title="SOURCE 1",STARZ ENCORE CLASSIC | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/99582
+#EXTINF:-1 group-title="SOURCE 1",STARZ ENCORE FAMILY | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/97581
+#EXTINF:-1 group-title="SOURCE 1",STARZ ENCORE WESTERNS
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/92315
+#EXTINF:-1 group-title="SOURCE 1",STARZ ENCORE SUSPENSE Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95802
+#EXTINF:-1 group-title="SOURCE 1",STARZ ENCORE SUSPENSE | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/99581
+#EXTINF:-1 group-title="SOURCE 1",STARZ IN BLACK Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89055
+#EXTINF:-1 group-title="SOURCE 1",STARZ IN BLACK Low BW
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/89054
+#EXTINF:-1 group-title="SOURCE 1",STARZ KIDS & FAMILY | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95916
+#EXTINF:-1 group-title="SOURCE 1",THE MOVIE CHANNEL Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/96959
+#EXTINF:-1 group-title="SOURCE 1",EPIX Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/1360
+#EXTINF:-1 group-title="SOURCE 1",EPIX | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95929
+#EXTINF:-1 group-title="SOURCE 1",EPIX 2 Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98755
+#EXTINF:-1 group-title="SOURCE 1",EPIX 2 | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95930
+#EXTINF:-1 group-title="SOURCE 1",EPIX DRIVE-IN Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95872
+#EXTINF:-1 group-title="SOURCE 1",EPIX DRIVE-IN | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/99588
+#EXTINF:-1 group-title="SOURCE 1",EPIX HITS Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/38629
+#EXTINF:-1 group-title="SOURCE 1",SKY ARTS
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/2408
+#EXTINF:-1 group-title="SOURCE 1",SKY CINEMA ACTION | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98800
+#EXTINF:-1 group-title="SOURCE 1",SKY CINEMA COMEDY | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98799
+#EXTINF:-1 group-title="SOURCE 1",SKY CINEMA DISNEY | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98798
+#EXTINF:-1 group-title="SOURCE 1",SKY CINEMA DRAMA | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98797
+#EXTINF:-1 group-title="SOURCE 1",SKY CINEMA FAMILY | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98796
+#EXTINF:-1 group-title="SOURCE 1",SKY CINEMA GREATS | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98795
+#EXTINF:-1 group-title="SOURCE 1",SKY CINEMA HITS | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98794
+#EXTINF:-1 group-title="SOURCE 1",SKY CINEMA PREMIER | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98793
+#EXTINF:-1 group-title="SOURCE 1",SKY CINEMA SCI-FI HORROR | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98792
+#EXTINF:-1 group-title="SOURCE 1",SKY CINEMA SELECT | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98791
+#EXTINF:-1 group-title="SOURCE 1",SKY CINEMA THRILLER | VIP
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/98790
+#EXTINF:-1 group-title="SOURCE 1",RELATIONSHIP TV Local
+http://glorytv.club:826/lebronmelendez@me.com/ZNmXlc9CtP/95787
 #EXTINF:-1 group-title="WWE" tvg-logo="https://img.bleacherreport.net/img/images/photos/002/617/833/maxresdefault_crop_north.jpg?h=533&w=800&q=70&crop_x=center&crop_y=top",WWE NETWORK
 https://api.vpnmate.com/play/?vlc=1&channel=8000041&token=XaQmnrMC8Oyt:MTQ3NmU2ODBkOTdiNmIyYzM5MTU5MTljNzIyODAwNWIwODBkMWZhMg==
 #EXTINF:-1 group-title="WWE" tvg-logo="https://talksport.com/wp-content/uploads/sites/5/2019/04/WWE.jpg",WRESTLE MANIA
