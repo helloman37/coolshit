@@ -333,11 +333,11 @@ https://tv4.live/api/stream/evoho@yahoo.com/EAngeli246/livetv.epg/wfn.world.fish
 https://tv4.live/api/stream/evoho@yahoo.com/EAngeli246/livetv.epg/wgn.america.eastern.us.m3u8
 #EXTINF:-1 tvg-id="wpix.new.york.superstation.us" tvg-name="wpix.new.york.superstation.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/wpix.new.york.superstation.us.png",WPIX New York
 https://tv4.live/api/stream/evoho@yahoo.com/EAngeli246/livetv.epg/wpix.new.york.superstation.us.m3u8
-#EXTINF:-1 group-title="USA LINEUP"MORE MAX(CINEMAX)
+#EXTINF:-1 group-title="USA CHANNELS" MORE MAX(CINEMAX)
 http://kstv.xyz:8080/Sayhay10/1867385835/23342
-#EXTINF:-1 group-title="USA LINEUP"STAR MOVIES HD
+#EXTINF:-1 group-title="USA CHANNELS" STAR MOVIES HD
 http://tvservice.pro:80/DM1pj30IBg/JUiaRhf66/34687
-#EXTINF:-1 group-title="USA LINEUP"LAFF NETWORK
+#EXTINF:-1 group-title="USA CHANNELS" LAFF NETWORK
 http://etvhosting.xyz:8080/Freddy23/67oa9uZ8Jq/37917
 #Main TV Source
 #Alternate Sources Are Below
