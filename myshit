@@ -13312,46 +13312,84 @@ http://stitcher.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 group-title="Pluto TV"  tvg-logo="https://image.roku.com/developer_channels/prod/97a42ff48d71d0952b69bad88a3f754872a52aa9f3cce73ae6c517894772b751.png",XiveTV
 http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 group-title="Cinema",Cinema 01 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7873
-#EXTINF:-1 group-title="Cinema",Cinema 02 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7872
-#EXTINF:-1 group-title="Cinema",Cinema 03 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7871
-#EXTINF:-1 group-title="Cinema",Cinema 04 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7870
-#EXTINF:-1 group-title="Cinema",Cinema 05 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7869
-#EXTINF:-1 group-title="Cinema",Cinema 06 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7868
-#EXTINF:-1 group-title="Cinema",Cinema 07 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7867
-#EXTINF:-1 group-title="Cinema",Cinema 08 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7866
-#EXTINF:-1 group-title="Cinema",Cinema 09 HD DUAL
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7865
-#EXTINF:-1 group-title="Cinema",Cinema 10 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7864
-#EXTINF:-1 group-title="Cinema",Cinema 11 HD DUAL
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7863
-#EXTINF:-1 group-title="Cinema",Cinema 12 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7862
-#EXTINF:-1 group-title="Cinema",Cinema 13 HD DUAL
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7861
-#EXTINF:-1 group-title="Cinema",Cinema 14 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7860
-#EXTINF:-1 group-title="Cinema",Cinema 15 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7859
-#EXTINF:-1 group-title="Cinema",Cinema 16 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7858
-#EXTINF:-1 group-title="Cinema",Cinema 17 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7857
-#EXTINF:-1 group-title="Cinema",Cinema 18 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7856
-#EXTINF:-1 group-title="Cinema",Cinema 19 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7855
-#EXTINF:-1 group-title="Cinema",Cinema 20 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7854
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 01
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363892
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 02
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363891
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 03
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363890
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 04
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363889
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 05
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363888
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 06
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363887
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 07
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363886
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 08
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363885
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 09
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363884
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 10
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363883
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 11
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363882
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 12
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363881
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 13
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363880
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 14
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363879
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 15
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363878
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 16
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363877
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 17
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363876
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 18
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363875
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 19
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363874
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 20
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363873
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 21
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363872
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 22
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363871
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 23
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363870
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 24
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363869
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 25
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363868
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 26
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363867
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 27
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363866
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 28
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363865
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 29
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363864
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 30
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363863
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 31
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363862
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 32
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363861
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 33
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363860
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 34
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363859
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 35
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363858
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 36
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363857
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 37
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363856
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 38
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363855
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 39
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363854
 #https://tv4.live/api/stream/robertovic15@outlook.com/96nsnt/livetv.epg/ae.br. m3u8###
 #https://tv4.live/api/stream/ryanforsugel@yahoo.com/g9pn6/livetv.epg/ae.us.%20eastern.us.m3u8##
 #sphidubuff72@live.com/RxVP2BPFRs/1797
