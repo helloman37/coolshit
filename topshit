@@ -13336,46 +13336,84 @@ http://stitcher.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 group-title="Pluto TV"  tvg-logo="https://image.roku.com/developer_channels/prod/97a42ff48d71d0952b69bad88a3f754872a52aa9f3cce73ae6c517894772b751.png",XiveTV
 http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 group-title="Cinema",Cinema 01 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7873
-#EXTINF:-1 group-title="Cinema",Cinema 02 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7872
-#EXTINF:-1 group-title="Cinema",Cinema 03 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7871
-#EXTINF:-1 group-title="Cinema",Cinema 04 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7870
-#EXTINF:-1 group-title="Cinema",Cinema 05 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7869
-#EXTINF:-1 group-title="Cinema",Cinema 06 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7868
-#EXTINF:-1 group-title="Cinema",Cinema 07 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7867
-#EXTINF:-1 group-title="Cinema",Cinema 08 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7866
-#EXTINF:-1 group-title="Cinema",Cinema 09 HD DUAL
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7865
-#EXTINF:-1 group-title="Cinema",Cinema 10 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7864
-#EXTINF:-1 group-title="Cinema",Cinema 11 HD DUAL
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7863
-#EXTINF:-1 group-title="Cinema",Cinema 12 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7862
-#EXTINF:-1 group-title="Cinema",Cinema 13 HD DUAL
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7861
-#EXTINF:-1 group-title="Cinema",Cinema 14 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7860
-#EXTINF:-1 group-title="Cinema",Cinema 15 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7859
-#EXTINF:-1 group-title="Cinema",Cinema 16 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7858
-#EXTINF:-1 group-title="Cinema",Cinema 17 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7857
-#EXTINF:-1 group-title="Cinema",Cinema 18 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7856
-#EXTINF:-1 group-title="Cinema",Cinema 19 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7855
-#EXTINF:-1 group-title="Cinema",Cinema 20 HD
-http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7854
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 01
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363892
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 02
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363891
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 03
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363890
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 04
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363889
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 05
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363888
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 06
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363887
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 07
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363886
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 08
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363885
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 09
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363884
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 10
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363883
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 11
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363882
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 12
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363881
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 13
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363880
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 14
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363879
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 15
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363878
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 16
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363877
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 17
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363876
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 18
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363875
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 19
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363874
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 20
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363873
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 21
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363872
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 22
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363871
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 23
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363870
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 24
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363869
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 25
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363868
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 26
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363867
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 27
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363866
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 28
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363865
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 29
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363864
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 30
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363863
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 31
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363862
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 32
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363861
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 33
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363860
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 34
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363859
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 35
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363858
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 36
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363857
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 37
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363856
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 38
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363855
+#EXTINF:-1 group-title="Cinema",PPV USA: Cinema 39
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1363854
 #https://tv4.live/api/stream/robertovic15@outlook.com/96nsnt/livetv.epg/ae.br. m3u8###
 #https://tv4.live/api/stream/ryanforsugel@yahoo.com/g9pn6/livetv.epg/ae.us.%20eastern.us.m3u8##
 #sphidubuff72@live.com/RxVP2BPFRs/1797
@@ -13387,60 +13425,172 @@ http://tvpremiumhd.com.es:8080/aymtraders/0dx4BFsNwZ/7854
 http://ccreborn.one:25461/Toms0013/r93BnDU4pr/14516
 #EXTINF:-1 group-title="XxX CHANNELS", XXX JASMIN HD
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | O-LA-LA
-http://tv5full.xyz:25461/dignidad784/dignidad784/2044
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | HUSTLER HD
-http://tv5full.xyz:25461/dignidad784/dignidad784/2046
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | SEXTOSENSO
-http://tv5full.xyz:25461/dignidad784/dignidad784/2047
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | PINK O TV
-http://tv5full.xyz:25461/dignidad784/dignidad784/2049
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | PRIVATE TV
-http://tv5full.xyz:25461/dignidad784/dignidad784/2050
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | PASSIONXXX
-http://tv5full.xyz:25461/dignidad784/dignidad784/2051
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | SCT
-http://tv5full.xyz:25461/dignidad784/dignidad784/2052
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | CENTO X CENTO TV
-http://tv5full.xyz:25461/dignidad784/dignidad784/2053
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | REDLIGHT HD7
-http://tv5full.xyz:25461/dignidad784/dignidad784/2054
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | NUART TV
-http://tv5full.xyz:25461/dignidad784/dignidad784/2055
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | PLAYBOY TV
-http://tv5full.xyz:25461/dignidad784/dignidad784/2059
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | CANDY
-http://tv5full.xyz:25461/dignidad784/dignidad784/2061
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | VIVID RED
-http://tv5full.xyz:25461/dignidad784/dignidad784/2063
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | FAP TV 2
-http://tv5full.xyz:25461/dignidad784/dignidad784/2064
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | FAP TV 3
-http://tv5full.xyz:25461/dignidad784/dignidad784/2065
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | FAP TV 4
-http://tv5full.xyz:25461/dignidad784/dignidad784/2066
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | Русская ночь
-http://tv5full.xyz:25461/dignidad784/dignidad784/2067
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | ОХ-АХ HD
-http://tv5full.xyz:25461/dignidad784/dignidad784/2069
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | Эгоист ТВ
-http://tv5full.xyz:25461/dignidad784/dignidad784/2070
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | EROX HD
-http://tv5full.xyz:25461/dignidad784/dignidad784/2071
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | Шалун ТВ
-http://tv5full.xyz:25461/dignidad784/dignidad784/2072
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | PENTHOUSE HD 1
-http://tv5full.xyz:25461/dignidad784/dignidad784/2073
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | PENTHOUSE HD 2
-http://tv5full.xyz:25461/dignidad784/dignidad784/2074
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | FAP TV ANAL
-http://tv5full.xyz:25461/dignidad784/dignidad784/2075
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | FAP TV PARODY
-http://tv5full.xyz:25461/dignidad784/dignidad784/2076
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | FAP TV TEENS
-http://tv5full.xyz:25461/dignidad784/dignidad784/2077
-#EXTINF:-1 group-title="XxX CHANNELS", XXX | FAP TV LESBIAN
-http://tv5full.xyz:25461/dignidad784/dignidad784/2078
+#EXTINF:-1 group-title="XxX CHANNELS", Playboy Latino FHD 
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1348698
+#EXTINF:-1 group-title="XxX CHANNELS", Playboy BR
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347075
+#EXTINF:-1 group-title="XxX CHANNELS", Playboy TV Europe
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332040
+#EXTINF:-1 group-title="XxX CHANNELS", Brazzers TV Europe
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332030
+#EXTINF:-1 group-title="XxX CHANNELS", Brazzers TV Europe 2
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347042
+#EXTINF:-1 group-title="XxX CHANNELS", Erox FHD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347045
+#EXTINF:-1 group-title="XxX CHANNELS", Fap TV Compilation HD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1341629
+#EXTINF:-1 group-title="XxX CHANNELS", Fap TV Lesbian HD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1341628
+#EXTINF:-1 group-title="XxX CHANNELS", Fap TV Parody HD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1341626
+#EXTINF:-1 group-title="XxX CHANNELS", Fap TV Teens HD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1341627
+#EXTINF:-1 group-title="XxX CHANNELS", Fap TV XXX HD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1341625
+#EXTINF:-1 group-title="XxX CHANNELS", FapTV 2 HD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332033
+#EXTINF:-1 group-title="XxX CHANNELS", FapTV 3 HD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332034
+#EXTINF:-1 group-title="XxX CHANNELS", FapTV 4 HD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332035
+#EXTINF:-1 group-title="XxX CHANNELS", CandyTV HD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332020
+#EXTINF:-1 group-title="XxX CHANNELS", Dorcel TV FHD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332021
+#EXTINF:-1 group-title="XxX CHANNELS", Evil Angel HD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347064
+#EXTINF:-1 group-title="XxX CHANNELS", Balkan Erotic
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347074
+#EXTINF:-1 group-title="XxX CHANNELS", Barely
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347044
+#EXTINF:-1 group-title="XxX CHANNELS", Blue Hustler
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347076
+#EXTINF:-1 group-title="XxX CHANNELS", Cento X Cento
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332031
+#EXTINF:-1 group-title="XxX CHANNELS", EgoistTV
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1341633
+#EXTINF:-1 group-title="XxX CHANNELS", Erotic1 6
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1346966
+#EXTINF:-1 group-title="XxX CHANNELS", Erotic4 6
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347038
+#EXTINF:-1 group-title="XxX CHANNELS", Hustler
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332022
+#EXTINF:-1 group-title="XxX CHANNELS", Hustler FHD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347046
+#EXTINF:-1 group-title="XxX CHANNELS", Hustler TV
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347047
+#EXTINF:-1 group-title="XxX CHANNELS", Jasmin TV HD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/13155
+#EXTINF:-1 group-title="XxX CHANNELS", Jasmin TV HD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347048
+#EXTINF:-1 group-title="XxX CHANNELS", Nuart TV
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332037
+#EXTINF:-1 group-title="XxX CHANNELS", O-la-la
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332038
+#EXTINF:-1 group-title="XxX CHANNELS", Oh Ah HD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1341632
+#EXTINF:-1 group-title="XxX CHANNELS", Passie XXX
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347063
+#EXTINF:-1 group-title="XxX CHANNELS", Passion XXX
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332023
+#EXTINF:-1 group-title="XxX CHANNELS", PentHouse 1
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332024
+#EXTINF:-1 group-title="XxX CHANNELS", PentHouse 2 FHD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332025
+#EXTINF:-1 group-title="XxX CHANNELS", PentHouse Gold FHD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347049
+#EXTINF:-1 group-title="XxX CHANNELS", Penthouse HD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347062
+#EXTINF:-1 group-title="XxX CHANNELS", Pinko 1
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1346962
+#EXTINF:-1 group-title="XxX CHANNELS", Pinko 10
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1346964
+#EXTINF:-1 group-title="XxX CHANNELS", Pinko 3
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1346961
+#EXTINF:-1 group-title="XxX CHANNELS", Pinko 4
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1346960
+#EXTINF:-1 group-title="XxX CHANNELS", Pinko 5
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1346959
+#EXTINF:-1 group-title="XxX CHANNELS", Pinko 6
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1346958
+#EXTINF:-1 group-title="XxX CHANNELS", Pinko 8
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1346957
+#EXTINF:-1 group-title="XxX CHANNELS", Pinko 9
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1346965
+#EXTINF:-1 group-title="XxX CHANNELS", Pinko TV
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332039
+#EXTINF:-1 group-title="XxX CHANNELS", Pinko TV
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347050
+#EXTINF:-1 group-title="XxX CHANNELS", Private 10
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347029
+#EXTINF:-1 group-title="XxX CHANNELS", Private 11
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347028
+#EXTINF:-1 group-title="XxX CHANNELS", Private 12
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347027
+#EXTINF:-1 group-title="XxX CHANNELS", Private 13
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347026
+#EXTINF:-1 group-title="XxX CHANNELS", Private 14
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347025
+#EXTINF:-1 group-title="XxX CHANNELS", Private 2
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347037
+#EXTINF:-1 group-title="XxX CHANNELS", Private 3
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347036
+#EXTINF:-1 group-title="XxX CHANNELS", Private 4
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347035
+#EXTINF:-1 group-title="XxX CHANNELS", Private 5
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347034
+#EXTINF:-1 group-title="XxX CHANNELS", Private 6
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347033
+#EXTINF:-1 group-title="XxX CHANNELS", Private 7
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347032
+#EXTINF:-1 group-title="XxX CHANNELS", Private 8
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347031
+#EXTINF:-1 group-title="XxX CHANNELS", Private 9
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347030
+#EXTINF:-1 group-title="XxX CHANNELS", Private TV FHD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332026
+#EXTINF:-1 group-title="XxX CHANNELS", Private TV HD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347053
+#EXTINF:-1 group-title="XxX CHANNELS", Reality Kings
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347065
+#EXTINF:-1 group-title="XxX CHANNELS", RedLight FHD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332027
+#EXTINF:-1 group-title="XxX CHANNELS", REDLight FHD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347054
+#EXTINF:-1 group-title="XxX CHANNELS", Russkaya Noch
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1341630
+#EXTINF:-1 group-title="XxX CHANNELS", SCT Classic
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347055
+#EXTINF:-1 group-title="XxX CHANNELS", SctXXX
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332042
+#EXTINF:-1 group-title="XxX CHANNELS", Sext & Senso HD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347056
+#EXTINF:-1 group-title="XxX CHANNELS", Sextosenso
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1341623
+#EXTINF:-1 group-title="XxX CHANNELS", Sextreme
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347057
+#EXTINF:-1 group-title="XxX CHANNELS", Sextreme 4
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347061
+#EXTINF:-1 group-title="XxX CHANNELS", SexTreme Latino
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1348699
+#EXTINF:-1 group-title="XxX CHANNELS", ShalunTV HD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1341624
+#EXTINF:-1 group-title="XxX CHANNELS", Starz FHD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347058
+#EXTINF:-1 group-title="XxX CHANNELS", Venus 6
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1346963
+#EXTINF:-1 group-title="XxX CHANNELS", Venus TV
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347059
+#EXTINF:-1 group-title="XxX CHANNELS", Vivid Red FHD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347060
+#EXTINF:-1 group-title="XxX CHANNELS", VividRED FHD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1332028
+#EXTINF:-1 group-title="XxX CHANNELS", X 1 FHD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347039
+#EXTINF:-1 group-title="XxX CHANNELS", XXL
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347041
+#EXTINF:-1 group-title="XxX CHANNELS", XY Mixx HD
+http://tvla.xyz:25461/R9WpAPJ4C/mwVrk9627T/1347040
 #EXTINF:-1 group-title="XxX CHANNELS", XXX PENTHOUSE HD
 http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/1922
 #EXTINF:-1 group-title="XxX CHANNELS", XXX PASSIE XXX HD
