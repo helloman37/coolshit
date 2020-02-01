@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://petco.scene7.com/is/image/PETCO/3065985-center-1",FOR ART ;)
 http://kalitutorials.webs.nf/getfvid_60694211_365481057408605_761891249434132480_n.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="USA CHANNELS" tvg-logo="https://toofab.akamaized.net/2019/11/28/et-real-810x610.jpg",E.T. HOME FOR CHRISTMAS
@@ -1266,836 +1266,814 @@ http://hosting.dstv.ltd:25461/qusai88@hotmail.com/cCo9Oo748p/36476
 http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
 #EXTINF:-1 group-title="MUSIC",COUNTRY MUSIC 4 U
 https://rpcdn.tulix.tv/36bay2/gusa-countrymusic4u/index.m3u8
-#EXTINF:-1 group-title="24/7",| A TOUCH OF FROST (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320460
-#EXTINF:-1 group-title="24/7",| ABSOLUTELY FABULOUS (L)
-http://muricastreams.tv:83/heavyjj76/78656527/321973
-#EXTINF:-1 group-title="24/7",| ADVENTURE TIME
+#EXTINF:-1,24/7 | ADVENTURE TIME
 http://muricastreams.tv:83/heavyjj76/78656527/337969
-#EXTINF:-1 group-title="24/7",| ADVENTURES OF PETE & PETE
+#EXTINF:-1,24/7 | ADVENTURES OF PETE & PETE
 http://muricastreams.tv:83/heavyjj76/78656527/314003
-#EXTINF:-1 group-title="24/7",| ALASKAN BUSH PEOPLE (L)
-http://muricastreams.tv:83/heavyjj76/78656527/324547
-#EXTINF:-1 group-title="24/7",| ALF
+#EXTINF:-1,24/7 | ALF
 http://muricastreams.tv:83/heavyjj76/78656527/332728
-#EXTINF:-1 group-title="24/7",| ALLO ALLO
+#EXTINF:-1,24/7 | ALLO ALLO
 http://muricastreams.tv:83/heavyjj76/78656527/340540
-#EXTINF:-1 group-title="24/7",| AMERICAN DAD
+#EXTINF:-1,24/7 | AMERICAN DAD
 http://muricastreams.tv:83/heavyjj76/78656527/168536
-#EXTINF:-1 group-title="24/7",| AMERICAN HORROR STORY
+#EXTINF:-1,24/7 | AMERICAN HORROR STORY
 http://muricastreams.tv:83/heavyjj76/78656527/309343
-#EXTINF:-1 group-title="24/7",| AMERICAN PICKERS
+#EXTINF:-1,24/7 | AMERICAN PICKERS
 http://muricastreams.tv:83/heavyjj76/78656527/302532
-#EXTINF:-1 group-title="24/7",| Aqua Teen Hunger Force
+#EXTINF:-1,24/7 | AQUA TEEN HUNGER FORCE
 http://muricastreams.tv:83/heavyjj76/78656527/366541
-#EXTINF:-1 group-title="24/7",| ARE YOU AFRAID OF THE DARK
+#EXTINF:-1,24/7 | ARE YOU AFRAID OF THE DARK
 http://muricastreams.tv:83/heavyjj76/78656527/302530
-#EXTINF:-1 group-title="24/7",| ARROW
+#EXTINF:-1,24/7 | ARROW
 http://muricastreams.tv:83/heavyjj76/78656527/309341
-#EXTINF:-1 group-title="24/7",| AUSTIN POWERS MOVIES (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320640
-#EXTINF:-1 group-title="24/7",| BACK TO THE FUTURE (L2)
-http://muricastreams.tv:83/heavyjj76/78656527/331474
-#EXTINF:-1 group-title="24/7",| BAND OF BROTHERS (L)
+#EXTINF:-1, 24/7 | BAND OF BROTHERS (L)
 http://muricastreams.tv:83/heavyjj76/78656527/326003
-#EXTINF:-1 group-title="24/7",| BANSHEE
+#EXTINF:-1,24/7 | BANSHEE
 http://muricastreams.tv:83/heavyjj76/78656527/309340
-#EXTINF:-1 group-title="24/7",| BATTLESTAR GALACTICA
+#EXTINF:-1, 24/7 | BATTLESTAR GALACTICA
 http://muricastreams.tv:83/heavyjj76/78656527/332729
-#EXTINF:-1 group-title="24/7",| BEN AND HOLLY (L)
-http://muricastreams.tv:83/heavyjj76/78656527/373702
-#EXTINF:-1 group-title="24/7",| BERNIE MAC SHOW
+#EXTINF:-1,24/7 | BERNIE MAC SHOW
 http://muricastreams.tv:83/heavyjj76/78656527/305102
-#EXTINF:-1 group-title="24/7",| BETTER CALL SAUL
+#EXTINF:-1,24/7 | BETTER CALL SAUL
 http://muricastreams.tv:83/heavyjj76/78656527/332727
-#EXTINF:-1 group-title="24/7",| BING (L)
-http://muricastreams.tv:83/heavyjj76/78656527/373705
-#EXTINF:-1 group-title="24/7",| Black Jesus
+#EXTINF:-1,24/7 | BLACK JESUS
 http://muricastreams.tv:83/heavyjj76/78656527/366540
-#EXTINF:-1 group-title="24/7",| BLACKADDER (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320728
-#EXTINF:-1 group-title="24/7",| BLINDSPOT
+#EXTINF:-1,24/7 | BLINDSPOT
 http://muricastreams.tv:83/heavyjj76/78656527/332713
-#EXTINF:-1 group-title="24/7",| BOBS BURGERS I
+#EXTINF:-1,24/7 | BOBS BURGERS I
 http://muricastreams.tv:83/heavyjj76/78656527/268810
-#EXTINF:-1 group-title="24/7",| BOBS BURGERS II
+#EXTINF:-1,24/7 | BOBS BURGERS II
 http://muricastreams.tv:83/heavyjj76/78656527/303059
-#EXTINF:-1 group-title="24/7",| BONANZA
+#EXTINF:-1,24/7 | BONANZA
 http://muricastreams.tv:83/heavyjj76/78656527/314002
-#EXTINF:-1 group-title="24/7",| BONES
+#EXTINF:-1,24/7 | BONES
 http://muricastreams.tv:83/heavyjj76/78656527/341931
-#EXTINF:-1 group-title="24/7",| BOY MEETS WORLD
-http://muricastreams.tv:83/heavyjj76/78656527/305103
-#EXTINF:-1 group-title="24/7",| BREAKING BAD
+#EXTINF:-1,24/7 | BREAKING BAD
 http://muricastreams.tv:83/heavyjj76/78656527/332726
-#EXTINF:-1 group-title="24/7",| COLUMBO
+#EXTINF:-1,24/7 | COLUMBO
 http://muricastreams.tv:83/heavyjj76/78656527/348915
-#EXTINF:-1 group-title="24/7",| COPS
+#EXTINF:-1,24/7 | COPS
 http://muricastreams.tv:83/heavyjj76/78656527/309335
-#EXTINF:-1 group-title="24/7",| CRIMINAL MINDS
+#EXTINF:-1,24/7 | CRIMINAL MINDS
 http://muricastreams.tv:83/heavyjj76/78656527/309334
-#EXTINF:-1 group-title="24/7",| CSI
+#EXTINF:-1,24/7 | CSI
 http://muricastreams.tv:83/heavyjj76/78656527/305104
-#EXTINF:-1 group-title="24/7",| CSI MIAMI
+#EXTINF:-1,24/7 | CSI MIAMI
 http://muricastreams.tv:83/heavyjj76/78656527/309333
-#EXTINF:-1 group-title="24/7",| DALLAS
+#EXTINF:-1,24/7 | DALLAS
 http://muricastreams.tv:83/heavyjj76/78656527/303043
-#EXTINF:-1 group-title="24/7",| DAWSONS CREEK
+#EXTINF:-1,24/7 | DAWSONS CREEK
 http://muricastreams.tv:83/heavyjj76/78656527/309332
-#EXTINF:-1 group-title="24/7",| DESPERATE HOUSEWIVES
+#EXTINF:-1,24/7 | DESPERATE HOUSEWIVES
 http://muricastreams.tv:83/heavyjj76/78656527/314001
-#EXTINF:-1 group-title="24/7",| DIE HARD (L)
-http://muricastreams.tv:83/heavyjj76/78656527/357002
-#EXTINF:-1 group-title="24/7",| DIFF'RENT STROKES
+#EXTINF:-1,24/7 | DIFF'RENT STROKES
 http://muricastreams.tv:83/heavyjj76/78656527/314000
-#EXTINF:-1 group-title="24/7",| DINERS DRIVE INS & DIVES
+#EXTINF:-1,24/7 | DINERS DRIVE INS & DIVES
 http://muricastreams.tv:83/heavyjj76/78656527/309331
-#EXTINF:-1 group-title="24/7",| DINNERLADIES (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320472
-#EXTINF:-1 group-title="24/7",| DOOGIE HOWSER M.D.
+#EXTINF:-1,24/7 | DOOGIE HOWSER M.D.
 http://muricastreams.tv:83/heavyjj76/78656527/313999
-#EXTINF:-1 group-title="24/7",| DYNASTY
+#EXTINF:-1,24/7 | DYNASTY
 http://muricastreams.tv:83/heavyjj76/78656527/313997
-#EXTINF:-1 group-title="24/7",| EASTBOUND & DOWN
+#EXTINF:-1,24/7 | EASTBOUND & DOWN
 http://muricastreams.tv:83/heavyjj76/78656527/309330
-#EXTINF:-1 group-title="24/7",| ECW RISE AND FALL (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320509
-#EXTINF:-1 group-title="24/7",| EL CHAPO
+#EXTINF:-1,24/7 | EL CHAPO
 http://muricastreams.tv:83/heavyjj76/78656527/335057
-#EXTINF:-1 group-title="24/7",| EVERYBODY HATES CHRIS
+#EXTINF:-1,24/7 | EVERYBODY HATES CHRIS
 http://muricastreams.tv:83/heavyjj76/78656527/313996
-#EXTINF:-1 group-title="24/7",| EVERYBODY LOVES RAYMOND
+#EXTINF:-1,24/7 | EVERYBODY LOVES RAYMOND
 http://muricastreams.tv:83/heavyjj76/78656527/332722
-#EXTINF:-1 group-title="24/7",| FAMILY GUY
+#EXTINF:-1,24/7 | FAMILY GUY
 http://muricastreams.tv:83/heavyjj76/78656527/318066
-#EXTINF:-1 group-title="24/7",| FAMILY MATTERS
+#EXTINF:-1,24/7 | FAMILY MATTERS
 http://muricastreams.tv:83/heavyjj76/78656527/302544
-#EXTINF:-1 group-title="24/7",| FAWLTY TOWERS
+#EXTINF:-1,24/7 | FAWLTY TOWERS
 http://muricastreams.tv:83/heavyjj76/78656527/335053
-#EXTINF:-1 group-title="24/7",| FEAR THE WALKING DEAD
+#EXTINF:-1,24/7 | FEAR THE WALKING DEAD
 http://muricastreams.tv:83/heavyjj76/78656527/335027
-#EXTINF:-1 group-title="24/7",| FRESH PRINCE
+#EXTINF:-1,24/7 | FRESH PRINCE
 http://muricastreams.tv:83/heavyjj76/78656527/303013
-#EXTINF:-1 group-title="24/7",| FRIENDS
+#EXTINF:-1,24/7 | FRIENDS
 http://muricastreams.tv:83/heavyjj76/78656527/303012
-#EXTINF:-1 group-title="24/7",| FRINGE
+#EXTINF:-1,24/7 | FRINGE
 http://muricastreams.tv:83/heavyjj76/78656527/313995
-#EXTINF:-1 group-title="24/7",| FULL HOUSE
+#EXTINF:-1,24/7 | FULL HOUSE
 http://muricastreams.tv:83/heavyjj76/78656527/309329
-#EXTINF:-1 group-title="24/7",| GAME OF THRONES
+#EXTINF:-1,24/7 | GAME OF THRONES
 http://muricastreams.tv:83/heavyjj76/78656527/303005
-#EXTINF:-1 group-title="24/7",| GARGOYLES
+#EXTINF:-1,24/7 | GARGOYLES
 http://muricastreams.tv:83/heavyjj76/78656527/351709
-#EXTINF:-1 group-title="24/7",| GILLIGANS ISLAND
+#EXTINF:-1,24/7 | GILLIGANS ISLAND
 http://muricastreams.tv:83/heavyjj76/78656527/305105
-#EXTINF:-1 group-title="24/7",| GIRLFRIENDS
+#EXTINF:-1,24/7 | GIRLFRIENDS
 http://muricastreams.tv:83/heavyjj76/78656527/313994
-#EXTINF:-1 group-title="24/7",| GO JETTERS (L)
-http://muricastreams.tv:83/heavyjj76/78656527/363666
-#EXTINF:-1 group-title="24/7",| GOMER PYLE
+#EXTINF:-1,24/7 | GOMER PYLE
 http://muricastreams.tv:83/heavyjj76/78656527/309328
-#EXTINF:-1 group-title="24/7",| GOODNIGHT SWEETHEART (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320471
-#EXTINF:-1 group-title="24/7",| GREYS ANATOMY
+#EXTINF:-1,24/7 | GREYS ANATOMY
 http://muricastreams.tv:83/heavyjj76/78656527/305106
-#EXTINF:-1 group-title="24/7",| HE-MAN & THE MASTERS OF THE UNIVERSE
+#EXTINF:-1,24/7 | HE-MAN & THE MASTERS OF THE UNIVERSE
 http://muricastreams.tv:83/heavyjj76/78656527/302999
-#EXTINF:-1 group-title="24/7",| HERCULES THE LEGENDARY JOURNEYS
+#EXTINF:-1,24/7 | HERCULES THE LEGENDARY JOURNEYS
 http://muricastreams.tv:83/heavyjj76/78656527/309327
-#EXTINF:-1 group-title="24/7",| HEY DUDE
+#EXTINF:-1,24/7 | HEY DUDE
 http://muricastreams.tv:83/heavyjj76/78656527/313993
-#EXTINF:-1 group-title="24/7",| HEY DUGGEE (L)
-http://muricastreams.tv:83/heavyjj76/78656527/362618
-#EXTINF:-1 group-title="24/7",| HOMELAND
+#EXTINF:-1,24/7 | HOMELAND
 http://muricastreams.tv:83/heavyjj76/78656527/309325
-#EXTINF:-1 group-title="24/7",| HOUSE MD
+#EXTINF:-1,24/7 | HOUSE MD
 http://muricastreams.tv:83/heavyjj76/78656527/305107
-#EXTINF:-1 group-title="24/7",| I LOVE LUCY
+#EXTINF:-1,24/7 | I LOVE LUCY
 http://muricastreams.tv:83/heavyjj76/78656527/341934
-#EXTINF:-1 group-title="24/7",| IMPRACTICAL JOKERS
+#EXTINF:-1,24/7 | IMPRACTICAL JOKERS
 http://muricastreams.tv:83/heavyjj76/78656527/313992
-#EXTINF:-1 group-title="24/7",| INBETWEENERS (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320465
-#EXTINF:-1 group-title="24/7",| INK MASTER
+#EXTINF:-1,24/7 | INK MASTER
 http://muricastreams.tv:83/heavyjj76/78656527/313991
-#EXTINF:-1 group-title="24/7",| IT AINT HALF HOT MUM (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320459
-#EXTINF:-1 group-title="24/7",| IT'S ALWAYS SUNNY IN PHILADELPHIA
+#EXTINF:-1,24/7 | IT'S ALWAYS SUNNY IN PHILADELPHIA
 http://muricastreams.tv:83/heavyjj76/78656527/332685
-#EXTINF:-1 group-title="24/7",| JAMIE FOXX SHOW
+#EXTINF:-1,24/7 | JAMIE FOXX SHOW
 http://muricastreams.tv:83/heavyjj76/78656527/305108
-#EXTINF:-1 group-title="24/7",| JASON BOURNE (L)
-http://muricastreams.tv:83/heavyjj76/78656527/362872
-#EXTINF:-1 group-title="24/7",| JUDGE JUDY
+#EXTINF:-1,24/7 | JUDGE JUDY
 http://muricastreams.tv:83/heavyjj76/78656527/342288
-#EXTINF:-1 group-title="24/7",| KEENAN AND KELL
+#EXTINF:-1,24/7 | KEENAN AND KELL
 http://muricastreams.tv:83/heavyjj76/78656527/337973
-#EXTINF:-1 group-title="24/7",| KEENAN AND KELL
-http://pcjatv.com:25461/Yeter25/t2UzE31/3257
-#EXTINF:-1 group-title="24/7",| KING OF QUEENS
+#EXTINF:-1,24/7 | KING OF QUEENS
 http://muricastreams.tv:83/heavyjj76/78656527/348916
-#EXTINF:-1 group-title="24/7",| KNIGHT RIDER
+#EXTINF:-1,24/7 | KNIGHT RIDER
 http://muricastreams.tv:83/heavyjj76/78656527/376179
-#EXTINF:-1 group-title="24/7",| KNIGHT RIDER
-http://muricastreams.tv:83/heavyjj76/78656527/351698
-#EXTINF:-1 group-title="24/7",| LAS VEGAS
+#EXTINF:-1,24/7 | LAS VEGAS
 http://muricastreams.tv:83/heavyjj76/78656527/305109
-#EXTINF:-1 group-title="24/7",| LAST MAN STANDING
+#EXTINF:-1,24/7 | LAST MAN STANDING
 http://muricastreams.tv:83/heavyjj76/78656527/309324
-#EXTINF:-1 group-title="24/7",| LETHAL WEAPON MOVIES
+#EXTINF:-1,24/7 | LETHAL WEAPON MOVIES
 http://muricastreams.tv:83/heavyjj76/78656527/332694
-#EXTINF:-1 group-title="24/7",| LIVE PD
-http://muricastreams.tv:83/heavyjj76/78656527/302539
-#EXTINF:-1 group-title="24/7",| LIVING SINGLE
+#EXTINF:-1,24/7 | LIVING SINGLE
 http://muricastreams.tv:83/heavyjj76/78656527/300964
-#EXTINF:-1 group-title="24/7",| LONGMIRE
+#EXTINF:-1,24/7 | LONGMIRE
 http://muricastreams.tv:83/heavyjj76/78656527/309323
-#EXTINF:-1 group-title="24/7",| MACGYVER
+#EXTINF:-1,24/7 | MACGYVER
 http://muricastreams.tv:83/heavyjj76/78656527/309322
-#EXTINF:-1 group-title="24/7",| MAGNUM P.I.
+#EXTINF:-1,24/7 | MAGNUM P.I.
 http://muricastreams.tv:83/heavyjj76/78656527/309321
-#EXTINF:-1 group-title="24/7",| MALCOLM IN THE MIDDLE
+#EXTINF:-1,24/7 | MALCOLM IN THE MIDDLE
 http://muricastreams.tv:83/heavyjj76/78656527/332513
-#EXTINF:-1 group-title="24/7",| MARRIED WITH CHILDREN
+#EXTINF:-1,24/7 | MARRIED WITH CHILDREN
 http://muricastreams.tv:83/heavyjj76/78656527/332720
-#EXTINF:-1 group-title="24/7",| MARTIN
+#EXTINF:-1,24/7 | MARTIN
 http://muricastreams.tv:83/heavyjj76/78656527/339712
-#EXTINF:-1 group-title="24/7",| MASHA AND THE BEAR (L)
-http://muricastreams.tv:83/heavyjj76/78656527/356778
-#EXTINF:-1 group-title="24/7",| MEN BEHAVING BADLY (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320727
-#EXTINF:-1 group-title="24/7",| Metalocalypse
+#EXTINF:-1,24/7 | METALOCALYPSE
 http://muricastreams.tv:83/heavyjj76/78656527/366537
-#EXTINF:-1 group-title="24/7",| MIAMI VICE
+#EXTINF:-1,24/7 | MIAMI VICE
 http://muricastreams.tv:83/heavyjj76/78656527/302968
-#EXTINF:-1 group-title="24/7",| MISTER ED
+#EXTINF:-1,24/7 | MISTER ED
 http://muricastreams.tv:83/heavyjj76/78656527/305111
-#EXTINF:-1 group-title="24/7",| MOESHA
+#EXTINF:-1,24/7 | MOESHA
 http://muricastreams.tv:83/heavyjj76/78656527/305110
-#EXTINF:-1 group-title="24/7",| MORECAMBE AND WISE SHOW (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320506
-#EXTINF:-1 group-title="24/7",| MR ROBOT
+#EXTINF:-1,24/7 | MR ROBOT
 http://muricastreams.tv:83/heavyjj76/78656527/332693
-#EXTINF:-1 group-title="24/7",| Mr. Pickles
+#EXTINF:-1,24/7 | MR. PICKLES
 http://muricastreams.tv:83/heavyjj76/78656527/366536
-#EXTINF:-1 group-title="24/7",| MRS BROWNS BOYS (L)
-http://muricastreams.tv:83/heavyjj76/78656527/357941
-#EXTINF:-1 group-title="24/7",| MY WIFE AND KIDS
+#EXTINF:-1,24/7 | MY WIFE AND KIDS
 http://muricastreams.tv:83/heavyjj76/78656527/313990
-#EXTINF:-1 group-title="24/7",| NAKED AND AFRAID
+#EXTINF:-1,24/7 | NAKED AND AFRAID
 http://muricastreams.tv:83/heavyjj76/78656527/309588
-#EXTINF:-1 group-title="24/7",| NORTHERN EXPOSURE
+#EXTINF:-1,24/7 | NORTHERN EXPOSURE
 http://muricastreams.tv:83/heavyjj76/78656527/309320
-#EXTINF:-1 group-title="24/7",| ONCE UPON A TIME
+#EXTINF:-1,24/7 | ONCE UPON A TIME
 http://muricastreams.tv:83/heavyjj76/78656527/332719
-#EXTINF:-1 group-title="24/7",| ONLY FOOLS & HORSES (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320641
-#EXTINF:-1 group-title="24/7",| ONLY FOOLS AND HORSES
-http://muricastreams.tv:83/heavyjj76/78656527/357465
-#EXTINF:-1 group-title="24/7",| ONLY FOOLS XMAS SPECIAL (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320662
-#EXTINF:-1 group-title="24/7",| OPEN ALL HOURS
+#EXTINF:-1,24/7 | OPEN ALL HOURS
 http://muricastreams.tv:83/heavyjj76/78656527/357464
-#EXTINF:-1 group-title="24/7",| OPEN ALL HOURS (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320466
-#EXTINF:-1 group-title="24/7",| ORANGE IS THE NEW BLACK
+#EXTINF:-1,24/7 | ORANGE IS THE NEW BLACK
 http://muricastreams.tv:83/heavyjj76/78656527/302948
-#EXTINF:-1 group-title="24/7",| PEPPA PIG (L)
-http://muricastreams.tv:83/heavyjj76/78656527/355580
-#EXTINF:-1 group-title="24/7",| PETER KAY'S CAR SHARE
+#EXTINF:-1,24/7 | PETER KAY'S CAR SHARE
 http://muricastreams.tv:83/heavyjj76/78656527/332512
-#EXTINF:-1 group-title="24/7",| PETER KAY'S PHOENIX NIGHT'S
+#EXTINF:-1,24/7 | PETER KAY'S PHOENIX NIGHT'S
 http://muricastreams.tv:83/heavyjj76/78656527/332511
-#EXTINF:-1 group-title="24/7",| PJ MASKS
+#EXTINF:-1,24/7 | PJ MASKS
 http://muricastreams.tv:83/heavyjj76/78656527/302942
-#EXTINF:-1 group-title="24/7",| PLANET EARTH
+#EXTINF:-1,24/7 | PLANET EARTH
 http://muricastreams.tv:83/heavyjj76/78656527/332710
-#EXTINF:-1 group-title="24/7",| PLANET OF THE APES (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320462
-#EXTINF:-1 group-title="24/7",| PORRIDGE (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320505
-#EXTINF:-1 group-title="24/7",| POWER
+#EXTINF:-1,24/7 | POWER
 http://muricastreams.tv:83/heavyjj76/78656527/144002
-#EXTINF:-1 group-title="24/7",| POWER II
+#EXTINF:-1,24/7 | POWER II
 http://muricastreams.tv:83/heavyjj76/78656527/302940
-#EXTINF:-1 group-title="24/7",| PRISON BREAK
+#EXTINF:-1,24/7 | PRISON BREAK
 http://muricastreams.tv:83/heavyjj76/78656527/332717
-#EXTINF:-1 group-title="24/7",| QUANTUM LEAP
+#EXTINF:-1,24/7 | QUANTUM LEAP
 http://muricastreams.tv:83/heavyjj76/78656527/305112
-#EXTINF:-1 group-title="24/7",| RAB C NESBITT (L)
-http://muricastreams.tv:83/heavyjj76/78656527/321849
-#EXTINF:-1 group-title="24/7",| RAY DONOVAN
+#EXTINF:-1,24/7 | RAY DONOVAN
 http://muricastreams.tv:83/heavyjj76/78656527/313989
-#EXTINF:-1 group-title="24/7",| RENO 911!
+#EXTINF:-1,24/7 | RENO 911!
 http://muricastreams.tv:83/heavyjj76/78656527/357152
-#EXTINF:-1 group-title="24/7",| RICK & MORTY
+#EXTINF:-1,24/7 | RICK & MORTY
 http://muricastreams.tv:83/heavyjj76/78656527/254222
-#EXTINF:-1 group-title="24/7",| Rick and Morty
-http://muricastreams.tv:83/heavyjj76/78656527/366535
-#EXTINF:-1 group-title="24/7",| RIDICULOUSNESS
+#EXTINF:-1,24/7 | RIDICULOUSNESS
 http://muricastreams.tv:83/heavyjj76/78656527/352140
-#EXTINF:-1 group-title="24/7",| RISING DAMP (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320507
-#EXTINF:-1 group-title="24/7",| Robot Chicken
+#EXTINF:-1,24/7 | ROBOT CHICKEN
 http://muricastreams.tv:83/heavyjj76/78656527/366534
-#EXTINF:-1 group-title="24/7",| ROSEANNE
+#EXTINF:-1,24/7 | ROSEANNE
 http://muricastreams.tv:83/heavyjj76/78656527/348914
-#EXTINF:-1 group-title="24/7",| SALUTE YOUR SHORTS
+#EXTINF:-1,24/7 | SALUTE YOUR SHORTS
 http://muricastreams.tv:83/heavyjj76/78656527/313988
-#EXTINF:-1 group-title="24/7",| SANFORD & SON
+#EXTINF:-1,24/7 | SANFORD & SON
 http://muricastreams.tv:83/heavyjj76/78656527/302916
-#EXTINF:-1 group-title="24/7",| SAVED BY THE BELL
-http://muricastreams.tv:83/heavyjj76/78656527/302535
-#EXTINF:-1 group-title="24/7",| SEINFELD
+#EXTINF:-1,24/7 | SEINFELD
 http://muricastreams.tv:83/heavyjj76/78656527/332692
-#EXTINF:-1 group-title="24/7",| SERIAL KILLERS (L)
-http://muricastreams.tv:83/heavyjj76/78656527/324545
-#EXTINF:-1 group-title="24/7",| SHARK TANK
+#EXTINF:-1,24/7 | SHARK TANK
 http://muricastreams.tv:83/heavyjj76/78656527/334851
-#EXTINF:-1 group-title="24/7",| SMALLVILLE
-http://muricastreams.tv:83/heavyjj76/78656527/332716
-#EXTINF:-1 group-title="24/7",| SONS OF ANARCHY
+#EXTINF:-1,24/7 | SONS OF ANARCHY
 http://muricastreams.tv:83/heavyjj76/78656527/332715
-#EXTINF:-1 group-title="24/7",| SPARTACUS
+#EXTINF:-1,24/7 | SPARTACUS
 http://muricastreams.tv:83/heavyjj76/78656527/337844
-#EXTINF:-1 group-title="24/7",| Squidbillies
+#EXTINF:-1,24/7 | SQUIDBILLIES
 http://muricastreams.tv:83/heavyjj76/78656527/366533
-#EXTINF:-1 group-title="24/7",| ST. ELSEWHERE
+#EXTINF:-1,24/7 | ST. ELSEWHERE
 http://muricastreams.tv:83/heavyjj76/78656527/313987
-#EXTINF:-1 group-title="24/7",| STAR TREK
+#EXTINF:-1,24/7 | STAR TREK
 http://muricastreams.tv:83/heavyjj76/78656527/332730
-#EXTINF:-1 group-title="24/7",| STARGATE ATLANTIS
+#EXTINF:-1,24/7 | STARGATE ATLANTIS
 http://muricastreams.tv:83/heavyjj76/78656527/332732
-#EXTINF:-1 group-title="24/7",| STARGATE UNIVERSE
+#EXTINF:-1,24/7 | STARGATE UNIVERSE
 http://muricastreams.tv:83/heavyjj76/78656527/332731
-#EXTINF:-1 group-title="24/7",| STEP BY STEP
+#EXTINF:-1,24/7 | STEP BY STEP
 http://muricastreams.tv:83/heavyjj76/78656527/313986
-#EXTINF:-1 group-title="24/7",| STREET OUTLAWS
+#EXTINF:-1,24/7 | STREET OUTLAWS
 http://muricastreams.tv:83/heavyjj76/78656527/302890
-#EXTINF:-1 group-title="24/7",| SUPERBOWLS
+#EXTINF:-1,24/7 | SUPERBOWLS
 http://muricastreams.tv:83/heavyjj76/78656527/335047
-#EXTINF:-1 group-title="24/7",| Superjail!
+#EXTINF:-1,24/7 | SUPERJAIL!
 http://muricastreams.tv:83/heavyjj76/78656527/366532
-#EXTINF:-1 group-title="24/7",| SUPERNATURAL
+#EXTINF:-1,24/7 | SUPERNATURAL
 http://muricastreams.tv:83/heavyjj76/78656527/341932
-#EXTINF:-1 group-title="24/7",| SUPERWHY
-http://muricastreams.tv:83/heavyjj76/78656527/335061
-#EXTINF:-1 group-title="24/7",| TAXI
-http://muricastreams.tv:83/heavyjj76/78656527/318110
-#EXTINF:-1 group-title="24/7",| THAT '70s SHOW
+#EXTINF:-1,24/7 | THAT 70's SHOW
 http://muricastreams.tv:83/heavyjj76/78656527/352318
-#EXTINF:-1 group-title="24/7",| THE ANDY GRIFFITH SHOW
+#EXTINF:-1,24/7 | THE ANDY GRIFFITH SHOW
 http://muricastreams.tv:83/heavyjj76/78656527/302882
-#EXTINF:-1 group-title="24/7",| THE BEVERLY HILLBILLIES
+#EXTINF:-1,24/7 | THE BEVERLY HILLBILLIES
 http://muricastreams.tv:83/heavyjj76/78656527/352315
-#EXTINF:-1 group-title="24/7",| THE BIG BANG THEORY
+#EXTINF:-1,24/7 | THE BIG BANG THEORY
 http://muricastreams.tv:83/heavyjj76/78656527/302880
-#EXTINF:-1 group-title="24/7",| THE BOONDOCKS
+#EXTINF:-1,24/7 | THE BOONDOCKS
 http://muricastreams.tv:83/heavyjj76/78656527/347771
-#EXTINF:-1 group-title="24/7",| THE CLEVELAND SHOW
+#EXTINF:-1,24/7 | THE CLEVELAND SHOW
 http://muricastreams.tv:83/heavyjj76/78656527/352314
-#EXTINF:-1 group-title="24/7",| THE CURSE OF OAK ISLAND
+#EXTINF:-1,24/7 | THE CURSE OF OAK ISLAND
 http://muricastreams.tv:83/heavyjj76/78656527/309317
-#EXTINF:-1 group-title="24/7",| THE EXES
+#EXTINF:-1,24/7 | THE EXES
 http://muricastreams.tv:83/heavyjj76/78656527/352313
-#EXTINF:-1 group-title="24/7",| THE FAST SHOW (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320729
-#EXTINF:-1 group-title="24/7",| THE FIRST 48
+#EXTINF:-1,24/7 | THE FIRST 48
 http://muricastreams.tv:83/heavyjj76/78656527/309316
-#EXTINF:-1 group-title="24/7",| THE FLASH
-http://muricastreams.tv:83/heavyjj76/78656527/332690
-#EXTINF:-1 group-title="24/7",| THE GOOD DOCTOR
+#EXTINF:-1,24/7 | THE GOOD DOCTOR
 http://muricastreams.tv:83/heavyjj76/78656527/332707
-#EXTINF:-1 group-title="24/7",| THE JAMIE FOXX SHOW
+#EXTINF:-1,24/7 | THE JAMIE FOXX SHOW
 http://muricastreams.tv:83/heavyjj76/78656527/352312
-#EXTINF:-1 group-title="24/7",| THE LAST MAN ON EARTH
-http://muricastreams.tv:83/heavyjj76/78656527/352311
-#EXTINF:-1 group-title="24/7",| THE LEAGUE
+#EXTINF:-1,24/7 | THE LEAGUE
 http://muricastreams.tv:83/heavyjj76/78656527/309315
-#EXTINF:-1 group-title="24/7",| THE MARY TYLER MOORE SHOW
+#EXTINF:-1,24/7 | THE MARY TYLER MOORE SHOW
 http://muricastreams.tv:83/heavyjj76/78656527/352310
-#EXTINF:-1 group-title="24/7",| THE MIDDLE
+#EXTINF:-1,24/7 | THE MIDDLE
 http://muricastreams.tv:83/heavyjj76/78656527/352309
-#EXTINF:-1 group-title="24/7",| THE NANNY
+#EXTINF:-1,24/7 | THE NANNY
 http://muricastreams.tv:83/heavyjj76/78656527/313984
-#EXTINF:-1 group-title="24/7",| THE OFFICE
+#EXTINF:-1,24/7 | THE OFFICE
 http://muricastreams.tv:83/heavyjj76/78656527/332514
-#EXTINF:-1 group-title="24/7",| THE REN AND STIMPY SHOW
+#EXTINF:-1,24/7 | THE REN AND STIMPY SHOW
 http://muricastreams.tv:83/heavyjj76/78656527/352306
-#EXTINF:-1 group-title="24/7",| THE SHIELD
+#EXTINF:-1,24/7 | THE SHIELD
 http://muricastreams.tv:83/heavyjj76/78656527/352305
-#EXTINF:-1 group-title="24/7",| THE THREE STOOGES
+#EXTINF:-1,24/7 | THE THREE STOOGES
 http://muricastreams.tv:83/heavyjj76/78656527/352301
-#EXTINF:-1 group-title="24/7",| THE TWILIGHT ZONE
+#EXTINF:-1,24/7 | THE TWILIGHT ZONE
 http://muricastreams.tv:83/heavyjj76/78656527/342067
-#EXTINF:-1 group-title="24/7",| THE UNKNOWN WAR (L)
-http://muricastreams.tv:83/heavyjj76/78656527/324543
-#EXTINF:-1 group-title="24/7",| THE VAMPIRE DIARIES
+#EXTINF:-1,24/7 | THE VAMPIRE DIARIES
 http://muricastreams.tv:83/heavyjj76/78656527/352304
-#EXTINF:-1 group-title="24/7",| THE WALKING DEAD
+#EXTINF:-1,24/7 | THE WALKING DEAD
 http://muricastreams.tv:83/heavyjj76/78656527/335026
-#EXTINF:-1 group-title="24/7",| THE WAYANS BROS
+#EXTINF:-1,24/7 | THE WAYANS BROS
 http://muricastreams.tv:83/heavyjj76/78656527/305113
-#EXTINF:-1 group-title="24/7",| THE WEST WING
+#EXTINF:-1,24/7 | THE WEST WING
 http://muricastreams.tv:83/heavyjj76/78656527/352303
-#EXTINF:-1 group-title="24/7",| THE WILD THORNBERRYS
+#EXTINF:-1,24/7 | THE WILD THORNBERRYS
 http://muricastreams.tv:83/heavyjj76/78656527/352302
-#EXTINF:-1 group-title="24/7",| THE WIRE
+#EXTINF:-1,24/7 | THE WIRE
 http://muricastreams.tv:83/heavyjj76/78656527/332689
-#EXTINF:-1 group-title="24/7",| THE YOUNG ONES (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320684
-#EXTINF:-1 group-title="24/7",| THREE'S COMPANY II
+#EXTINF:-1,24/7 | THREE'S COMPANY II
 http://muricastreams.tv:83/heavyjj76/78656527/263184
-#EXTINF:-1 group-title="24/7",| THREES COMPANY
+#EXTINF:-1,24/7 | THREE'S COMPANY
 http://muricastreams.tv:83/heavyjj76/78656527/302855
-#EXTINF:-1 group-title="24/7",| TRUE BLOOD
+#EXTINF:-1,24/7 | TRUE BLOOD
 http://muricastreams.tv:83/heavyjj76/78656527/335045
-#EXTINF:-1 group-title="24/7",| TRUE DETECTIVE
+#EXTINF:-1,24/7 | TRUE DETECTIVE
 http://muricastreams.tv:83/heavyjj76/78656527/353134
-#EXTINF:-1 group-title="24/7",| TWO AND A HALF MEN
+#EXTINF:-1,24/7 | TWO AND A HALF MEN
 http://muricastreams.tv:83/heavyjj76/78656527/332686
-#EXTINF:-1 group-title="24/7",| VICE PRINCIPALS
-http://muricastreams.tv:83/heavyjj76/78656527/309312
-#EXTINF:-1 group-title="24/7",| WAGON TRAIN
-http://muricastreams.tv:83/heavyjj76/78656527/313983
-#EXTINF:-1 group-title="24/7",| WCW RISE AND FALL (L)
-http://muricastreams.tv:83/heavyjj76/78656527/320510
-#EXTINF:-1 group-title="24/7",| WEBSTER
+#EXTINF:-1,24/7 | WEBSTER
 http://muricastreams.tv:83/heavyjj76/78656527/313982
-#EXTINF:-1 group-title="24/7",| WEEDS
-http://muricastreams.tv:83/heavyjj76/78656527/313981
-#EXTINF:-1 group-title="24/7",| WHATS HAPPENING
-http://muricastreams.tv:83/heavyjj76/78656527/313980
-#EXTINF:-1 group-title="24/7",| WILFRED
+#EXTINF:-1,24/7 | WILFRED
 http://muricastreams.tv:83/heavyjj76/78656527/352298
-#EXTINF:-1 group-title="24/7",| WKRP IN CINCINNATI
+#EXTINF:-1,24/7 | WKRP IN CINCINNATI
 http://muricastreams.tv:83/heavyjj76/78656527/352297
-#EXTINF:-1 group-title="24/7",| WORKAHOLICS
+#EXTINF:-1,24/7 | WORKAHOLICS
 http://muricastreams.tv:83/heavyjj76/78656527/352296
-#EXTINF:-1 group-title="24/7",| XENA WARRIOR PRINCESS
+#EXTINF:-1,24/7 | XENA WARRIOR PRINCESS
 http://muricastreams.tv:83/heavyjj76/78656527/313979
-#EXTINF:-1 group-title="24/7",30 ROCK
-http://muricastreams.tv:83/heavyjj76/78656527/376113
-#EXTINF:-1 group-title="24/7",30 ROCK
+#EXTINF:-1, 24/7 | 30 ROCK
 http://muricastreams.tv:83/heavyjj76/78656527/351743
-#EXTINF:-1 group-title="24/7",7th Heaven
+#EXTINF:-1, 24/7 | 7TH HEAVEN
 http://muricastreams.tv:83/heavyjj76/78656527/356474
-#EXTINF:-1 group-title="24/7",AAAHHH REAL MONSTERS
+#EXTINF:-1,24/7 | AAAHHH REAL MONSTERS
 http://muricastreams.tv:83/heavyjj76/78656527/376069
-#EXTINF:-1 group-title="24/7",ACCORDING TO JIM
-http://muricastreams.tv:83/heavyjj76/78656527/376114
-#EXTINF:-1 group-title="24/7",ACCORDING TO JIM
+#EXTINF:-1, 24/7 | ACCORDING TO JIM
 http://muricastreams.tv:83/heavyjj76/78656527/351741
-#EXTINF:-1 group-title="24/7",AIRWOLF
-http://muricastreams.tv:83/heavyjj76/78656527/376115
-#EXTINF:-1 group-title="24/7",AIRWOLF
+#EXTINF:-1, 24/7 | AIRWOLF
 http://muricastreams.tv:83/heavyjj76/78656527/351740
-#EXTINF:-1 group-title="24/7",AMERICAN HORROR STORY
+#EXTINF:-1, 24/7 | AMERICAN HORROR STORY
 http://muricastreams.tv:83/heavyjj76/78656527/376117
-#EXTINF:-1 group-title="24/7",ANIMAL KINGDOM
+#EXTINF:-1, 24/7 | ANIMAL KINGDOM
 http://muricastreams.tv:83/heavyjj76/78656527/376119
-#EXTINF:-1 group-title="24/7",ANIMAL KINGDOM
-http://muricastreams.tv:83/heavyjj76/78656527/351739
-#EXTINF:-1 group-title="24/7",ARCHER
+#EXTINF:-1,24/7 | ARCHER
 http://muricastreams.tv:83/heavyjj76/78656527/376071
-#EXTINF:-1 group-title="24/7",ARCHER
-http://muricastreams.tv:83/heavyjj76/78656527/351738
-#EXTINF:-1 group-title="24/7",ARE YOU AFRAID OF THE DARK
+#EXTINF:-1, 24/7 | ARE YOU AFRAID OF THE DARK
 http://muricastreams.tv:83/heavyjj76/78656527/376120
-#EXTINF:-1 group-title="24/7",ARROW" tvg-logo="" group-title="24/7",24/7 ARROW
+#EXTINF:-1, 24/7 | ARROW
 http://muricastreams.tv:83/heavyjj76/78656527/376121
-#EXTINF:-1 group-title="24/7",BALLERS
-http://muricastreams.tv:83/heavyjj76/78656527/376122
-#EXTINF:-1 group-title="24/7",BALLERS
+#EXTINF:-1, 24/7 | BALLERS
 http://muricastreams.tv:83/heavyjj76/78656527/351737
-#EXTINF:-1 group-title="24/7",BAND OF BROTHERS
+#EXTINF:-1, 24/7 | BAND OF BROTHERS
 http://muricastreams.tv:83/heavyjj76/78656527/376123
-#EXTINF:-1 group-title="24/7",BANSHEE
+#EXTINF:-1, 24/7 | BANSHEE
 http://muricastreams.tv:83/heavyjj76/78656527/376124
-#EXTINF:-1 group-title="24/7",BATMAN THE ANIMATED SERIES
+#EXTINF:-1,24/7 | BATMAN THE ANIMATED SERIES
 http://muricastreams.tv:83/heavyjj76/78656527/376072
-#EXTINF:-1 group-title="24/7",BATTLESTAR GALACTIA
-http://muricastreams.tv:83/heavyjj76/78656527/376125
-#EXTINF:-1 group-title="24/7",BETTER CALL SAUL
+#EXTINF:-1, 24/7 | BETTER CALL SAUL
 http://muricastreams.tv:83/heavyjj76/78656527/376126
-#EXTINF:-1 group-title="24/7",Beverly Hills 90210
+#EXTINF:-1, 24/7 | BEVERLY HILLS 90210
 http://muricastreams.tv:83/heavyjj76/78656527/376127
-#EXTINF:-1 group-title="24/7",Billions
+#EXTINF:-1, 24/7 | BILLIONS
 http://muricastreams.tv:83/heavyjj76/78656527/376128
-#EXTINF:-1 group-title="24/7",BLACK-ISH
-http://muricastreams.tv:83/heavyjj76/78656527/376129
-#EXTINF:-1 group-title="24/7",BLACK-ISH
+#EXTINF:-1, 24/7 | BLACK-ISH
 http://muricastreams.tv:83/heavyjj76/78656527/351735
-#EXTINF:-1 group-title="24/7",BLUE BLOODS
-http://muricastreams.tv:83/heavyjj76/78656527/376130
-#EXTINF:-1 group-title="24/7",BLUE BLOODS
-http://muricastreams.tv:83/heavyjj76/78656527/351734
-#EXTINF:-1 group-title="24/7",BOSTON LEGAL
-http://muricastreams.tv:83/heavyjj76/78656527/376131
-#EXTINF:-1 group-title="24/7",BOSTON LEGAL
+#EXTINF:-1, 24/7 | BOSTON LEGAL
 http://muricastreams.tv:83/heavyjj76/78656527/351733
-#EXTINF:-1 group-title="24/7",BOY MEETS WORLD
+#EXTINF:-1, 24/7 | BOY MEETS WORLD
 http://muricastreams.tv:83/heavyjj76/78656527/376132
-#EXTINF:-1 group-title="24/7",BREAKING BAD
+#EXTINF:-1, 24/7 | BREAKING BAD
 http://muricastreams.tv:83/heavyjj76/78656527/376133
-#EXTINF:-1 group-title="24/7",BROOKLYN NINE-NINE
-http://muricastreams.tv:83/heavyjj76/78656527/376134
-#EXTINF:-1 group-title="24/7",BROOKLYN NINE-NINE
+#EXTINF:-1, 24/7 | BROOKLYN NINE-NINE
 http://muricastreams.tv:83/heavyjj76/78656527/351732
-#EXTINF:-1 group-title="24/7",Bruce Lee
+#EXTINF:-1, 24/7 | BRUCE LEE
 http://muricastreams.tv:83/heavyjj76/78656527/356477
-#EXTINF:-1 group-title="24/7",CASTLE ROCK
+#EXTINF:-1, 24/7 | CASTLE ROCK
 http://muricastreams.tv:83/heavyjj76/78656527/351731
-#EXTINF:-1 group-title="24/7",CATDOG
+#EXTINF:-1,24/7 | CATDOG
 http://muricastreams.tv:83/heavyjj76/78656527/376073
-#EXTINF:-1 group-title="24/7",CHARLIES ANGELES
-http://muricastreams.tv:83/heavyjj76/78656527/376137
-#EXTINF:-1 group-title="24/7",CHARLIES ANGELES
+#EXTINF:-1, 24/7 | CHARLIES ANGELES
 http://muricastreams.tv:83/heavyjj76/78656527/351729
-#EXTINF:-1 group-title="24/7",CHARMED
+#EXTINF:-1, 24/7 | CHARMED
 http://muricastreams.tv:83/heavyjj76/78656527/351728
-#EXTINF:-1 group-title="24/7",CHEERS
-http://muricastreams.tv:83/heavyjj76/78656527/376138
-#EXTINF:-1 group-title="24/7",CHEERS
+#EXTINF:-1, 24/7 | CHEERS
 http://muricastreams.tv:83/heavyjj76/78656527/351727
-#EXTINF:-1 group-title="24/7",CHOPPED 1
-http://muricastreams.tv:83/heavyjj76/78656527/376139
-#EXTINF:-1 group-title="24/7",CHOPPED 1
+#EXTINF:-1, 24/7 | CHOPPED 1
 http://muricastreams.tv:83/heavyjj76/78656527/351726
-#EXTINF:-1 group-title="24/7",COMMUNITY
-http://muricastreams.tv:83/heavyjj76/78656527/376140
-#EXTINF:-1 group-title="24/7",COMMUNITY
+#EXTINF:-1, 24/7 | COMMUNITY
 http://muricastreams.tv:83/heavyjj76/78656527/351725
-#EXTINF:-1 group-title="24/7",COPS
+#EXTINF:-1, 24/7 | COPS
 http://muricastreams.tv:83/heavyjj76/78656527/376141
-#EXTINF:-1 group-title="24/7",COURAGE THE COWARDLY DOG
+#EXTINF:-1,24/7 | COURAGE THE COWARDLY DOG
 http://muricastreams.tv:83/heavyjj76/78656527/376074
-#EXTINF:-1 group-title="24/7",COW AND CHICKEN
+#EXTINF:-1,24/7 | COW AND CHICKEN
 http://muricastreams.tv:83/heavyjj76/78656527/376075
-#EXTINF:-1 group-title="24/7",COW AND CHICKEN
+#EXTINF:-1, 24/7 | COW AND CHICKEN
 http://muricastreams.tv:83/heavyjj76/78656527/351723
-#EXTINF:-1 group-title="24/7",CRIMINAL MINDS
-http://muricastreams.tv:83/heavyjj76/78656527/376142
-#EXTINF:-1 group-title="24/7",CRIMINAL MINDS
+#EXTINF:-1, 24/7 | CRIMINAL MINDS
 http://muricastreams.tv:83/heavyjj76/78656527/351722
-#EXTINF:-1 group-title="24/7",CSI
+#EXTINF:-1, 24/7 | CSI
 http://muricastreams.tv:83/heavyjj76/78656527/376143
-#EXTINF:-1 group-title="24/7",CURB YOUR ENTHUSIASM
+#EXTINF:-1, 24/7 | CURB YOUR ENTHUSIASM
 http://muricastreams.tv:83/heavyjj76/78656527/376144
-#EXTINF:-1 group-title="24/7",CURB YOUR ENTHUSIASM
-http://muricastreams.tv:83/heavyjj76/78656527/351721
-#EXTINF:-1 group-title="24/7",CURSE OF OAK ISLAND
-http://muricastreams.tv:83/heavyjj76/78656527/376145
-#EXTINF:-1 group-title="24/7",CURSE OF OAK ISLAND
+#EXTINF:-1, 24/7 | CURSE OF OAK ISLAND
 http://muricastreams.tv:83/heavyjj76/78656527/351720
-#EXTINF:-1 group-title="24/7",DARKWING DUCK
+#EXTINF:-1,24/7 | DARKWING DUCK
 http://muricastreams.tv:83/heavyjj76/78656527/376076
-#EXTINF:-1 group-title="24/7",DEADWOOD
-http://muricastreams.tv:83/heavyjj76/78656527/376146
-#EXTINF:-1 group-title="24/7",DEADWOOD
+#EXTINF:-1, 24/7 | DEADWOOD
 http://muricastreams.tv:83/heavyjj76/78656527/351718
-#EXTINF:-1 group-title="24/7",DESIGNING WOMEN
-http://muricastreams.tv:83/heavyjj76/78656527/376147
-#EXTINF:-1 group-title="24/7",DESIGNING WOMEN
+#EXTINF:-1, 24/7 | DESIGNING WOMEN
 http://muricastreams.tv:83/heavyjj76/78656527/351717
-#EXTINF:-1 group-title="24/7",DINERS DRIVE IN & DIVES
+#EXTINF:-1, 24/7 | DINERS DRIVE IN & DIVES
 http://muricastreams.tv:83/heavyjj76/78656527/376148
-#EXTINF:-1 group-title="24/7",DOUG
+#EXTINF:-1,24/7 | DOUG
 http://muricastreams.tv:83/heavyjj76/78656527/376077
-#EXTINF:-1 group-title="24/7",DUKES OF HAZZARD
+#EXTINF:-1, 24/7 | DUKES OF HAZZARD
 http://muricastreams.tv:83/heavyjj76/78656527/376149
-#EXTINF:-1 group-title="24/7",DUKES OF HAZZARD
-http://muricastreams.tv:83/heavyjj76/78656527/351714
-#EXTINF:-1 group-title="24/7",EAST BOUND AND DOWN
+#EXTINF:-1, 24/7 | EAST BOUND AND DOWN
 http://muricastreams.tv:83/heavyjj76/78656527/376150
-#EXTINF:-1 group-title="24/7",ER
-http://muricastreams.tv:83/heavyjj76/78656527/376151
-#EXTINF:-1 group-title="24/7",ER
-http://muricastreams.tv:83/heavyjj76/78656527/351713
-#EXTINF:-1 group-title="24/7",EVERYBODY HATES CHRIS
+#EXTINF:-1, 24/7 | EVERYBODY HATES CHRIS
 http://muricastreams.tv:83/heavyjj76/78656527/376152
-#EXTINF:-1 group-title="24/7",EVERYBODY LOVES RAYMOND
+#EXTINF:-1, 24/7 | EVERYBODY LOVES RAYMOND
 http://muricastreams.tv:83/heavyjj76/78656527/376153
-#EXTINF:-1 group-title="24/7",FAMILY GUY
-http://muricastreams.tv:83/heavyjj76/78656527/376078
-#EXTINF:-1 group-title="24/7",FAMILY MATTERS
+#EXTINF:-1, 24/7 | FAMILY MATTERS
 http://muricastreams.tv:83/heavyjj76/78656527/376154
-#EXTINF:-1 group-title="24/7",FARGO
+#EXTINF:-1, 24/7 | FARGO
 http://muricastreams.tv:83/heavyjj76/78656527/376155
-#EXTINF:-1 group-title="24/7",FARGO
-http://muricastreams.tv:83/heavyjj76/78656527/351712
-#EXTINF:-1 group-title="24/7",FAST AND FURIOUS COLLECTION
+#EXTINF:-1,24/7 | FAST AND FURIOUS COLLECTION
 http://muricastreams.tv:83/heavyjj76/78656527/376068
-#EXTINF:-1 group-title="24/7",FEAR THE WALKING DEAD
+#EXTINF:-1, 24/7 | FEAR THE WALKING DEAD
 http://muricastreams.tv:83/heavyjj76/78656527/376156
-#EXTINF:-1 group-title="24/7",FLINTSTONES
+#EXTINF:-1,24/7 | FLINTSTONES
 http://muricastreams.tv:83/heavyjj76/78656527/376079
-#EXTINF:-1 group-title="24/7",FRESH PRINCE OF BEL AIR
+#EXTINF:-1, 24/7 | FRESH PRINCE OF BEL AIR
 http://muricastreams.tv:83/heavyjj76/78656527/376157
-#EXTINF:-1 group-title="24/7",FRIENDS
+#EXTINF:-1, 24/7 | FRIENDS
 http://muricastreams.tv:83/heavyjj76/78656527/376158
-#EXTINF:-1 group-title="24/7",Fringe
+#EXTINF:-1, 24/7 | FRINGE
 http://muricastreams.tv:83/heavyjj76/78656527/376159
-#EXTINF:-1 group-title="24/7",FUTURAMA
-http://muricastreams.tv:83/heavyjj76/78656527/376080
-#EXTINF:-1 group-title="24/7",FUTURAMA
+#EXTINF:-1,24/7 | FUTURAMA
 http://muricastreams.tv:83/heavyjj76/78656527/351710
-#EXTINF:-1 group-title="24/7",GAME OF THRONES
+#EXTINF:-1, 24/7 | GAME OF THRONES
 http://muricastreams.tv:83/heavyjj76/78656527/376160
-#EXTINF:-1 group-title="24/7",GARGOYLES
+#EXTINF:-1,24/7 | GARGOYLES
 http://muricastreams.tv:83/heavyjj76/78656527/376081
-#EXTINF:-1 group-title="24/7",GILLIGANS ISLANDS
+#EXTINF:-1, 24/7 | GILLIGANS ISLANDS
 http://muricastreams.tv:83/heavyjj76/78656527/376161
-#EXTINF:-1 group-title="24/7",GILMORE GIRLS
-http://muricastreams.tv:83/heavyjj76/78656527/376162
-#EXTINF:-1 group-title="24/7",GILMORE GIRLS
+#EXTINF:-1, 24/7 | GILMORE GIRLS
 http://muricastreams.tv:83/heavyjj76/78656527/351708
-#EXTINF:-1 group-title="24/7",GOMER PYLE
+#EXTINF:-1, 24/7 | GOMER PYLE
 http://muricastreams.tv:83/heavyjj76/78656527/376163
-#EXTINF:-1 group-title="24/7",Gotham
+#EXTINF:-1, 24/7 | GOTHAM
 http://muricastreams.tv:83/heavyjj76/78656527/376164
-#EXTINF:-1 group-title="24/7",GREEN ACRES
-http://muricastreams.tv:83/heavyjj76/78656527/376165
-#EXTINF:-1 group-title="24/7",GREEN ACRES
+#EXTINF:-1, 24/7 | GREEN ACRES
 http://muricastreams.tv:83/heavyjj76/78656527/351707
-#EXTINF:-1 group-title="24/7",GREYS ANATOMY
+#EXTINF:-1, 24/7 | GREYS ANATOMY
 http://muricastreams.tv:83/heavyjj76/78656527/376166
-#EXTINF:-1 group-title="24/7",HE-MAN & THE MASTERS OF THE UNIVERSE
-http://muricastreams.tv:83/heavyjj76/78656527/376082
-#EXTINF:-1 group-title="24/7",HELL ON WHEELS
-http://muricastreams.tv:83/heavyjj76/78656527/376167
-#EXTINF:-1 group-title="24/7",HELL ON WHEELS
+#EXTINF:-1,24/7 | HELL ON WHEELS
 http://muricastreams.tv:83/heavyjj76/78656527/351706
-#EXTINF:-1 group-title="24/7",HILL STREET BLUES
+#EXTINF:-1,24/7 | HILL STREET BLUES
 http://muricastreams.tv:83/heavyjj76/78656527/376168
-#EXTINF:-1 group-title="24/7",HILL STREET BLUES
-http://muricastreams.tv:83/heavyjj76/78656527/351705
-#EXTINF:-1 group-title="24/7",HOME IMPROVEMENT
-http://muricastreams.tv:83/heavyjj76/78656527/376169
-#EXTINF:-1 group-title="24/7",HOME IMPROVEMENT
+#EXTINF:-1,24/7 | HOME IMPROVEMENT
 http://muricastreams.tv:83/heavyjj76/78656527/351704
-#EXTINF:-1 group-title="24/7",HOMELAND
-http://muricastreams.tv:83/heavyjj76/78656527/376170
-#EXTINF:-1 group-title="24/7",HOMELAND
-http://muricastreams.tv:83/heavyjj76/78656527/351703
-#EXTINF:-1 group-title="24/7",HOUSE MD
-http://muricastreams.tv:83/heavyjj76/78656527/376171
-#EXTINF:-1 group-title="24/7",HOW I MET YOUR MOTHER
-http://muricastreams.tv:83/heavyjj76/78656527/376172
-#EXTINF:-1 group-title="24/7",HOW I MET YOUR MOTHER
+#EXTINF:-1,24/7 | HOW I MET YOUR MOTHER
 http://muricastreams.tv:83/heavyjj76/78656527/351702
-#EXTINF:-1 group-title="24/7",IMPRACTICAL JOKERS
-http://muricastreams.tv:83/heavyjj76/78656527/376173
-#EXTINF:-1 group-title="24/7",IN LIVING COLOR
-http://muricastreams.tv:83/heavyjj76/78656527/376174
-#EXTINF:-1 group-title="24/7",IN LIVING COLOR
+#EXTINF:-1,24/7 | IN LIVING COLOR
 http://muricastreams.tv:83/heavyjj76/78656527/351700
-#EXTINF:-1 group-title="24/7",ITS ALWAYS SUNNY IN PHILADELPHIA
-http://muricastreams.tv:83/heavyjj76/78656527/376176
-#EXTINF:-1 group-title="24/7",Key & Peele
+#EXTINF:-1,24/7 | KEY & PEELE
 http://muricastreams.tv:83/heavyjj76/78656527/376177
-#EXTINF:-1 group-title="24/7",KING OF QUEENS
-http://muricastreams.tv:83/heavyjj76/78656527/376178
-#EXTINF:-1 group-title="24/7",KING OF THE HILL
-http://muricastreams.tv:83/heavyjj76/78656527/376107
-#EXTINF:-1 group-title="24/7",KING OF THE HILL
+#EXTINF:-1,24/7 | KING OF THE HILL
 http://muricastreams.tv:83/heavyjj76/78656527/351699
-#EXTINF:-1 group-title="24/7",LAST MAN STANDING
-http://muricastreams.tv:83/heavyjj76/78656527/376180
-#EXTINF:-1 group-title="24/7",Leverage
+#EXTINF:-1,24/7 | LEVERAGE
 http://muricastreams.tv:83/heavyjj76/78656527/376181
-#EXTINF:-1 group-title="24/7",LIVE PD
-http://muricastreams.tv:83/heavyjj76/78656527/376182
-#EXTINF:-1 group-title="24/7",LIVE PD
+#EXTINF:-1,24/7 | LIVE PD
 http://muricastreams.tv:83/heavyjj76/78656527/351697
-#EXTINF:-1 group-title="24/7",LONGMIRE
-http://muricastreams.tv:83/heavyjj76/78656527/376183
-#EXTINF:-1 group-title="24/7",M-A-S-H
-http://muricastreams.tv:83/heavyjj76/78656527/376187
-#EXTINF:-1 group-title="24/7",M-A-S-H
+#EXTINF:-1,24/7 | M-A-S-H
 http://muricastreams.tv:83/heavyjj76/78656527/351692
-#EXTINF:-1 group-title="24/7",MALCOLM IN THE MIDDLE
-http://muricastreams.tv:83/heavyjj76/78656527/376184
-#EXTINF:-1 group-title="24/7",MAN V FOOD
+#EXTINF:-1,24/7 | MAN V FOOD
 http://muricastreams.tv:83/heavyjj76/78656527/351694
-#EXTINF:-1 group-title="24/7",MARRIED WITH CHILDREN
-http://muricastreams.tv:83/heavyjj76/78656527/376185
-#EXTINF:-1 group-title="24/7",MARTIN
-http://muricastreams.tv:83/heavyjj76/78656527/376186
-#EXTINF:-1 group-title="24/7",Mash
-http://muricastreams.tv:83/heavyjj76/78656527/347770
-#EXTINF:-1 group-title="24/7",MEN IN BLACK: THE SERIES
+#EXTINF:-1,24/7 | MEN IN BLACK: THE SERIES
 http://muricastreams.tv:83/heavyjj76/78656527/376084
-#EXTINF:-1 group-title="24/7",MIGHTY MAX
+#EXTINF:-1,24/7 | MIGHTY MAX
 http://muricastreams.tv:83/heavyjj76/78656527/376085
-#EXTINF:-1 group-title="24/7",MODERN FAMILY
+#EXTINF:-1,24/7 | MODERN FAMILY
 http://muricastreams.tv:83/heavyjj76/78656527/376188
-#EXTINF:-1 group-title="24/7",MODERN FAMILY
-http://muricastreams.tv:83/heavyjj76/78656527/351688
-#EXTINF:-1 group-title="24/7",MR ROBOT
-http://muricastreams.tv:83/heavyjj76/78656527/376189
-#EXTINF:-1 group-title="24/7",MY NAME IS EARL
-http://muricastreams.tv:83/heavyjj76/78656527/376190
-#EXTINF:-1 group-title="24/7",MY NAME IS EARL
+#EXTINF:-1,24/7 | MY NAME IS EARL
 http://muricastreams.tv:83/heavyjj76/78656527/351687
-#EXTINF:-1 group-title="24/7",One Tree Hill
+#EXTINF:-1,24/7 | ONE TREE HILL
 http://muricastreams.tv:83/heavyjj76/78656527/376108
-#EXTINF:-1 group-title="24/7",PARENTHOOD
+#EXTINF:-1,24/7 | PARENTHOOD
 http://muricastreams.tv:83/heavyjj76/78656527/376193
-#EXTINF:-1 group-title="24/7",PARENTHOOD
-http://muricastreams.tv:83/heavyjj76/78656527/351685
-#EXTINF:-1 group-title="24/7",PARKS AND RECREATION
-http://muricastreams.tv:83/heavyjj76/78656527/376194
-#EXTINF:-1 group-title="24/7",PARKS AND RECREATION
+#EXTINF:-1,24/7 | PARKS AND RECREATION
 http://muricastreams.tv:83/heavyjj76/78656527/351684
-#EXTINF:-1 group-title="24/7",PEPPA PIG
-http://muricastreams.tv:83/heavyjj76/78656527/376087
-#EXTINF:-1 group-title="24/7",PETTICOAT JUNCTION
+#EXTINF:-1,24/7 | PETTICOAT JUNCTION
 http://muricastreams.tv:83/heavyjj76/78656527/376195
-#EXTINF:-1 group-title="24/7",PETTICOAT JUNCTION
-http://muricastreams.tv:83/heavyjj76/78656527/351683
-#EXTINF:-1 group-title="24/7",PINKY AND THE BRAIN
+#EXTINF:-1,24/7 | PINKY AND THE BRAIN
 http://muricastreams.tv:83/heavyjj76/78656527/376088
-#EXTINF:-1 group-title="24/7",PINKY AND THE BRAIN
-http://muricastreams.tv:83/heavyjj76/78656527/351682
-#EXTINF:-1 group-title="24/7",POWER
-http://muricastreams.tv:83/heavyjj76/78656527/376196
-#EXTINF:-1 group-title="24/7",Property Brothers
+#EXTINF:-1,24/7 | PROPERTY BROTHERS
 http://muricastreams.tv:83/heavyjj76/78656527/376197
-#EXTINF:-1 group-title="24/7",RAY DONOVAN
-http://muricastreams.tv:83/heavyjj76/78656527/376198
-#EXTINF:-1 group-title="24/7",RIVER MONSTERS
+#EXTINF:-1,24/7 | RIVER MONSTERS
 http://muricastreams.tv:83/heavyjj76/78656527/351680
-#EXTINF:-1 group-title="24/7",RIVERDALE
-http://muricastreams.tv:83/heavyjj76/78656527/376199
-#EXTINF:-1 group-title="24/7",RIVERDALE
+#EXTINF:-1,24/7 | RIVERDALE
 http://muricastreams.tv:83/heavyjj76/78656527/351681
-#EXTINF:-1 group-title="24/7",ROCKOS MODERN LIFE
+#EXTINF:-1,24/7 | ROCKOS MODERN LIFE
 http://muricastreams.tv:83/heavyjj76/78656527/376092
-#EXTINF:-1 group-title="24/7",ROSEANNE
-http://muricastreams.tv:83/heavyjj76/78656527/376201
-#EXTINF:-1 group-title="24/7",RUGRATS
+#EXTINF:-1,24/7 | RUGRATS
 http://muricastreams.tv:83/heavyjj76/78656527/376093
-#EXTINF:-1 group-title="24/7",RULES OF ENGAGEMENT
+#EXTINF:-1,24/7 | RULES OF ENGAGEMENT
 http://muricastreams.tv:83/heavyjj76/78656527/376202
-#EXTINF:-1 group-title="24/7",RULES OF ENGAGEMENT
-http://muricastreams.tv:83/heavyjj76/78656527/351676
-#EXTINF:-1 group-title="24/7",SANFORD AND SON
-http://muricastreams.tv:83/heavyjj76/78656527/376203
-#EXTINF:-1 group-title="24/7",SAVED BY THE BELL
-http://muricastreams.tv:83/heavyjj76/78656527/376204
-#EXTINF:-1 group-title="24/7",SCREAM MOVIES COLLECTION
+#EXTINF:-1,24/7 | SCREAM MOVIES COLLECTION
 http://muricastreams.tv:83/heavyjj76/78656527/376064
-#EXTINF:-1 group-title="24/7",SCRUBS
-http://muricastreams.tv:83/heavyjj76/78656527/376205
-#EXTINF:-1 group-title="24/7",SCRUBS
+#EXTINF:-1,24/7 | SCRUBS
 http://muricastreams.tv:83/heavyjj76/78656527/351675
-#EXTINF:-1 group-title="24/7",SEINFELD
-http://muricastreams.tv:83/heavyjj76/78656527/376206
-#EXTINF:-1 group-title="24/7",SIX FEET UNDER
-http://muricastreams.tv:83/heavyjj76/78656527/376207
-#EXTINF:-1 group-title="24/7",SIX FEET UNDER
+#EXTINF:-1,24/7 | SIX FEET UNDER
 http://muricastreams.tv:83/heavyjj76/78656527/351674
-#EXTINF:-1 group-title="24/7",SMALLVILLE
-http://muricastreams.tv:83/heavyjj76/78656527/376208
-#EXTINF:-1 group-title="24/7",SMALLVILLE
+#EXTINF:-1,24/7 | SMALLVILLE
 http://muricastreams.tv:83/heavyjj76/78656527/351673
-#EXTINF:-1 group-title="24/7",SONS OF ANARCHY
-http://muricastreams.tv:83/heavyjj76/78656527/376209
-#EXTINF:-1 group-title="24/7",SOUTHLAND
-http://muricastreams.tv:83/heavyjj76/78656527/376210
-#EXTINF:-1 group-title="24/7",SOUTHLAND
+#EXTINF:-1,24/7 | SOUTHLAND
 http://muricastreams.tv:83/heavyjj76/78656527/351672
-#EXTINF:-1 group-title="24/7",SPIDER MAN: THE ANIMATED SERIES
+#EXTINF:-1,24/7 | SPIDER MAN: THE ANIMATED SERIES
 http://muricastreams.tv:83/heavyjj76/78656527/376095
-#EXTINF:-1 group-title="24/7",STAR TREK ENTERPRISE
+#EXTINF:-1,24/7 | STAR TREK ENTERPRISE
 http://muricastreams.tv:83/heavyjj76/78656527/376211
-#EXTINF:-1 group-title="24/7",STAR TREK ENTERPRISE
-http://muricastreams.tv:83/heavyjj76/78656527/351670
-#EXTINF:-1 group-title="24/7",STAR TREK THE NEXT GENERATION
-http://muricastreams.tv:83/heavyjj76/78656527/376212
-#EXTINF:-1 group-title="24/7",STAR TREK THE NEXT GENERATION
+#EXTINF:-1,24/7 | STAR TREK THE NEXT GENERATION
 http://muricastreams.tv:83/heavyjj76/78656527/351669
-#EXTINF:-1 group-title="24/7",STAR WARS
-http://muricastreams.tv:83/heavyjj76/78656527/377135
-#EXTINF:-1 group-title="24/7",STEPHEN KING MOVIES
+#EXTINF:-1,24/7 | STEPHEN KING MOVIES
 http://muricastreams.tv:83/heavyjj76/78656527/376065
-#EXTINF:-1 group-title="24/7",STREET OUTLAWS
-http://muricastreams.tv:83/heavyjj76/78656527/376213
-#EXTINF:-1 group-title="24/7",TALES FROM THE CRYPT
+#EXTINF:-1,24/7 | TALES FROM THE CRYPT
 http://muricastreams.tv:83/heavyjj76/78656527/376215
-#EXTINF:-1 group-title="24/7",TAXI
+#EXTINF:-1,24/7 | TAXI
 http://muricastreams.tv:83/heavyjj76/78656527/376216
-#EXTINF:-1 group-title="24/7",Teenage Mutant Ninja Turtles (1987)
+#EXTINF:-1,24/7 | TMNT (1987)
 http://muricastreams.tv:83/heavyjj76/78656527/376111
-#EXTINF:-1 group-title="24/7",THE A-TEAM
+#EXTINF:-1,24/7 | THE A-TEAM
 http://muricastreams.tv:83/heavyjj76/78656527/376217
-#EXTINF:-1 group-title="24/7",THE AMAZING WORLD OF GUMBALL
+#EXTINF:-1,24/7 | THE AMAZING WORLD OF GUMBALL
 http://muricastreams.tv:83/heavyjj76/78656527/376096
-#EXTINF:-1 group-title="24/7",THE ANGRY BEAVERS
+#EXTINF:-1,24/7 | THE ANGRY BEAVERS
 http://muricastreams.tv:83/heavyjj76/78656527/376097
-#EXTINF:-1 group-title="24/7",THE BEVERLY HILLBILLIES
-http://muricastreams.tv:83/heavyjj76/78656527/376219
-#EXTINF:-1 group-title="24/7",THE BIG BANG THEORY
-http://muricastreams.tv:83/heavyjj76/78656527/376220
-#EXTINF:-1 group-title="24/7",THE CLEVELAND SHOW
-http://muricastreams.tv:83/heavyjj76/78656527/376112
-#EXTINF:-1 group-title="24/7",The Drew Carey Show
+#EXTINF:-1,24/7 | THE DREW CAREY SHOW
 http://muricastreams.tv:83/heavyjj76/78656527/376221
-#EXTINF:-1 group-title="24/7",THE EXES
-http://muricastreams.tv:83/heavyjj76/78656527/376222
-#EXTINF:-1 group-title="24/7",THE FIRST 48
-http://muricastreams.tv:83/heavyjj76/78656527/376223
-#EXTINF:-1 group-title="24/7",THE FLASH
+#EXTINF:-1,24/7 | THE FLASH
 http://muricastreams.tv:83/heavyjj76/78656527/376224
-#EXTINF:-1 group-title="24/7",THE JAMIE FOXX SHOW
-http://muricastreams.tv:83/heavyjj76/78656527/376225
-#EXTINF:-1 group-title="24/7",THE LAST MAN ON EARTH
+#EXTINF:-1,24/7 | THE LAST MAN ON EARTH
 http://muricastreams.tv:83/heavyjj76/78656527/376226
-#EXTINF:-1 group-title="24/7",THE LEAGUE
-http://muricastreams.tv:83/heavyjj76/78656527/376227
-#EXTINF:-1 group-title="24/7",THE MARY TYLER MOORE SHOW
-http://muricastreams.tv:83/heavyjj76/78656527/376228
-#EXTINF:-1 group-title="24/7",THE MIDDLE
-http://muricastreams.tv:83/heavyjj76/78656527/376229
-#EXTINF:-1 group-title="24/7",THE NANNY
-http://muricastreams.tv:83/heavyjj76/78656527/376231
-#EXTINF:-1 group-title="24/7",THE OFFICE
-http://muricastreams.tv:83/heavyjj76/78656527/376232
-#EXTINF:-1 group-title="24/7",THE REAL GHOSTBUSTERS
+#EXTINF:-1,24/7 | THE REAL GHOSTBUSTERS
 http://muricastreams.tv:83/heavyjj76/78656527/376099
-#EXTINF:-1 group-title="24/7",THE REN AND STIMPY SHOW
-http://muricastreams.tv:83/heavyjj76/78656527/376100
-#EXTINF:-1 group-title="24/7",THE SHIELD
-http://muricastreams.tv:83/heavyjj76/78656527/376233
-#EXTINF:-1 group-title="24/7",THE WALKING DEAD
-http://muricastreams.tv:83/heavyjj76/78656527/376234
-#EXTINF:-1 group-title="24/7",THE WEST WING
-http://muricastreams.tv:83/heavyjj76/78656527/376236
-#EXTINF:-1 group-title="24/7",THE WILD THORNBERRYS
+#EXTINF:-1,24/7 | THE WILD THORNBERRYS
 http://muricastreams.tv:83/heavyjj76/78656527/376101
-#EXTINF:-1 group-title="24/7",THE WIRE
-http://muricastreams.tv:83/heavyjj76/78656527/376237
-#EXTINF:-1 group-title="24/7",THUNDERCATS
+#EXTINF:-1,24/7 | THUNDERCATS
 http://muricastreams.tv:83/heavyjj76/78656527/376102
-#EXTINF:-1 group-title="24/7",TRUE BLOOD
-http://muricastreams.tv:83/heavyjj76/78656527/376238
-#EXTINF:-1 group-title="24/7",TWO AND A HALF MEN
-http://muricastreams.tv:83/heavyjj76/78656527/376239
-#EXTINF:-1 group-title="24/7",VICE PRINCIPALS
+#EXTINF:-1,24/7 | VICE PRINCIPALS
 http://muricastreams.tv:83/heavyjj76/78656527/376240
-#EXTINF:-1 group-title="24/7",WEEDS
+#EXTINF:-1,24/7 | WEEDS
 http://muricastreams.tv:83/heavyjj76/78656527/376241
-#EXTINF:-1 group-title="24/7",WHATS HAPPENING
+#EXTINF:-1,24/7 | WHATS HAPPENING
 http://muricastreams.tv:83/heavyjj76/78656527/376243
-#EXTINF:-1 group-title="24/7",WILFRED
-http://muricastreams.tv:83/heavyjj76/78656527/376244
-#EXTINF:-1 group-title="24/7",WKRP IN CINCINNATI
-http://muricastreams.tv:83/heavyjj76/78656527/376245
-#EXTINF:-1 group-title="24/7",WORKAHOLICS
-http://muricastreams.tv:83/heavyjj76/78656527/376246
-#EXTINF:-1 group-title="24/7",X-MEN ANIMATED SERIES
+#EXTINF:-1,24/7 | X-MEN ANIMATED SERIES
 http://muricastreams.tv:83/heavyjj76/78656527/376105
+#EXTINF:-1,24/7 | BING (L)
+http://muricastreams.tv:83/heavyjj76/78656527/380417
+#EXTINF:-1,24/7 | PEPPA PIG (L)
+http://muricastreams.tv:83/heavyjj76/78656527/380419
+#EXTINF:-1,24/7 | BEN AND HOLLY (L)
+http://muricastreams.tv:83/heavyjj76/78656527/380420
+#EXTINF:-1,24/7 | GO JETTERS (L)
+http://muricastreams.tv:83/heavyjj76/78656527/380421
+#EXTINF:-1,24/7 | TERMINATOR MOVIES (L)
+http://muricastreams.tv:83/heavyjj76/78656527/380422
+#EXTINF:-1,24/7 | HARRY POTTER (L)
+http://muricastreams.tv:83/heavyjj76/78656527/380423
+#EXTINF:-1,24/7 | MASHA AND THE BEAR (L)
+http://muricastreams.tv:83/heavyjj76/78656527/380424
+#EXTINF:-1,24/7 | KENAN AND KELL (L)
+http://muricastreams.tv:83/heavyjj76/78656527/380425
+#EXTINF:-1, 24/7 | DR PHIL (L)
+http://muricastreams.tv:83/heavyjj76/78656527/380426
+#EXTINF:-1,24/7 | SAVED BY THE BELL (L)
+http://muricastreams.tv:83/heavyjj76/78656527/381175
+#EXTINF:-1, 24/7 | ER
+http://muricastreams.tv:83/heavyjj76/78656527/381374
+#EXTINF:-1,24/7 | GHOST WHISPERER
+http://muricastreams.tv:83/heavyjj76/78656527/382153
+#EXTINF:-1,24/7 | GEORGE LOPEX
+http://muricastreams.tv:83/heavyjj76/78656527/382154
+#EXTINF:-1, 24/7 | CHICAGO P.D
+http://muricastreams.tv:83/heavyjj76/78656527/382155
+#EXTINF:-1, 24/7 | BUFFY THE VAMPIRE SLAYER
+http://muricastreams.tv:83/heavyjj76/78656527/382156
+#EXTINF:-1, 24/7 | ADDAMS FAMILY
+http://muricastreams.tv:83/heavyjj76/78656527/382157
+#EXTINF:-1, 24/7 | ARRESTED DEVELOPMENT
+http://muricastreams.tv:83/heavyjj76/78656527/382158
+#EXTINF:-1, 24/7 | BLACKLIST
+http://muricastreams.tv:83/heavyjj76/78656527/382159
+#EXTINF:-1, 24/7 | CELEBRITY DEATHMATCH
+http://muricastreams.tv:83/heavyjj76/78656527/382160
+#EXTINF:-1, 24/7 | ENTOURAGE
+http://muricastreams.tv:83/heavyjj76/78656527/382162
+#EXTINF:-1,24/7 | FRAISER
+http://muricastreams.tv:83/heavyjj76/78656527/382163
+#EXTINF:-1, 24/7 | DOCUMENTARIES
+http://muricastreams.tv:83/heavyjj76/78656527/382164
+#EXTINF:-1,24/7 | FATHER TED
+http://muricastreams.tv:83/heavyjj76/78656527/382165
+#EXTINF:-1, 24/7 | 3RD ROCK FROM THE SUN
+http://muricastreams.tv:83/heavyjj76/78656527/382166
+#EXTINF:-1, 24/7 | BATMAN 1966
+http://muricastreams.tv:83/heavyjj76/78656527/382167
+#EXTINF:-1, 24/7 | CHRISTMAS EPISODES
+http://muricastreams.tv:83/heavyjj76/78656527/382168
+#EXTINF:-1, 24/7 | DEXTER
+http://muricastreams.tv:83/heavyjj76/78656527/382169
+#EXTINF:-1, 24/7 | DOCTOR WHO
+http://muricastreams.tv:83/heavyjj76/78656527/382170
+#EXTINF:-1, 24/7 | DOWNTON ABBEY
+http://muricastreams.tv:83/heavyjj76/78656527/382171
+#EXTINF:-1, 24/7 | BOSTON LEGAL
+http://muricastreams.tv:83/heavyjj76/78656527/382172
+#EXTINF:-1, 24/7 | BAR RESCUE
+http://muricastreams.tv:83/heavyjj76/78656527/382173
+#EXTINF:-1, 24/7 | FARSCAPE
+http://muricastreams.tv:83/heavyjj76/78656527/382174
+#EXTINF:-1, 24/7 | FOOD SHOWS
+http://muricastreams.tv:83/heavyjj76/78656527/382175
+#EXTINF:-1, 24/7 | IMPACT Wresting
+http://muricastreams.tv:83/heavyjj76/78656527/382176
+#EXTINF:-1, 24/7 | FAIL ARMY
+http://muricastreams.tv:83/heavyjj76/78656527/382177
+#EXTINF:-1, 24/7 | FORENSIC FILES
+http://muricastreams.tv:83/heavyjj76/78656527/382178
+#EXTINF:-1,24/7 | PENNY DREADFUL
+http://muricastreams.tv:83/heavyjj76/78656527/382179
+#EXTINF:-1,24/7 | MYTHBUSTERS
+http://muricastreams.tv:83/heavyjj76/78656527/382180
+#EXTINF:-1,24/7 | MADMEN
+http://muricastreams.tv:83/heavyjj76/78656527/382181
+#EXTINF:-1,24/7 | HEMLOCK GROVE
+http://muricastreams.tv:83/heavyjj76/78656527/382182
+#EXTINF:-1,24/7 | HOW IT'S MADE
+http://muricastreams.tv:83/heavyjj76/78656527/382183
+#EXTINF:-1,24/7 | I DREAM OF JEANNIE
+http://muricastreams.tv:83/heavyjj76/78656527/382184
+#EXTINF:-1,24/7 | MXC
+http://muricastreams.tv:83/heavyjj76/78656527/382185
+#EXTINF:-1,24/7 | HAPPY DAYS
+http://muricastreams.tv:83/heavyjj76/78656527/382186
+#EXTINF:-1,24/7 | LAW & ORDER SUV
+http://muricastreams.tv:83/heavyjj76/78656527/382187
+#EXTINF:-1,24/7 | MISSION IMPOSSIBLE
+http://muricastreams.tv:83/heavyjj76/78656527/382188
+#EXTINF:-1,24/7 | NCIS
+http://muricastreams.tv:83/heavyjj76/78656527/382189
+#EXTINF:-1,24/7 | NIGTH COURT
+http://muricastreams.tv:83/heavyjj76/78656527/382190
+#EXTINF:-1,24/7 | MYSTERY SCIENCE THEATER 3000
+http://muricastreams.tv:83/heavyjj76/78656527/382191
+#EXTINF:-1,24/7 | MEN BEHAVING BADLY
+http://muricastreams.tv:83/heavyjj76/78656527/382192
+#EXTINF:-1,24/7 | MINDER
+http://muricastreams.tv:83/heavyjj76/78656527/382193
+#EXTINF:-1,24/7 |  MIRANDA
+http://muricastreams.tv:83/heavyjj76/78656527/382194
+#EXTINF:-1,24/7 | MRS BROWNS BOY'S
+http://muricastreams.tv:83/heavyjj76/78656527/382195
+#EXTINF:-1,24/7 | TRAILER PARK BOYS
+http://muricastreams.tv:83/heavyjj76/78656527/382196
+#EXTINF:-1,24/7 | UNSOLVED MYSTERIES
+http://muricastreams.tv:83/heavyjj76/78656527/382197
+#EXTINF:-1,24/7 | THE X FILES
+http://muricastreams.tv:83/heavyjj76/78656527/382198
+#EXTINF:-1,24/7 | THE WHITE QUEEN
+http://muricastreams.tv:83/heavyjj76/78656527/382199
+#EXTINF:-1,24/7 | THE KNICK
+http://muricastreams.tv:83/heavyjj76/78656527/382200
+#EXTINF:-1,24/7 | THE KING OF QUEENS
+http://muricastreams.tv:83/heavyjj76/78656527/382201
+#EXTINF:-1,24/7 | THE GOLDEN GIRLS
+http://muricastreams.tv:83/heavyjj76/78656527/382202
+#EXTINF:-1,24/7 | OUTER LIMITS
+http://muricastreams.tv:83/heavyjj76/78656527/382203
+#EXTINF:-1,24/7 | SILICON VALLEY
+http://muricastreams.tv:83/heavyjj76/78656527/382204
+#EXTINF:-1,24/7 | THE MUNSTERS
+http://muricastreams.tv:83/heavyjj76/78656527/382205
+#EXTINF:-1,24/7 | THE MUSKETEERS
+http://muricastreams.tv:83/heavyjj76/78656527/382206
+#EXTINF:-1,24/7 | THE SOPRANOS
+http://muricastreams.tv:83/heavyjj76/78656527/382207
+#EXTINF:-1,24/7 | THE TUDORS
+http://muricastreams.tv:83/heavyjj76/78656527/382208
+#EXTINF:-1,24/7 | TOP GEAR
+http://muricastreams.tv:83/heavyjj76/78656527/382209
+#EXTINF:-1,24/7 | ONLY FOOLS AND HORSES
+http://muricastreams.tv:83/heavyjj76/78656527/382210
+#EXTINF:-1,24/7 | THE ORVILLE
+http://muricastreams.tv:83/heavyjj76/78656527/382211
+#EXTINF:-1,24/7 | THE WONDER YEARS
+http://muricastreams.tv:83/heavyjj76/78656527/382212
+#EXTINF:-1,24/7 | RED DWARF
+http://muricastreams.tv:83/heavyjj76/78656527/382213
+#EXTINF:-1,24/7 | SALEM
+http://muricastreams.tv:83/heavyjj76/78656527/382214
+#EXTINF:-1,24/7 | SENSE 8 
+http://muricastreams.tv:83/heavyjj76/78656527/382215
+#EXTINF:-1,24/7 | ON THE BUSES
+http://muricastreams.tv:83/heavyjj76/78656527/382216
+#EXTINF:-1,24/7 | OUR GIRL
+http://muricastreams.tv:83/heavyjj76/78656527/382217
+#EXTINF:-1,24/7 | OUR PLANET  1 -2
+http://muricastreams.tv:83/heavyjj76/78656527/382218
+#EXTINF:-1,24/7 | OUTLANDER
+http://muricastreams.tv:83/heavyjj76/78656527/382219
+#EXTINF:-1,24/7 | PEAKY BLINDERS
+http://muricastreams.tv:83/heavyjj76/78656527/382220
+#EXTINF:-1,24/7 | PEEPSHOW
+http://muricastreams.tv:83/heavyjj76/78656527/382221
+#EXTINF:-1,24/7 | PENNY DREADFUL
+http://muricastreams.tv:83/heavyjj76/78656527/382222
+#EXTINF:-1,24/7 | ONLY FOOLS AND HORSES XMAS SPECIALS
+http://muricastreams.tv:83/heavyjj76/78656527/382223
+#EXTINF:-1,24/7 | WHOSE LINE IS IT ANYWAY?
+http://muricastreams.tv:83/heavyjj76/78656527/382224
+#EXTINF:-1,24/7 | VIKINGS
+http://muricastreams.tv:83/heavyjj76/78656527/382225
+#EXTINF:-1,24/7 | TOM & JERRY
+http://muricastreams.tv:83/heavyjj76/78656527/382226
+#EXTINF:-1,24/7 | ADULT SWIM
+http://muricastreams.tv:83/heavyjj76/78656527/382227
+#EXTINF:-1,24/7 | ANIME
+http://muricastreams.tv:83/heavyjj76/78656527/382228
+#EXTINF:-1,24/7 | CLASSIC TOONS
+http://muricastreams.tv:83/heavyjj76/78656527/382229
+#EXTINF:-1,24/7 | DRAGONBALL Z
+http://muricastreams.tv:83/heavyjj76/78656527/382230
+#EXTINF:-1,24/7 | BEAVIS AND BUTT-HEAD
+http://muricastreams.tv:83/heavyjj76/78656527/382231
+#EXTINF:-1,24/7 | INVADER ZIM
+http://muricastreams.tv:83/heavyjj76/78656527/382232
+#EXTINF:-1,24/7 | THE SIMPSONS EP 1-12
+http://muricastreams.tv:83/heavyjj76/78656527/382233
+#EXTINF:-1,24/7 | THE SIMPSONS EP 13+
+http://muricastreams.tv:83/heavyjj76/78656527/382234
+#EXTINF:-1,24/7 | SOUTH PARK
+http://muricastreams.tv:83/heavyjj76/78656527/382235
+#EXTINF:-1,24/7 | SPONGEBOB SQUAREPANTS
+http://muricastreams.tv:83/heavyjj76/78656527/382236
+#EXTINF:-1,24/7 | THE LAST AIRBENDER
+http://muricastreams.tv:83/heavyjj76/78656527/382237
+#EXTINF:-1,24/7 | THE MARVELOUS MISADVENTURES OF FLAPJACK
+http://muricastreams.tv:83/heavyjj76/78656527/382238
+#EXTINF:-1,24/7 | REGULAR SHOW
+http://muricastreams.tv:83/heavyjj76/78656527/382239
+#EXTINF:-1,24/7 | SAMURAI JACK
+http://muricastreams.tv:83/heavyjj76/78656527/382240
+#EXTINF:-1,24/7 | VENTURE BROS.
+http://muricastreams.tv:83/heavyjj76/78656527/382241
+#EXTINF:-1,24/7 | MARVEL MOVIES 1
+http://muricastreams.tv:83/heavyjj76/78656527/382242
+#EXTINF:-1,24/7 | MARVEL MOVIES 2
+http://muricastreams.tv:83/heavyjj76/78656527/382243
+#EXTINF:-1,24/7 | RESIDENT EVIL MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382244
+#EXTINF:-1,24/7 | BOLLYWOOD MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382245
+#EXTINF:-1,24/7 | HOLLYWOOD MOVIES 1
+http://muricastreams.tv:83/heavyjj76/78656527/382246
+#EXTINF:-1,24/7 | HOLLYWOOD MOVIES 2
+http://muricastreams.tv:83/heavyjj76/78656527/382247
+#EXTINF:-1,24/7 | WESTERN MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382248
+#EXTINF:-1,24/7 | WAR MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382249
+#EXTINF:-1,24/7 | SCI-FI MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382250
+#EXTINF:-1,24/7 | PIXAR MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382251
+#EXTINF:-1,24/7 | MARTIAL ARTS MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382252
+#EXTINF:-1,24/7 | LORD OF THE RINGS
+http://muricastreams.tv:83/heavyjj76/78656527/382253
+#EXTINF:-1,24/7 | KUBRICK MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382254
+#EXTINF:-1,24/7 | DISNEY MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382255
+#EXTINF:-1,24/7 | ACTION MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382256
+#EXTINF:-1,24/7 | ANIMATED MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382257
+#EXTINF:-1,24/7 | CHRISTMAS MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382258
+#EXTINF:-1,24/7 | COMEDY MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382259
+#EXTINF:-1,24/7 | CULT CLASSICS
+http://muricastreams.tv:83/heavyjj76/78656527/382260
+#EXTINF:-1,24/7 | HARRY POTTER
+http://muricastreams.tv:83/heavyjj76/78656527/382261
+#EXTINF:-1,24/7 | HORROR MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382262
+#EXTINF:-1,24/7 | MAFIA MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382263
+#EXTINF:-1,24/7 | MONSTER MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382264
+#EXTINF:-1,24/7 | RANDOM MOVIES 1
+http://muricastreams.tv:83/heavyjj76/78656527/382265
+#EXTINF:-1,24/7 | MUSICAL MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382266
+#EXTINF:-1,24/7 | MYSTERY MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382267
+#EXTINF:-1,24/7 | RANDOM MOVIES 2
+http://muricastreams.tv:83/heavyjj76/78656527/382268
+#EXTINF:-1,24/7 | ROMANCE MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382269
+#EXTINF:-1,24/7 | STAR WARS MOVIES 1
+http://muricastreams.tv:83/heavyjj76/78656527/382270
+#EXTINF:-1,24/7 | STAR WARS MOVIES 2
+http://muricastreams.tv:83/heavyjj76/78656527/382271
+#EXTINF:-1,24/7 | STUDIO GHIBLI MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382272
+#EXTINF:-1,24/7 | CON TV AND MOVIES
+http://muricastreams.tv:83/heavyjj76/78656527/382273
+#EXTINF:-1,24/7 | CLINT EASTWOOD
+http://muricastreams.tv:83/heavyjj76/78656527/382274
+#EXTINF:-1,24/7 | CARRY ON'S
+http://muricastreams.tv:83/heavyjj76/78656527/382275
+#EXTINF:-1,24/7 | PAW PATROL
+http://muricastreams.tv:83/heavyjj76/78656527/382276
+#EXTINF:-1,24/7 Peppa Pig
+http://muricastreams.tv:83/heavyjj76/78656527/382291
 #EXTINF:-1 group-title="Pluto TV"  tvg-logo="https://image.roku.com/developer_channels/prod/97a42ff48d71d0952b69bad88a3f754872a52aa9f3cce73ae6c517894772b751.png",Adult Swim 
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
 #EXTINF:-1 group-title="Pluto TV"  tvg-logo="https://image.roku.com/developer_channels/prod/97a42ff48d71d0952b69bad88a3f754872a52aa9f3cce73ae6c517894772b751.png",4K TV
