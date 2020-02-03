@@ -1,6 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="THE SUPERBOWL",US| FOX HD
-http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/90959
 #EXTINF:-1 tvg-id="ae.us.eastern.us" tvg-name="ae.us.eastern.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/ae.us.eastern.us.png",A&E (East) US
 https://tv4.live/api/stream/evoho@yahoo.com/EAngeli246/livetv.epg/ae.us.eastern.us.m3u8
 #EXTINF:-1 tvg-id="adult.swim.east.us" tvg-name="adult.swim.east.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/adult.swim.east.us.png",Adult Swim
