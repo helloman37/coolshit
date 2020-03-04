@@ -1,4 +1,5 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="USA CHANNELS" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/ae.us.eastern.us.png",FREE TV BITCH!
 #EXTINF:-1 tvg-id="ae.us.eastern.us" tvg-name="ae.us.eastern.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/ae.us.eastern.us.png",A&E (East) US
 https://tv4.live/api/stream/hellomyfriends8828@outlook.com/921198/livetv.epg/ae.us.eastern.us.m3u8
 #EXTINF:-1 tvg-id="adult.swim.east.us" tvg-name="adult.swim.east.us" tvg-type="live" group-title="USA CHANNELS" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/adult.swim.east.us.png",Adult Swim
