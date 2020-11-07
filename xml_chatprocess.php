@@ -1,4 +1,4 @@
-This is modified to work with PHP 7 versions. This should allow all functionality within thet Photon Chat softwares.
+This is modified to work with PHP 7 versions. This should allow all functionality within the Photon Chat softwares.
 <?php
 
 /*
