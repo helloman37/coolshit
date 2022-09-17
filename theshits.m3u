@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:342,My Cool Song One
+http://www.yoursite.com/path/to/track1.mp3
+#EXTINF:301,Another Track Title
+http://www.yoursite.com/path/to/track2.mp3
