@@ -75,7 +75,7 @@ case "${ARCHITECTURE}" in
     ;;
     *)
         echo "Sorry, we don't support the CPU architecture '${ARCHITECTURE}'."
-        exit 1
+        exit 0
     ;;
 esac
 
