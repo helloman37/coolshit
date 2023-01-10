@@ -118,22 +118,7 @@ case "${REPO_OS}" in
         esac
     ;;
     ubuntu)
-        # shellcheck disable=SC2254
-        # We cannot quote this extglob expansion or it doesn't work
-        case "${VERSION}" in
-            ${SUPPORTED_UBUNTU_RELEASES})
-                true
-            ;;
-            *)
-                echo "Sorry, we don't support the Ubuntu codename '${VERSION}'."
-                exit 1
-            ;;
-        esac
-    ;;
-    *)
-        echo "Sorry, we don't support the base OS '${REPO_OS}'."
-        exit 0
-    ;;
+
 esac
 
 echo
