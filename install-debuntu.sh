@@ -132,7 +132,7 @@ case "${REPO_OS}" in
     ;;
     *)
         echo "Sorry, we don't support the base OS '${REPO_OS}'."
-        exit 1
+        exit 0
     ;;
 esac
 
